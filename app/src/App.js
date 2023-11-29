@@ -15,37 +15,36 @@ function App() {
   const [score, setScore] = useState(0);
   const [currentQuestionIndex, setCurrentQuestionIndex] = useState(0);
   const [buzzTimer, setBuzzTimer] = useState(15);
-  const [buzzTimerInterval, setBuzzTimerInterval] = useState(null)
   const [isBuzzing, setIsBuzzing] = useState(false)
   const [showWholeQuestion, setShowWholeQuestion] = useState(false)
 
 
-  const onBuzzClick = () => {
-    console.log("click")
-    startBuzzTimer();
-  }
-  
-  const startBuzzTimer = () => {
-      console.log("Here")
-      setIsBuzzing(true);
-      setBuzzTimerInterval(setInterval(() => {
-        setBuzzTimer(buzzTimer - 1)
-        console.log(buzzTimer)
-      }, 1000));
-   
-  
-    if (buzzTimer < 1) {
-      setIsBuzzing(false);
-      setShowWholeQuestion(true);
-      setBuzzTimer(15)
-    }
-  }
-
   useEffect(() => {
-    if (buzzTimer < 1 && buzzTimerInterval) {
-      clearInterval(buzzTimerInterval)
+    let timerInterval;
+
+    if (isBuzzing && buzzTimer > 0) {
+      timerInterval = setInterval(() => {
+        setBuzzTimer((prevSeconds) => prevSeconds - 1);
+      }, 1000);
+    } else {
+      setIsBuzzing(false)
+      setShowWholeQuestion(true)
+      clearInterval(timerInterval);
     }
-  }, [startBuzzTimer])
+
+    return () => {
+      clearInterval(timerInterval);
+    };
+  }, [isBuzzing, buzzTimer]);
+
+  const onBuzzClick = () => {
+    setIsBuzzing(true);
+  };
+
+  const showNextQuestion = () => {
+    setCurrentQuestionIndex(prevQuestionIndex => prevQuestionIndex + 1)
+    console.log(currentQuestionIndex)
+  }
 
   return (
     <div className="App">
@@ -58,12 +57,23 @@ function App() {
       <Question 
         question={questions[currentQuestionIndex]}
         isBuzzing={isBuzzing}
-        showWholeQuestion={false}
+        showWholeQuestion={showWholeQuestion}
       />
       <div className="bottom-row">
-        <div><button onClick={onBuzzClick}
-        className='buzz-button'>Buzz</button></div>
-        <div><button className='skip-button'>Skip</button></div>
+        <div>
+          <button
+            onClick={onBuzzClick}
+            className='buzz-button'>
+              Buzz
+          </button>
+        </div>
+        <div>
+          <button
+            className='skip-button'
+            onClick={showNextQuestion}>
+              Skip
+          </button>
+        </div>
       </div>
     </div>
   );

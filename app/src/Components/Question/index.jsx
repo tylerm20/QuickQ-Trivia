@@ -1,16 +1,14 @@
 import React, { useState, useEffect } from 'react';
 
-const Question = () => {
-  const [question, setQuestion] = useState('');
+const Question = ({ question }) => {
   const [displayedQuestion, setDisplayedQuestion] = useState('');
-  const questionText = 'This is your trivia question.';
 
   // Function to display the question one character at a time
-  const displayQuestionPieceByPiece = () => {
+  const displayQuestionPieceByPiece = (question) => {
     let currentIndex = 0;
     const interval = setInterval(() => {
-      if (currentIndex <= questionText.length) {
-        setDisplayedQuestion(questionText.slice(0, currentIndex));
+      if (currentIndex <= question.length) {
+        setDisplayedQuestion(question.slice(0, currentIndex));
         currentIndex++;
       } else {
         clearInterval(interval);
@@ -19,8 +17,8 @@ const Question = () => {
   };
 
   useEffect(() => {
-    displayQuestionPieceByPiece();
-  }, []);
+    displayQuestionPieceByPiece(question);
+  }, [question]);
 
   return (
     <div className="question">
