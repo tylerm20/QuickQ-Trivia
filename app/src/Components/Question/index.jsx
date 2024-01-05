@@ -1,29 +1,28 @@
 import React, { useState, useEffect } from 'react';
 
-const Question = ({ question }) => {
+const Question = ({ question, isBuzzing, showWholeQuestion }) => {
   const [displayedQuestion, setDisplayedQuestion] = useState('');
 
-  // Function to display the question one character at a time
-  const displayQuestionPieceByPiece = (question) => {
-    let currentIndex = 0;
-    const interval = setInterval(() => {
-      if (currentIndex <= question.length) {
+  useEffect(() => {
+    let interval
+    let currentIndex = 0
+    if (currentIndex <= question.length && !isBuzzing) {
+    interval = setInterval(() => {
         setDisplayedQuestion(question.slice(0, currentIndex));
         currentIndex++;
-      } else {
-        clearInterval(interval);
-      }
-    }, 100); // Adjust the speed by changing the interval duration
-  };
-
-  useEffect(() => {
-    displayQuestionPieceByPiece(question);
-  }, [question]);
+      }, 100); // Adjust the speed by changing the interval duration
+    } else if (interval) {
+      clearInterval(interval);
+    }
+    return () => interval && clearInterval(interval);
+  }, [question, isBuzzing]);
 
   return (
     <div className="question">
       <h2>Question:</h2>
-      <p>{displayedQuestion}</p>
+      <p>
+        {displayedQuestion}
+      </p>
     </div>
   );
 };
