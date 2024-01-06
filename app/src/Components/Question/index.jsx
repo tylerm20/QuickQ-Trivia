@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from 'react';
+import "./style.css"
 
-const Question = ({ question, isBuzzing, showWholeQuestion }) => {
+const Question = ({ question, isBuzzing, showWholeQuestion, questionNumber }) => {
   const [displayedQuestion, setDisplayedQuestion] = useState('');
 
   useEffect(() => {
@@ -19,7 +20,7 @@ const Question = ({ question, isBuzzing, showWholeQuestion }) => {
 
   return (
     <div className="question">
-      <h2>Question:</h2>
+      <h2>Question {questionNumber}:</h2>
       <p>
         {displayedQuestion}
       </p>

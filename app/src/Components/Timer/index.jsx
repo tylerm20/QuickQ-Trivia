@@ -15,7 +15,7 @@ const Timer = ({ seconds, decrementTimer }) => {
 
   return (
     <div className="timer">
-        <p>{seconds} seconds</p>
+        Time: {seconds}
     </div>
   );
 };

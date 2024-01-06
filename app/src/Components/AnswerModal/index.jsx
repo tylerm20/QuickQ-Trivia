@@ -1,4 +1,5 @@
 import React, { useState, useRef } from 'react';
+import "./style.css"
 
 const AnswerModal = ({ onSubmit }) => {
     const [text, setText] = useState("")
@@ -20,8 +21,9 @@ const AnswerModal = ({ onSubmit }) => {
       };
   
     return (
-      <div>
+      <div className='AnswerModal'>
         <input
+            autoFocus
             type="text"
             value={text}
             onChange={handleTextChange}
