@@ -3,7 +3,7 @@ const Settings = () => {
     // Add your settings button functionality here
     return (
       <div className="settings">
-        <button>Settings</button>
+        <button>Info</button>
       </div>
     );
   };

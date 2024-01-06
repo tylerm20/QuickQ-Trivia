@@ -1,6 +1,6 @@
 import "./style.css"
 
-import React, { useState, useEffect } from 'react';
+import React, { useEffect } from 'react';
 
 const Timer = ({ seconds, decrementTimer }) => {
   useEffect(() => {
@@ -15,7 +15,7 @@ const Timer = ({ seconds, decrementTimer }) => {
 
   return (
     <div className="timer">
-      <p>{seconds} seconds</p>
+        <p>{seconds} seconds</p>
     </div>
   );
 };

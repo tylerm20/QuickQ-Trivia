@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import React, { useState } from 'react';
 import Timer from './Components/Timer';
 import Score from './Components/Score';
 import Settings from './Components/Settings';
@@ -12,16 +12,19 @@ const questionsAndAnswers = [
   ["no 4 asdf;lkjasdfj;lkjafs d;lkfjdas;lfkjdsa;fkljasdf;kljasdfl;kja014239udasl;kfj as;ldfk jasd;flkj asdf;lkjasd", "answer"]
 ]
 
+const BUZZ_SECONDS = 15;
+const GAME_SECONDS = 60;
+
 function App() {
   const [score, setScore] = useState(0);
   const [currentQuestionIndex, setCurrentQuestionIndex] = useState(0);
   const [isBuzzing, setIsBuzzing] = useState(false)
   const [showWholeQuestion, setShowWholeQuestion] = useState(false)
-  const [gameSecondsRemaining, setGameSecondsRemaining] = useState(60)
-  const [buzzSecondsRemaining, setBuzzSecondsRemaining] = useState(15);
+  const [gameSecondsRemaining, setGameSecondsRemaining] = useState(GAME_SECONDS)
+  const [buzzSecondsRemaining, setBuzzSecondsRemaining] = useState(BUZZ_SECONDS);
 
   const decrementGameSecondsTimer = () => {
-    if (gameSecondsRemaining > 0) {
+    if (gameSecondsRemaining > 0 && !isBuzzing) {
       setGameSecondsRemaining(gameSecondsRemaining - 1);
     }
   };
@@ -33,7 +36,7 @@ function App() {
   };
 
   const checkQuestion = (userAnswer) => {
-    return userAnswer == questionsAndAnswers[currentQuestionIndex][1]
+    return userAnswer === questionsAndAnswers[currentQuestionIndex][1]
   }
 
   const finishQuestion = (userAnswer) => {
@@ -43,8 +46,13 @@ function App() {
     }
     setShowWholeQuestion(true)
     setIsBuzzing(false)
+    setBuzzSecondsRemaining(BUZZ_SECONDS)
     setCurrentQuestionIndex(currentQuestionIndex + 1)
     // else show something saying wrong answer
+  }
+
+  const skipQuestion = () => {
+    finishQuestion("")
   }
 
   return (
@@ -52,10 +60,12 @@ function App() {
       <Timer seconds={gameSecondsRemaining} decrementTimer={decrementGameSecondsTimer} />
       <div className="top-row">
         <Score score={score} />
-        <Timer seconds={buzzSecondsRemaining} decrementTimer={decrementBuzzSecondsTimer} />
+        {isBuzzing &&
+        <Timer seconds={buzzSecondsRemaining} decrementTimer={decrementBuzzSecondsTimer} />}
+        {/* TODO: rename to info */}
         <Settings />
       </div>
-      <Question 
+      <Question
         question={questionsAndAnswers[currentQuestionIndex][0]}
         isBuzzing={isBuzzing}
         showWholeQuestion={showWholeQuestion}
@@ -63,13 +73,13 @@ function App() {
       {isBuzzing && <AnswerModal onSubmit={finishQuestion} />}
       <div className="bottom-row">
         <div>
-          <button 
+          <button
           onClick={() => setIsBuzzing(true)}
           className='buzz-button'>
             Buzz
           </button>
         </div>
-        <div><button className='skip-button'>Skip</button></div>
+        <div><button className='skip-button' onClick={skipQuestion}>Skip</button></div>
       </div>
     </div>
   );

@@ -20,7 +20,6 @@ const AnswerModal = ({ onSubmit }) => {
       };
   
     return (
-      // Modal logic and UI here
       <div>
         <input
             type="text"
