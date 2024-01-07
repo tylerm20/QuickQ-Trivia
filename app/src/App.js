@@ -21,18 +21,20 @@ function App() {
     const [currentQuestionIndex, setCurrentQuestionIndex] = useState(0);
     const [isBuzzing, setIsBuzzing] = useState(false)
     const [showWholeQuestion, setShowWholeQuestion] = useState(false)
+    const [isBetweenQuestions, setIsBetweenQuestions] = useState(false)
+    const [userAnswer, setUserAnswer] = useState("")
     const [gameSecondsRemaining, setGameSecondsRemaining] = useState(GAME_SECONDS)
     const [buzzSecondsRemaining, setBuzzSecondsRemaining] = useState(BUZZ_SECONDS);
 
     useEffect(() => {
         document.addEventListener('keydown', buzzOnSpace);
-      
+
         // Clean up the event listener when the component unmounts
         return () => document.removeEventListener('keydown', buzzOnSpace);
-      }, []);
+    }, []);
 
     const decrementGameSecondsTimer = () => {
-        if (gameSecondsRemaining > 0 && !isBuzzing) {
+        if (gameSecondsRemaining > 0 && !isBuzzing && !isBetweenQuestions) {
             setGameSecondsRemaining(gameSecondsRemaining - 1);
         }
     };
@@ -48,14 +50,15 @@ function App() {
     }
 
     const finishQuestion = (userAnswer) => {
+        setUserAnswer(userAnswer)
         if (checkQuestion(userAnswer)) {
             setScore(score + 1)
             // show something saying right answer
         }
+        setIsBetweenQuestions(true)
         setShowWholeQuestion(true)
         setIsBuzzing(false)
         setBuzzSecondsRemaining(BUZZ_SECONDS)
-        setCurrentQuestionIndex(currentQuestionIndex + 1)
         // else show something saying wrong answer
     }
 
@@ -65,10 +68,16 @@ function App() {
 
     const buzzOnSpace = (event) => {
         if (event.key === " ") {
-          setIsBuzzing(true)
-          event.preventDefault()
+            setIsBuzzing(true)
+            event.preventDefault()
         }
-      };
+    };
+
+    const moveToNextQuestion = () => {
+        setCurrentQuestionIndex(currentQuestionIndex + 1)
+        setIsBetweenQuestions(false)
+        setShowWholeQuestion(false)
+    }
 
     return (
         <div className="App">
@@ -85,17 +94,27 @@ function App() {
                 showWholeQuestion={showWholeQuestion}
                 questionNumber={currentQuestionIndex + 1}
             />
+            { }
             {isBuzzing
-            && <Timer seconds={buzzSecondsRemaining} decrementTimer={decrementBuzzSecondsTimer} />}
+                && <Timer seconds={buzzSecondsRemaining} decrementTimer={decrementBuzzSecondsTimer} />}
             {isBuzzing && <AnswerModal onSubmit={finishQuestion} />}
             <div className="BottomRow">
-                <button
+                {isBetweenQuestions
+                    ? <div>
+                        your answer: {userAnswer}
+                        correct answer: {questionsAndAnswers[currentQuestionIndex][1]}
+                        <button onClick={moveToNextQuestion}>next question</button>
+                        </div>
+                    : <div><button
                     className="BuzzButton"
                     onClick={() => setIsBuzzing(true)}
                 >
-                Buzz
+                    Buzz
                 </button>
                 <button className='SkipButton' onClick={skipQuestion}>Skip</button>
+                </div>
+                }
+                
             </div>
         </div>
     );

@@ -22,7 +22,9 @@ const Question = ({ question, isBuzzing, showWholeQuestion, questionNumber }) =>
     <div className="question">
       <h2>Question {questionNumber}:</h2>
       <p>
-        {displayedQuestion}
+        {showWholeQuestion
+          ? question
+          : displayedQuestion}
       </p>
     </div>
   );
