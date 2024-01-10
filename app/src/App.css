@@ -14,33 +14,3 @@
   justify-content: center;
   margin-bottom: 20px;
 }
-
-.TopRow {
-  display: flex;
-  flex-direction: row; 
-  justify-content: space-around;
-}
-
-.BottomRow {
-  display: flex;
-  flex-direction: row; 
-  justify-content: space-between;
-  margin-top: auto;
-  align-items: center;
-}
-
-.BuzzButton {
-  margin: 0 auto;
-  width: 90px;
-  height: 90px;
-  border-radius: 50%;
-  background-color: red;
-  font-size: large;
-}
-
-.SkipButton {
-  width: 50px;
-  height: 50px;
-  border-radius: 50%;
-  background-color: lightgray;
-}
