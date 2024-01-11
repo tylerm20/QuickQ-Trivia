@@ -1,29 +1,17 @@
 import React, { useState, useEffect } from 'react';
 import Timer from '../Timer';
 import Score from '../Score';
-import Settings from '../Settings';
+import SettingsButton from '../SettingsButton';
 import Question from '../Question';
 import AnswerModal from '../AnswerModal';
+import { BUZZ_SECONDS, GAME_SECONDS, questionsAndAnswers, screens } from '../../constants';
 import "./style.css"
 
-const questionsAndAnswers = [
-    ["here is the fireset question it goes on and ansdfasdfnoa on andn on eadsfna;sdlfkjas;dfkjl answer", "answer"],
-    ["this is the second question; look how fast I can type. the quick brown fox jumped over the lazy dog", "answer"],
-    ["qwuest 3, ;adsokfj;asldfja;sdlfjkas;dlkfjas;dlfkjas;dlkfjas;dlkfjasd;lkfjasd;lfjasd;lfjasd;fljasd;flkj", "answer"],
-    ["no 4 asdf;lkjasdfj;lkjafs d;lkfjdas;lfkjdsa;fkljasdf;kljasdfl;kja014239udasl;kfj as;ldfk jasd;flkj asdf;lkjasd", "answer"]
-]
-const BUZZ_SECONDS = 15;
-const GAME_SECONDS = 60;
+const playerResults = []
 
 const GameScreen = ({
-    // score,
-    // currentQuestionIndex,
-    // isBuzzing,
-    // showWholeQuestion,
-    // isBetweenQuestions,
-    // userAnswer,
-    // gameSecondsRemaining,
-    // buzzSecondsRemaining
+    setScreenShowing,
+    setPlayerResults
 }) => {
     const [score, setScore] = useState(0);
     const [currentQuestionIndex, setCurrentQuestionIndex] = useState(0);
@@ -33,17 +21,68 @@ const GameScreen = ({
     const [userAnswer, setUserAnswer] = useState("")
     const [gameSecondsRemaining, setGameSecondsRemaining] = useState(GAME_SECONDS)
     const [buzzSecondsRemaining, setBuzzSecondsRemaining] = useState(BUZZ_SECONDS);
+    const [questionTime, setQuestionTime] = useState(0);
+
+    const finishGame = () => {
+        setPlayerResults(playerResults)
+        setScreenShowing(screens.finish)
+    }
+
+    const finishQuestion = ({ userAnswer, userSkipped }) => {
+        const questionResult = {}
+        setUserAnswer(userAnswer)
+        questionResult["userAnswer"] = userAnswer
+        if (checkQuestion(userAnswer)) {
+            setScore(score + 1)
+            questionResult["isCorrect"] = true
+            // show something saying right answer
+        } else {
+            questionResult["isCorrect"] = false
+        }
+        questionResult["skipped"] = userSkipped
+        questionResult["time"] = questionTime
+        setQuestionTime(0)
+        setIsBetweenQuestions(true)
+        setShowWholeQuestion(true)
+        setIsBuzzing(false)
+        setBuzzSecondsRemaining(BUZZ_SECONDS)
+        playerResults.push(questionResult)
+        // else show something saying wrong answer
+    }
+
 
     useEffect(() => {
+        const buzzOnSpace = (event) => {
+            if (event.key === " " && !isBuzzing && !isBetweenQuestions) {
+                setIsBuzzing(true)
+                event.preventDefault()
+            }
+        };
+
         document.addEventListener('keydown', buzzOnSpace);
 
         // Clean up the event listener when the component unmounts
         return () => document.removeEventListener('keydown', buzzOnSpace);
-    }, []);
+    }, [isBuzzing]);
+
+    useEffect(() => {
+        if (gameSecondsRemaining < 1) {
+            finishQuestion({ userAnswer: "", userSkipped: false})
+            finishGame()
+        }
+    }, [gameSecondsRemaining, finishGame, finishQuestion])
+
+    useEffect(() => {
+        if (buzzSecondsRemaining < 1) {
+            finishQuestion({ userAnswer: "", userSkipped: false})
+        }
+    }, [buzzSecondsRemaining, finishQuestion])
+
 
     const decrementGameSecondsTimer = () => {
         if (gameSecondsRemaining > 0 && !isBuzzing && !isBetweenQuestions) {
             setGameSecondsRemaining(gameSecondsRemaining - 1);
+            setQuestionTime(questionTime + 1)
         }
     };
 
@@ -57,34 +96,25 @@ const GameScreen = ({
         return userAnswer === questionsAndAnswers[currentQuestionIndex][1]
     }
 
-    const finishQuestion = (userAnswer) => {
-        setUserAnswer(userAnswer)
-        if (checkQuestion(userAnswer)) {
-            setScore(score + 1)
-            // show something saying right answer
-        }
-        setIsBetweenQuestions(true)
-        setShowWholeQuestion(true)
-        setIsBuzzing(false)
-        setBuzzSecondsRemaining(BUZZ_SECONDS)
-        // else show something saying wrong answer
-    }
-
     const skipQuestion = () => {
-        finishQuestion("")
+        finishQuestion({ serAnswer: "", userSkipped: true })
     }
 
-    const buzzOnSpace = (event) => {
-        if (event.key === " ") {
-            setIsBuzzing(true)
-            event.preventDefault()
-        }
-    };
+    const buzz = () => {
+        // stop question timer
+        setIsBuzzing(true)
+    }
 
     const moveToNextQuestion = () => {
-        setCurrentQuestionIndex(currentQuestionIndex + 1)
-        setIsBetweenQuestions(false)
-        setShowWholeQuestion(false)
+        // if there is another question
+        if (currentQuestionIndex < questionsAndAnswers.length - 1) {
+            setCurrentQuestionIndex(currentQuestionIndex + 1)
+            setIsBetweenQuestions(false)
+            setShowWholeQuestion(false)
+            // start question timer
+        } else {
+            finishGame()
+        }
     }
 
     return (
@@ -92,7 +122,9 @@ const GameScreen = ({
             <div className="TopRow">
                 <Score score={score} />
                 <Timer seconds={gameSecondsRemaining} decrementTimer={decrementGameSecondsTimer} />
-                <Settings />
+                <SettingsButton onClick={() => {
+                    console.log("click")
+                    setScreenShowing(screens.settings)}} />
             </div>
             <Question
                 className="Question"
@@ -101,7 +133,6 @@ const GameScreen = ({
                 showWholeQuestion={showWholeQuestion}
                 questionNumber={currentQuestionIndex + 1}
             />
-            { }
             {isBuzzing
                 && <Timer seconds={buzzSecondsRemaining} decrementTimer={decrementBuzzSecondsTimer} />}
             {isBuzzing && <AnswerModal onSubmit={finishQuestion} />}
@@ -114,7 +145,7 @@ const GameScreen = ({
                     </div>
                     : <div><button
                         className="BuzzButton"
-                        onClick={() => setIsBuzzing(true)}
+                        onClick={buzz}
                     >
                         Buzz
                     </button>

@@ -1,12 +1,12 @@
 
-const Settings = () => {
+const SettingsButton = ({ onClick }) => {
     // Add your settings button functionality here
     return (
       <div className="settings">
-        <button>Info</button>
+        <button onClick={onClick}>Info</button>
       </div>
     );
   };
   
-  export default Settings;
+  export default SettingsButton;
   

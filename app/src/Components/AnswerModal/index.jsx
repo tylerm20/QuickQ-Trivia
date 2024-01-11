@@ -10,7 +10,7 @@ const AnswerModal = ({ onSubmit }) => {
     };
   
     const handleSubmit = () => {
-      onSubmit(text)
+      onSubmit({ userAnswer: text, userSkipped: false })
       setText("")
     };
 
