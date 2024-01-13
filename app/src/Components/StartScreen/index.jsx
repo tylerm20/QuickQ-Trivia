@@ -6,7 +6,8 @@ const StartScreen = ({ setScreenShowing }) => {
    
     return (
       <div className='StartScreen'>
-        <button onClick={() => setScreenShowing(screens.game)}>start</button>
+        <button className="StartButton" onClick={() => setScreenShowing(screens.game)}>Start</button>
+        <button className="HowToPlayButton" onClick={() => setScreenShowing(screens.settings)}>How to Play</button>
       </div>
     );
 

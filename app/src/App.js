@@ -30,7 +30,9 @@ function App() {
     return (
         <div className="App">
             <div className='Title'>MinQuiz Alpha</div>
-            {getScreenToShow()}
+            <div className="Content">
+                {getScreenToShow()}
+            </div>
         </div>
     );
 }
