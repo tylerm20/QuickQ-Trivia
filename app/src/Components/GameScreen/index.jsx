@@ -118,41 +118,36 @@ const GameScreen = ({
     }
 
     return (
-        <div>
+        <div className="GameScreen">
             <div className="TopRow">
                 <Score score={score} />
                 <Timer seconds={gameSecondsRemaining} decrementTimer={decrementGameSecondsTimer} />
                 <SettingsButton onClick={() => {
-                    console.log("click")
                     setScreenShowing(screens.settings)}} />
             </div>
-            <Question
-                className="Question"
-                question={questionsAndAnswers[currentQuestionIndex][0]}
-                isBuzzing={isBuzzing}
-                showWholeQuestion={showWholeQuestion}
-                questionNumber={currentQuestionIndex + 1}
-            />
-            {isBuzzing
-                && <Timer seconds={buzzSecondsRemaining} decrementTimer={decrementBuzzSecondsTimer} />}
-            {isBuzzing && <AnswerModal onSubmit={finishQuestion} />}
-            <div className="BottomRow">
+            <div className="CenterContent">
+                <Question
+                    question={questionsAndAnswers[currentQuestionIndex][0]}
+                    isBuzzing={isBuzzing}
+                    showWholeQuestion={showWholeQuestion}
+                    questionNumber={currentQuestionIndex + 1}
+                />
+                {isBuzzing
+                    && <Timer seconds={buzzSecondsRemaining} decrementTimer={decrementBuzzSecondsTimer} />}
+                {isBuzzing && <AnswerModal onSubmit={finishQuestion} />}
+            </div>
+            <div>
                 {isBetweenQuestions
-                    ? <div>
+                    ? <div className="BottomRow">
                         <div>your answer: {userAnswer}</div>
                         <div>correct answer: {questionsAndAnswers[currentQuestionIndex][1]}</div>
                         <button onClick={moveToNextQuestion}>next question</button>
                     </div>
-                    : <div><button
-                        className="BuzzButton"
-                        onClick={buzz}
-                    >
-                        Buzz
-                    </button>
+                    : <div className="BottomRow">
+                        <button className="BuzzButton" onClick={buzz}>Buzz</button>
                         <button className='SkipButton' onClick={skipQuestion}>Skip</button>
                     </div>
                 }
-
             </div>
         </div>
     )
