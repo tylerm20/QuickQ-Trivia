@@ -1,30 +1,29 @@
 import React from 'react';
 import "./style.css"
 
-const FinishScreen = ({ setScreenShowing, playerResults }) => {
+const FinishScreen = ({ setScreenShowing, playerResults, score, totalTime }) => {
 
     const showResults = () => {
         const results = []
         let i = 1
         for (const result of playerResults) {
-            console.log(result)
             results.push(
-                <div key={i}>
-                    <div>question {i}</div>
+                <div className="QuestionResult" key={i}>
+                    <div><b>Question {i}</b></div>
                     <div>
                     {
                         result.skipped
-                        ? "skipped"
+                        ? "Skipped"
                         : result.userAnswer 
                     }
                     {" "}
                     {
                         result.isCorrect
-                        ? "check"
-                        : "x"
+                        ? <span>&#9989;</span>
+                        : <span>&#10060;</span>
                     }
                     </div>
-                    <div>time: {result.time} seconds</div>
+                    <div><span>&#128337;</span> {result.time} sec</div>
                 </div>
             )
             i += 1
@@ -34,7 +33,9 @@ const FinishScreen = ({ setScreenShowing, playerResults }) => {
    
     return (
       <div className='FinishScreen'>
-        <div>game over</div>
+        <h3 className="Header">Game Over</h3>
+        <h3 className="Score">Score: {score}</h3>
+        <h3 className="Score">Total Time: {totalTime} sec</h3>
         {showResults()}
       </div>
     );

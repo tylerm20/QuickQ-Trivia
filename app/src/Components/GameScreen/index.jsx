@@ -11,9 +11,11 @@ const playerResults = []
 
 const GameScreen = ({
     setScreenShowing,
-    setPlayerResults
+    setPlayerResults,
+    score,
+    setScore,
+    setTotalTime,
 }) => {
-    const [score, setScore] = useState(0);
     const [currentQuestionIndex, setCurrentQuestionIndex] = useState(0);
     const [isBuzzing, setIsBuzzing] = useState(false)
     const [showWholeQuestion, setShowWholeQuestion] = useState(false)
@@ -26,6 +28,7 @@ const GameScreen = ({
     const finishGame = () => {
         setPlayerResults(playerResults)
         setScreenShowing(screens.finish)
+        setTotalTime(GAME_SECONDS - gameSecondsRemaining)
     }
 
     const finishQuestion = ({ userAnswer, userSkipped }) => {
@@ -63,7 +66,7 @@ const GameScreen = ({
 
         // Clean up the event listener when the component unmounts
         return () => document.removeEventListener('keydown', buzzOnSpace);
-    }, [isBuzzing]);
+    }, [isBuzzing, isBetweenQuestions]);
 
     useEffect(() => {
         if (gameSecondsRemaining < 1) {
@@ -141,8 +144,12 @@ const GameScreen = ({
             <div>
                 {isBetweenQuestions
                     ? <div className="BottomRow">
-                        <div>your answer: {userAnswer}</div>
-                        <div>correct answer: {questionsAndAnswers[currentQuestionIndex][1]}</div>
+                        {checkQuestion(userAnswer)
+                            ? <div className="Correct">Correct</div>
+                            : <div className="Incorrect">Incorrect</div>
+                        }
+                        <div>Your Answer: {userAnswer}</div>
+                        <div>Correct Answer: {questionsAndAnswers[currentQuestionIndex][1]}</div>
                         <button onClick={moveToNextQuestion}>next question</button>
                     </div>
                     : <div className="BottomRow">

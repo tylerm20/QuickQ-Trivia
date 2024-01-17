@@ -9,19 +9,20 @@ import "./App.css"
 
 function App() {
     const [screenShowing, setScreenShowing] = useState(screens.start);
-    const [playerResults, setPlayerResults] = useState(null)
+    const [playerResults, setPlayerResults] = useState(null);
+    const [score, setScore] = useState(0);
+    const [totalTime, setTotalTime] = useState(0);
 
     const getScreenToShow = () => {
         switch (screenShowing) {
             case screens.start:
-                return <StartScreen setScreenShowing={setScreenShowing}/>
+                return <StartScreen setScreenShowing={setScreenShowing} />
             case screens.game:
-                return <GameScreen setScreenShowing={setScreenShowing} setPlayerResults={setPlayerResults}/>
+                return <GameScreen setScreenShowing={setScreenShowing} setPlayerResults={setPlayerResults} score={score} setScore={setScore} setTotalTime={setTotalTime} />
             case screens.finish:
-                console.log(playerResults)
-                return <FinishScreen setScreenShowing={setScreenShowing} playerResults={playerResults}/>
+                return <FinishScreen setScreenShowing={setScreenShowing} playerResults={playerResults} score={score} totalTime={totalTime} />
             case screens.settings:
-                return <SettingsScreen setScreenShowing={setScreenShowing}/>
+                return <SettingsScreen setScreenShowing={setScreenShowing} />
             default:
                 console.log("not sure what screen to show")
         }
