@@ -11,7 +11,7 @@ const Question = ({ question, isBuzzing, showWholeQuestion, questionNumber }) =>
     interval = setInterval(() => {
         setDisplayedQuestion(question.slice(0, currentIndex));
         currentIndex++;
-      }, 100); // Adjust the speed by changing the interval duration
+      }, 50); // Adjust the speed by changing the interval duration
     } else if (interval) {
       clearInterval(interval);
     }

@@ -93,7 +93,9 @@ const GameScreen = ({
     };
 
     const checkQuestion = (userAnswer) => {
-        return userAnswer === questionsAndAnswers[currentQuestionIndex][1]
+        return userAnswer &&
+        userAnswer.toLowerCase() === 
+            questionsAndAnswers[currentQuestionIndex][1].toLowerCase()
     }
 
     const skipQuestion = () => {
