@@ -1,39 +1,38 @@
-import React, { useState, useRef } from 'react';
-import "./style.css"
+import React, { useState, useRef } from "react";
+import "./style.css";
 
 const AnswerModal = ({ onSubmit }) => {
-    const [text, setText] = useState("")
+    const [text, setText] = useState("");
     const inputRef = useRef(null);
 
     const handleTextChange = (e) => {
-      setText(e.target.value)
+        setText(e.target.value);
     };
-  
+
     const handleSubmit = () => {
-      onSubmit({ userAnswer: text, userSkipped: false })
-      setText("")
+        onSubmit({ userAnswer: text, userSkipped: false });
+        setText("");
     };
 
     const handleKeyDown = (event) => {
         if (event.key === "Enter") {
-          handleSubmit()
+            handleSubmit();
         }
-      };
-  
-    return (
-      <div className='AnswerModal'>
-        <input
-            autoFocus
-            type="text"
-            value={text}
-            onChange={handleTextChange}
-            ref={inputRef}
-            onKeyDown={handleKeyDown}
-        />
-        <button onClick={handleSubmit}>Submit</button>
-      </div>
-    );
+    };
 
+    return (
+        <div className="AnswerModal">
+            <input
+                autoFocus
+                type="text"
+                value={text}
+                onChange={handleTextChange}
+                ref={inputRef}
+                onKeyDown={handleKeyDown}
+            />
+            <button onClick={handleSubmit}>Submit</button>
+        </div>
+    );
 };
 
 export default AnswerModal;
