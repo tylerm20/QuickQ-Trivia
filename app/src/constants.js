@@ -20,4 +20,9 @@ export const questionsAndAnswers = [
     ["In Greek mythology, this daughter of Zues is often depicted wearing armor and carrying a spear. She is the godess of wisdom and war is said to have been born fully grown from the head of her father.", "Athena"],
 ]
 
+export const GREEN_CHECK_EMOJI_HTML = <span>&#9989;</span>;
+export const NEXT_TRACK_EMOJI_HTML = <span>&#9197;&#65039;</span>;
+export const RED_X_EMOJI_HTML = <span>&#10060;</span>;
+export const CLOCK_EMOJI_HTML = <span>&#128337;</span>
+
 export default screens;

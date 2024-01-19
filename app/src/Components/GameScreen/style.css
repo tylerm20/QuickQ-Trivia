@@ -1,7 +1,7 @@
 .GameScreen {
   display: flex;
   flex-direction: column;
-  height: calc(100vh - 50px);
+  min-height: calc(100vh - 100px);
 }
 
 .TopRow {
@@ -11,7 +11,6 @@
 }
   
 .BottomRow {
-  margin-bottom: 50px;
   display: flex;
   align-items: center;
   justify-content: space-between;

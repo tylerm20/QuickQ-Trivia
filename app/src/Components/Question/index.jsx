@@ -20,12 +20,12 @@ const Question = ({ question, isBuzzing, showWholeQuestion, questionNumber }) =>
 
   return (
     <div className="question">
-      <h2>Question {questionNumber}:</h2>
-      <p>
+      <div className="QuestionHeader">Question #{questionNumber}</div>
+      <div className="QuestionText">
         {showWholeQuestion
           ? question
           : displayedQuestion}
-      </p>
+      </div>
     </div>
   );
 };
