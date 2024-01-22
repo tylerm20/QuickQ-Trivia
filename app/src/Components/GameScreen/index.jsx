@@ -113,6 +113,7 @@ const GameScreen = ({
         const userAnswerLower = userAnswer.toLowerCase();
         const currentQuestionAnswerLower = getCurrentQuestionObj()
             ["answer"].replace(/\[[^\]]*\]/g, "")
+            .trim()
             .toLowerCase();
         const regex = /\{(.*?)\}/g;
         const wordsInBraces = [];
