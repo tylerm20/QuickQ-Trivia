@@ -20,6 +20,7 @@ const GameScreen = ({
     score,
     setScore,
     setTotalTime,
+    questions,
 }) => {
     const [currentQuestionIndex, setCurrentQuestionIndex] = useState(0);
     const [isBuzzing, setIsBuzzing] = useState(false);
@@ -100,11 +101,37 @@ const GameScreen = ({
         }
     };
 
+    const getCurrentQuestionObj = () => questions[currentQuestionIndex];
+    const getQuestionText = (questionObj) => questionObj["question"];
+    const getQuestionAnswerText = (questionObj) =>
+        questionObj["answer"].replace(/\[[^\]]*\]/g, "").replace(/\{|\}/g, "");
+
     const checkQuestion = (userAnswer) => {
+        if (!userAnswer) {
+            return false;
+        }
+        const userAnswerLower = userAnswer.toLowerCase();
+        const currentQuestionAnswerLower = getCurrentQuestionObj()
+            ["answer"].replace(/\[[^\]]*\]/g, "")
+            .toLowerCase();
+        const regex = /\{(.*?)\}/g;
+        const wordsInBraces = [];
+        let match;
+        while ((match = regex.exec(currentQuestionAnswerLower)) !== null) {
+            const word = match[0];
+            wordsInBraces.push(word.replace(/\{|\}/g, ""));
+        }
+        console.log(wordsInBraces);
+        console.log(currentQuestionAnswerLower.replace(/\{|\}/g, ""));
         return (
-            userAnswer &&
-            userAnswer.toLowerCase() ===
-                questionsAndAnswers[currentQuestionIndex][1].toLowerCase()
+            // check if answer matches exactly
+            userAnswerLower === currentQuestionAnswerLower ||
+            // check if the answer is equal to the answer without the braces
+            userAnswerLower ===
+                currentQuestionAnswerLower.replace(/\{|\}/g, "") ||
+            // check if answer is one of the braced options
+            wordsInBraces.includes(userAnswerLower)
+            // TODO: check if the answer is close enough to the any of the other options?
         );
     };
 
@@ -145,7 +172,7 @@ const GameScreen = ({
             </div>
             <div className="CenterContent">
                 <Question
-                    question={questionsAndAnswers[currentQuestionIndex][0]}
+                    question={getQuestionText(getCurrentQuestionObj())}
                     isBuzzing={isBuzzing}
                     showWholeQuestion={showWholeQuestion}
                     questionNumber={currentQuestionIndex + 1}
@@ -169,7 +196,7 @@ const GameScreen = ({
                         <div>Your Answer: {userAnswer}</div>
                         <div>
                             Correct Answer:{" "}
-                            {questionsAndAnswers[currentQuestionIndex][1]}
+                            {getQuestionAnswerText(getCurrentQuestionObj())}
                         </div>
                         <button onClick={moveToNextQuestion}>
                             next question
