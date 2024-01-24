@@ -110,13 +110,13 @@ function App() {
                         totalTime={totalTime}
                     />
                 );
-            case screens.settings:
-                return (
-                    <SettingsScreen
-                        setScreenShowing={setScreenShowingAndPreviousScreen}
-                        previousScreen={previousScreen}
-                    />
-                );
+            // case screens.settings:
+            //     return (
+            //         <SettingsScreen
+            //             setScreenShowing={setScreenShowingAndPreviousScreen}
+            //             previousScreen={previousScreen}
+            //         />
+            //     );
             default:
                 console.log("not sure what screen to show");
         }

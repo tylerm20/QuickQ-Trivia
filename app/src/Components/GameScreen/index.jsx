@@ -11,6 +11,7 @@ import {
     screens,
 } from "../../constants";
 import "./style.css";
+import SettingsScreen from "../SettingsScreen";
 
 const playerResults = [];
 
@@ -32,6 +33,7 @@ const GameScreen = ({
     const [buzzSecondsRemaining, setBuzzSecondsRemaining] =
         useState(BUZZ_SECONDS);
     const [questionTime, setQuestionTime] = useState(0);
+    const [showSettingsModal, setShowSettingsModal] = useState(false);
 
     const finishGame = () => {
         setPlayerResults(playerResults);
@@ -89,7 +91,12 @@ const GameScreen = ({
     }, [buzzSecondsRemaining, finishQuestion]);
 
     const decrementGameSecondsTimer = () => {
-        if (gameSecondsRemaining > 0 && !isBuzzing && !isBetweenQuestions) {
+        if (
+            gameSecondsRemaining > 0 &&
+            !isBuzzing &&
+            !isBetweenQuestions &&
+            !showSettingsModal
+        ) {
             setGameSecondsRemaining(gameSecondsRemaining - 1);
             setQuestionTime(questionTime + 1);
         }
@@ -159,6 +166,12 @@ const GameScreen = ({
 
     return (
         <div className="GameScreen">
+            {showSettingsModal && (
+                <SettingsScreen
+                    showModal={showSettingsModal}
+                    setShowModal={setShowSettingsModal}
+                />
+            )}
             <div className="TopRow">
                 <Score score={score} />
                 <Timer
@@ -167,7 +180,7 @@ const GameScreen = ({
                 />
                 <SettingsButton
                     onClick={() => {
-                        setScreenShowing(screens.settings);
+                        setShowSettingsModal(!showSettingsModal);
                     }}
                 />
             </div>
@@ -177,6 +190,7 @@ const GameScreen = ({
                     isBuzzing={isBuzzing}
                     showWholeQuestion={showWholeQuestion}
                     questionNumber={currentQuestionIndex + 1}
+                    isShowingSettings={showSettingsModal}
                 />
                 {isBuzzing && (
                     <Timer

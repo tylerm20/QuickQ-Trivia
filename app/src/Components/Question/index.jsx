@@ -4,24 +4,33 @@ import "./style.css";
 const Question = ({
     question,
     isBuzzing,
+    isShowingSettings,
     showWholeQuestion,
     questionNumber,
 }) => {
     const [displayedQuestion, setDisplayedQuestion] = useState("");
+    const [charactersShowing, setCharactersShowing] = useState(0);
 
+    // TODO: this seems to show a few characters to start
     useEffect(() => {
         let interval;
-        let currentIndex = 0;
-        if (currentIndex <= question.length && !isBuzzing) {
+        if (
+            charactersShowing <= question.length &&
+            !isBuzzing &&
+            !isShowingSettings
+        ) {
             interval = setInterval(() => {
-                setDisplayedQuestion(question.slice(0, currentIndex));
-                currentIndex++;
+                setDisplayedQuestion(question.slice(0, charactersShowing));
+                setCharactersShowing(charactersShowing + 1);
             }, 50); // Adjust the speed by changing the interval duration
         } else if (interval) {
             clearInterval(interval);
         }
-        return () => interval && clearInterval(interval);
-    }, [question, isBuzzing]);
+        return () => {
+            interval && clearInterval(interval);
+            isBuzzing && setCharactersShowing(0);
+        };
+    }, [question, isBuzzing, isShowingSettings, charactersShowing]);
 
     return (
         <div className="question">
