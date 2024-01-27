@@ -11,13 +11,13 @@ const Question = ({
     const [displayedQuestion, setDisplayedQuestion] = useState("");
     const [charactersShowing, setCharactersShowing] = useState(0);
 
-    // TODO: this seems to show a few characters to start
     useEffect(() => {
         let interval;
         if (
             charactersShowing <= question.length &&
             !isBuzzing &&
-            !isShowingSettings
+            !isShowingSettings &&
+            !showWholeQuestion
         ) {
             interval = setInterval(() => {
                 setDisplayedQuestion(question.slice(0, charactersShowing));
@@ -30,7 +30,13 @@ const Question = ({
             interval && clearInterval(interval);
             isBuzzing && setCharactersShowing(0);
         };
-    }, [question, isBuzzing, isShowingSettings, charactersShowing]);
+    }, [
+        question,
+        isBuzzing,
+        isShowingSettings,
+        charactersShowing,
+        showWholeQuestion,
+    ]);
 
     return (
         <div className="question">
