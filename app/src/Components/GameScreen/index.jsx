@@ -192,17 +192,22 @@ const GameScreen = ({
                     questionNumber={currentQuestionIndex + 1}
                     isShowingSettings={showSettingsModal}
                 />
-                {isBuzzing && (
-                    <Timer
-                        seconds={buzzSecondsRemaining}
-                        decrementTimer={decrementBuzzSecondsTimer}
-                    />
-                )}
-                {isBuzzing && <AnswerModal onSubmit={finishQuestion} />}
             </div>
-            <div>
+            <div className="BottomRow">
+                {isBuzzing && (
+                    <div>
+                        <Timer
+                            seconds={buzzSecondsRemaining}
+                            decrementTimer={decrementBuzzSecondsTimer}
+                        />
+                        <AnswerModal
+                            className="AnswerModal"
+                            onSubmit={finishQuestion}
+                        />
+                    </div>
+                )}
                 {isBetweenQuestions ? (
-                    <div className="BottomRow">
+                    <div className="AnswerBottomRow">
                         {checkQuestion(userAnswer) ? (
                             <div className="Correct">Correct</div>
                         ) : (
@@ -213,12 +218,9 @@ const GameScreen = ({
                             Correct Answer:{" "}
                             {getQuestionAnswerText(getCurrentQuestionObj())}
                         </div>
-                        <button onClick={moveToNextQuestion}>
-                            next question
-                        </button>
                     </div>
                 ) : (
-                    <div className="BottomRow">
+                    <div className="BuzzBottomRow">
                         <button className="BuzzButton" onClick={buzz}>
                             Buzz
                         </button>
@@ -226,6 +228,11 @@ const GameScreen = ({
                             Skip
                         </button>
                     </div>
+                )}
+                {isBetweenQuestions && (
+                    <button className="NextButton" onClick={moveToNextQuestion}>
+                        Next Question
+                    </button>
                 )}
             </div>
         </div>

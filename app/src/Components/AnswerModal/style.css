@@ -1,4 +1,22 @@
 .AnswerModal {
     max-width: 100vw;
     word-break: break-all;
+    display: flex;
+    justify-content: center; /* Center horizontally */
+    align-items: center; /* Center vertically */
+    width: 100%; /* Container takes full width (optional) */
+    height: 50px; /* Adjust height as needed */
+}
+
+.AnswerModal input {
+    width: 60%; /* Input takes up most of the space */
+    padding: 10px;
+    border: 1px solid #ccc; /* Basic input styling */
+    border-radius: 4px;
+}
+
+.AnswerModal button {
+    padding: 10px;
+    border: 1px solid #ccc; /* Basic input styling */
+    border-radius: 4px;
 }
