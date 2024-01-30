@@ -14,6 +14,13 @@
     display: flex;
     align-items: center;
     justify-content: space-between;
+    flex-grow: 1;
+}
+
+.BetweenQuestionsBottomRow {
+    display: flex;
+    justify-content: space-between;
+    flex-grow: 1;
 }
 
 .AnswerBottomRow {
@@ -21,6 +28,13 @@
     flex-direction: column;
     align-items: flex-start;
     justify-content: space-between;
+}
+
+.AnswerInputBottowRow {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    padding: 24px;
 }
 
 .BuzzButton {
@@ -55,10 +69,6 @@
     margin-right: 20px;
 }
 
-.AnswerModal {
-    margin-bottom: 20px;
-}
-
 .NextButton {
     align-self: flex-end;
 }
@@ -66,5 +76,4 @@
 .BottomRow {
     display: flex;
     justify-content: space-between;
-    flex-direction: column;
 }

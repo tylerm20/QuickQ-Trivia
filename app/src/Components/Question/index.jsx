@@ -28,7 +28,7 @@ const Question = ({
         }
         return () => {
             interval && clearInterval(interval);
-            isBuzzing && setCharactersShowing(0);
+            showWholeQuestion && setCharactersShowing(0);
         };
     }, [
         question,

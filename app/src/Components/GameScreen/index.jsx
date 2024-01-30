@@ -144,7 +144,7 @@ const GameScreen = ({
     };
 
     const skipQuestion = () => {
-        finishQuestion({ serAnswer: "", userSkipped: true });
+        finishQuestion({ userAnswer: "", userSkipped: true });
     };
 
     const buzz = () => {
@@ -161,6 +161,51 @@ const GameScreen = ({
             // start question timer
         } else {
             finishGame();
+        }
+    };
+
+    const getBottomRowContent = () => {
+        if (isBuzzing) {
+            return (
+                <div className="AnswerInputBottowRow">
+                    <Timer
+                        seconds={buzzSecondsRemaining}
+                        decrementTimer={decrementBuzzSecondsTimer}
+                    />
+                    <AnswerModal onSubmit={finishQuestion} />
+                </div>
+            );
+        } else if (isBetweenQuestions) {
+            return (
+                <div className="BetweenQuestionsBottomRow">
+                    <div className="AnswerBottomRow">
+                        {checkQuestion(userAnswer) ? (
+                            <div className="Correct">Correct</div>
+                        ) : (
+                            <div className="Incorrect">Incorrect</div>
+                        )}
+                        <div>Your Answer: {userAnswer}</div>
+                        <div>
+                            Correct Answer:{" "}
+                            {getQuestionAnswerText(getCurrentQuestionObj())}
+                        </div>
+                    </div>
+                    <button className="NextButton" onClick={moveToNextQuestion}>
+                        Next Question
+                    </button>
+                </div>
+            );
+        } else {
+            return (
+                <div className="BuzzBottomRow">
+                    <button className="BuzzButton" onClick={buzz}>
+                        Buzz
+                    </button>
+                    <button className="SkipButton" onClick={skipQuestion}>
+                        Skip
+                    </button>
+                </div>
+            );
         }
     };
 
@@ -193,48 +238,7 @@ const GameScreen = ({
                     isShowingSettings={showSettingsModal}
                 />
             </div>
-            <div className="BottomRow">
-                {isBuzzing && (
-                    <div>
-                        <Timer
-                            seconds={buzzSecondsRemaining}
-                            decrementTimer={decrementBuzzSecondsTimer}
-                        />
-                        <AnswerModal
-                            className="AnswerModal"
-                            onSubmit={finishQuestion}
-                        />
-                    </div>
-                )}
-                {isBetweenQuestions ? (
-                    <div className="AnswerBottomRow">
-                        {checkQuestion(userAnswer) ? (
-                            <div className="Correct">Correct</div>
-                        ) : (
-                            <div className="Incorrect">Incorrect</div>
-                        )}
-                        <div>Your Answer: {userAnswer}</div>
-                        <div>
-                            Correct Answer:{" "}
-                            {getQuestionAnswerText(getCurrentQuestionObj())}
-                        </div>
-                    </div>
-                ) : (
-                    <div className="BuzzBottomRow">
-                        <button className="BuzzButton" onClick={buzz}>
-                            Buzz
-                        </button>
-                        <button className="SkipButton" onClick={skipQuestion}>
-                            Skip
-                        </button>
-                    </div>
-                )}
-                {isBetweenQuestions && (
-                    <button className="NextButton" onClick={moveToNextQuestion}>
-                        Next Question
-                    </button>
-                )}
-            </div>
+            <div className="BottomRow">{getBottomRowContent()}</div>
         </div>
     );
 };
