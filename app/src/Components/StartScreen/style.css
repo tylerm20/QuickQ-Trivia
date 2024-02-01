@@ -16,19 +16,4 @@
     color: #fff;
     font-size: 16px;
     cursor: pointer;
-
-    /* Mobile-Specific Styles */
-    touch-action: manipulation; /* Enable touch gestures */
-    -webkit-tap-highlight-color: transparent; /* Remove highlight on touch */
-
-    /* Hover and Focus Styles */
-    transition: all 0.2s ease-in-out;
-
-    :hover,
-    :focus {
-        background-color: #3e8e41; /* Darker green */
-    }
-    :active {
-        transform: scale(0.95); /* Slight scale effect */
-    }
 }

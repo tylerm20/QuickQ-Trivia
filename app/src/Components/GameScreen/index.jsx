@@ -39,6 +39,8 @@ const GameScreen = ({
         setPlayerResults(playerResults);
         setScreenShowing(screens.finish);
         setTotalTime(GAME_SECONDS - gameSecondsRemaining);
+        // store that game was played for today
+        localStorage.setItem(new Date().toDateString(), "1");
     };
 
     const finishQuestion = ({ userAnswer, userSkipped }) => {

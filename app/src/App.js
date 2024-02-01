@@ -47,6 +47,9 @@ function App() {
         return shuffled.slice(0, numElements); // Return the first 'numElements' after shuffling
     };
 
+    // we are currently reading a db dump so it is not properly formatted json.
+    // each line is an object (JSON) but there is no outer structure.
+    // there is just a newline separator.
     const readQuestionsFromFile = () => {
         fetch("2015-05-19-QUIZBOWL.json")
             .then((response) => {
