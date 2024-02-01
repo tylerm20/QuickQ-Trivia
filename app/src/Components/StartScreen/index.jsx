@@ -3,12 +3,8 @@ import { screens } from "../../constants";
 import SettingsScreen from "../SettingsScreen";
 import "./style.css";
 
-const StartScreen = ({ setScreenShowing }) => {
+const StartScreen = ({ setScreenShowing, today, hasPlayedTodaysGame }) => {
     const [showSettingsModal, setShowSettingsModal] = useState(false);
-    const [today, setToday] = useState(new Date());
-    const hasPlayedTodaysGame = () => {
-        return localStorage.getItem(today.toDateString()) === "1";
-    };
 
     return (
         <div className="StartScreen">
@@ -21,9 +17,13 @@ const StartScreen = ({ setScreenShowing }) => {
             <div className="Header">
                 <div>Your Quiz for</div> {today.toLocaleDateString()}
             </div>
-            {console.log(localStorage.getItem(today.toDateString()))}
-            {hasPlayedTodaysGame() ? (
-                <div>Come back for a new Quiz tomorrow!</div>
+            {hasPlayedTodaysGame ? (
+                <div className="Header">
+                    <div>Come back for a new Quiz tomorrow!</div>
+                    <button onClick={() => setScreenShowing(screens.finish)}>
+                        See Results
+                    </button>
+                </div>
             ) : (
                 <button
                     className="StartButton"

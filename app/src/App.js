@@ -15,10 +15,15 @@ function App() {
     const [totalTime, setTotalTime] = useState(0);
     const [previousScreen, setPreviousScreen] = useState(null);
     const [questions, setQuestions] = useState(null);
+    const [today, setToday] = useState(new Date());
 
     const setScreenShowingAndPreviousScreen = (newScreen) => {
         setPreviousScreen(screenShowing);
         setScreenShowing(newScreen);
+    };
+
+    const hasPlayedTodaysGame = () => {
+        return !!localStorage.getItem(today.toDateString());
     };
 
     const pickRandomUnique = (arr, numElements) => {
@@ -47,40 +52,32 @@ function App() {
         return shuffled.slice(0, numElements); // Return the first 'numElements' after shuffling
     };
 
-    // we are currently reading a db dump so it is not properly formatted json.
-    // each line is an object (JSON) but there is no outer structure.
-    // there is just a newline separator.
     const readQuestionsFromFile = () => {
         fetch("2015-05-19-QUIZBOWL.json")
             .then((response) => {
-                return response.text();
+                return response.json(); // Parse directly as JSON
             })
             .then((data) => {
-                const lines = data.split("\n");
-                const msLevelQuestions = [];
-                for (const line of lines) {
-                    if (line) {
-                        try {
-                            const data = JSON.parse(line);
-                            if (data["difficulty"] === "MS") {
-                                msLevelQuestions.push(data);
-                            }
-                        } catch (error) {
-                            console.log(line);
-                            console.error(
-                                "Error fetching or parsing JSON:",
-                                error
-                            );
-                        }
-                    }
-                }
+                // Assuming 'data' is now an array of objects
+                const msLevelQuestions = data.filter(
+                    (question) => question.difficulty === "MS"
+                );
                 setQuestions(pickRandomUnique(msLevelQuestions, 10));
+            })
+            .catch((error) => {
+                console.error("Error fetching or parsing JSON:", error);
             });
     };
 
     // TODO: this seems to be happening more than once
     useEffect(() => {
         readQuestionsFromFile();
+        if (hasPlayedTodaysGame()) {
+            const results = JSON.parse(
+                localStorage.getItem(today.toDateString())
+            );
+            setPlayerResults(results);
+        }
     }, []);
 
     const getScreenToShow = () => {
@@ -89,6 +86,8 @@ function App() {
                 return (
                     <StartScreen
                         setScreenShowing={setScreenShowingAndPreviousScreen}
+                        today={today}
+                        hasPlayedTodaysGame={hasPlayedTodaysGame()}
                     />
                 );
             case screens.game:

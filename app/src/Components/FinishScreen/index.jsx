@@ -14,6 +14,9 @@ const FinishScreen = ({
     totalTime,
 }) => {
     const showResults = () => {
+        if (!playerResults) {
+            return;
+        }
         const results = [];
         let i = 1;
         for (const result of playerResults) {
