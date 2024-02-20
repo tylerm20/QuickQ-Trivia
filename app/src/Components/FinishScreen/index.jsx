@@ -12,6 +12,7 @@ const FinishScreen = ({
     playerResults,
     score,
     totalTime,
+    questions,
 }) => {
     const showResults = () => {
         if (!playerResults) {
@@ -22,9 +23,12 @@ const FinishScreen = ({
         for (const result of playerResults) {
             results.push(
                 <div className="QuestionResult" key={i}>
-                    <div>
-                        <b>Question {i}</b>
-                    </div>
+                    <details>
+                        <summary>
+                            <b>Question {i}</b>
+                        </summary>
+                        <p>{questions[i - 1].question}</p>
+                    </details>
                     <div>
                         {result.skipped ? "Skipped" : result.userAnswer}{" "}
                         {result.isCorrect

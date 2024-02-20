@@ -98,6 +98,7 @@ function App() {
                         playerResults={playerResults}
                         score={score}
                         totalTime={totalTime}
+                        questions={questions}
                     />
                 );
             // case screens.settings:
