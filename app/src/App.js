@@ -26,43 +26,31 @@ function App() {
         return !!localStorage.getItem(today.toDateString());
     };
 
-    const pickRandomUnique = (arr, numElements) => {
-        if (numElements > arr.length) {
-            throw new Error(
-                "Cannot pick more elements than the array contains"
-            );
-        }
+    function daysPastFeb19th2024() {
+        // Create a Date object for today's date
+        const today = new Date();
 
-        const shuffled = arr.slice(0); // Create a copy of the array
-        let currentIndex = arr.length;
-        const randomElements = [];
+        // Create a Date object for February 19, 2024
+        const referenceDate = new Date(2024, 1, 19); // Months are zero-indexed (January = 0)
 
-        // Fisher-Yates Shuffle to randomize the array
-        while (currentIndex !== 0) {
-            const randomIndex = Math.floor(Math.random() * currentIndex);
-            currentIndex--;
+        // Calculate the difference in milliseconds
+        const timeDifference = today.getTime() - referenceDate.getTime();
 
-            // Swap current element with random element
-            [shuffled[currentIndex], shuffled[randomIndex]] = [
-                shuffled[randomIndex],
-                shuffled[currentIndex],
-            ];
-        }
+        // Convert the difference from milliseconds to days
+        const daysPast = Math.floor(timeDifference / (1000 * 60 * 60 * 24));
 
-        return shuffled.slice(0, numElements); // Return the first 'numElements' after shuffling
-    };
+        return daysPast;
+    }
 
     const readQuestionsFromFile = () => {
-        fetch("2015-05-19-QUIZBOWL.json")
+        fetch("chunked_questions.json")
             .then((response) => {
                 return response.json(); // Parse directly as JSON
             })
             .then((data) => {
-                // Assuming 'data' is now an array of objects
-                const msLevelQuestions = data.filter(
-                    (question) => question.difficulty === "MS"
-                );
-                setQuestions(pickRandomUnique(msLevelQuestions, 10));
+                const questionSetToUse = daysPastFeb19th2024();
+                console.log("question set being used: " + questionSetToUse);
+                setQuestions(data[questionSetToUse]);
             })
             .catch((error) => {
                 console.error("Error fetching or parsing JSON:", error);
