@@ -1,6 +1,11 @@
 import Modal from "../Modal";
 
-const SettingsScreen = ({ showModal, setShowModal }) => {
+const SettingsScreen = ({
+    showModal,
+    setShowModal,
+    isDevMode,
+    setIsDevMode,
+}) => {
     return (
         <Modal showModal>
             <div className="settings">
@@ -18,6 +23,11 @@ const SettingsScreen = ({ showModal, setShowModal }) => {
                     correctly in one minute!
                 </div>
                 <button onClick={() => setShowModal(!showModal)}>Close</button>
+                <br />
+                <button onClick={() => setIsDevMode(!isDevMode)}>
+                    {isDevMode && "Exit "}
+                    Dev Mode
+                </button>
             </div>
         </Modal>
     );
