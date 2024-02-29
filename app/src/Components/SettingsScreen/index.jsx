@@ -24,10 +24,10 @@ const SettingsScreen = ({
                 </div>
                 <button onClick={() => setShowModal(!showModal)}>Close</button>
                 <br />
-                <button onClick={() => setIsDevMode(!isDevMode)}>
+                {/* <button onClick={() => setIsDevMode(!isDevMode)}>
                     {isDevMode && "Exit "}
                     Dev Mode
-                </button>
+                </button> */}
             </div>
         </Modal>
     );
