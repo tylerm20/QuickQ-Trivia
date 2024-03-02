@@ -117,37 +117,21 @@ const GameScreen = ({
 
     const getCurrentQuestionObj = () => questions[currentQuestionIndex];
     const getQuestionText = (questionObj) => questionObj["question"];
-    const getQuestionAnswerText = (questionObj) =>
-        questionObj["answer"].replace(/\[[^\]]*\]/g, "").replace(/\{|\}/g, "");
+    const getQuestionAnswerText = (questionObj) => questionObj["answers"][0];
 
     const checkQuestion = (userAnswer) => {
         if (!userAnswer) {
             return false;
         }
         const userAnswerLower = userAnswer.toLowerCase();
-        const currentQuestionAnswerLower = getCurrentQuestionObj()
-            ["answer"].replace(/\[[^\]]*\]/g, "")
-            .trim()
-            .toLowerCase();
-        const regex = /\{(.*?)\}/g;
-        const wordsInBraces = [];
-        let match;
-        while ((match = regex.exec(currentQuestionAnswerLower)) !== null) {
-            const word = match[0];
-            wordsInBraces.push(word.replace(/\{|\}/g, ""));
+        const currentQuestionAnswers = getCurrentQuestionObj()["answers"];
+        console.log(currentQuestionAnswers);
+        for (let i = 0; i < currentQuestionAnswers.length; i++) {
+            if (userAnswerLower === currentQuestionAnswers[i].toLowerCase) {
+                return true;
+            }
         }
-        console.log(wordsInBraces);
-        console.log(currentQuestionAnswerLower.replace(/\{|\}/g, ""));
-        return (
-            // check if answer matches exactly
-            userAnswerLower === currentQuestionAnswerLower ||
-            // check if the answer is equal to the answer without the braces
-            userAnswerLower ===
-                currentQuestionAnswerLower.replace(/\{|\}/g, "") ||
-            // check if answer is one of the braced options
-            wordsInBraces.includes(userAnswerLower)
-            // TODO: check if the answer is close enough to the any of the other options?
-        );
+        return false;
     };
 
     const skipQuestion = () => {

@@ -27,12 +27,12 @@ function App() {
         return !!localStorage.getItem(today.toDateString());
     };
 
-    function daysPastFeb19th2024() {
+    function daysPastMarch1st2024() {
         // Create a Date object for today's date
         const today = new Date();
 
-        // Create a Date object for February 19, 2024
-        const referenceDate = new Date(2024, 1, 19); // Months are zero-indexed (January = 0)
+        // Create a Date object for March 1, 2024
+        const referenceDate = new Date(2024, 2, 1); // Months are zero-indexed (January = 0)
 
         // Calculate the difference in milliseconds
         const timeDifference = today.getTime() - referenceDate.getTime();
@@ -44,12 +44,12 @@ function App() {
     }
 
     const readQuestionsFromFile = () => {
-        fetch("chunked_questions.json")
+        fetch("written_chunked_questions.json")
             .then((response) => {
                 return response.json(); // Parse directly as JSON
             })
             .then((data) => {
-                const questionSetToUse = daysPastFeb19th2024();
+                const questionSetToUse = daysPastMarch1st2024();
                 console.log("question set being used: " + questionSetToUse);
                 setQuestions(data[questionSetToUse]);
             })
@@ -108,13 +108,6 @@ function App() {
                         setIsDevMode={setIsDevMode}
                     />
                 );
-            // case screens.settings:
-            //     return (
-            //         <SettingsScreen
-            //             setScreenShowing={setScreenShowingAndPreviousScreen}
-            //             previousScreen={previousScreen}
-            //         />
-            //     );
             default:
                 console.log("not sure what screen to show");
         }

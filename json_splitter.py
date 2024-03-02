@@ -34,9 +34,9 @@ def split_json_array_randomly(file_path, chunk_size):
 
 # Example Usage
 if __name__ == '__main__':
-    file_path = '/Users/mheavey/personal/minquiz/ms_questions.json'  # Replace with your JSON file's name
+    file_path = '/Users/mheavey/personal/minquiz/written_questions.json'  # Replace with your JSON file's name
     max_chunk_size = 10
     result = split_json_array_randomly(file_path, max_chunk_size)
     
-    with open('chunked_questions.json', 'w') as f:
+    with open('written_chunked_questions.json', 'w') as f:
         json.dump(result, f, indent=4)  # Write the result to the file
