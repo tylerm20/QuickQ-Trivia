@@ -122,7 +122,7 @@ function App() {
 
     return (
         <div className="App">
-            <div className="Title">QuickQuestion</div>
+            <div className="Title">QuickQ</div>
             <div className="VersionText">Beta Testing</div>
             <div className="Content">{getScreenToShow()}</div>
         </div>
