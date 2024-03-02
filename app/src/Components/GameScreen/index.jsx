@@ -127,7 +127,7 @@ const GameScreen = ({
         const currentQuestionAnswers = getCurrentQuestionObj()["answers"];
         console.log(currentQuestionAnswers);
         for (let i = 0; i < currentQuestionAnswers.length; i++) {
-            if (userAnswerLower === currentQuestionAnswers[i].toLowerCase) {
+            if (userAnswerLower === currentQuestionAnswers[i].toLowerCase()) {
                 return true;
             }
         }
