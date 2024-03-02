@@ -22,6 +22,12 @@ const SettingsScreen = ({
                     "Skip" button. See how many questions you can answer
                     correctly in one minute!
                 </div>
+                <div>
+                    Send your feedback to{" "}
+                    <a href="mailto:QuickQTrivia@gmail.com">
+                        QuickQTrivia@gmail.com
+                    </a>
+                </div>
                 <button onClick={() => setShowModal(!showModal)}>Close</button>
                 <br />
                 {/* <button onClick={() => setIsDevMode(!isDevMode)}>
