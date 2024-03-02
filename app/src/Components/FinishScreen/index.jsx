@@ -65,7 +65,9 @@ const FinishScreen = ({
     const getResultsStr = () => {
         const sharableResultsArr = [
             "QuickQ: Daily Trivia Quiz",
+            `${new Date().toLocaleDateString()}`,
             `Score: ${score}`,
+            `Time: ${totalTime}s`,
         ];
         let i = 1;
         for (const result of playerResults) {
