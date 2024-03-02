@@ -63,7 +63,10 @@ const FinishScreen = ({
     };
 
     const getResultsStr = () => {
-        const sharableResultsArr = [`Score: ${score}`];
+        const sharableResultsArr = [
+            "QuickQ: Daily Trivia Quiz",
+            `Score: ${score}`,
+        ];
         let i = 1;
         for (const result of playerResults) {
             const rowArr = [`${i}. `];
@@ -79,6 +82,7 @@ const FinishScreen = ({
             sharableResultsArr.push(row);
             i += 1;
         }
+        sharableResultsArr.push("https://QuickQTrivia.com");
         return sharableResultsArr.join("\n");
     };
 
