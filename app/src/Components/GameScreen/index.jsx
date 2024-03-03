@@ -13,7 +13,8 @@ import {
 import "./style.css";
 import SettingsScreen from "../SettingsScreen";
 
-const playerResults = [];
+const playerResults = {};
+const questionResults = [];
 
 const GameScreen = ({
     setScreenShowing,
@@ -38,9 +39,13 @@ const GameScreen = ({
     const [showSettingsModal, setShowSettingsModal] = useState(false);
 
     const finishGame = () => {
+        const totalTime = GAME_SECONDS - gameSecondsRemaining;
+        playerResults["questionResults"] = questionResults;
+        playerResults["totalTime"] = totalTime;
+        playerResults["score"] = score;
         setPlayerResults(playerResults);
         setScreenShowing(screens.finish);
-        setTotalTime(GAME_SECONDS - gameSecondsRemaining);
+        setTotalTime(totalTime);
         // store that game was played for today
         localStorage.setItem(
             new Date().toDateString(),
@@ -66,8 +71,7 @@ const GameScreen = ({
         setShowWholeQuestion(true);
         setIsBuzzing(false);
         setBuzzSecondsRemaining(BUZZ_SECONDS);
-        playerResults.push(questionResult);
-        // else show something saying wrong answer
+        questionResults.push(questionResult);
     };
 
     useEffect(() => {

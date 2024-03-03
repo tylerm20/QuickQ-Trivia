@@ -14,13 +14,15 @@ const FinishScreen = ({
     totalTime,
     questions,
 }) => {
+    const finalScore = score || playerResults.score;
+    const finalTime = totalTime || playerResults.totalTime;
     const showResults = () => {
-        if (!playerResults) {
+        if (!playerResults || !playerResults.questionResults) {
             return;
         }
         const results = [];
         let i = 1;
-        for (const result of playerResults) {
+        for (const result of playerResults.questionResults) {
             results.push(
                 <div className="QuestionResult" key={i}>
                     <details>
@@ -66,11 +68,11 @@ const FinishScreen = ({
         const sharableResultsArr = [
             "QuickQ: Daily Trivia Quiz",
             `${new Date().toLocaleDateString()}`,
-            `Score: ${score}`,
-            `Time: ${totalTime}s`,
+            `Score: ${finalScore}`,
+            `Time: ${finalTime}s`,
         ];
         let i = 1;
-        for (const result of playerResults) {
+        for (const result of playerResults.questionResults) {
             const rowArr = [`${i}. `];
             if (result.isCorrect) {
                 rowArr.push("✅");
@@ -91,8 +93,8 @@ const FinishScreen = ({
     return (
         <div className="FinishScreen">
             <h3 className="Header">Game Over</h3>
-            <h3 className="Score">Score: {score}</h3>
-            <h3 className="Score">Total Time: {totalTime} sec</h3>
+            <h3 className="Score">Score: {finalScore}</h3>
+            <h3 className="Score">Total Time: {finalTime} sec</h3>
             <div className="Share">
                 <button onClick={share}>share</button>
             </div>
