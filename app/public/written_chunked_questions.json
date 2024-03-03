@@ -218,81 +218,91 @@
     ],
     [
         {
-            "question": "This sequence can be used to construct a special spiral found in nature and art. In it, each subsequent number is found by adding the two numbers before it, thus starting 0, 1, 1, 2, 3, 5... It bears the name of an Italian mathematician from Pisa.",
+            "question": "Named after an Italian mathematician from Pisa, this numerical sequence, starting with 0 and 1, follows a simple pattern where each subsequent number is the sum of the two preceding ones (0, 1, 1, 2, 3, 5, 8, 13...). This recursive sequence has been observed in nature, art, and even the architecture of spiral galaxies.",
             "answers": [
                 "The Fibonacci Sequence",
                 "Fibonacci Sequence",
                 "Fibonacci"
             ],
             "category": "Mathematics",
+            "Difficulty": "Medium",
+            "Fact Checked": "Yes",
             "id": 30
         },
         {
-            "question": "This Austrian composer, known as a child prodigy, wrote famous operas such as \"The Marriage of Figaro,\" \"Don Giovanni,\" and \"Cos\u00ec fan tutte.",
+            "question": "A prolific Austrian composer of the Classical era, this child prodigy began composing music at the age of five. He is renowned for his operas, such as 'The Marriage of Figaro,' 'Don Giovanni,' and 'Così fan tutte,' as well as his symphonies, concertos, and chamber works, which showcased his exceptional melodic and harmonic gifts.",
             "answers": ["Wolfgang Amadeus Mozart", "Amadeus Mozart", "Mozart"],
-            "category": "",
-            "Difficulty": "",
-            "Fact Checked": "No",
+            "category": "Music",
+            "Difficulty": "Medium",
+            "Fact Checked": "Yes",
             "id": 31
         },
         {
-            "question": "This American author, whose novels explored the complexities of race and society in the American South, wrote \"Go Set a Watchman\" as a prequel to her Pulitzer Prize winning novel, \"To Kill a Mockingbird\".",
+            "question": "This American novelist, known for her exploration of racial injustice and societal norms in the American South, gained widespread acclaim for her Pulitzer Prize-winning novel 'To Kill a Mockingbird.' Years later, she published 'Go Set a Watchman,' which was originally written as an early draft of her famous work.",
             "answers": ["Harper Lee", "Lee"],
-            "category": "",
-            "Difficulty": "",
-            "Fact Checked": "No",
+            "category": "Literature",
+            "Difficulty": "Medium",
+            "Fact Checked": "Yes",
             "id": 32
         },
         {
-            "question": "The administrative capital of the European Union, this city boasts a large medieval square known as the Grand Place, which is a UNESCO World Heritage Site.",
+            "question": "Serving as the administrative capital of the European Union, this cosmopolitan city is home to the Grand Place, a stunning medieval square recognized as a UNESCO World Heritage Site. Known for its diverse architecture, cuisine, and vibrant cultural scene, it is also the headquarters of the European Commission and other EU institutions.",
             "answers": ["Brussels"],
-            "category": "",
-            "Difficulty": "",
-            "Fact Checked": "No",
+            "category": "Geography",
+            "Difficulty": "Easy",
+            "Fact Checked": "Yes",
             "id": 33
         },
         {
-            "question": "Built as a tomb for the Fourth Dynasty pharaoh Khufu, this ancient Egyptian monument is the largest of the Egyptian pyramids and is considered one of the Seven Wonders of the Ancient World.",
+            "question": "Built as a magnificent tomb for the Fourth Dynasty pharaoh Khufu, this iconic ancient Egyptian monument stands at a towering height of 481 feet and is the oldest and largest of the Seven Wonders of the Ancient World. Its massive scale and precise construction have baffled architects and historians for centuries.",
             "answers": [
                 "The Great Pyramid of Giza",
                 "Great Pyramid of Giza",
                 "Pyramid of Giza"
             ],
-            "category": "",
-            "Difficulty": "",
-            "Fact Checked": "No",
+            "category": "History",
+            "Difficulty": "Medium",
+            "Fact Checked": "Yes",
             "id": 34
         },
         {
-            "question": "This ancient Chinese philosopher, whose teachings emphasized the virtues of benevolence, righteousness, and filial piety, shaped Chinese society for centuries and remains one of the most influential thinkers in Eastern philosophy.",
-            "answers": ["Confucius"],
-            "category": "",
-            "Difficulty": "",
-            "Fact Checked": "No",
+            "question": "This influential Greek philosopher, who lived in Athens during the 5th century BCE, is considered one of the founders of Western philosophy. He is renowned for his contributions to ethics, epistemology, and metaphysics, as well as his use of a question-and-answer approach to stimulate critical thinking and challenge assumptions.",
+            "answers": ["Socrates"],
+            "category": "Philosophy",
+            "Difficulty": "Medium",
+            "Fact Checked": "Yes",
             "id": 35
         },
         {
-            "question": "One of the world's largest religions, this monotheistic faith traces its origins to Abraham and emphasizes the importance of a covenant with God.",
+            "question": "One of the oldest and most widely practiced religions, this monotheistic faith traces its origins to the biblical figure of Abraham and emphasizes the importance of a covenant between God and the Jewish people. Its sacred texts, including the Torah and the Talmud, have shaped Jewish traditions, laws, and culture.",
             "answers": ["Judaism"],
             "category": "Religion",
+            "Difficulty": "Easy",
+            "Fact Checked": "Yes",
             "id": 36
         },
         {
-            "question": "This island nation's mythology contains sagas of Norse settlers and epic heroes. Home to glaciers, volcanoes, and geothermal hot springs, its capital is located at the world's northernmost latitude.",
+            "question": "Located just below the Arctic Circle, this island nation is known for its stunning landscapes, including glaciers, volcanoes, and geothermic hot springs. Its capital city, Reykjavik, is the world's northernmost capital and is home to many cultural institutions that preserve the country's rich Norse heritage and mythological sagas.",
             "answers": ["Iceland"],
             "category": "Geography",
+            "Difficulty": "Medium",
+            "Fact Checked": "Yes",
             "id": 37
         },
         {
-            "question": "These endothermic creatures evolved from theropod dinosaurs. One distinguishing feature is a toothless beak adapted to their diverse diets. While some members of this group have lost the ability, in the past many could fly.",
+            "question": "Endothermic vertebrates that evolved from feathered theropod dinosaurs, these creatures are distinguished by their toothless beaks adapted for diverse diets and their ability to fly, though some members of this group have lost that capacity over time. Their warm-blooded nature and feathered bodies set them apart from reptiles.",
             "answers": ["Birds", "Aves"],
             "category": "Biology",
+            "Difficulty": "Hard",
+            "Fact Checked": "Yes",
             "id": 38
         },
         {
-            "question": "Written in iambic pentameter, this play tells of two star-crossed lovers whose feuding families ultimately lead to their tragic deaths. It's arguably the most famous work of its author.",
+            "question": "Written in iambic pentameter, this tragic play by William Shakespeare tells the story of two star-crossed lovers from feuding families in Verona, Italy. Their forbidden love ultimately leads to their untimely deaths, cementing the play's reputation as one of the most famous and widely studied works in English literature.",
             "answers": ["Romeo and Juliet"],
             "category": "Literature",
+            "Difficulty": "Medium",
+            "Fact Checked": "Yes",
             "id": 39
         }
     ],
