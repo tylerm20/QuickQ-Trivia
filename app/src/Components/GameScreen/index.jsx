@@ -148,7 +148,7 @@ const GameScreen = ({
 
     const moveToNextQuestion = () => {
         // if there is another question
-        if (currentQuestionIndex < questionsAndAnswers.length - 1) {
+        if (currentQuestionIndex < questionsAndAnswers.length) {
             setCurrentQuestionIndex(currentQuestionIndex + 1);
             setIsBetweenQuestions(false);
             setShowWholeQuestion(false);
