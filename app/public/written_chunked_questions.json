@@ -3,56 +3,66 @@
         {
             "question": "In this type of government, citizens collectively make decisions by voting directly on potential laws and policies. One of the earliest examples existed in ancient Athens.",
             "answers": ["Direct Democracy"],
-            "category": "History"
+            "category": "History",
+            "id": 0
         },
         {
             "question": "A pioneer of Renaissance polyphony, this Flemish composer's works include predominantly sacred music like motets and masses. He's known for the complexity and expressiveness of his vocal pieces.",
             "answers": ["Josquin des Prez"],
-            "category": "Music"
+            "category": "Music",
+            "id": 1
         },
         {
             "question": "His dialogues explore themes of justice, the ideal society, and the nature of knowledge. A student of Socrates, his most famous student would go on to teach Alexander the Great. This thinker founded the Academy in Athens.",
             "answers": ["Plato"],
-            "category": "Philosophy"
+            "category": "Philosophy",
+            "id": 2
         },
         {
             "question": "These chordates possess a notochord during development, along with gill slits and a hollow dorsal nerve cord. The group includes all mammals, birds, fish, and more.",
             "answers": ["Vertebrates"],
-            "category": "Biology"
+            "category": "Biology",
+            "id": 3
         },
         {
             "question": "These microscopic infectious agents have a simple structure and are capable of infecting all forms of life. To reproduce, they hijack the machinery of a host cell. ",
-            "answers": ["Viruses", "Virus"],
-            "category": "Biology"
+            "answers": ["Viruses"],
+            "category": "Biology",
+            "id": 4
         },
         {
             "question": "What company started a search engine project called \"A9\" to compete with Google and has a profitable cloud computing product while also being known for online shopping?",
             "answers": ["Amazon"],
             "category": "Business",
             "Difficulty": "Easy",
-            "Fact Checked": "Yes"
+            "Fact Checked": "Yes",
+            "id": 5
         },
         {
             "question": "In Greek mythology, this hero known for his immense strength was given 12 almost impossible tasks to complete. He is also the inspiration for a 1997 Disney animated film.",
             "answers": ["Hercules"],
             "category": "",
             "Difficulty": "",
-            "Fact Checked": "No"
+            "Fact Checked": "No",
+            "id": 6
         },
         {
             "question": "In this Shakespeare play, a Scottish nobleman spurred by the prophecies of three witches murders his king to attain the throne. Plagued by guilt and fear, he becomes increasingly tyrannical.",
             "answers": ["Macbeth"],
-            "category": "Literature"
+            "category": "Literature",
+            "id": 7
         },
         {
             "question": "Derived from a Greek word for 'love of wisdom,' this intellectual pursuit uses reason to explore ideas about existence, morality, knowledge, and values.",
             "answers": ["Philosophy"],
-            "category": "Philosophy"
+            "category": "Philosophy",
+            "id": 8
         },
         {
             "question": "Often painted in bold color combinations, this Dutch Post-Impressionist had a troubled life yet went on to become one of the most celebrated artists posthumously. Some of his best-known works include 'Starry Night' and his self-portraits.",
             "answers": ["Vincent van Gogh", "van Gogh"],
-            "category": "Art"
+            "category": "Art",
+            "id": 9
         }
     ],
     [
@@ -62,118 +72,148 @@
                 "Cnidaria (Jellyfish, corals, sea anemones)",
                 "Cnidaria"
             ],
-            "category": "Biology"
+            "category": "Biology",
+            "id": 10
         },
         {
             "question": "Which NFL wide receiver who played 20 seasons, played his last game for the Seattle Seahawks, but won three superbowls with the San Francisco 49ers holds the NFL records for most total touchdowns?",
             "answers": ["Jerry Rice"],
             "category": "Sports",
             "Difficulty": "Easy",
-            "Fact Checked": "Yes"
+            "Fact Checked": "Yes",
+            "id": 11
         },
         {
             "question": "This creature's riddle appears in Sophocles's play *Oedipus Rex*. She has the wings of an eagle, the body of a lion, and the head of a woman. In Greek myth, she devours those who fail to answer her question correctly.",
             "answers": ["Sphinx"],
-            "category": "Mythology"
+            "category": "Mythology",
+            "id": 12
         },
         {
             "question": "This Italian explorer's voyages across the Atlantic helped pave the way for subsequent European colonialism in the Americas, though he did not reach the continental mainland.",
             "answers": ["Christopher Columbus", "Columbus"],
-            "category": "History"
+            "category": "History",
+            "id": 13
         },
         {
             "question": "This chemical element is highly reactive and the primary component of table salt. It has the symbol 'Na' and a silvery-white metallic appearance in its pure form.",
             "answers": ["Sodium"],
-            "category": "Chemistry"
+            "category": "Chemistry",
+            "id": 14
         },
         {
             "question": "This conflict pitted the Union and Confederacy against each other, dividing the nation as they battled over issues including states' rights and the enslavement of people.",
             "answers": ["American Civil War", "Civil War"],
-            "category": "History"
+            "category": "History",
+            "id": 15
         },
         {
             "question": "In Greek religion, he was the god of war known for his violence and bloodshed. Identified with Mars in Roman mythology, he was an unpopular figure amongst many of the other gods of Olympus.",
             "answers": ["Ares"],
-            "category": "Mythology"
+            "category": "Mythology",
+            "id": 16
         },
         {
             "question": "This fictional character, introduced in a novel published in 1937, was raised by his uncle after the tragic death of his parents. Known for his small stature and hairy feet, he embarks on an epic journey to destroy a powerful artifact that threatens the fate of his world.",
             "answers": ["Frodo Baggins", "Frodo"],
             "category": "",
             "Difficulty": "",
-            "Fact Checked": ""
+            "Fact Checked": "",
+            "id": 17
         },
         {
             "question": "This term often refers to the era from the fall of the Western Roman Empire to the Renaissance. Marked by feudalism and warfare, it's sometimes referred to as the 'Dark Ages,' though that label is debated.",
             "answers": ["Middle Ages"],
-            "category": "History"
+            "category": "History",
+            "id": 18
         },
         {
             "question": "Sharing a border with the Atacama Desert, the Pacific Ocean, and the Andes Mountains, this country features diverse terrain including a long coastline and the southernmost city in the world.",
             "answers": ["Chile"],
-            "category": "Geography"
+            "category": "Geography",
+            "id": 19
         }
     ],
     [
         {
-            "question": "This Polish astronomer, who proposed the heliocentric model of the solar system, is considered one of the founders of the Scientific Revolution.",
+            "question": "A Renaissance-era mathematician and astronomer from the Polish city of Thorn, this scholar challenged the long-held belief that the Earth was the center of the universe. His revolutionary work 'De revolutionibus orbium coelestium' proposed a heliocentric model, with the Sun at the center and the planets, including Earth, revolving around it. This theory, which contradicted the geocentric model of Ptolemy, laid the foundation for modern astronomy and is considered a key event in the Scientific Revolution.",
             "answers": ["Nicolaus Copernicus", "Copernicus"],
-            "category": "",
-            "Difficulty": "",
-            "Fact Checked": ""
+            "category": "History",
+            "id": 20
         },
         {
-            "question": "Symbolized by a torch held aloft, this Roman goddess has a large statue positioned on an island in New York Harbor. She also serves as a recurring figure in US political cartoons.",
-            "answers": ["Liberty", "Libertas"],
-            "category": "Mythology"
+            "question": "Designed by French sculptor Frédéric Auguste Bartholdi, this towering neoclassical sculpture of a Roman goddess was originally made of copper sheets assembled on a framework of steel and concrete. It has a distinctive green patina color and was a gift from France to the United States. This iconic statue depicts a robed female figure holding a torch aloft and stands in New York Harbor.",
+            "answers": [
+                "The Statue of Liberty",
+                "Statue of Liberty",
+                "Libertas"
+            ],
+            "category": "Landmarks",
+            "id": 21
         },
         {
-            "question": "This British author is known for her romantic novel in which a young woman named Elizabeth Bennet overcomes societal prejudices to find love with Mr. Darcy.",
+            "question": "A celebrated English novelist of the early 19th century, she is best known for her witty social satires that explored the societal norms and rigid class structures of Georgian-era Britain. Her most famous work, published anonymously in 1813, centers on the spirited Elizabeth Bennet and her confrontations with the haughty Mr. Darcy, ultimately leading to a romance that defies class prejudices.",
             "answers": ["Jane Austen", "Austen"],
-            "category": "",
-            "Difficulty": "",
-            "Fact Checked": "No"
+            "category": "Literature",
+            "Difficulty": "Medium",
+            "Fact Checked": "Yes",
+            "id": 22
         },
         {
-            "question": "What city incorporated in 1881 is the most populous US state capital and named after a mythical creature?",
+            "question": "Founded in 1867 as a small agricultural village in the Salt River Valley, this city was incorporated in 1881 and named after the mythical bird that cyclically regenerates from its own ashes. Known for its hot desert climate, it is now the largest state capital in the United States by population.",
             "answers": ["Phoenix"],
             "category": "Geography",
             "Difficulty": "Easy",
-            "Fact Checked": "Yes"
+            "Fact Checked": "Yes",
+            "id": 23
         },
         {
-            "question": "These flying mammals possess sophisticated biosonar and are the only mammal capable of true, sustained flight. Most feed on insects, while some larger species may eat fruit or even blood.",
-            "answers": ["Bats"],
-            "category": "Biology"
+            "question": "The only mammals capable of true, sustained flight, these nocturnal creatures possess an advanced biological sonar system that allows them to navigate and hunt in complete darkness. While most species feed on insects, some larger varieties consume fruits, nectar, or even the blood of other animals.",
+            "answers": ["Bats", "Bat"],
+            "category": "Biology",
+            "Difficulty": "Medium",
+            "Fact Checked": "Yes",
+            "id": 24
         },
         {
-            "question": "This transition metal, essential for life, is the main component of hemoglobin, the protein in red blood cells that carries oxygen. With atomic number 26, its symbol is derived from the Latin word \"ferrum\".",
-            "answers": ["Iron"],
-            "category": "",
-            "Difficulty": "",
-            "Fact Checked": ""
+            "question": "A vital transition metal found in trace amounts throughout the human body, it is the main component of hemoglobin, the protein in red blood cells responsible for transporting oxygen. With an atomic number of 26, this element's chemical symbol is derived from the Latin word 'ferrum,' meaning iron-bearing or iron-producing.",
+            "answers": ["Iron", "Fe"],
+            "category": "Chemistry",
+            "Difficulty": "Medium",
+            "Fact Checked": "Yes",
+            "id": 25
         },
         {
-            "question": "An important figure of China's Warring States Period, this philosopher emphasized social harmony, respect for tradition, and the importance of a ruler's virtuous example.",
-            "answers": ["Confucius"],
-            "category": "Philosophy"
+            "question": "A Chinese philosopher who lived during the Warring States Period (475-221 BCE), he emphasized social harmony, respect for tradition, and the importance of a ruler's virtuous example in governing. His teachings, compiled in the Analects, formed the basis of the philosophical system known as Confucianism, which profoundly influenced East Asian societies.",
+            "answers": ["Confucius", "Kong Qiu"],
+            "category": "Philosophy",
+            "Difficulty": "Medium",
+            "Fact Checked": "Yes",
+            "id": 26
         },
         {
-            "question": "The SI unit for electric charge is named after this physicist.  His law establishes the relationship between current and magnetic field strength in a conductor. While not the primary inventor, he's credited with major contributions to the development of the telegraph. It represents the flow of one coulomb of charge per second.",
+            "question": "The SI unit for electric current is named after this French physicist and mathematician, who formulated the fundamental relationship between electric current and magnetic fields in conductors. While not the primary inventor, he made significant contributions to the development of the telegraph. The unit represents the flow of one coulomb of charge per second.",
             "answers": ["Andre-Marie Ampere", "Ampere", "Amp"],
-            "category": "Physics"
+            "category": "Physics",
+            "Difficulty": "Hard",
+            "Fact Checked": "Yes",
+            "id": 27
         },
         {
-            "question": "What body of water lying between Europe and Asia has an area approximately the size of Japan and sometimes referred to as the world's largest lake even though it has \"sea\" in it's name?",
+            "question": "Situated between Europe and Asia, this vast inland body of water has an area approximately the size of Japan and is often referred to as the world's largest lake, even though it has 'sea' in its name. With no outflows and a high salinity level, it is technically classified as a salt lake.",
             "answers": ["Caspian Sea"],
             "category": "Geography",
             "Difficulty": "Medium",
-            "Fact Checked": "Yes"
+            "Fact Checked": "Yes",
+            "id": 28
         },
         {
-            "question": "This Roman emperor, infamous for his cruelty and rumored to have played the fiddle as Rome burned, was the last of the Julio-Claudian dynasty. He persecuted early Christians and faced multiple rebellions during his reign.",
-            "answers": ["Nero"],
-            "category": "History"
+            "question": "The last Roman emperor of the Julio-Claudian dynasty, this notorious ruler was infamous for his cruelty, extravagance, and rumored to have played the lyre while Rome burned during the Great Fire of 64 CE. He persecuted early Christians and faced multiple rebellions during his reign, which ended with his suicide in 68 CE.",
+            "answers": ["Nero", "Nero Claudius Caesar Augustus Germanicus"],
+            "category": "History",
+            "Difficulty": "Hard",
+            "Fact Checked": "Yes",
+            "id": 29
         }
     ],
     [
@@ -184,28 +224,32 @@
                 "Fibonacci Sequence",
                 "Fibonacci"
             ],
-            "category": "Mathematics"
+            "category": "Mathematics",
+            "id": 30
         },
         {
             "question": "This Austrian composer, known as a child prodigy, wrote famous operas such as \"The Marriage of Figaro,\" \"Don Giovanni,\" and \"Cos\u00ec fan tutte.",
             "answers": ["Wolfgang Amadeus Mozart", "Amadeus Mozart", "Mozart"],
             "category": "",
             "Difficulty": "",
-            "Fact Checked": "No"
+            "Fact Checked": "No",
+            "id": 31
         },
         {
             "question": "This American author, whose novels explored the complexities of race and society in the American South, wrote \"Go Set a Watchman\" as a prequel to her Pulitzer Prize winning novel, \"To Kill a Mockingbird\".",
             "answers": ["Harper Lee", "Lee"],
             "category": "",
             "Difficulty": "",
-            "Fact Checked": "No"
+            "Fact Checked": "No",
+            "id": 32
         },
         {
             "question": "The administrative capital of the European Union, this city boasts a large medieval square known as the Grand Place, which is a UNESCO World Heritage Site.",
             "answers": ["Brussels"],
             "category": "",
             "Difficulty": "",
-            "Fact Checked": "No"
+            "Fact Checked": "No",
+            "id": 33
         },
         {
             "question": "Built as a tomb for the Fourth Dynasty pharaoh Khufu, this ancient Egyptian monument is the largest of the Egyptian pyramids and is considered one of the Seven Wonders of the Ancient World.",
@@ -216,211 +260,302 @@
             ],
             "category": "",
             "Difficulty": "",
-            "Fact Checked": "No"
+            "Fact Checked": "No",
+            "id": 34
         },
         {
             "question": "This ancient Chinese philosopher, whose teachings emphasized the virtues of benevolence, righteousness, and filial piety, shaped Chinese society for centuries and remains one of the most influential thinkers in Eastern philosophy.",
             "answers": ["Confucius"],
             "category": "",
             "Difficulty": "",
-            "Fact Checked": "No"
+            "Fact Checked": "No",
+            "id": 35
         },
         {
             "question": "One of the world's largest religions, this monotheistic faith traces its origins to Abraham and emphasizes the importance of a covenant with God.",
             "answers": ["Judaism"],
-            "category": "Religion"
+            "category": "Religion",
+            "id": 36
         },
         {
             "question": "This island nation's mythology contains sagas of Norse settlers and epic heroes. Home to glaciers, volcanoes, and geothermal hot springs, its capital is located at the world's northernmost latitude.",
             "answers": ["Iceland"],
-            "category": "Geography"
+            "category": "Geography",
+            "id": 37
         },
         {
             "question": "These endothermic creatures evolved from theropod dinosaurs. One distinguishing feature is a toothless beak adapted to their diverse diets. While some members of this group have lost the ability, in the past many could fly.",
-            "answers": ["Birds", "Aves", "Bird", "Ave"],
-            "category": "Biology"
+            "answers": ["Birds", "Aves"],
+            "category": "Biology",
+            "id": 38
         },
         {
             "question": "Written in iambic pentameter, this play tells of two star-crossed lovers whose feuding families ultimately lead to their tragic deaths. It's arguably the most famous work of its author.",
             "answers": ["Romeo and Juliet"],
-            "category": "Literature"
+            "category": "Literature",
+            "id": 39
         }
     ],
     [
         {
             "question": "Often found in deserts, these reptiles are equipped with scales, lay eggs, and regulate their body temperature by seeking sunlight or shade. Some species change color or have venomous bites.",
-            "answers": ["Lizards", "Lizard"],
-            "category": "Biology"
+            "answers": ["Lizards"],
+            "category": "Biology",
+            "id": 40
         },
         {
             "question": "Though short-lived as an entity, this alliance included major powers like Britain, France, and Russia and ultimately opposed the Central Powers during World War I.",
             "answers": ["Triple Entente"],
-            "category": "History"
+            "category": "History",
+            "id": 41
         },
         {
             "question": "The periodic table arranges them according to atomic number and groups them by shared properties. Some examples include carbon, iron, and gold.",
-            "answers": ["Elements", "Element"],
-            "category": "Chemistry"
+            "answers": ["Elements"],
+            "category": "Chemistry",
+            "id": 42
         },
         {
             "question": "This American writer depicted the hardships faced by migrant workers during the Great Depression in his novels \"The Grapes of Wrath\" and \"Of Mice and Men.",
             "answers": ["John Steinbeck", "Steinbeck"],
             "category": "",
             "Difficulty": "",
-            "Fact Checked": "No"
+            "Fact Checked": "No",
+            "id": 43
         },
         {
             "question": "With the world's longest coastline and most islands, this archipelago nation in Southeast Asia experiences tropical monsoons, earthquakes, and volcanic eruptions due to its position on the 'Ring of Fire'.",
             "answers": ["Indonesia"],
-            "category": "Geography"
+            "category": "Geography",
+            "id": 44
         },
         {
             "question": "While this Italian Renaissance sculptor created several iconic pieces, perhaps his most famous is a 17-foot statue depicting a biblical hero famed for defeating a giant.",
             "answers": ["Michelangelo"],
-            "category": "Art"
+            "category": "Art",
+            "id": 45
         },
         {
             "question": "This celestial body, which appears red in the night sky due to iron oxide, has a thin atmosphere and is home to the largest volcano in the solar system, Olympus Mons.",
             "answers": ["Mars"],
             "category": "",
             "Difficulty": "",
-            "Fact Checked": "No"
+            "Fact Checked": "No",
+            "id": 46
         },
         {
             "question": "A pioneer in the development of psychoanalysis, this Austrian neurologist proposed that the unconscious mind drives behaviors. His concepts such as the id, ego, and superego gained widespread influence.",
             "answers": ["Sigmund Freud", "Freud"],
-            "category": "Psychology"
+            "category": "Psychology",
+            "id": 47
         },
         {
             "question": "He proposed the theory of special relativity, revolutionizing our understanding of space and time. His famous equation E=mc\u00b2 reveals the relationship between energy and mass.",
             "answers": ["Albert Einstein", "Einstein"],
-            "category": "Science"
+            "category": "Science",
+            "id": 48
         },
         {
             "question": "Found primarily in Africa, this is the largest living land animal and boasts a prehensile trunk used for drinking, grasping, and communication. The adults have large tusks made of ivory.",
             "answers": ["Elephant"],
-            "category": "Biology"
+            "category": "Biology",
+            "id": 49
         }
     ],
     [
         {
             "question": "He proposed the heliocentric model of the solar system, placing the sun at its center and challenging the prevailing view of his time. He initiated a major shift in scientific thinking known as his namesake 'Revolution'.",
             "answers": ["Nicolaus Copernicus", "Copernicus"],
-            "category": "Science"
+            "category": "Science",
+            "id": 50
         },
         {
             "question": "This river serves as a major shipping route for Europe, flowing through or along ten countries and featuring beautiful castles and vineyards along its course.",
             "answers": ["Rhine River", "Rhine"],
-            "category": "Geography"
+            "category": "Geography",
+            "id": 51
         },
         {
             "question": "Often used to symbolize peace, this predominantly white bird carries great cultural significance across many traditions. Some species possess impressive homing abilities.",
             "answers": ["Dove"],
-            "category": "Biology"
+            "category": "Biology",
+            "id": 52
         },
         {
             "question": "His early work features somber figures and heavy use of blue tones. A fascination with African masks influenced the highly fragmented style of his later years. This prolific artist experimented with sculpture, printmaking, and ceramics. Though born in Spain, he is most associated with his long residency in France.",
             "answers": ["Pablo Picasso", "Picasso"],
-            "category": "Art"
+            "category": "Art",
+            "id": 53
         },
         {
             "question": "The largest president by weight, he once got stuck in a White House bathtub. After the presidency, he was appointed Chief Justice of the Supreme Court, the only person to lead both the executive and judicial branches.  His foreign policy emphasized economic influence over traditional military might.",
             "answers": ["William Howard Taft", "William Taft", "Taft"],
-            "category": "U.S. Presidents"
+            "category": "U.S. Presidents",
+            "id": 54
         },
         {
             "question": "His early compositions utilized classical structures, while his later works experimented with atonality. Known for his ballets like \"The Rite of Spring,\" he's one of the most influential composers of the 20th century.",
             "answers": ["Igor Stravinsky", "Stravinsky"],
-            "category": "Music"
+            "category": "Music",
+            "id": 55
         },
         {
             "question": "His early musical training started on the harpsichord. During his time in Leipzig, he composed an extensive range of choral works, such as his monumental 'St. Matthew Passion.'",
             "answers": ["Johann Sebastian Bach", "Bach"],
-            "category": "Music"
+            "category": "Music",
+            "id": 56
         },
         {
             "question": "With Mount Everest located within its borders, this landlocked country in South Asia features dramatic mountain landscapes, ancient Buddhist monasteries, and diverse wildlife.",
             "answers": ["Nepal"],
-            "category": "Geography"
+            "category": "Geography",
+            "id": 57
         },
         {
             "question": "Which ballet, based on a E.T.A. Hoffman short story, was written by Tchaikovsky and commonly performed around Christmastime featuring a mouse king and a sugar plum Fairy?",
             "answers": ["The Nutcracker", "Nutcracker"],
             "category": "Fine Arts",
             "Difficulty": "Easy",
-            "Fact Checked": "Yes"
+            "Fact Checked": "Yes",
+            "id": 58
         },
         {
             "question": "In Euclidean geometry, this term refers to a four-sided figure where all angles are right angles.  Opposite sides are parallel and equal in length.",
             "answers": ["Rectangle"],
-            "category": "Mathematics"
+            "category": "Mathematics",
+            "id": 59
         }
     ],
     [
         {
             "question": "With over 80 moons, this planet boasts a thin atmosphere of mostly nitrogen and a surface with methane lakes and rivers. It features distinctive rings and though smaller than Jupiter, it's still larger in diameter than all dwarf planets in our solar system. ",
             "answers": ["Saturn"],
-            "category": "Astronomy"
+            "category": "Astronomy",
+            "id": 60
         },
         {
             "question": "One of the longest in its genre, this poem features alliterative verse and recounts the protagonist's battles with monstrous foes. Although a work of early English literature, its setting is in Scandinavia.",
             "answers": ["Beowulf"],
-            "category": "Literature"
+            "category": "Literature",
+            "id": 61
         },
         {
             "question": "This American poet found both critical acclaim and controversy for his work. His major collection, titled after himself, uses free verse and celebrates individuality.",
             "answers": ["Walt Whitman", "Whitman"],
-            "category": "Literature"
+            "category": "Literature",
+            "id": 62
         },
         {
             "question": "Once known as Edo, this Asian capital is the most populous city in the world and is home to the Imperial Palace, the residence of the Japanese emperor.",
             "answers": ["Tokyo"],
             "category": "",
             "Difficulty": "",
-            "Fact Checked": "No"
+            "Fact Checked": "No",
+            "id": 63
         },
         {
             "question": "What novel, first published anonymously in 1818, is subtitled \"The Modern Prometheus\", is partly narrated by a man sailing to explore the North Pole was written by Mary Shelley?",
             "answers": ["Frankenstein"],
             "category": "Literature",
             "Difficulty": "Easy",
-            "Fact Checked": "Yes"
+            "Fact Checked": "Yes",
+            "id": 64
         },
         {
             "question": "Derived from Latin for 'middle voice', this verb tense in some languages indicates that the subject acts upon itself. A classic example would be 'The door opened' (where the door isn't actively doing the opening itself).",
             "answers": ["Medial Voice"],
-            "category": "Language"
+            "category": "Language",
+            "id": 65
         },
         {
             "question": "This psychological state describes an intense period of heightened creativity and productivity. Though sometimes linked to mental illness, not all who experience it have an underlying diagnosis.",
             "answers": ["Mania"],
-            "category": "Psychology"
+            "category": "Psychology",
+            "id": 66
         },
         {
             "question": "This French Impressionist is known for his water lily series, depictions of the Japanese bridge in his garden, and experimentation with light and color in landscapes.",
             "answers": ["Claude Monet", "Monet"],
-            "category": "Art"
+            "category": "Art",
+            "id": 67
         },
         {
             "question": "This American actress, renowned for her beauty, multiple marriages, and charitable work, became an enduring icon of Hollywood's Golden Age and was the first celebrity to earn over $1 million for a single film role.",
             "answers": ["Elizabeth Taylor", "Taylor"],
             "category": "",
             "Difficulty": "",
-            "Fact Checked": "No"
+            "Fact Checked": "No",
+            "id": 68
         },
         {
             "question": "This Dutch painter, known for his distinct use of sunflowers and the fact that he cut off his own ear, is a leading figure from the Post-Impressionist movement.",
             "answers": ["Vincent van Gogh", "van Gogh"],
             "category": "",
             "Difficulty": "",
-            "Fact Checked": "No"
+            "Fact Checked": "No",
+            "id": 69
         }
     ],
     [
         {
             "question": "Though primarily prose, this work from the Romantic era features interludes of poetry and tells a tale of doomed love and revenge. It's set against the bleak Yorkshire moors and features the characters of Heathcliff and Catherine.",
             "answers": ["Wuthering Heights"],
-            "category": "Literature"
+            "category": "Literature",
+            "id": 70
+        },
+        {
+            "question": "Which American author, who wrote the novel 'The Human Stain' and the short story 'Everyman,' won the Pulitzer Prize for Fiction in 1998 for his book about the life of a retired professor?",
+            "answers": ["Philip Roth", "Roth"],
+            "category": "Literature",
+            "id": 71
+        },
+        {
+            "question": "Which renowned British artist, who pioneered the abstract art movement in the early 20th century, is known for his distinctive canvases featuring geometric shapes and bold colors? This artist, who co-founded the Vorticist movement, produced works like 'Composition with Red Blue and Yellow' and 'Black on Maroon.'",
+            "answers": ["Piet Mondrian", "Mondrian"],
+            "category": "Art",
+            "id": 72
+        },
+        {
+            "question": "Which ancient Greek philosopher, who was a student of Socrates and a teacher of Aristotle, founded the Academy in Athens? This philosopher, who wrote dialogues such as 'The Republic' and 'Symposium,' is considered one of the most influential thinkers in Western philosophy.",
+            "answers": ["Plato"],
+            "category": "Philosophy",
+            "id": 73
+        },
+        {
+            "question": "Which beloved children's book character, who first appeared in a 1900 book by A.A. Milne, lives in the Hundred Acre Wood and has friends like Piglet, Tigger, and Eeyore? This honey-loving bear with a distinct yellow fur color has been featured in numerous films, television shows, and merchandise.",
+            "answers": ["Winnie the Pooh"],
+            "category": "Children's Literature",
+            "id": 74
+        },
+        {
+            "question": "Which British rock band, formed in London in the 1960s, is known for their iconic album covers, progressive rock sound, and concept albums like 'The Wall' and 'The Dark Side of the Moon'? This band, whose founding members included Roger Waters, David Gilmour, and Nick Mason, has sold over 250 million records worldwide.",
+            "answers": ["Pink Floyd"],
+            "category": "Music",
+            "id": 75
+        },
+        {
+            "question": "This American inventor, who held over 1,000 patents, is best known for developing the first practical incandescent light bulb and establishing the first electric power distribution system. He also founded a prominent research laboratory in New Jersey.",
+            "answers": ["Thomas Edison", "Edison"],
+            "category": "Inventors",
+            "id": 76
+        },
+        {
+            "question": "This Russian novelist and playwright, who lived from 1828 to 1910, is considered one of the greatest writers of all time. Some of his most famous works include 'Crime and Punishment,' 'The Brothers Karamazov,' and 'Notes from Underground.'",
+            "answers": ["Fyodor Dostoevsky", "Dostoevsky"],
+            "category": "Literature",
+            "id": 77
+        },
+        {
+            "question": "This French artist, who lived from 1834 to 1917, is renowned for his Impressionist paintings, which often depicted scenes of modern Parisian life. His most famous works include 'Luncheon on the Grass' and 'Olympia.'",
+            "answers": ["Édouard Manet", "Manet"],
+            "category": "Art",
+            "id": 78
+        },
+        {
+            "question": "This American author, who lived from 1919 to 1984, is best known for writing the classic novels 'The Catcher in the Rye' and 'Franny and Zooey.' He was a reclusive figure who avoided public attention for much of his life.",
+            "answers": ["J.D. Salinger", "Salinger"],
+            "category": "Literature",
+            "id": 79
         }
     ]
 ]
