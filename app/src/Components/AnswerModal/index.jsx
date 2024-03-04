@@ -1,4 +1,5 @@
 import React, { useState, useRef } from "react";
+import BasicButton from "../BasicButton";
 import "./style.css";
 
 const AnswerModal = ({ onSubmit }) => {
@@ -30,7 +31,7 @@ const AnswerModal = ({ onSubmit }) => {
                 ref={inputRef}
                 onKeyDown={handleKeyDown}
             />
-            <button onClick={handleSubmit}>Submit</button>
+            <BasicButton onClick={handleSubmit}>Submit</BasicButton>
         </div>
     );
 };

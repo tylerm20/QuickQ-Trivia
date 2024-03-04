@@ -2,6 +2,7 @@ import React, { useState, useEffect } from "react";
 import Timer from "../Timer";
 import Score from "../Score";
 import SettingsButton from "../SettingsButton";
+import BasicButton from "../BasicButton";
 import Question from "../Question";
 import AnswerModal from "../AnswerModal";
 import {
@@ -188,9 +189,12 @@ const GameScreen = ({
                             {getQuestionAnswerText(getCurrentQuestionObj())}
                         </div>
                     </div>
-                    <button className="NextButton" onClick={moveToNextQuestion}>
+                    <BasicButton
+                        className="NextButton"
+                        onClick={moveToNextQuestion}
+                    >
                         Next Question
-                    </button>
+                    </BasicButton>
                 </div>
             );
         } else {

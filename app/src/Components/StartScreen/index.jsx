@@ -1,6 +1,7 @@
 import React, { useState } from "react";
 import { screens } from "../../constants";
 import SettingsScreen from "../SettingsScreen";
+import BasicButton from "../BasicButton";
 import "./style.css";
 
 const StartScreen = ({
@@ -28,9 +29,11 @@ const StartScreen = ({
             {hasPlayedTodaysGame && !isDevMode ? (
                 <div className="Header">
                     <div>Come back for a new Quiz tomorrow!</div>
-                    <button onClick={() => setScreenShowing(screens.finish)}>
+                    <BasicButton
+                        onClick={() => setScreenShowing(screens.finish)}
+                    >
                         See Results
-                    </button>
+                    </BasicButton>
                 </div>
             ) : (
                 <button
@@ -40,12 +43,12 @@ const StartScreen = ({
                     Start
                 </button>
             )}
-            <button
+            <BasicButton
                 className="HowToPlayButton"
                 onClick={() => setShowSettingsModal(true)}
             >
                 How to Play
-            </button>
+            </BasicButton>
         </div>
     );
 };

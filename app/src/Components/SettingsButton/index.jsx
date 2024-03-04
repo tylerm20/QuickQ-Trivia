@@ -1,8 +1,9 @@
+import BasicButton from "../BasicButton";
+
 const SettingsButton = ({ onClick }) => {
-    // Add your settings button functionality here
     return (
         <div className="settings">
-            <button onClick={onClick}>Info</button>
+            <BasicButton onClick={onClick}>Info</BasicButton>
         </div>
     );
 };
