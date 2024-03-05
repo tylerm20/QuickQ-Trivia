@@ -1,4 +1,5 @@
 import React, { useState, useEffect } from "react";
+import Fuse from "fuse.js";
 import Timer from "../Timer";
 import Score from "../Score";
 import SettingsButton from "../SettingsButton";
@@ -58,7 +59,7 @@ const GameScreen = ({
         const questionResult = {};
         setUserAnswer(userAnswer);
         questionResult["userAnswer"] = userAnswer;
-        if (checkQuestion(userAnswer)) {
+        if (checkAnswer(userAnswer)) {
             setScore(score + 1);
             questionResult["isCorrect"] = true;
             // show something saying right answer
@@ -124,22 +125,18 @@ const GameScreen = ({
     const getQuestionText = (questionObj) => questionObj["question"];
     const getQuestionAnswerText = (questionObj) => questionObj["answers"][0];
 
-    const checkQuestion = (userAnswer) => {
+    const checkAnswer = (userAnswer) => {
         if (!userAnswer) {
             return false;
         }
-        const userAnswerLower = userAnswer.toLowerCase();
         const currentQuestionAnswers = getCurrentQuestionObj()["answers"];
-        console.log(currentQuestionAnswers);
-        for (let i = 0; i < currentQuestionAnswers.length; i++) {
-            if (
-                userAnswerLower.trim() ===
-                currentQuestionAnswers[i].toLowerCase()
-            ) {
-                return true;
-            }
-        }
-        return false;
+        const fuse = new Fuse(currentQuestionAnswers, {
+            includeScore: true,
+            threshold: 0.35,
+            minMatchCharLength: 3,
+        });
+        const fuseResults = fuse.search(userAnswer.trim());
+        return fuseResults.length;
     };
 
     const skipQuestion = () => {
@@ -178,7 +175,7 @@ const GameScreen = ({
             return (
                 <div className="BetweenQuestionsBottomRow">
                     <div className="AnswerBottomRow">
-                        {checkQuestion(userAnswer) ? (
+                        {checkAnswer(userAnswer) ? (
                             <div className="Correct">Correct</div>
                         ) : (
                             <div className="Incorrect">Incorrect</div>
