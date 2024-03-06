@@ -374,55 +374,55 @@
     ],
     [
         {
-            "question": "He proposed the heliocentric model of the solar system, placing the sun at its center and challenging the prevailing view of his time. He initiated a major shift in scientific thinking known as his namesake 'Revolution'.",
-            "answers": ["Nicolaus Copernicus", "Copernicus"],
-            "category": "Science",
+            "question": "An archetypal Renaissance man, this Italian polymath conceptualized designs centuries ahead of their time, including plans for a helicopter and concentrated solar power. His genius spanned art, science, invention, and more, but he is most renowned for paintings like the Mona Lisa.",
+            "answers": ["Leonardo da Vinci", "da Vinci"],
+            "category": "Renaissance",
             "id": 50
         },
         {
-            "question": "This river serves as a major shipping route for Europe, flowing through or along ten countries and featuring beautiful castles and vineyards along its course.",
+            "question": "Flowing through Central and Western Europe, this major river has served as an important commercial transportation route for centuries. While its source is in the Swiss Alps, it travels over 800 miles and forms much of the border between France and Germany before emptying into the North Sea, with historic castles and vineyards dotting its scenic banks.",
             "answers": ["Rhine River", "Rhine"],
             "category": "Geography",
             "id": 51
         },
         {
-            "question": "Often used to symbolize peace, this predominantly white bird carries great cultural significance across many traditions. Some species possess impressive homing abilities.",
+            "question": "A member of the columbidae family, these predominantly white birds have been known for their ability to find their way home from great distance. These birds are symbolic of peace across many cultures and lend their name to a popular brand of soap.",
             "answers": ["Dove"],
             "category": "Biology",
             "id": 52
         },
         {
-            "question": "His early work features somber figures and heavy use of blue tones. A fascination with African masks influenced the highly fragmented style of his later years. This prolific artist experimented with sculpture, printmaking, and ceramics. Though born in Spain, he is most associated with his long residency in France.",
+            "question": "This prolific 20th century Spanish artist spent much of his adult life in Paris. He experimented across mediums like sculpture and printmaking, and his early works featured somber figures and blue tones, while African masks influenced his later distinctive fragmented style. He is best known for renowned for co-founding the Cubist movement.",
             "answers": ["Pablo Picasso", "Picasso"],
             "category": "Art",
             "id": 53
         },
         {
-            "question": "The largest president by weight, he once got stuck in a White House bathtub. After the presidency, he was appointed Chief Justice of the Supreme Court, the only person to lead both the executive and judicial branches.  His foreign policy emphasized economic influence over traditional military might.",
+            "question": "The heaviest US president at over 300 pounds, this leader emphasized economic influence over military might in foreign policy. After his presidency, he became the only person to also serve as Chief Justice of the Supreme Court, heading both executive and judicial branches. An oft-told anecdote involves him getting stuck in a White House bathtub.",
             "answers": ["William Howard Taft", "William Taft", "Taft"],
             "category": "U.S. Presidents",
             "id": 54
         },
         {
-            "question": "His early compositions utilized classical structures, while his later works experimented with atonality. Known for his ballets like \"The Rite of Spring,\" he's one of the most influential composers of the 20th century.",
+            "question": "One of the most influential composers of the 20th century, his neoclassical period saw a return to 18th century styles and forms. His early works exhibited classical structures before his iconoclastic ballets like 'The Rite of Spring' sparked a riot at their premiere in Paris.",
             "answers": ["Igor Stravinsky", "Stravinsky"],
             "category": "Music",
             "id": 55
         },
         {
-            "question": "His early musical training started on the harpsichord. During his time in Leipzig, he composed an extensive range of choral works, such as his monumental 'St. Matthew Passion.'",
-            "answers": ["Johann Sebastian Bach", "Bach"],
-            "category": "Music",
-            "id": 56
+            "question": "Which beloved children's book character, who first appeared in a 1900 book by A.A. Milne, lives in the Hundred Acre Wood and has friends like Piglet, Tigger, and Eeyore? This honey-loving bear with a distinct yellow fur color has been featured in numerous films, television shows, and merchandise.",
+            "answers": ["Winnie the Pooh"],
+            "category": "Children's Literature",
+            "id": 74
         },
         {
-            "question": "With Mount Everest located within its borders, this landlocked country in South Asia features dramatic mountain landscapes, ancient Buddhist monasteries, and diverse wildlife.",
+            "question": "A landlocked country in South Asia, its territory contains ancient Buddhist monasteries and diverse wildlife. But it is best known for its dramatic Himalayan mountain landscapes, including the world's tallest peak, Mount Everest.",
             "answers": ["Nepal"],
             "category": "Geography",
             "id": 57
         },
         {
-            "question": "Which ballet, based on a E.T.A. Hoffman short story, was written by Tchaikovsky and commonly performed around Christmastime featuring a mouse king and a sugar plum Fairy?",
+            "question": "Based on an E.T.A. Hoffmann fairy tale, this beloved Christmas ballet composed by Tchaikovsky features characters like the Mouse King and Sugar Plum Fairy fending off the evil Mouse Queen.",
             "answers": ["The Nutcracker", "Nutcracker"],
             "category": "Fine Arts",
             "Difficulty": "Easy",
@@ -430,7 +430,7 @@
             "id": 58
         },
         {
-            "question": "In Euclidean geometry, this term refers to a four-sided figure where all angles are right angles.  Opposite sides are parallel and equal in length.",
+            "question": "A fundamental shape in Euclidean geometry, squares are a subset of these shapes. They feature four right angles and opposite sides that are parallel and equal in length.",
             "answers": ["Rectangle"],
             "category": "Mathematics",
             "id": 59
@@ -438,33 +438,33 @@
     ],
     [
         {
-            "question": "With over 80 moons, this planet boasts a thin atmosphere of mostly nitrogen and a surface with methane lakes and rivers. It features distinctive rings and though smaller than Jupiter, it's still larger in diameter than all dwarf planets in our solar system. ",
+            "question": "This planet has over 80 known moons. Though smaller than Jupiter, it is still larger in diameter than any dwarf planet, with a mostly nitrogen atmosphere and methane lakes on its surface. It is the sixth planet from the sun and has a distinctive system of rings.",
             "answers": ["Saturn"],
             "category": "Astronomy",
             "id": 60
         },
         {
-            "question": "One of the longest in its genre, this poem features alliterative verse and recounts the protagonist's battles with monstrous foes. Although a work of early English literature, its setting is in Scandinavia.",
+            "question": "This is an epic poem from early English literature, though its setting is in Scandinavia. It is likely over 1000 years old and the one copy is in the Nowell Codex. It features alliterative verse and following a hero's battles against monstrous creatures.",
             "answers": ["Beowulf"],
             "category": "Literature",
             "id": 61
         },
         {
-            "question": "This American poet found both critical acclaim and controversy for his work. His major collection, titled after himself, uses free verse and celebrates individuality.",
+            "question": "A 19th century American poet who celebrated individuality and democracy in free verse, his groundbreaking major work titled after himself found both widespread critical acclaim and controversy.",
             "answers": ["Walt Whitman", "Whitman"],
             "category": "Literature",
             "id": 62
         },
         {
-            "question": "Once known as Edo, this Asian capital is the most populous city in the world and is home to the Imperial Palace, the residence of the Japanese emperor.",
+            "question": "Previously known as Edo, this Asian capital is the largest and most populous metropolitan area worldwide. It is home to the Imperial Palace, the official residence of the Emperor of Japan.",
             "answers": ["Tokyo"],
-            "category": "",
-            "Difficulty": "",
-            "Fact Checked": "No",
+            "category": "Geography",
+            "Difficulty": "Easy",
+            "Fact Checked": "Yes",
             "id": 63
         },
         {
-            "question": "What novel, first published anonymously in 1818, is subtitled \"The Modern Prometheus\", is partly narrated by a man sailing to explore the North Pole was written by Mary Shelley?",
+            "question": "This classic Gothic novel, first published anonymously in 1818, is subtitled 'The Modern Prometheus' and narrated in part by a man sailing to explore the North Pole. It was written by Mary Shelley.",
             "answers": ["Frankenstein"],
             "category": "Literature",
             "Difficulty": "Easy",
@@ -472,37 +472,37 @@
             "id": 64
         },
         {
-            "question": "Derived from Latin for 'middle voice', this verb tense in some languages indicates that the subject acts upon itself. A classic example would be 'The door opened' (where the door isn't actively doing the opening itself).",
-            "answers": ["Medial Voice"],
+            "question": "Derived from Latin meaning 'middle voice', this verb form indicates the subject acts upon itself, like in the example 'The door opened' where the door is not actively doing the opening.",
+            "answers": ["Middle Voice"],
             "category": "Language",
             "id": 65
         },
         {
-            "question": "This psychological state describes an intense period of heightened creativity and productivity. Though sometimes linked to mental illness, not all who experience it have an underlying diagnosis.",
+            "question": "Described as an intense period of heightened creativity and productivity, this psychological state is sometimes linked to mental illness, though not everyone who experiences it has an underlying disorder.",
             "answers": ["Mania"],
             "category": "Psychology",
             "id": 66
         },
         {
-            "question": "This French Impressionist is known for his water lily series, depictions of the Japanese bridge in his garden, and experimentation with light and color in landscapes.",
+            "question": "A founder of French Impressionist painting, he is renowned for his landscape scenes depicting the Japanese bridge in his garden at Giverny as well as his iconic water lily series experimenting with light and color.",
             "answers": ["Claude Monet", "Monet"],
             "category": "Art",
             "id": 67
         },
         {
-            "question": "This American actress, renowned for her beauty, multiple marriages, and charitable work, became an enduring icon of Hollywood's Golden Age and was the first celebrity to earn over $1 million for a single film role.",
+            "question": "One of the most famous Hollywood actresses of her era, she was renowned for her beauty, multiple marriages, and philanthropy. She became the first celebrity to be paid $1 million for a single film role.",
             "answers": ["Elizabeth Taylor", "Taylor"],
-            "category": "",
-            "Difficulty": "",
-            "Fact Checked": "No",
+            "category": "Film",
+            "Difficulty": "Medium",
+            "Fact Checked": "Yes",
             "id": 68
         },
         {
-            "question": "This Dutch painter, known for his distinct use of sunflowers and the fact that he cut off his own ear, is a leading figure from the Post-Impressionist movement.",
+            "question": "A leading Post-Impressionist painter from the Netherlands, he was known for his distinctive style featuring swirling brushwork and bold colors, exemplified in his famous sunflower series. A renowned anecdote involves him severing his own ear.",
             "answers": ["Vincent van Gogh", "van Gogh"],
-            "category": "",
-            "Difficulty": "",
-            "Fact Checked": "No",
+            "category": "Art",
+            "Difficulty": "Medium",
+            "Fact Checked": "Yes",
             "id": 69
         }
     ],
@@ -532,9 +532,9 @@
             "id": 73
         },
         {
-            "question": "Which beloved children's book character, who first appeared in a 1900 book by A.A. Milne, lives in the Hundred Acre Wood and has friends like Piglet, Tigger, and Eeyore? This honey-loving bear with a distinct yellow fur color has been featured in numerous films, television shows, and merchandise.",
-            "answers": ["Winnie the Pooh"],
-            "category": "Children's Literature",
+            "question": "An acclaimed Baroque composer whose early training focused on the harpsichord, he composed an extensive range of instrumental works in addition to his renowned choral pieces while residing in Leipzig, including the monumental 'St. Matthew Passion.'",
+            "answers": ["Johann Sebastian Bach", "Bach"],
+            "category": "Music",
             "id": 74
         },
         {
