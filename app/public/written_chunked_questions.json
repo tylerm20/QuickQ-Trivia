@@ -472,7 +472,7 @@
             "id": 64
         },
         {
-            "question": "Derived from Latin meaning 'middle voice', this verb form indicates the subject acts upon itself, like in the example 'The door opened' where the door is not actively doing the opening.",
+            "question": "Derived from the Latin phrase 'media voce', this verb form indicates the subject acts upon itself, like in the example 'The door opened' where the door is not actively doing the opening.",
             "answers": ["Middle Voice"],
             "category": "Language",
             "id": 65
@@ -514,6 +514,12 @@
             "id": 70
         },
         {
+            "question": "Which British rock band, formed in London in the 1960s, is known for their iconic album covers, progressive rock sound, and concept albums like 'The Wall' and 'The Dark Side of the Moon'? This band, whose founding members included Roger Waters, David Gilmour, and Nick Mason, has sold over 250 million records worldwide.",
+            "answers": ["Pink Floyd"],
+            "category": "Music",
+            "id": 75
+        },
+        {
             "question": "Which American author, who wrote the novel 'The Human Stain' and the short story 'Everyman,' won the Pulitzer Prize for Fiction in 1998 for his book about the life of a retired professor?",
             "answers": ["Philip Roth", "Roth"],
             "category": "Literature",
@@ -536,12 +542,6 @@
             "answers": ["Johann Sebastian Bach", "Bach"],
             "category": "Music",
             "id": 74
-        },
-        {
-            "question": "Which British rock band, formed in London in the 1960s, is known for their iconic album covers, progressive rock sound, and concept albums like 'The Wall' and 'The Dark Side of the Moon'? This band, whose founding members included Roger Waters, David Gilmour, and Nick Mason, has sold over 250 million records worldwide.",
-            "answers": ["Pink Floyd"],
-            "category": "Music",
-            "id": 75
         },
         {
             "question": "This American inventor, who held over 1,000 patents, is best known for developing the first practical incandescent light bulb and establishing the first electric power distribution system. He also founded a prominent research laboratory in New Jersey.",
