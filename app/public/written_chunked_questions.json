@@ -567,5 +567,138 @@
             "category": "Literature",
             "id": 79
         }
+    ],
+    [
+        {
+            "question": "An American writer known for his macabre and mysterious stories, this author gained recognition with his poem 'The Raven.' His haunting prose and explorations of themes like madness and guilt established him as a master of Gothic literature.",
+            "answers": ["Edgar Allan Poe", "Poe"],
+            "category": "Literature",
+            "id": 80
+        },
+        {
+            "question": "A German-born physicist, his groundbreaking work in the early 20th century transformed our understanding of space, time, and gravity. His theory of general relativity and the equation E=mc^2 are cornerstones of modern physics.",
+            "answers": ["Albert Einstein", "Einstein"],
+            "category": "Science",
+            "id": 81
+        },
+        {
+            "question": "This Southeast Asian metropolis, home to the iconic Petronas Twin Towers, boasts a vibrant blend of cultures. Its street food scene offers a culinary journey through the flavors of Malaysia, China, and India.",
+            "answers": ["Kuala Lumpur"],
+            "category": "Geography",
+            "id": 82
+        },
+        {
+            "question": "A pivotal figure in the American Revolution, he served as commander-in-chief of the Continental Army. After the war, he became the first president of the United States, establishing precedents for the young nation. His image adorns the U.S. dollar bill.",
+            "answers": ["George Washington", "Washington"],
+            "category": "U.S. History",
+            "id": 83
+        },
+        {
+            "question": "A hero of Greek mythology, he was the son of Zeus and known for his exceptional strength. He completed twelve arduous labors, including slaying the Nemean lion and capturing the Cretan Bull.",
+            "answers": ["Hercules"],
+            "category": "Mythology",
+            "id": 84
+        },
+        {
+            "question": "This principle in economics explains the relationship between the availability of a product and its price. When demand rises while supply stays constant, prices typically increase.",
+            "answers": ["Supply and Demand"],
+            "category": "Economics",
+            "id": 85
+        },
+        {
+            "question": "Built for the 1889 World's Fair, this Parisian landmark is a wrought-iron structure offering panoramic city views. Its engineer, Gustave Eiffel, also designed the internal framework for the Statue of Liberty.",
+            "answers": ["Eiffel Tower", "The Eiffel Tower"],
+            "category": "Architecture",
+            "id": 86
+        },
+        {
+            "question": "The largest flightless bird native to South America, it possesses a distinctive long neck and powerful legs. It can reach speeds of over 40 miles per hour, using its shaggy plumage to spot predators.",
+            "answers": ["Ostrich"],
+            "category": "Biology",
+            "id": 87
+        },
+        {
+            "question": "A Polish composer and pianist of the Romantic era, he is renowned for his expressive nocturnes and technically demanding études. His music showcased the emotional range of the piano.",
+            "answers": ["Frédéric Chopin", "Chopin"],
+            "category": "Music",
+            "id": 88
+        },
+        {
+            "question": "The massive star at the center of our solar system, its nuclear reactions provide heat and light to Earth. Its surface temperature exceeds 10,000 degrees Fahrenheit, and its immense gravity holds the planets in orbit.",
+            "answers": ["Sun"],
+            "category": "Astronomy",
+            "id": 89
+        }
+    ],
+    [
+        {
+            "question": "The oldest of the grand tours that make up men's professional tennis, this annual tournament has been held at the All England Club in London since 1877. Players are required to wear all-white clothing, and strawberries and cream are a beloved spectator tradition associated with this prestigious event.",
+            "answers": [
+                "The Championships, Wimbledon",
+                "Wimbledon Championships",
+                "Wimbledon"
+            ],
+            "category": "Sports",
+            "id": 80
+        },
+        {
+            "question": "A literary genre popularized in the early 19th century, it emphasizes the individual's expression of emotion and imagination, rejecting the rationality that had been prevalent. English poets like Wordsworth, Coleridge, and Byron were pioneers, producing works like 'Kubla Khan' and 'She Walks in Beauty.'",
+            "answers": ["Romanticism"],
+            "category": "Literature",
+            "id": 81
+        },
+        {
+            "question": "Associated with France and championed by figures like Voltaire and Diderot, this 18th century intellectual movement emphasized reason, individualism, and challenging traditional authority. Its ideals inspired revolutions in America and France, ultimately influencing modern democracy and human rights principles.",
+            "answers": ["The Enlightenment", "Enlightenment"],
+            "category": "Philosophy",
+            "id": 82
+        },
+        {
+            "question": "Derived from the Greek words for 'self' and 'feeding,' this natural phenomenon occurs when marine bioluminescent algae are disturbed by waves, producing a striking glow. Locations ideal for witnessing this dazzling 'glowing beach' effect include Australia's Jervis Bay and Puerto Rico's Mosquito Bay.",
+            "answers": ["Bioluminescence"],
+            "category": "Science",
+            "id": 83
+        },
+        {
+            "question": "The only songbird species that actually isn't a bird, these small nocturnal creatures emit high-pitched chirps despite being mammals. Their name derives from an ancient Greek term meaning 'blind bat,' as they were once thought to be sightless rodents.",
+            "answers": ["Bats"],
+            "category": "Biology",
+            "id": 84
+        },
+        {
+            "question": "A former Russian capital from 1712 to 1918, this planned city was founded by Peter the Great as Russia's 'window to Europe.' Located on the Neva River delta, it features numerous canals and Baroque architecture, lending it the moniker 'Venice of the North.' Its famed attractions include the Hermitage Museum.",
+            "answers": [
+                "Saint Petersburg",
+                "St. Petersburg",
+                "Petrograd",
+                "Leningrad"
+            ],
+            "category": "Geography",
+            "id": 85
+        },
+        {
+            "question": "A coveted recipient of ballet's highest honor, the Ordre des Arts et des Lettres, this Russian dancer pioneered a fluid, gravity-defying style and choreographed roles like Scheherazade and The Dying Swan. He founded her own touring company after defecting from the Soviet Union in 1961.",
+            "answers": ["Rudolf Nureyev", "Nureyev"],
+            "category": "Dance",
+            "id": 86
+        },
+        {
+            "question": "This four-time Formula One World Champion from Britain shares his last name with a smash hit Broadway musical. He is one of the most successful drivers in the history of the sport. He holds records for most race wins, pole positions, and podium finishes. Often commended for his clean driving style, he was knighted in 2009.",
+            "answers": ["Lewis Hamilton", "Hamilton"],
+            "category": "Auto Racing",
+            "id": 87
+        },
+        {
+            "question": "Also known as the 'Crescent City,' this Southern U.S. city is renowned worldwide for its annual Mardi Gras festival and as the birthplace of jazz music. Its French Quarter district features iron-laced balconies and the famed Bourbon Street nightlife.",
+            "answers": ["New Orleans", "NOLA"],
+            "category": "Geography",
+            "id": 88
+        },
+        {
+            "question": "A titan of American literature, this novelist explored themes of morality and identity through thought-provoking allegories and complex protagonists. His most famous works include 'The Scarlet Letter,' a masterpiece delving into sin and guilt in Puritan New England.",
+            "answers": ["Nathaniel Hawthorne", "Hawthorne"],
+            "category": "Literature",
+            "id": 89
+        }
     ]
 ]
