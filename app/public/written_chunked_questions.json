@@ -570,7 +570,7 @@
     ],
     [
         {
-            "question": "An American writer known for his macabre and mysterious stories, this author gained recognition with his poem 'The Raven.' His haunting prose and explorations of themes like madness and guilt established him as a master of Gothic literature.",
+            "question": "An American writer known for his macabre and mysterious stories, his haunting prose and explorations of themes like madness and guilt established him as a master of Gothic literature. Name this author who gained recognition with his poem 'The Raven'.",
             "answers": ["Edgar Allan Poe", "Poe"],
             "category": "Literature",
             "id": 80
@@ -582,13 +582,13 @@
             "id": 81
         },
         {
-            "question": "This Southeast Asian metropolis, home to the iconic Petronas Twin Towers, boasts a vibrant blend of cultures. Its street food scene offers a culinary journey through the flavors of Malaysia, China, and India.",
+            "question": "This Southeast Asian metropolis, home to the iconic Petronas Twin Towers, boasts a vibrant blend of cultures. Name of this city which is home to three of the ten largest shopping malls and is the capital of Malaysia.",
             "answers": ["Kuala Lumpur"],
             "category": "Geography",
             "id": 82
         },
         {
-            "question": "A pivotal figure in the American Revolution, he served as commander-in-chief of the Continental Army. After the war, he became the first president of the United States, establishing precedents for the young nation. His image adorns the U.S. dollar bill.",
+            "question": "A pivotal figure in the American Revolution, he served as commander-in-chief of the Continental Army. His image adorns the U.S. dollar bill. Name the first president of the United States.",
             "answers": ["George Washington", "Washington"],
             "category": "U.S. History",
             "id": 83
@@ -600,7 +600,7 @@
             "id": 84
         },
         {
-            "question": "This principle in economics explains the relationship between the availability of a product and its price. When demand rises while supply stays constant, prices typically increase.",
+            "question": "This economic principle was first named by Scottish writer James Denham-Steuart in his 'Inquiry into the Principles of Political Economy'. Adam Smith also described this principle in his 1776 'Wealth of Nations'. This model of price determination explains the relationship between the availability of a product and its price.",
             "answers": ["Supply and Demand"],
             "category": "Economics",
             "id": 85
