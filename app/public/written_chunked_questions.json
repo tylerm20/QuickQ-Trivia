@@ -508,7 +508,7 @@
     ],
     [
         {
-            "question": "Though primarily prose, this work from the Romantic era features interludes of poetry and tells a tale of doomed love and revenge. It's set against the bleak Yorkshire moors and features the characters of Heathcliff and Catherine.",
+            "question": "Though primarily prose, this work from the Romantic era features interludes of poetry and tells a tale of doomed love and revenge. It's set against the bleak Yorkshire moors and features the characters of Heathcliff and Catherine. It was written by the sister of Charlotte Bronte, the author of Jane Eyre.",
             "answers": ["Wuthering Heights"],
             "category": "Literature",
             "id": 70
@@ -520,7 +520,7 @@
             "id": 75
         },
         {
-            "question": "Which American author, who wrote the novel 'The Human Stain' and the short story 'Everyman,' won the Pulitzer Prize for Fiction in 1998 for his book about the life of a retired professor?",
+            "question": "Which American author, who wrote the novel 'The Human Stain' and the short story 'Everyman,' won the Pulitzer Prize for Fiction in 1998 for his book about the life of a retired professor? His literary alter ego, Nathan Zuckerman, narrates several of his books.",
             "answers": ["Philip Roth", "Roth"],
             "category": "Literature",
             "id": 71
@@ -544,7 +544,7 @@
             "id": 74
         },
         {
-            "question": "This American inventor, who held over 1,000 patents, is best known for developing the first practical incandescent light bulb and establishing the first electric power distribution system. He also founded a prominent research laboratory in New Jersey.",
+            "question": "This American inventor, who held over 1,000 patents, founded a prominent research laboratory in New Jersey. He is best known for developing the first practical incandescent light bulb and establishing the first electric power distribution system.",
             "answers": ["Thomas Edison", "Edison"],
             "category": "Inventors",
             "id": 76
