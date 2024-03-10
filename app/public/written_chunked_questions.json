@@ -677,12 +677,6 @@
             "id": 85
         },
         {
-            "question": "A coveted recipient of ballet's highest honor, the Ordre des Arts et des Lettres, this Russian dancer pioneered a fluid, gravity-defying style and choreographed roles like Scheherazade and The Dying Swan. He founded her own touring company after defecting from the Soviet Union in 1961.",
-            "answers": ["Rudolf Nureyev", "Nureyev"],
-            "category": "Dance",
-            "id": 86
-        },
-        {
             "question": "This four-time Formula One World Champion from Britain shares his last name with a smash hit Broadway musical. He is one of the most successful drivers in the history of the sport. He holds records for most race wins, pole positions, and podium finishes. Often commended for his clean driving style, he was knighted in 2009.",
             "answers": ["Lewis Hamilton", "Hamilton"],
             "category": "Auto Racing",
@@ -699,6 +693,12 @@
             "answers": ["Nathaniel Hawthorne", "Hawthorne"],
             "category": "Literature",
             "id": 89
+        },
+        {
+            "question": "A coveted recipient of ballet's highest honor, the Ordre des Arts et des Lettres, this Russian dancer pioneered a fluid, gravity-defying style and choreographed roles like Scheherazade and The Dying Swan. He founded her own touring company after defecting from the Soviet Union in 1961.",
+            "answers": ["Rudolf Nureyev", "Nureyev"],
+            "category": "Dance",
+            "id": 86
         }
     ]
 ]
