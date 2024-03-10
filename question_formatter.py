@@ -56,7 +56,6 @@ def update_answers(input_filename, output_filename):
         # Replace curly quotes with straight quotes
         new_question_string = cleaned_text.replace("\u201c", "\"").replace("\u201d", "\"").replace("(*) ", "").replace(", for 10 points,", "").replace("  ", " ").replace(" .", ".").replace("For 10 points,", "For your answer")
 
-
         line["question"] = new_question_string
 
     with open(output_filename, 'w') as output_file:

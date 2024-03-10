@@ -21,8 +21,7 @@
         "year": 2010,
         "asnwers": [
             "photosynthesis",
-            "Calvin",
-            "Benson cycle",
+            "Calvin-Benson cycle",
             "carbon fixation",
             "photosynthesis [prompt on Calvin-Benson cycle; prompt on carbon fixation]"
         ]
@@ -163,7 +162,7 @@
         "question": "One writer in this language wrote the collection \"Twenty Love Poems and a Song of Despair.\" Another user of this language published the short story collections The Aleph and Ficciones. Love in the Time of Cholera and One Hundred Years of Solitude were also written in this language. For your answer name this language used by Latin American writers such as Pablo Neruda, Jorge Luis Borges, and Gabriel Garc\u00eda M\u00e1rquez.",
         "round": "CMST_Round03.pdf",
         "year": 2010,
-        "asnwers": ["Spanish", "Espa\u00f1ol", "Spanish [or Espa\u00f1ol]"]
+        "asnwers": ["Spanish", "Espanol", "Spanish [or Espanol]"]
     },
     {
         "num": 9,
@@ -3273,7 +3272,7 @@
         "year": 2011,
         "asnwers": [
             "Santa Anna",
-            "Antonio L\u00f3pez de Santa Anna [prompt on Napoleon of the West before it is read]"
+            "Antonio Lnpez de Santa Anna [prompt on Napoleon of the West before it is read]"
         ]
     },
     {
@@ -5074,7 +5073,7 @@
         "round": "4",
         "year": 2012,
         "asnwers": [
-            "Ragnar\u00f6k [prompt on Gotterdammerung; prompt on end of the world]"
+            "Ragnarnk [prompt on Gotterdammerung; prompt on end of the world]"
         ]
     },
     {
@@ -5746,7 +5745,7 @@
         "question": "In the Admirable Campaign, this man issued the Cartagena Manifesto and the Decree of War to the Death. This victor at the Battle of Boyaca defeated the Spanish in the Battle of Carabobo, helping Venezuela achieve its independence. He met with Jos\u00e9 de San Mart\u00edn at Guayaquil and was the first president of Gran Colombia. For your answer name this South American leader known as \"the Liberator.\"",
         "round": "7",
         "year": 2012,
-        "asnwers": ["Sim\u00f3n Bol\u00edvar"]
+        "asnwers": ["Simnn Bol\u00edvar"]
     },
     {
         "num": 13,
@@ -6143,7 +6142,7 @@
         "subcategory": "Norse",
         "difficulty": "MS",
         "tournament": "Collaborative MS Tournament",
-        "question": "This leader has a weekly talk show, Al\u00f3 Presidente , which went on hiatus in June 2011 when he traveled to Cuba for cancer treatment. This leader called Barack Obama a \"clown\" and has suggested that the U.S. is responsible for numerous cases of cancer among various South American leaders. For your answer name this current President of Venezuela.",
+        "question": "This leader has a weekly talk show, Aln Presidente , which went on hiatus in June 2011 when he traveled to Cuba for cancer treatment. This leader called Barack Obama a \"clown\" and has suggested that the U.S. is responsible for numerous cases of cancer among various South American leaders. For your answer name this current President of Venezuela.",
         "round": "9",
         "year": 2012,
         "asnwers": ["Hugo Chavez"]
@@ -8305,8 +8304,8 @@
             "Spain",
             "Republic",
             "Spain",
-            "Espa\u00f1a",
-            "Kingdom of Spain [or Republic of Spain or Espa\u00f1a]"
+            "Espana",
+            "Kingdom of Spain [or Republic of Spain or Espana]"
         ]
     },
     {
@@ -8442,7 +8441,7 @@
         "subcategory": "Norse",
         "difficulty": "MS",
         "tournament": "Collaborative MS Tournament",
-        "question": "A December 2012 agreement between this country's National Action, Democratic Revolution, and Institutional Revolutionary Parties led to constitutional amendments in 2013. The last of those parties is headed by Enrique Pe\u00f1a Nieto [en-REE-kay PAY-nya nee-AY-toe], who replaced Felipe [fay-LEE-pay] Calderon as president. For your answer name this country that recently experienced an increase in drug-related violence and that shares a long border with the United States.",
+        "question": "A December 2012 agreement between this country's National Action, Democratic Revolution, and Institutional Revolutionary Parties led to constitutional amendments in 2013. The last of those parties is headed by Enrique Pena Nieto [en-REE-kay PAY-nya nee-AY-toe], who replaced Felipe [fay-LEE-pay] Calderon as president. For your answer name this country that recently experienced an increase in drug-related violence and that shares a long border with the United States.",
         "round": "8",
         "year": 2013,
         "asnwers": [
