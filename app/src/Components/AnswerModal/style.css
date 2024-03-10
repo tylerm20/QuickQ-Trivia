@@ -12,6 +12,7 @@
     padding: 10px;
     border: 1px solid #ccc; /* Basic input styling */
     border-radius: 4px;
+    font-size: 16px;
 }
 
 .AnswerModal button {
