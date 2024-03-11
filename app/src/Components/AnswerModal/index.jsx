@@ -1,10 +1,14 @@
-import React, { useState, useRef } from "react";
+import React, { useState, useRef, useEffect } from "react";
 import BasicButton from "../BasicButton";
 import "./style.css";
 
 const AnswerModal = ({ onSubmit }) => {
     const [text, setText] = useState("");
     const inputRef = useRef(null);
+
+    useEffect(() => {
+        inputRef.current?.focus({ preventScroll: true });
+    }, []);
 
     const handleTextChange = (e) => {
         setText(e.target.value);
@@ -24,7 +28,6 @@ const AnswerModal = ({ onSubmit }) => {
     return (
         <div className="AnswerModal">
             <input
-                autoFocus
                 type="text"
                 value={text}
                 onChange={handleTextChange}
