@@ -6,6 +6,7 @@
     max-width: 500px;
     margin: 0 auto;
     height: calc(100vh - 40px);
+    height: -webkit-fill-available;
 }
 
 .Title {
