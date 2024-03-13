@@ -1,7 +1,7 @@
 .GameScreen {
     display: flex;
     flex-direction: column;
-    min-height: calc(100vh - 100px);
+    flex-grow: 1;
 }
 
 .TopRow {
@@ -12,13 +12,14 @@
 
 .BuzzBottomRow {
     display: flex;
-    align-items: center;
+    align-items: flex-end;
     justify-content: space-between;
     flex-grow: 1;
 }
 
 .BetweenQuestionsBottomRow {
     display: flex;
+    align-items: flex-end;
     justify-content: space-between;
     flex-grow: 1;
 }
@@ -55,7 +56,6 @@
 }
 
 .CenterContent {
-    flex-grow: 1;
 }
 
 .Correct {
@@ -78,4 +78,5 @@
     margin-top: 20px;
     display: flex;
     justify-content: space-between;
+    flex-grow: 1;
 }
