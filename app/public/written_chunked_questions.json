@@ -1216,9 +1216,9 @@
             "round": "3",
             "year": 2013,
             "answers": [
-                "Roosevelt",
                 "Eleanor Roosevelt",
-                "Anna Eleanor Roosevelt"
+                "Anna Eleanor Roosevelt",
+                "Eleanor"
             ],
             "id": 141
         },
@@ -1233,7 +1233,7 @@
             "year": 2011,
             "answers": [
                 "Puccini",
-                "Giacomo Antonio Domenico Michele Secondo Maria Puccini [accept Turandot before \"this composer\"]"
+                "Giacomo Antonio Domenico Michele Secondo Maria Puccini"
             ],
             "id": 142
         },
@@ -1270,7 +1270,7 @@
             "question": "This man came to power through the coup of 18 Brumaire. His forces defeated the Prussians at Jena and the combined Russian and Austrian forces at Austerlitz. His invasion of Russia was a failure because of the harsh winter. He spent the last years of his life exiled on St. Helena, and he sold the Louisiana Territory to America. Name this French emperor from Corsica who ruled after the French revolution",
             "round": "1",
             "year": 2012,
-            "answers": ["Napoleon Bonaparte [or Napoleon I]"],
+            "answers": ["Napoleon Bonaparte", "Napoleon I"],
             "id": 145
         },
         {
@@ -1319,7 +1319,9 @@
             "round": "7",
             "year": 2011,
             "answers": [
-                "People's Republic of China [or PRC; or Zhongguo; or Zhonggua Renmin Gongheguo]"
+                "People's Republic of China",
+                "PRC", "Zhongguo", 
+                "Zhonggua Renmin Gongheguo"]
             ],
             "id": 149
         }
@@ -1346,7 +1348,7 @@
             "question": "This man wrote that \"injustice anywhere is a threat to justice everywhere\" in his Letter from Birmingham Jail. This organizer of the Southern Christian Leadership Conference hoped that his children would be judged by \"the content of their character\" in his 1963 speech at the Lincoln Memorial. For your answer the \"I Have A Dream\" speech was given by what civil rights leader commemorated on a January holiday?",
             "round": "CMST_Round08.pdf",
             "year": 2010,
-            "answers": ["King", "MLK", "Martin Luther King Jr. [accept MLK]"],
+            "answers": ["Martin Luther King Jr.", "King", "MLK"],
             "id": 151
         },
         {
@@ -1371,6 +1373,7 @@
             "round": "5",
             "year": 2013,
             "answers": [
+                "Salvador Dal\u00ed",
                 "Salvador (Felipe Jacinto) Dal\u00ed (i Dom\u00e8nech)"
             ],
             "id": 153
@@ -1396,7 +1399,7 @@
             "question": "In one episode in this work, the narrator tries to convince adults that he is drawing a snake digesting an elephant, which they confuse with a hat. The title character of this novella lived on an asteroid the size of a house before catching a rose in a lie and becoming lonely. Its title character visits seven planets, the last of which is Earth. Name this novel by Antoine de Saint-Exup\u00e9ry.",
             "round": "1",
             "year": 2012,
-            "answers": ["The Little Prince [or Le Petit Prince]"],
+            "answers": ["The Little Prince", "Le Petit Prince"],
             "id": 155
         },
         {
@@ -1409,7 +1412,7 @@
             "round": "3",
             "year": 2013,
             "answers": [
-                "amplitude modulation or AM radio [prompt on \\\"radio\\\" or similar answers]"
+                "amplitude modulation",  "AM radio"
             ],
             "id": 156
         },
@@ -1422,7 +1425,7 @@
             "question": "In this novel, Charlotte Lucas marries William Collins. At the end of this novel, Lydia ends up marrying the villainous Mr. Wickham and Jane ends up marrying the very rich Mr. Bingley. Also at the end of this novel, a second marriage proposal by Fitzwilliam Darcy is finally accepted by Elizabeth Bennett. Name this Jane Austen novel in which Darcy and Elizabeth embody the two titular vices.",
             "round": "CMST_Round10.pdf",
             "year": 2010,
-            "answers": ["Pride", "Prejudice", "Pride and Prejudice"],
+            "answers": ["Pride and Prejudice"],
             "id": 157
         },
         {
@@ -1434,7 +1437,7 @@
             "question": "One creation story from this religion claims that all beings were sprung from one-fourth of Purusa, while the Puranas describe how the world is created, sustained, and destroyed by three gods in the form of a lotus flower. Other texts important in this religion include the Mahabharata , the Ramayana , and the Vedas (VAYduhs). For your answer what religion centers on the three gods Vishnu, Shiva, and Brahma?",
             "round": "2",
             "year": 2011,
-            "answers": ["Hinduism [accept sanatara dharma]"],
+            "answers": ["Hinduism", "sanatara dharma"],
             "id": 158
         },
         {
