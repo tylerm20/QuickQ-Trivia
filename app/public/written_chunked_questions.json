@@ -1320,8 +1320,9 @@
             "year": 2011,
             "answers": [
                 "People's Republic of China",
-                "PRC", "Zhongguo", 
-                "Zhonggua Renmin Gongheguo"]
+                "PRC",
+                "Zhongguo",
+                "Zhonggua Renmin Gongheguo"
             ],
             "id": 149
         }
@@ -1411,9 +1412,7 @@
             "question": "Lee Deforest is considered one of the inventors of this technique in the early 1900s when he was working on space telegraphy. This form of radio communication involves the transmission of sinusoidal waves that have varying strength over time. Most early commercial radios used this technique due to its simplicity. Name this radio transmission methodology contrasted with frequency modulation.",
             "round": "3",
             "year": 2013,
-            "answers": [
-                "amplitude modulation",  "AM radio"
-            ],
+            "answers": ["amplitude modulation", "AM radio"],
             "id": 156
         },
         {
