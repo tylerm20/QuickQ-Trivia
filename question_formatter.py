@@ -62,8 +62,55 @@ def update_answers(input_filename, output_filename):
         json.dump(data_lines, output_file, indent=4)
     return
 
+def update_brackets_in_answers(input_filename):
+    with open(input_filename, 'r') as input_file:
+        data_lines = json.load(input_file)
+
+    for chunk in data_lines:
+        for line in chunk:
+            current_answers_list = line["answers"]
+            new_answers = []
+            for answer in current_answers_list:
+                # print(answer)
+                pattern = r'\[([^\]]*or[^\]]*)\]'
+                matches = re.findall(pattern, answer)
+                clean_matches = []
+                for match in matches:
+                    answer = re.sub(r'\[' + re.escape(match) + r'\]', '', answer).strip()
+                    clean_matches.append(match.replace("or ", ""))
+                # print(answer)
+                # print(matches)
+                new_answers.append(answer)
+                new_answers += clean_matches
+                # print(new_answers)
+
+            line["answers"] = new_answers
+
+
+    with open(output_filename, 'w') as output_file:
+        json.dump(data_lines, output_file, indent=4)
+
+
+def update_answers_3(input_filename):
+    with open(input_filename, 'r') as input_file:
+        data_lines = json.load(input_file)
+
+    for chunk in data_lines:
+        for line in chunk:
+            current_answers_list = line["answers"]
+            new_answers = []
+            for answer in current_answers_list:
+                split_answer = answer.split("; ")
+                new_answers += split_answer
+
+        line["answers"] = new_answers
+
+
+    with open(output_filename, 'w') as output_file:
+        json.dump(data_lines, output_file, indent=4)
+
 # Example usage
-input_filename = "/Users/mheavey/personal/minquiz/unformatted_questions_unused.json"
-output_filename = "formatted_qs_p1.json"
-update_answers(input_filename, output_filename)
+input_filename = "/Users/mheavey/personal/minquiz/app/public/written_chunked_questions.json"
+output_filename = "/Users/mheavey/personal/minquiz/app/public/written_chunked_questions.json"
+update_answers_3(input_filename)
 
