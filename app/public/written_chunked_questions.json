@@ -1662,7 +1662,7 @@
             "question": "In one poem, this writer depicted the blacksmith named Basil as the father of Gabriel, who is the sweetheart of the title daughter of Benedict. In another poem, this writer depicted the evil magician named Pearl-Feather who is defeated by a title Native American. Name this American writer who wrote Evangeline and The Song of Hiawatha.",
             "round": "CMST_Round06.pdf",
             "year": 2010,
-            "answers": ["Longfellow", "Henry Wadsworth Longfellow"],
+            "answers": ["Henry Wadsworth Longfellow", "Longfellow"],
             "id": 176
         },
         {
@@ -1698,7 +1698,7 @@
             "question": "Near the end of this novel, Marya Bolkonskaya marries a cavalry officer named Nikolay. Nikolay's sister later marries the former husband of the most fascinating woman in Petersburg, Helene Kuragina. By the end of this novel, Natasha Rostova marries Pierre Bezukhov. Name this Leo Tolstoy novel that is notoriously long.",
             "round": "CMST_Round08.pdf",
             "year": 2010,
-            "answers": ["War", "Peace", "War and Peace"],
+            "answers": ["War and Peace"],
             "id": 179
         }
     ],
@@ -1712,10 +1712,7 @@
             "question": "One deity from this myth system received the four winds as a gift from his grandfather and used them to kill its creator goddess, Tiamat. Another deity from this myth system corresponds to the Sumerian Inanna and removed seven objects of clothing at seven different gates in the underworld. For your answer Marduk and Ishtar appear in what myth system that also includes the legendary king Gilgamesh?",
             "round": "10",
             "year": 2012,
-            "answers": [
-                "Babylonian",
-                "accept Mesopotamian; do not accept other more specific Mesopotamian civilizations, such as \"Sumerian\" \"Assyrian\""
-            ],
+            "answers": ["Babylonian", "Mesopotamian"],
             "id": 180
         },
         {
@@ -1727,10 +1724,7 @@
             "question": "This piece follows the tenor Air \"Thou shalt break them\" and, after a break, precedes \"I know that my Redeemer liveth.\" King George II supposedly stood during its 1743 London premiere. It includes the line \"King of Kings and Lord of Lords,\" and notes \"He shall reign forever and ever.\" Name this choral excerpt from Handel's oratorio Messiah, named for its opening word of praise.",
             "round": "4",
             "year": 2012,
-            "answers": [
-                "Hallelujah Chorus",
-                "prompt on Messiah before mentioned"
-            ],
+            "answers": ["Hallelujah Chorus"],
             "id": 181
         },
         {
@@ -1827,9 +1821,9 @@
             "round": "8",
             "year": 2013,
             "answers": [
+                "perfect squares",
                 "perfect",
                 "square numbers",
-                "perfect squares",
                 "n squared",
                 "n",
                 "second power",
@@ -1913,11 +1907,7 @@
             "question": "One figure involved in this event is drunk with the blood of saints. During it, seven vials are poured by seven angels in order to wreak havoc. It is set to take place on the Hill of Megiddo. Death, Famine, War, and Pestilence are the \"Four Horsemen\" of this event. For your answer identify this Biblical event where the forces of good and evil will do battle one last time.",
             "round": "CMST_Round07.pdf",
             "year": 2010,
-            "answers": [
-                "Apocalypse",
-                "Armageddon",
-                "Apocalypse [accept Armageddon]"
-            ],
+            "answers": ["Apocalypse", "Armageddon", "Apocalypse"],
             "id": 195
         },
         {
@@ -1953,12 +1943,7 @@
             "question": "Four people were killed in this city's St. John's Regional Medical Center, which is now closed and scheduled for demolition. The Red Cross estimated 25% of this town was destroyed that same day, including about 7,000 houses. For your answer identify this Missouri city devastated by a tornado rated as an EF-5, the highest on the Enhanced Fujita scale, in May 2011.",
             "round": "4",
             "year": 2012,
-            "answers": [
-                "Joplin",
-                "tornado",
-                "Joplin Tornado Outbreak",
-                "prompt on tornado until mentioned"
-            ],
+            "answers": ["Joplin", "tornado", "Joplin Tornado Outbreak"],
             "id": 198
         },
         {
@@ -2045,6 +2030,7 @@
             "round": "9",
             "year": 2012,
             "answers": [
+                "Marquis de Lafayette",
                 "Marie-Joseph Paul Yves Roch Gilbert du Motier, Marquis de Lafayette"
             ],
             "id": 205
@@ -2058,10 +2044,7 @@
             "question": "This building was constructed with help from Hiram , King of Tyre and Boaz. It was ostensibly built on Mount Moriah, which is now home to the Dome of the Rock. This building housed the Ark of the Covenant. After it was destroyed by Nebuchadnezzar , it was rebuilt, only to be destroyed again in 70 CE. For your answer identify this place of worship first built by Solomon.",
             "round": "9",
             "year": 2011,
-            "answers": [
-                "temple of Jerusalem",
-                "accept temple of Solomon before \"Dome of the Rock;\" prompt on temple"
-            ],
+            "answers": ["temple of Jerusalem"],
             "id": 206
         },
         {
@@ -2226,7 +2209,10 @@
             "question": "This man chaired the 40 Committee that authorized the CIA backed coup of Salvador Allende in Chile. He negotiated with Zhou Enlai during Richard Nixon's 1972 visit to China. As National Security Advisor, he applied the term \"d\u00e9tente\" [day-TAHNT] to relaxation of tensions with the Soviet Union. Name this Nobel Peace Prize winner and realpolitik advocate who served as Secretary of State at the end of the Vietnam War.",
             "round": "10",
             "year": 2013,
-            "answers": ["(Heinz Alfred) \\\"Henry\\\" Kissinger"],
+            "answers": [
+                "Henry Kissinger",
+                "(Heinz Alfred) \\\"Henry\\\" Kissinger"
+            ],
             "id": 218
         },
         {
@@ -2264,7 +2250,7 @@
             "question": "In 1983 this character was given a purple and green battle suit. This cancer survivor was fictionally the forty-third U.S. President. John Byrne rewrote this character as a white-collar criminal who runs a prominent aerospace company. He has been portrayed by Gene Hackman and Kevin Spacey in movies, and Michael Rosenbaum in Smallville. Name this bald supervillain known for his rivalry with Superman.",
             "round": "9",
             "year": 2012,
-            "answers": ["Alexander John \"Lex\" Luthor"],
+            "answers": ["Lex Luther", "Alexander John \"Lex\" Luthor"],
             "id": 221
         },
         {
@@ -2482,11 +2468,7 @@
             "question": "This figure once tried to destroy mankind by tearing out an eye, which turned into Hathor. At night, he brings light to the darkness of the underworld. The disk above this deity's head is called Aton. Apep is depicted in an eternal struggle with this god, whose primary center of worship was at Heliopolis. In the form of Atum, he is the figure who gives light and warmth. Name this Egyptian sun deity.",
             "round": "CMST_Round02.pdf",
             "year": 2010,
-            "answers": [
-                "Ra",
-                "Ra",
-                "accept Amon-Ra Re Amon-Re; do not accept \u201cAmon\u201d by itself"
-            ],
+            "answers": ["Amon-Ra", "Ra", "Amon-Ra Re Amon-Re"],
             "id": 238
         },
         {
@@ -2560,7 +2542,7 @@
             "question": "This poem's original form notes that the speaker and his addressee have \"rin about the braes\" and \"paidl't i' the burn.\" The speaker of this poem written in Scottish dialect claims that they will \"take a cup of kindness yet\" and asks, \"Should auld acquaintance be forgot, and never brought to min'?\" Name this Robert Burns poem that is often sung on New Year's Eve.",
             "round": "3",
             "year": 2012,
-            "answers": ["\"Auld Lang Syne\""],
+            "answers": ["Auld Lang Syne"],
             "id": 244
         },
         {
