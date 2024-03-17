@@ -1463,7 +1463,18 @@
             "round": "10",
             "year": 2011,
             "answers": [
-                "The Pope [or Bishop of Rome; or Vicar of Jesus Christ; or Successor of the Prince of the Apostles; or Supreme Pontiff of the Universal Church; or Primate of Italy; or Archbishop and Metropolitan of the Roman Province; or Sovereign of the State of Vatican City; or Servant of the Servants of God; or Pontifex Maximus; or Patriarch of the West; prompt on His Holiness]"
+                "The Pope",
+                "Pope",
+                "Bishop of Rome",
+                "Vicar of Jesus Christ",
+                "Successor of the Prince of the Apostles",
+                "Supreme Pontiff of the Universal Church",
+                "Primate of Italy",
+                "Archbishop and Metropolitan of the Roman Province",
+                "Sovereign of the State of Vatican City",
+                "Servant of the Servants of God",
+                "Pontifex Maximus",
+                "Patriarch of the West"
             ],
             "id": 160
         },
@@ -1476,7 +1487,7 @@
             "question": "This work includes the aria \"Un bel di,\" describing a beautiful day when a ship will arrive with the singer's husband after three years away. Unfortunately, the consul Sharpless informs the title character that her husband has married Kate, an American worman. Lieutenant Pinkerton abandons the title character of what Giacomo Puccini opera about Cio-Cio San, a Japanese woman known by an insect nickname?",
             "round": "3",
             "year": 2013,
-            "answers": ["Madame Butterfly [or Madama butterfly]"],
+            "answers": ["Madame Butterfly", "Madama butterfly"],
             "id": 161
         },
         {
@@ -1500,9 +1511,7 @@
             "question": "The four quarters of this person's residence were each dedicated to a different god. This ruler's forces were nearly done in by enemy chariots when crossing the Orontes at the Battle of Kadesh. This son of Seti I built several complexes, including a tomb in the Valley of the Queens for his wife Nefertari. Name this nineteenth dynasty Egyptian pharaoh, known as \"Ozymandias\" in Greek.",
             "round": "3",
             "year": 2012,
-            "answers": [
-                "Ramses II [accept Ramses the Great or Rameses II, prompt on Ramses; prompt on Ozymandias before mentioned]"
-            ],
+            "answers": ["Ramses II", "Ramses the Great"],
             "id": 163
         },
         {
@@ -1526,12 +1535,7 @@
             "question": "The distribution of these items was outlawed in Mumbai, India after a 2005 flood was partly blamed on blocked drains throughout the city. In 2011, Italy was the first European nation to completely ban their distribution, though biodegradable ones are still legal. For your answer identify these items banned in Seattle as of July 2012, though consumers will still be able to purchase paper ones, or use their own cloth ones.",
             "round": "3",
             "year": 2012,
-            "answers": [
-                "non",
-                "biodegradable plastic bags",
-                "bags",
-                "non-biodegradable plastic bags [prompt on bags]"
-            ],
+            "answers": ["plastic bags", "non-biodegradable plastic bags"],
             "id": 165
         },
         {
@@ -1540,14 +1544,13 @@
             "subcategory": "British",
             "difficulty": "MS",
             "tournament": "Collaborative MS Tournament",
-            "question": "One copy of this document was sent to the Cinque [sink] ports. It notably banned the use of fish-weir traps, and Innocent III tried to make it void after one of its signers repented to him. This agreement created a council of 25 barons, who fought a war after the loser of the Battle of Bouvines failed to follow it. Name this document which established habeas corpus, a charter signed at Runnymede by John of England.",
+            "question": "One copy of this document was sent to the Cinque ports. It notably banned the use of fish-weir traps, and Innocent III tried to make it void after one of its signers repented to him. This agreement created a council of 25 barons, who fought a war after the loser of the Battle of Bouvines failed to follow it. Name this document which established habeas corpus, a charter signed at Runnymede by John of England.",
             "round": "8",
             "year": 2013,
             "answers": [
                 "Magna Carta",
-                "Great Charter",
-                "Liberties;",
-                "Magna Carta Libertatum [or Great Charter of Liberties; prompt on Runnymede Charter]"
+                "Great Charter of Liberties;",
+                "Magna Carta Libertatum"
             ],
             "id": 166
         },
@@ -1560,13 +1563,7 @@
             "question": "J.M.W. Turner painted one of these things before it was to be \"broken up\" in his The Fighting Temeraire. A black man stands in a small brown one of these things in a Winslow Homer painting. A John Copley painting showing many of these includes a group of people on one of them as Brook Watson is being rescued from a shark attack. Name these sea vessels which are often shown in naval war scenes.",
             "round": "2",
             "year": 2013,
-            "answers": [
-                "boats",
-                "ships",
-                "warships;",
-                "sea vessels",
-                "boats or ships [accept warships; accept sea vessels before it is mentioned]"
-            ],
+            "answers": ["boats", "ships", "warships"],
             "id": 167
         },
         {
@@ -1578,9 +1575,7 @@
             "question": "Mack, Dora, and Lee Chong try to throw a party for Doc in this author's novel Cannery Row. This author wrote about Kino's encounter with the title object in The Pearl. Two migrant workers, George and Lennie, are the main characters in his Of Mice and Men; another work features the Joad family and other \"Okies.\" Name this American author of The Grapes of Wrath.",
             "round": "3",
             "year": 2012,
-            "answers": [
-                "John Steinbeck [accept Cannery Row before it is read]"
-            ],
+            "answers": ["John Steinbeck"],
             "id": 168
         },
         {
@@ -1606,7 +1601,7 @@
             "question": "The Neptunbrunnen is a fountain in this city, and its Museum Island is a World Heritage Site. The Charlottenburg Palace can be found in it, and Karl-Marx-Allee is a major boulevard. The Reichstag and the Brandenburg Gate are landmarks in this city that was divided by a wall until 1989. Name this capital of Germany.",
             "round": "6",
             "year": 2011,
-            "answers": ["Berlin, Germany"],
+            "answers": ["Berlin, Germany", "Berlin"],
             "id": 170
         },
         {
@@ -1620,18 +1615,6 @@
             "year": 2011,
             "answers": ["fractals"],
             "id": 171
-        },
-        {
-            "num": 14,
-            "category": "Science",
-            "subcategory": "Physics",
-            "difficulty": "MS",
-            "tournament": "Collaborative MS Tournament",
-            "question": "An alpha particle is a nucleus of this element, which has a filled 1s.",
-            "round": "5",
-            "year": 2011,
-            "answers": ["helium [accept He before it is read]"],
-            "id": 172
         },
         {
             "num": 14,
@@ -1654,7 +1637,7 @@
             "question": "When this athlete was the 2004 NBA Rookie of the Year, he became the youngest person ever to win that award. This player was criticized for 3-for-14 shooting in a Game 5 loss to the Boston Celtics in the 2010 playoffs and the owner of his former team, Dan Gilbert, published a letter after this player left in free agency. Name this former Cleveland Cavalier who televised his decision to accept a contract with the Miami Heat.",
             "round": "1",
             "year": 2011,
-            "answers": ["LeBron Raymone James"],
+            "answers": ["LeBron Raymone James", "LeBron", "James"],
             "id": 174
         },
         {
@@ -1690,7 +1673,7 @@
             "question": "This city contains the neo-gothic Votive Church, and its Karlskirche is the largest Baroque Cathedral north of the Alps. It is the capital of a country with such states as Burgenland, Tyrol, and Styria. This city's Ring Boulevard was ordered to be restructured by Franz Joseph I, and it lies on the Danube just upriver from Bratislava, the capital of Slovakia. Name this capital of Austria.",
             "round": "2",
             "year": 2011,
-            "answers": ["Vienna,", "Wien", "Vienna, Austria [or Wien]"],
+            "answers": ["Vienna,", "Wien", "Vienna, Austria"],
             "id": 177
         },
         {
@@ -1702,7 +1685,7 @@
             "question": "The European cuckoo is a brood example of this type of bird, and mistletoe is a common plant of this type. Trypanosomes , which cause sleeping sickness, are one of many protist species of this type, and the blood fluke is this kind of worm that uses a snail as an intermediate host. Name these organisms, like ticks and tapeworms, that feed in or on the body of another organism, harming it in the process.",
             "round": "10",
             "year": 2012,
-            "answers": ["parasite [or parasitic]"],
+            "answers": ["parasite", "parasitic"],
             "id": 178
         },
         {
