@@ -1837,7 +1837,8 @@
                 "power",
                 "2",
                 "(perfect) square numbers or perfect squares",
-                "accept n squared similar answers; accept n to the second power n to the power of 2"
+                "n squared similar answers",
+                "n to the second power n to the power of 2"
             ],
             "id": 189
         }
@@ -2619,7 +2620,7 @@
             "question": "One king of this name had his ministers Thomas Cromwell and Thomas More executed. The seventh king of this name founded the Tudor dynasty after he won the Battle of Bosworth Field. His son of this name left the Catholic Church so that he could divorce Catherine of Aragon and marry Anne Boleyn. For your answer give this name of several English kings, the eighth of whom had six wives.",
             "round": "3",
             "year": 2012,
-            "answers": ["Henry", "accept Henry VIIHenry VIII"],
+            "answers": ["Henry", "Henry VIIHenry VIII"],
             "id": 249
         }
     ],
@@ -2904,7 +2905,7 @@
                 "\\\"Sheen\\\"",
                 "\\\"Estevez\\\"",
                 "Charlie Sheen",
-                "Carlos Irwin Estevez; prompt on \\\"Sheen\\\" \\\"Estevez\\\""
+                "Carlos Irwin Estevez"
             ],
             "id": 269
         }
@@ -3573,7 +3574,7 @@
             "question": "This holiday commemorates the result of a trial before the Sanhedrin , which was led by Caiaphas. Some believe that trial took place the day before, leading them to begin observation of this holiday a day early. It commemorates the day that Pontius Pilate attempted to prevent rioting by permitting the execution of Jesus Christ. Name this holiday that occurs two days before Easter.",
             "round": "3",
             "year": 2011,
-            "answers": ["Good Friday", "Great Friday; Holy Friday"],
+            "answers": ["Good Friday", "Great Friday", "Holy Friday"],
             "id": 319
         }
     ],
@@ -3982,7 +3983,7 @@
             "year": 2013,
             "answers": [
                 "concerto",
-                "accept Brandenburg Concerto(s) before \\\"Bela Bartok\\\" is mentioned"
+                "Brandenburg Concerto(s) before \\\"Bela Bartok\\\" is mentioned"
             ],
             "id": 349
         }
@@ -4381,7 +4382,7 @@
             "year": 2011,
             "answers": [
                 "(Thomas Lanier) \"Tennessee\" Williams",
-                "accept Night of the Iguana before it is read"
+                "Night of the Iguana before it is read"
             ],
             "id": 379
         }
@@ -5041,9 +5042,7 @@
             "question": "This person won the Nobel Peace Prize for leading negotiations for the Treaty of Portsmouth, which ended the Russo-Japanese War. This leader coined the term \"bully pulpit\" and introduced the Square Deal. During the Spanish-American War, he led a charge up San Juan Hill with the Rough Riders, and he would later run for President on the Bull Moose ticket. Name this President who succeeded William McKinley.",
             "round": "3",
             "year": 2011,
-            "answers": [
-                "Theodore \"Teddy\" Roosevelt [prompt on Roosevelt; prompt on T.R.]"
-            ],
+            "answers": ["Theodore \"Teddy\" Roosevelt [prompt on Roosevelt"],
             "id": 429
         }
     ],
@@ -5451,7 +5450,8 @@
             "answers": [
                 "Afghanistan",
                 "War against the Taliban",
-                "War in Afghanistan [accept War against the Taliban before mentioned; accept other obvious"
+                "War in Afghanistan [accept War against the Taliban before mentioned",
+                "other obvious"
             ],
             "id": 459
         }
@@ -6525,7 +6525,7 @@
             "question": "During World War II, this country was run by Josef Terboven, though its official Minister President was Vidkun Quisling. It used to be the western part of the Kalmar Union. More recently, in 2011 it suffered from a mass murder at a youth league camp carried out by Anders Breivik. For many years, its capital was named for King Christian IV [\"the fourth\"]. Name this Scandinavian country whose capital is now called Oslo.",
             "round": "10",
             "year": 2013,
-            "answers": ["Kingdom of Norway", "accept Kongeriket Norge"],
+            "answers": ["Kingdom of Norway", "Kongeriket Norge"],
             "id": 539
         }
     ],
@@ -8144,7 +8144,7 @@
                 "Peter",
                 "Peter the Great;",
                 "Peter",
-                "Peter I [accept Peter the Great; prompt on Peter]"
+                "Peter I [accept Peter the Great"
             ],
             "id": 659
         }
@@ -9312,7 +9312,7 @@
             "question": "This father of Kebechet had a cult centered at Cynopolis. This Egyptian god was associated with the Greek deity Hermes because of their similar roles. His mother is given as either Bast or Nephthys, and he predates one of his potential fathers, Osiris, as god of the underworld. This god weighs the heart of the dead against Ma'at's (MAHT's) feather. For your answer identify this jackal-headed Egyptian god of mummification.",
             "round": "10",
             "year": 2011,
-            "answers": ["Anubis", "Inpu; Anpu; Anup; Ienpw"],
+            "answers": ["Anubis", "Inpu", "Anpu", "Anup", "Ienpw"],
             "id": 749
         }
     ],
@@ -10818,10 +10818,7 @@
             "question": "Franz Schubert's three symphonies in this key are nicknamed Tragic, Little, and Great. Mozart's Jupiter Symphony and Bach's first Prelude from The Well Tempered Clavier are in this major key, whose relative minor is A minor. Instruments pitched in this key include the bassoon, oboe, and flute. A scale in this key played on piano only hits white keys. Name this musical key that contains no sharps or flats.",
             "round": "4",
             "year": 2013,
-            "answers": [
-                "C major",
-                "prompt on \\\"C\\\" before \\\"majkey\\\" is mentioned; do not prompt on accept \\\"c minor\\\""
-            ],
+            "answers": ["C major", "do not prompt on accept \\\"c minor\\\""],
             "id": 862
         }
     ]

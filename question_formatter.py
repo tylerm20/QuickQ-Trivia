@@ -100,8 +100,13 @@ def update_answers_3(input_filename):
             current_answers_list = line["answers"]
             new_answers = []
             for answer in current_answers_list:
-                split_answer = answer.split("; ")
-                new_answers += split_answer
+                if (answer.startswith("accept ")):
+                    new_answers.append(answer.replace("accept ", ""))
+                elif answer.startswith("prompt on "):
+                    pass
+                else:
+                    new_answers.append(answer)
+
 
         line["answers"] = new_answers
 
