@@ -14,6 +14,9 @@ const FinishScreen = ({
     score,
     totalTime,
     questions,
+    isDevMode,
+    setIsDevMode,
+    streak,
 }) => {
     const finalScore = score || playerResults.score;
     const finalTime = totalTime || playerResults.totalTime;
@@ -96,6 +99,7 @@ const FinishScreen = ({
             <h3 className="Header">Game Over</h3>
             <h3 className="Score">Score: {finalScore}</h3>
             <h3 className="Score">Total Time: {finalTime} sec</h3>
+            <h3 className="Score">Streak: {streak} days</h3>
             <div className="Share">
                 <BasicButton onClick={share}>share</BasicButton>
             </div>

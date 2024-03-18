@@ -17,6 +17,7 @@ function App() {
     const [questions, setQuestions] = useState(null);
     const [today, setToday] = useState(new Date());
     const [isDevMode, setIsDevMode] = useState(false);
+    const [streak, setStreak] = useState(0);
 
     const setScreenShowingAndPreviousScreen = (newScreen) => {
         setPreviousScreen(screenShowing);
@@ -25,6 +26,27 @@ function App() {
 
     const hasPlayedTodaysGame = () => {
         return !!localStorage.getItem(today.toDateString());
+    };
+
+    const calculateStreak = () => {
+        let dateToCheck = new Date();
+        let streak = 0;
+        let keepChecking = true;
+        while (keepChecking) {
+            keepChecking = false;
+            const results = localStorage.getItem(dateToCheck.toDateString());
+            if (results) {
+                const jsonResults = JSON.parse(results);
+                if (jsonResults && jsonResults.score > 0) {
+                    streak += 1;
+                    keepChecking = true;
+                    dateToCheck = new Date(
+                        dateToCheck.setDate(dateToCheck.getDate() - 1)
+                    );
+                }
+            }
+        }
+        setStreak(streak);
     };
 
     function daysPastMarch1st2024() {
@@ -67,6 +89,7 @@ function App() {
             );
             setPlayerResults(results);
         }
+        calculateStreak();
     }, []);
 
     const getScreenToShow = () => {
@@ -106,6 +129,7 @@ function App() {
                         questions={questions}
                         isDevMode={isDevMode}
                         setIsDevMode={setIsDevMode}
+                        streak={streak}
                     />
                 );
             default:
