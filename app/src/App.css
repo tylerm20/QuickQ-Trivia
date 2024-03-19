@@ -12,7 +12,7 @@
 @supports (-webkit-touch-callout: none) {
     .App {
         /* for ios safari 15, safe-area-inset-bottom is 0, so a special fix apply here */
-        min-height: -webkit-fill-available;
+        height: -webkit-fill-available;
     }
 }
 
