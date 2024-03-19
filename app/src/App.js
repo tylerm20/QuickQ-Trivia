@@ -29,10 +29,12 @@ function App() {
     };
 
     const calculateStreak = () => {
+        console.log("calculating streak");
         let dateToCheck = new Date();
         let streak = 0;
         let keepChecking = true;
         while (keepChecking) {
+            console.log(streak);
             keepChecking = false;
             const results = localStorage.getItem(dateToCheck.toDateString());
             if (results) {
@@ -89,8 +91,12 @@ function App() {
             );
             setPlayerResults(results);
         }
-        calculateStreak();
     }, []);
+
+    // TODO: this seems to be happening more than once
+    useEffect(() => {
+        calculateStreak();
+    }, [playerResults, streak]);
 
     const getScreenToShow = () => {
         switch (screenShowing) {
