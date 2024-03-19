@@ -6,12 +6,7 @@ import SettingsButton from "../SettingsButton";
 import BasicButton from "../BasicButton";
 import Question from "../Question";
 import AnswerModal from "../AnswerModal";
-import {
-    BUZZ_SECONDS,
-    GAME_SECONDS,
-    questionsAndAnswers,
-    screens,
-} from "../../constants";
+import { BUZZ_SECONDS, GAME_SECONDS, screens } from "../../constants";
 import "./style.css";
 import SettingsScreen from "../SettingsScreen";
 
@@ -150,7 +145,7 @@ const GameScreen = ({
 
     const moveToNextQuestion = () => {
         // if there is another question
-        if (currentQuestionIndex < questionsAndAnswers.length) {
+        if (currentQuestionIndex < questions.length - 1) {
             setCurrentQuestionIndex(currentQuestionIndex + 1);
             setIsBetweenQuestions(false);
             setShowWholeQuestion(false);
