@@ -1,6 +1,5 @@
-import "./style.css";
-
 import React, { useEffect } from "react";
+import "./style.css";
 
 const Timer = ({ seconds, decrementTimer }) => {
     useEffect(() => {
@@ -13,7 +12,11 @@ const Timer = ({ seconds, decrementTimer }) => {
         };
     }, [decrementTimer]);
 
-    return <div className="timer">Time: {seconds}</div>;
+    return (
+        <div className="timer">
+            Time: <span className="Seconds">{seconds}</span>
+        </div>
+    );
 };
 
 export default Timer;

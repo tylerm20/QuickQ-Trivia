@@ -6,6 +6,15 @@
     height: 50vh;
 }
 
+.Header {
+    font-size: 20px;
+}
+
+.Date {
+    color: #e40bd5;
+    font-weight: bold;
+}
+
 .StartButton {
     /* Core Styles */
     display: inline-block;

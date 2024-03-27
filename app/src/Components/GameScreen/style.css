@@ -7,7 +7,9 @@
 .TopRow {
     display: flex;
     flex-direction: row;
-    justify-content: space-around;
+    justify-content: space-between;
+    font-size: 20px;
+    align-items: center;
 }
 
 .BuzzBottomRow {

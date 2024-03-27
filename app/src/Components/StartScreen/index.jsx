@@ -24,7 +24,8 @@ const StartScreen = ({
                 />
             )}
             <div className="Header">
-                <div>Your Quiz for</div> {today.toLocaleDateString()}
+                <div>One Minute Daily Trivia Quiz</div>{" "}
+                <span className="Date">{today.toLocaleDateString()}</span>
             </div>
             {hasPlayedTodaysGame && !isDevMode ? (
                 <div className="Header">
