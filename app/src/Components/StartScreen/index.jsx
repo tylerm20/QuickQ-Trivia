@@ -27,9 +27,12 @@ const StartScreen = ({
                 <div>One Minute Daily Trivia Quiz</div>{" "}
                 <span className="Date">{today.toLocaleDateString()}</span>
             </div>
+            <img className="BrainTreeLogo" src="brain_tree_logo_purple.svg" />
             {hasPlayedTodaysGame && !isDevMode ? (
-                <div className="Header">
-                    <div>Come back for a new Quiz tomorrow!</div>
+                <div className="AlreadyPlayed">
+                    <div className="ComeBack">
+                        Come back for a new Quiz tomorrow!
+                    </div>
                     <BasicButton
                         onClick={() => setScreenShowing(screens.finish)}
                     >
@@ -37,19 +40,21 @@ const StartScreen = ({
                     </BasicButton>
                 </div>
             ) : (
-                <button
-                    className="StartButton"
-                    onClick={() => setScreenShowing(screens.game)}
-                >
-                    Start
-                </button>
+                <div className="Buttons">
+                    <BasicButton
+                        className="HowToPlayButton"
+                        onClick={() => setShowSettingsModal(true)}
+                    >
+                        How to Play
+                    </BasicButton>
+                    <button
+                        className="StartButton"
+                        onClick={() => setScreenShowing(screens.game)}
+                    >
+                        Start
+                    </button>
+                </div>
             )}
-            <BasicButton
-                className="HowToPlayButton"
-                onClick={() => setShowSettingsModal(true)}
-            >
-                How to Play
-            </BasicButton>
         </div>
     );
 };

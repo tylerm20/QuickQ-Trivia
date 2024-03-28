@@ -1,3 +1,12 @@
+:root {
+    --dark-purple: #5e17eb;
+    --light-purple: #8c52ff;
+    --orange: #ff784d;
+    --white: #fff;
+    --green: #4caf50;
+    --red: red;
+}
+
 .App {
     display: flex;
     flex-direction: column;
@@ -27,18 +36,11 @@
 }
 
 .QuickStyle {
-    color: #5e17eb;
+    color: var(--dark-purple);
 }
 
 .QStyle {
-    color: #8c52ff;
-}
-
-.VersionText {
-    color: darkred;
-    padding: 2px;
-    border-radius: 5px;
-    border: solid darkred;
+    color: var(--light-purple);
 }
 
 .Content {
