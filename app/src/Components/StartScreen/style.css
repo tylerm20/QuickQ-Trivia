@@ -4,16 +4,46 @@
     flex-direction: column;
     justify-content: space-around;
     height: 50vh;
+    flex-grow: 1;
+}
+
+.Header {
+    font-size: 20px;
+    text-align: center;
+}
+
+.Date {
+    color: var(--orange);
+    font-weight: bold;
 }
 
 .StartButton {
-    /* Core Styles */
     display: inline-block;
     padding: 12px 24px;
     border: none;
     border-radius: 10px;
-    background-color: #4caf50; /* Green */
-    color: #fff;
+    background-color: var(--green); /* Green */
+    color: var(--white);
     font-size: 16px;
     cursor: pointer;
+    min-width: 120px;
+}
+
+.BrainTreeLogo {
+    max-height: 250px;
+}
+
+.Buttons {
+    display: flex;
+    justify-content: space-around;
+}
+
+.AlreadyPlayed {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.ComeBack {
+    margin-bottom: 10px;
 }

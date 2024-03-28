@@ -4,4 +4,5 @@ button {
     border-radius: 10px;
     font-size: 15px;
     border: none;
+    min-width: 120px;
 }

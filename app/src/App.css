@@ -1,3 +1,12 @@
+:root {
+    --dark-purple: #5e17eb;
+    --light-purple: #8c52ff;
+    --orange: #ff784d;
+    --white: #fff;
+    --green: #4caf50;
+    --red: red;
+}
+
 .App {
     display: flex;
     flex-direction: column;
@@ -6,7 +15,7 @@
     padding-right: 20px;
     max-width: 500px;
     margin: 20px auto;
-    min-height: calc(100vh - 40px);
+    height: calc(100vh - 40px);
 }
 
 @supports (-webkit-touch-callout: none) {
@@ -20,18 +29,18 @@
     position: relative;
     /* Can be absolute or fixed as well */
     width: 100%;
-    font-size: 24px;
-    font-weight: bold;
+    font-size: 40px;
     text-align: center;
     margin-top: 0;
-    color: purple;
+    font-family: futura;
 }
 
-.VersionText {
-    color: darkred;
-    padding: 2px;
-    border-radius: 5px;
-    border: solid darkred;
+.QuickStyle {
+    color: var(--dark-purple);
+}
+
+.QStyle {
+    color: var(--light-purple);
 }
 
 .Content {

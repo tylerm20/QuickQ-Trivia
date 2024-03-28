@@ -7,7 +7,9 @@
 .TopRow {
     display: flex;
     flex-direction: row;
-    justify-content: space-around;
+    justify-content: space-between;
+    font-size: 20px;
+    align-items: center;
 }
 
 .BuzzBottomRow {
@@ -59,13 +61,13 @@
 }
 
 .Correct {
-    color: green;
+    color: var(--green);
     font-weight: bold;
     margin-right: 20px;
 }
 
 .Incorrect {
-    color: red;
+    color: var(--red);
     font-weight: bold;
     margin-right: 20px;
 }

@@ -1,5 +1,8 @@
-.Header {
+.GameOver {
     text-align: center;
+    color: var(--orange);
+    font-size: 25px;
+    margin: 10px;
 }
 
 .QuestionResult {
@@ -8,4 +11,16 @@
 
 .Share {
     margin-bottom: 15px;
+}
+
+.FinalScore {
+    color: var(--green);
+}
+
+.FinalTime {
+    color: var(--red);
+}
+
+.Streak {
+    color: var(--dark-purple);
 }

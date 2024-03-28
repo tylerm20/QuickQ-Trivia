@@ -145,8 +145,10 @@ function App() {
 
     return (
         <div className="App">
-            <div className="Title">QuickQ</div>
-            <div className="VersionText">Beta Testing</div>
+            <div className="Title">
+                <span className="QuickStyle">Quick</span>
+                <span className="QStyle">Q</span>
+            </div>
             <div className="Content">{getScreenToShow()}</div>
         </div>
     );
