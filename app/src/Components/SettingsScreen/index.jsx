@@ -1,4 +1,5 @@
 import Modal from "../Modal";
+import "./style.css";
 
 const SettingsScreen = ({
     showModal,
@@ -8,7 +9,7 @@ const SettingsScreen = ({
 }) => {
     return (
         <Modal showModal>
-            <div className="settings">
+            <div className="Settings">
                 <div>
                     QuickQ is a one minute daily trivia quiz. Once you start the
                     game, a timer starts counting down one minute. During the
@@ -20,20 +21,23 @@ const SettingsScreen = ({
                     typing your answer, but you only have 15 seconds to submit
                     your answer. You can also skip any question by pressing the
                     "Skip" button. See how many questions you can answer
-                    correctly in one minute!
+                    correctly in one minute! Start a streak to see how many days
+                    in a row you can answer at least one question correctly.
                 </div>
+                <br />
                 <div>
                     Send your feedback to{" "}
                     <a href="mailto:QuickQTrivia@gmail.com">
                         QuickQTrivia@gmail.com
                     </a>
                 </div>
-                <button onClick={() => setShowModal(!showModal)}>Close</button>
                 <br />
-                {/* <button onClick={() => setIsDevMode(!isDevMode)}>
-                    {isDevMode && "Exit "}
-                    Dev Mode
-                </button> */}
+                <button
+                    className="CloseButton"
+                    onClick={() => setShowModal(!showModal)}
+                >
+                    Close
+                </button>
             </div>
         </Modal>
     );

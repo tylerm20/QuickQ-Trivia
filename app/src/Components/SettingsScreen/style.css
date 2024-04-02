@@ -1,0 +1,10 @@
+.Settings {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    flex-grow: 1;
+}
+
+.CloseButton {
+    align-self: flex-end;
+}
