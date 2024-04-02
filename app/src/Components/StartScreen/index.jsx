@@ -24,7 +24,7 @@ const StartScreen = ({
                 />
             )}
             <div className="Header">
-                <div>One Minute Daily Trivia Quiz</div>{" "}
+                <div>Rapid Daily Trivia Quiz</div>{" "}
                 <span className="Date">{today.toLocaleDateString()}</span>
             </div>
             <img className="BrainTreeLogo" src="brain_tree_logo_purple.svg" />
