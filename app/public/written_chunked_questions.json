@@ -795,12 +795,7 @@
             "question": "The Dewar equation defines this quantity for density-dependent variables. Species that exhibit exponential population growth appear to lack this value, and in logistic population growth, the per capita rate of increase approaches zero near this value. Name this ecological term, often denoted k, which is the maximum population that can be sustained by an ecosystem.",
             "round": "CMST_Round04.pdf",
             "year": 2010,
-            "answers": [
-                "capacity",
-                "k",
-                "carrying capacity",
-                "prompt on k before mentioned"
-            ],
+            "answers": ["capacity", "k", "carrying capacity"],
             "id": 107
         },
         {
@@ -1309,23 +1304,6 @@
             "year": 2011,
             "answers": ["tundra"],
             "id": 148
-        },
-        {
-            "num": 2,
-            "category": "Trash",
-            "subcategory": "Norse",
-            "difficulty": "MS",
-            "tournament": "Collaborative MS Tournament",
-            "question": "The U.S. Ambassador to this nation, Jon Huntsman, resigned effective April 2011. Human rights activists in this country, including the currently-jailed 2010 Nobel Peace Prize winner, have signed Charter 08. Starting in March 2010, Google refused to follow this nation's Internet censorship policies. For your answer identify this nation whose current leader, Hu Jintao, visited the U.S. in January 2011.",
-            "round": "7",
-            "year": 2011,
-            "answers": [
-                "People's Republic of China",
-                "PRC",
-                "Zhongguo",
-                "Zhonggua Renmin Gongheguo"
-            ],
-            "id": 149
         }
     ],
     [
@@ -1460,7 +1438,7 @@
             "subcategory": "Norse",
             "difficulty": "MS",
             "tournament": "Collaborative MS Tournament",
-            "question": "This office is symbolized by gold and silver keys. The time during which this office is vacant is termed sede vacante. The holder of this office is elected in a conclave of the College of Cardinals and wears the Ring of the Fisherman, which depicts St. Peter, the first holder of this office. For your answer identify this head of the Roman Catholic Church, whose current holder is Benedict XVI.",
+            "question": "This office is symbolized by gold and silver keys. The time during which this office is vacant is termed sede vacante. The holder of this office is elected in a conclave of the College of Cardinals and wears the Ring of the Fisherman, which depicts St. Peter, the first holder of this office. For your answer identify this head of the Roman Catholic Church, whose current holder is from Argentina.",
             "round": "10",
             "year": 2011,
             "answers": [
@@ -1968,7 +1946,7 @@
             "question": "Paul Wittgenstein commissioned concertos for this instrument that used only the left hand. This instrument is said to have been invented by Bartolomeo Cristofori. It was originally named for its ability to play both loud and soft sounds, which made it an improvement over the clavichord and harpsichord. Name this musical instrument that has thirty-six black and fifty-two white keys.",
             "round": "CMST_Round04.pdf",
             "year": 2010,
-            "answers": ["piano", "pianoforte", "piano", "accept pianoforte"],
+            "answers": ["piano", "pianoforte", "piano", "pianoforte"],
             "id": 203
         },
         {
@@ -2019,12 +1997,7 @@
             "question": "Cherenkov radiation exists when this value is exceeded. The ratio of this quantity in a vacuum to this quantity in a material is that material's index of refraction. It is squared and multiplied by mass to give energy in an equation derived by Einstein, E equals m c squared. Name this theoretical upper limit for the speed of any object, equal to about three hundred million meters per second.",
             "round": "CMST_Round08.pdf",
             "year": 2010,
-            "answers": [
-                "light",
-                "c",
-                "speed of light",
-                "accept c before mentioned"
-            ],
+            "answers": ["speed of light"],
             "id": 207
         },
         {
@@ -2389,10 +2362,7 @@
             "question": "This man sent the Great White Fleet on a tour of the world to impress Japan, and ended a conflict between Japan and Russia with the Treaty of Portsmouth. He recruited several college buddies to serve together as the Rough Riders unit during the Spanish-American War. He began \"trustbusting\" with the Standard Oil Case. Name this president from 1901 to 1909, whose nickname provided the name for a toy bear.",
             "round": "8",
             "year": 2012,
-            "answers": [
-                "Theodore Roosevelt",
-                "Teddy Roosevelt; T.R.; prompt on Roosevelt"
-            ],
+            "answers": ["Theodore Roosevelt", "Teddy Roosevelt", "T.R."],
             "id": 235
         },
         {
@@ -2590,7 +2560,8 @@
             "year": 2012,
             "answers": [
                 "Richard I of England",
-                "Richard the Lionhearted; Richard Coeur de Lion; prompt on Richard"
+                "Richard the Lionhearted",
+                "Richard Coeur de Lion"
             ],
             "id": 251
         },
@@ -2690,9 +2661,7 @@
             "question": "The line \"Such is my love, to thee I so belong\" comes from one of these works written to a \"Fair Youth.\" Hundreds of these works dedicated to Laura are contained in Il Canzoniere by Petrarch, while a \"Dark Lady\" is the subject of 26 of this type of poem. \"Shall I compare thee to a summer's day?\" was one of 154 written by William Shakespeare. Name this 14-line poetic form.",
             "round": "1",
             "year": 2013,
-            "answers": [
-                "sonnet [prompt on \\\"poem\\\"; accept Shakesperean sonnet during the first sentence, but do not accept after; do not accept Petrarchan sonnet]"
-            ],
+            "answers": ["sonnet"],
             "id": 258
         },
         {
@@ -2718,11 +2687,7 @@
             "question": "This figure ordered the Goliad Massacre, and he was severely injured by French cannon fire at Veracruz during the Pastry War. The Treaties of Velasco were signed following this leader's capture after the Battle of San Jacinto, and he was responsible for the deaths of Jim Bowie and Davy Crockett. Name this self-styled \"Napoleon of the West,\" a Mexican general infamous for his attempt to seize the Alamo.",
             "round": "7",
             "year": 2011,
-            "answers": [
-                "Santa Anna",
-                "Antonio Lnpez de Santa Anna",
-                "prompt on Napoleon of the West before it is read"
-            ],
+            "answers": ["Santa Anna", "Antonio Lnpez de Santa Anna"],
             "id": 260
         },
         {
@@ -2787,13 +2752,7 @@
             "question": "In 1994, thieves that stole this painting left a note reading \"Thanks for the poor security.\" This painting may be a self-portrait depicting an attack of agoraphobia. Blue land reflects a bright orange sky in this work. Name this Edvard Munch (\"MOONK\") painting of a distorted figure holding his hands to his head and making the title loud, distressed noise.",
             "round": "CMST_Round10.pdf",
             "year": 2010,
-            "answers": [
-                "Scream",
-                "Skrik",
-                "Cry",
-                "The Scream",
-                "Skrik; accept The Cry"
-            ],
+            "answers": ["Scream", "Skrik", "Cry", "The Scream"],
             "id": 265
         },
         {
@@ -2886,10 +2845,7 @@
             "question": "The number of positive real roots of a polynomial can be found by this man's Rule of Signs. His philosophical works include the Discourse on Method and Meditations on First Philosophy. He is the namesake of the standard x-y coordinate system. For your answer give this French philosopher and mathematician whose most famous attributed quote is \"cogito ergo sum,\" or, \"I think, therefore I am.\"",
             "round": "7",
             "year": 2012,
-            "answers": [
-                "Rene Descartes",
-                "accept Descartes' Rule of Signs before \"Rule\""
-            ],
+            "answers": ["Rene Descartes", "Descartes"],
             "id": 272
         },
         {
@@ -2902,7 +2858,8 @@
             "round": "CMST_Round05.pdf",
             "year": 2010,
             "answers": [
-                "Michelangelo di Lodovico Buonarroti Simoni [accept either]"
+                "Michelangelo di Lodovico Buonarroti Simoni",
+                "Michelangelo"
             ],
             "id": 273
         },
@@ -2989,12 +2946,7 @@
             "question": "This newspaper was sued by Alabama public safety officer Louis B. Sullivan. Its long-time publisher, Arthur Ochs Sulzberger, died in 2012. It won one of its 108 Pulitzer prizes for printing The Pentagon Papers. One nickname of this newspaper is \"the Old Gray Lady.\" \"All the News That's Fit to Print\" is the motto of what daily newspaper published in the \"Big Apple\"?",
             "round": "10",
             "year": 2013,
-            "answers": [
-                "New York Times",
-                "NYT;",
-                "\\\"Times\\\"",
-                "The New York Times [accept NYT; prompt on \\\"Times\\\"]"
-            ],
+            "answers": ["New York Times", "NYT"],
             "id": 280
         },
         {
@@ -3054,7 +3006,7 @@
             "question": "This constellation contains the Trapezium Cluster and is the site of a late-October meteor shower. One of its stars, formerly known as the Amazon Star, is Bellatrix, and its brightest stars are Betelgeuse and Rigel. Its namesake nebula joins with Hatysa and other stars to form its sword, while Alnitak, Alnilam, and Mintaka form its belt. Name this constellation nicknamed the Hunter.",
             "round": "3",
             "year": 2011,
-            "answers": ["Orion", "prompt on Hunter before it is read"],
+            "answers": ["Orion"],
             "id": 285
         },
         {
@@ -3090,10 +3042,7 @@
             "question": "The muon was detected in a device named for these objects; that device was succeeded by the bubble chamber. Adding silver iodide to these structures attempts to release their contents in a namesake \"seeding\" technique. These structures are formed when the temperature falls below the dew point, causing condensation of water. For your answer cumulus, stratus, and cirrus are all types of what water formations in the sky?",
             "round": "5",
             "year": 2012,
-            "answers": [
-                "clouds",
-                "accept cloud chamber before \"release\" is read"
-            ],
+            "answers": ["clouds"],
             "id": 288
         },
         {
@@ -3138,8 +3087,7 @@
                 "Ramona Quimby",
                 "Ramona Quimby;",
                 "Quimby",
-                "Ramona Quimby",
-                "Ramona Quimby; prompt on Quimby"
+                "Ramona Quimby"
             ],
             "id": 291
         },
@@ -3185,10 +3133,10 @@
             "subcategory": "Norse",
             "difficulty": "MS",
             "tournament": "Collaborative MS Tournament",
-            "question": "Judge Maria Lourdes Afiuni was arrested in this country on graft charges because she ordered the release of banker Luis Cedeno. In the past twelve years, this country nationalized major companies like the steel corporation SIDOR. It has always owned PDVSA, which is one of the five largest oil companies in the world. For your answer identify this South American country, which is currently led by Hugo Chavez.",
+            "question": "Judge Maria Lourdes Afiuni was arrested in this country on graft charges because she ordered the release of banker Luis Cedeno. In the past twelve years, this country nationalized major companies like the steel corporation SIDOR. It has always owned PDVSA, which is one of the five largest oil companies in the world. For your answer identify this South American country, which was led by Hugo Chavez until 2013.",
             "round": "6",
             "year": 2011,
-            "answers": ["Bolivarian Republic of Venezuela"],
+            "answers": ["Bolivarian Republic of Venezuela", "Venezuela"],
             "id": 295
         },
         {
@@ -3200,7 +3148,7 @@
             "question": "One justification of this act is Paul's visit to Ephesus in the Acts of the Apostles. This act involves asking the Holy Ghost to \"send forth upon them thy sevenfold Spirit the Holy Paraclete.\" This act is the imposition of hands and anointing with oil by a bishop. For your answer identify this sacrament grouped in the Catholic Church with Baptism and Eucharist.",
             "round": "7",
             "year": 2011,
-            "answers": ["Confirmation", "accept word forms such as Confirming"],
+            "answers": ["Confirmation"],
             "id": 296
         },
         {
@@ -3214,7 +3162,9 @@
             "year": 2011,
             "answers": [
                 "cerebrum",
-                "accept cerebral cortex; accept neocortex; accept forebrain; prompt on brain"
+                "cerebral cortex",
+                "neocortex",
+                "forebrain"
             ],
             "id": 297
         },
@@ -3227,9 +3177,7 @@
             "question": "Two brothers of this surname discovered piezoelectricity and a namesake point at which ferromagnetic materials become paramagnetic. One of those brothers explored the properties of the ore pitchblende with his wife. That wife later won a second Nobel Prize for her work isolating radium, and named the element polonium after her native country. For your answer give the last name of physicist Pierre and his wife Marie.",
             "round": "7",
             "year": 2011,
-            "answers": [
-                "Curie [accept Pierre Curie; accept Marie Sk\u0142odowska Curie; accept (Paul-) Jacques Curie]"
-            ],
+            "answers": ["Curie"],
             "id": 298
         },
         {
@@ -3279,7 +3227,7 @@
             "question": "This author wrote about the eviction of Nell Trent and her grandfather from The Old Curiosity Shop. In another work by this author, Abel Magwitch raises a fortune for the orphan Pip, who loves Estella. He also wrote about Sydney Carton sacrificing himself to save Charles Darnay in a work set in London and Paris. Name this author who wrote Great Expectations and A Tale of Two Cities.",
             "round": "1",
             "year": 2011,
-            "answers": ["Charles Dickens [accept Boz]"],
+            "answers": ["Charles Dickens", "Boz"],
             "id": 302
         },
         {
@@ -3291,10 +3239,7 @@
             "question": "Spin-Spin splitting can occur in NMR spectroscopy of these entities. Free examples of these particles make up ninety percent of cosmic rays. These particles are made up of 2 up quarks and 1 down quark, and were discovered by Earnest Rutherford. The atomic number designates the number of what positively charged subatomic particles that, with neutrons, make up the nucleus of an atom.",
             "round": "10",
             "year": 2012,
-            "answers": [
-                "proton",
-                "hydrogen ion; H+; accept hydrogen before \"cosmic rays\""
-            ],
+            "answers": ["proton", "hydrogen ion", "H+"],
             "id": 303
         },
         {
@@ -3318,7 +3263,7 @@
             "question": "Richard Mentor Johnson's political career was helped by the belief that he personally killed this man at the Battle of the Thames (TEMS). This man helped co-found a settlement in the Indiana Territory where his brother was defeated by William Henry Harrison; that defeat occurred during the Battle of Tippecanoe. Name this leader of the Shawnee that attempted to unite all of the Indian tribes in the early 1800's.",
             "round": "7",
             "year": 2011,
-            "answers": ["Tecumseh [accept Tecumtha; accept Tekamthi]"],
+            "answers": ["Tecumseh", "Tecumtha", "Tekamth"],
             "id": 305
         },
         {
@@ -3331,16 +3276,14 @@
             "round": "7",
             "year": 2013,
             "answers": [
-                "Diary",
-                "Young Girl",
-                "Diary",
+                "The Diary of a Young Girl (Anne Frank)",
+                "The Diary of a Young Girl",
                 "Anne Frank",
                 "Het Achterhuis;",
                 "Anne Frank",
                 "journal",
                 "diary",
-                "The Diary of a Young Girl",
-                "The Diary of Anne Frank Het Achterhuis; accept any answer mentioning Anne Frank and a journal diary"
+                "The Diary of Anne Frank Het Achterhuis"
             ],
             "id": 306
         },
@@ -3353,10 +3296,7 @@
             "question": "One show on this television channel features Little Suzy and the title character's mother, named Bunny. In addition to Johnny Bravo, one of this channel's shows included such characters as Mandark and Dee-Dee, who bothered her brother. Name this television channel that aired such shows as Dexter's Laboratory and The Powerpuff Girls but is now better known for airing Regular Show and Adventure Time.",
             "round": "2",
             "year": 2013,
-            "answers": [
-                "Cartoon Network",
-                "accept Boomerang before \\\"Mandark\\\" is read"
-            ],
+            "answers": ["Cartoon Network"],
             "id": 307
         },
         {
@@ -3437,8 +3377,7 @@
                 "vitamins",
                 "Vitamin K, Vitamin D,",
                 "Vitamin A",
-                "vitamins",
-                "accept more specific answers of Vitamin K, Vitamin D, Vitamin A until \"thiamine\" is read"
+                "vitamins"
             ],
             "id": 313
         },
@@ -3475,12 +3414,7 @@
             "question": "This person negotiated a treaty that ceded Florida to the United States with Luis de Onis while serving as James Monroe's Secretary of State. This man agreed to name Henry Clay Secretary of State in order to break a deadlock in the House of Representatives; that decision was the first \"corrupt bargain.\" Name this winner of the Election of 1824 over Andrew Jackson, the sixth U.S. President.",
             "round": "8",
             "year": 2011,
-            "answers": [
-                "John Quincy Adams",
-                "Adams;",
-                "John Quincy Adams",
-                "prompt on Adams; do not prompt on accept \"John Adams\""
-            ],
+            "answers": ["John Quincy Adams", "Adams;", "John Quincy Adams"],
             "id": 316
         },
         {
@@ -3530,11 +3464,7 @@
             "question": "This character watches a lion and a unicorn fight over a crown, and although her cat Dinah will not talk to her, the Tiger Lily and the other flowers will. She shrinks after drinking a potion labeled \"Drink Me,\" and attends a tea party with a sleepy Dormouse, a March Hare, and a Mad Hatter. Name this girl from Through the Looking Glass, a Lewis Carroll character that also went on Adventures in Wonderland.",
             "round": "10",
             "year": 2011,
-            "answers": [
-                "Alice",
-                "White King",
-                "Alice [accept The White King until \"her\"]"
-            ],
+            "answers": ["Alice", "White King"],
             "id": 320
         },
         {
@@ -3548,7 +3478,7 @@
             "year": 2011,
             "answers": [
                 "Alexander the Great",
-                "Alexander III of Macedon/Macedonia; prompt on Alexander"
+                "Alexander III of Macedon/Macedonia"
             ],
             "id": 321
         },
@@ -3597,13 +3527,7 @@
             "question": "Matthew, Chapter 28 notes that Jesus commanded his followers to \"go therefore and make disciples of all nations\" by performing this action. Seventh-day Adventists reserve this practice for adults, though in most Christian denominations it is primarily for infants. For your answer identify this Christian initiation sacrament in which participants are sprinkled with or immersed in water.",
             "round": "2",
             "year": 2012,
-            "answers": [
-                "baptism",
-                "baptize;",
-                "baptism",
-                "baptism",
-                "word forms such as baptize; prompt on descriptions of baptism"
-            ],
+            "answers": ["baptism", "baptize", "baptism", "baptism"],
             "id": 325
         },
         {
@@ -3618,19 +3542,18 @@
             "answers": [
                 "Virgin Mary",
                 "Mary, Mother",
-                "God;",
-                "Saint Mary;",
-                "Mother Mary;",
+                "God",
+                "Saint Mary",
+                "Mother Mary",
                 "Mary",
                 "mother of Jesus",
-                "Mary;",
-                "Lady;",
+                "Mary",
+                "Lady",
                 "Mother",
-                "Church;",
+                "Church",
                 "Queen",
-                "Heaven;",
-                "Blessed Virgin Mary",
-                "Mary, Mother of God; Saint Mary; Mother Mary; obvious equivalents to Mary the mother of Jesus before read; prompt on Mary; prompt on Our Lady; prompt on Mother of the Church; prompt on Queen of Heaven; do not accept \"Mary Magdalene\""
+                "Heaven",
+                "Blessed Virgin Mary"
             ],
             "id": 326
         },
@@ -3757,21 +3680,6 @@
             "id": 336
         },
         {
-            "num": 6,
-            "category": "Trash",
-            "subcategory": "Norse",
-            "difficulty": "MS",
-            "tournament": "Collaborative MS Tournament",
-            "question": "n one episode of this show, Parasprites invade the central location. Another episode sees a dragon threaten the health of the town with smoke from its snoring. In another episode, Spike mocks a certain purple unicorn's inability to assist during Winter Wrap-Up. Name this show featuring equine characters like Princess Celestia and Twilight Sparkle, a fourth-generation reboot of a girls' show.",
-            "round": "7",
-            "year": 2012,
-            "answers": [
-                "My Little Pony: Friendship is Magic",
-                "MLP: FiM; prompt on My Little Pony; prompt on Friendship is Magic"
-            ],
-            "id": 337
-        },
-        {
             "num": 2,
             "category": "Literature",
             "subcategory": "American",
@@ -3806,7 +3714,7 @@
             "question": "This god, sometimes known as Eubuleus or Clymenus, punished Sisyphus by requiring him to roll a boulder up a hill. This oldest son of Rhea abducted his future wife while she was picking flowers in the fields of Nysa and then tricked her into staying with him for six months each year by feeding her pomegranate seeds. Name this husband of Persephone, the Greek god of the Underworld.",
             "round": "2",
             "year": 2012,
-            "answers": ["Hades [prompt on Pluto]"],
+            "answers": ["Hades"],
             "id": 340
         },
         {
@@ -3871,9 +3779,7 @@
             "question": "Some of these are statically typed, while others are duck typed or dynamically typed. Many of them must be used in conjunction with a compiler, such as one of them created in the 1970s by Dennis Ritchie, which is named for a letter of the alphabet and has a \"plus plus\" variety. Name these constructs such as Ruby, Python, Java, and C, that provide a way to give instructions to computers.",
             "round": "1",
             "year": 2013,
-            "answers": [
-                "programming languages [accept computer languages; accept scripting languages; prompt on \\\"programs\\\"; prompt on \\\"languages\\\"]"
-            ],
+            "answers": ["programming languages", "computer languages"],
             "id": 345
         },
         {
@@ -3909,9 +3815,7 @@
             "question": "In rotational motion, this quantity can be obtained by taking one half of the moment of inertia times the angular velocity squared. In an elastic collision, both momentum and this quantity are conserved. It equals one half times mass times velocity squared. Name this energy of objects in motion, contrasted with the potential type.",
             "round": "9",
             "year": 2011,
-            "answers": [
-                "kinetic energy [accept KE; accept kinetic energy after \"energy\"]"
-            ],
+            "answers": ["kinetic energy", "KE"],
             "id": 348
         },
         {
@@ -3969,8 +3873,7 @@
                 "First World War;",
                 "Great War",
                 "World War",
-                "World War I",
-                "First World War; accept Great War before mentioned; prompt on World War"
+                "World War I"
             ],
             "id": 352
         },
@@ -3983,10 +3886,7 @@
             "question": "Variations in this organism's foraging gene results in rover and sitter behavior types, while homeotic gene mutations can cause legs to grow from its head. Salivary gland chromosomes are often extracted from its larvae, and T. H. Morgan first discovered sex-linked traits by studying its white-eyed mutant. Name this insect model organism of genetics with recessive traits like vestigial wings and ebony body.",
             "round": "2",
             "year": 2013,
-            "answers": [
-                "Drosophila melanogaster",
-                "fruit fly/ies; Drosophila melanogaster; prompt on \\\"fly/ies\\\""
-            ],
+            "answers": ["Drosophila melanogaster", "fruit fly", "fruit flies"],
             "id": 353
         },
         {
@@ -4012,7 +3912,8 @@
             "year": 2013,
             "answers": [
                 "interest rate",
-                "accept simple interest rate compound interest rate"
+                "simple interest rate",
+                "compound interest rate"
             ],
             "id": 355
         },
@@ -4037,10 +3938,7 @@
             "question": "This shape names a law for adding vectors. In a namesake illusion, diagonals of two of these figures appear to be different lengths, though they are not. Though not necessarily the same length, the diagonals of this quadrilateral bisect each other. If all four sides of this type of figure are of equal length, the figure is a rhombus. Name this shape drawn from two intersecting sets of parallel lines.",
             "round": "7",
             "year": 2011,
-            "answers": [
-                "parallelogram",
-                "do not accept prompt on more specific answers such as \"rhombus,\" \"square,\" \"rectangle;\" do not accept prompt on less specific answers such as \"quadrilateral\""
-            ],
+            "answers": ["parallelogram"],
             "id": 357
         },
         {
@@ -4064,7 +3962,7 @@
             "question": "The island of Marajo is located at the mouth of this river which was named by Spanish conquistador Francisco de Orellana for the warrior women of Greek mythology. This river's source lies in the Andes of Peru, but it flows more than 4,000 miles east where it empties into the Atlantic Ocean. Electric eels, anacondas, and piranhas are among the wildlife found in what river that drains the rainforests of Brazil?",
             "round": "9",
             "year": 2011,
-            "answers": ["Amazon River [accept Rio Amazonas]"],
+            "answers": ["Amazon River", "Rio Amazonas"],
             "id": 359
         }
     ],
@@ -4090,10 +3988,7 @@
             "question": "An early invention used to make art works in this medium was the daguerreotype [duh-gayr-\"row\"-\"type\"]. Eadweard [\"edward\"] Muybridge created works in this medium which clarified the method by which horses gallop. The Steerage and Migrant Mother are specific examples of these types of art works. Works in this medium showing Yosemite National Park were created by Ansel Adams. Name these objects which can be instantly produced by Polaroids.",
             "round": "9",
             "year": 2013,
-            "answers": [
-                "photographs",
-                "accept word forms; prompt on \\\"pictures\\\""
-            ],
+            "answers": ["photographs"],
             "id": 361
         },
         {
@@ -4120,8 +4015,7 @@
             "answers": [
                 "Pythagorean triples",
                 "Pythagorean theorem",
-                "Pythagorean triples",
-                "accept clear-knowledge equivalents; prompt on Pythagorean theorem"
+                "Pythagorean triples"
             ],
             "id": 363
         },
@@ -4134,7 +4028,14 @@
             "question": "One figure in this religion wears three wedding bands to symbolize her marriages to Agwe, Dumballah, and Ogoun. In addition to Erzulie, one figure in this religion is represented by a cross over a tomb and is named Ghede. Gods in this religion are called \"loa\" and this religion's god of the Earth is named Papa Legba.For your answer name this religion that originated in Haiti, famous for its namesake dolls.",
             "round": "6",
             "year": 2013,
-            "answers": ["Voodoo", "accept Vodun Vodou Vodoun Vaudou Vaudoux"],
+            "answers": [
+                "Voodoo",
+                "Vodun",
+                "Vodou",
+                "Vodoun",
+                "Vaudou",
+                "Vaudoux"
+            ],
             "id": 364
         },
         {
@@ -4229,10 +4130,10 @@
             "subcategory": "Norse",
             "difficulty": "MS",
             "tournament": "Collaborative MS Tournament",
-            "question": "This world leader ordered that people who hide cell phones should be shot, and in February 2013 it was discovered that he uses a Taiwanese HTC phone. A speech he recorded in early 2013 surprised listeners by not calling for US troop withdrawals, though in 2012 he claimed his nuclear missiles could reach the US mainland. Name this son of the recently deceased Kim Jong-il, the current Supreme Leader of North Korea.",
+            "question": "This world leader ordered that people who hide cell phones should be shot, and in February 2013 it was discovered that he uses a Taiwanese HTC phone. A speech he recorded in early 2013 surprised listeners by not calling for US troop withdrawals, though in 2012 he claimed his nuclear missiles could reach the US mainland. Name this son of the Kim Jong-il, the current Supreme Leader of North Korea.",
             "round": "7",
             "year": 2013,
-            "answers": ["Kim Jong-un [prompt on partial answer]"],
+            "answers": ["Kim Jong-un"],
             "id": 372
         },
         {
@@ -4259,9 +4160,8 @@
             "answers": [
                 "linear equations",
                 "simultaneous linear equations;",
-                "\\\"system\\\"",
                 "system of linear equations",
-                "system of simultaneous linear equations; prompt on \\\"system\\\""
+                "system of simultaneous linear equations"
             ],
             "id": 374
         },
@@ -4375,7 +4275,7 @@
             "question": "This man's son was baptized by Olaf Tryggvason. This Norwegian native was exiled from Iceland and Oxney for committing multiple murders in both places. During his three years of exile, this man explored Greenland and found the first permanent colony there in 985. For your answer identify this Norseman and father of the explorer Leif Ericsson",
             "round": "1",
             "year": 2011,
-            "answers": ["Erik the Red", "Erik Thorvaldsson; prompt on Erik"],
+            "answers": ["Erik the Red", "Erik Thorvaldsson"],
             "id": 383
         },
         {
@@ -4461,12 +4361,7 @@
             "question": "These animals can be harmed by the spread of Varroa mites, and their best known species is mellifera. A combination of the Nosema ceranae fungus and IIV6 virus may be responsible for their recent population decreases, called colony collapse disorder. Belonging to the genus Apis, colonies of them have female workers, male drones, and queens. Name these insects related to wasps that pollinate flowers and live in hives.",
             "round": "8",
             "year": 2013,
-            "answers": [
-                "honey bees",
-                "\\\"Apis\\\"",
-                "honey bees",
-                "accept \\\"Apis\\\" before it is mentioned; do not accept \\\"wasp(s)\\\" \\\"hornet(s)\\\""
-            ],
+            "answers": ["honey bees", "Apis"],
             "id": 390
         },
         {
@@ -4502,7 +4397,7 @@
             "question": "Her worst fear is one of her professors telling her that she \"failed everything,\" but she receives the highest possible marks on ten of her eleven Ordinary Wizarding Level tests. She is saved from a troll by two boys who eventually become her best friends in the first book that she appears in. Name this witch and best friend of Ron Weasley and Harry Potter.",
             "round": "1",
             "year": 2013,
-            "answers": ["Hermione Granger", "accept either underline portion"],
+            "answers": ["Hermione Granger", "Hermione", "Granger"],
             "id": 393
         },
         {
@@ -4563,20 +4458,12 @@
             "round": "7",
             "year": 2011,
             "answers": [
-                "William",
-                "England",
-                "William",
-                "Conqueror;",
-                "William",
-                "Bastard;",
-                "William II",
-                "Normandy;",
-                "Guillaume",
-                "Conqu\u00e9rant;",
-                "William",
-                "Normandy",
                 "William I of England",
-                "William the Conqueror; William the Bastard; William II of Normandy; Guillaume le Conqu\u00e9rant; prompt on William of Normandy"
+                "William the Conqueror",
+                "William the Bastard",
+                "William II of Normandy",
+                "Guillaume le Conqu\u00e9rant;",
+                "William of Normandy"
             ],
             "id": 398
         },
@@ -4615,10 +4502,7 @@
             "question": "The period of a spring is given by two pi times the square root of this quantity over the spring constant. Heat transfer is equal to the specific heat times the change in temperature times this quantity. A \"rest\" type is multiplied by the square of the speed of light to give energy. Name this quantity that is the \"m\" in \"E equals m c squared.\"",
             "round": "3",
             "year": 2012,
-            "answers": [
-                "mass",
-                "accept inertia before \\\"m\\\" is read; prompt on m before mentioned"
-            ],
+            "answers": ["mass", "inertia"],
             "id": 401
         },
         {
@@ -4630,7 +4514,7 @@
             "question": "One former player for this team was the 1986 NFL MVP as well as the defensive player of the year, but that player may be more famous for the hit that broke Joe Theismann's leg. Lawrence Taylor played for this team that also defeated a Tom Brady-led Patriots team to win the 2012 Super Bowl. Hakeem Nicks and Victor Cruz play on what NFL team that features Eli Manning at quarterback?",
             "round": "3",
             "year": 2013,
-            "answers": ["New York Giants", "prompt on \\\"New York\\\""],
+            "answers": ["New York Giants"],
             "id": 402
         },
         {
@@ -4654,10 +4538,7 @@
             "question": "Iron-56 dominates the spectra of absorption lines for one class of these phenomena, which are caused by white dwarves exceeding the Chandrasekhar limit. An inert nickel-iron core in a star leads to one on account of a lack of degeneracy pressure. One with official designation 2003fg reached two solar masses before exploding, and was given the nickname \"Champagne.\" Name these gigantic stellar explosions.",
             "round": "2",
             "year": 2012,
-            "answers": [
-                "supernovae",
-                "supernovas; prompt on stellar collapse; do not accept prompt on \\\"nova\\\""
-            ],
+            "answers": ["supernovae"],
             "id": 404
         },
         {
@@ -4669,12 +4550,7 @@
             "question": "RAID arrays are combinations of these objects that often connect via IDE or Serial ATA. They are sometimes replaced by SSDs and can be structured using NTFS or FAT. These objects contain spinning platters that use magnetism to store data, so the data is retained even when they are powered off. Name these devices with capacities often in the terabytes, used to store computer data.",
             "round": "7",
             "year": 2013,
-            "answers": [
-                "hard disk drives",
-                "hard",
-                "\\\"disk",
-                "hard disk drives [prompt on (hard) \\\"disk(s)\\\"]"
-            ],
+            "answers": ["hard disk drives", "hard", "disk"],
             "id": 405
         },
         {
@@ -4687,7 +4563,10 @@
             "round": "4",
             "year": 2012,
             "answers": [
-                "State of the Vatican City [accept Holy See; accept Santa Sede; accept Stato della Citta del Vaticano]"
+                "State of the Vatican City",
+                "Holy See",
+                "Santa Sede",
+                "Stato della Citta del Vaticano"
             ],
             "id": 406
         },
@@ -4750,12 +4629,7 @@
             "question": "The philosophy of nullification was developed to oppose this form of government. The Ninth and Tenth Amendments specifically create this type of government, which is defined as a power-sharing arrangement between national and state governments. Name this type of government after which a political party including John Adams was named.",
             "round": "CMST_Round03.pdf",
             "year": 2010,
-            "answers": [
-                "federalism",
-                "federalist",
-                "federalism",
-                "accept word forms such as federalist"
-            ],
+            "answers": ["federalism", "federalist", "federalism"],
             "id": 411
         },
         {
@@ -4953,14 +4827,7 @@
             "question": "Bernoulli is credited with the discovery of this constant when he attempted to find the value of the limit as n approaches infinity of the quantity one plus one over n to the nth power. This constant is used when finding interest compounded continuously and when modeling exponential growth, and it is the base of the natural logarithm. Name this constant, approximately equal to 2.71828.",
             "round": "CMST_Round03.pdf",
             "year": 2010,
-            "answers": [
-                "e",
-                "Euler's",
-                "number",
-                "Euler's constant",
-                "e",
-                "accept Euler's (\u201c oiler's \u201d) number Euler's constant"
-            ],
+            "answers": ["e", "Euler's", "number", "Euler's constant", "e"],
             "id": 427
         },
         {
@@ -4984,7 +4851,7 @@
             "question": "This person won the Nobel Peace Prize for leading negotiations for the Treaty of Portsmouth, which ended the Russo-Japanese War. This leader coined the term \"bully pulpit\" and introduced the Square Deal. During the Spanish-American War, he led a charge up San Juan Hill with the Rough Riders, and he would later run for President on the Bull Moose ticket. Name this President who succeeded William McKinley.",
             "round": "3",
             "year": 2011,
-            "answers": ["Theodore \"Teddy\" Roosevelt [prompt on Roosevelt"],
+            "answers": ["Theodore \"Teddy\" Roosevelt", "Teddy Roosevelt"],
             "id": 429
         }
     ],
@@ -5010,12 +4877,7 @@
             "question": "It was the subject of a Scientific American special report dealing with Modified Newtonian Dynamics by Mordechai Milgrom. This substance was first proposed in 1934 by Fritz Zwicky to make up for \"missing mass\" in the universe. Its non-baryonic variety contains no mass. For your answer identify this type of matter in the universe named due to its unobservability.",
             "round": "CMST_Round09.pdf",
             "year": 2010,
-            "answers": [
-                "dark matter",
-                "dark",
-                "matter",
-                "dark matter [accept dark matter after \u201cmatter\u201d is read]"
-            ],
+            "answers": ["dark matter", "dark", "matter"],
             "id": 431
         },
         {
@@ -5063,7 +4925,7 @@
             "question": "For an ideal gas, this property is proportional to the average kinetic energy of the particles. Relative humidity is computed by comparing the wet-bulb and dry-bulb measurements of this quantity. According to the third law of thermodynamics, a perfect crystal has zero entropy when this property is absolute zero. Name this quantity whose SI unit is the kelvin and that can also be measured on the Celsius and Fahrenheit scales.",
             "round": "5",
             "year": 2013,
-            "answers": ["temperature [do not accept \\\"heat\\\"]"],
+            "answers": ["temperature"],
             "id": 435
         },
         {
@@ -5182,10 +5044,12 @@
             "year": 2012,
             "answers": [
                 "greatest common factor",
-                "GCF;",
-                "highest common factor;",
+                "GCF",
+                "highest common factor",
                 "greatest common factor",
-                "GCF; highest common factor; greatest common divisor; highest common divisor; do not accept \"least common denominator\""
+                "GCF highest common factor",
+                "greatest common divisor",
+                "highest common divisor"
             ],
             "id": 444
         },
@@ -5203,8 +5067,7 @@
                 "involving violence",
                 "Darfur",
                 "such",
-                "genocide",
-                "war in Darfur [accept equivalents involving violence in Darfur, such as genocide; prompt on"
+                "genocide"
             ],
             "id": 445
         },
@@ -5226,13 +5089,10 @@
             "subcategory": "Norse",
             "difficulty": "MS",
             "tournament": "Collaborative MS Tournament",
-            "question": "Two people voted for Allen West instead of voting to keep this man in his current position in 2013. Some conservatives accused him of violating the so-called Hastert Rule in 2013 when he allowed votes on Hurricane Sandy relief and the Violence Against Women Act. Name this Republican who sat behind President Obama during the State of the Union, the current Speaker of the House.",
+            "question": "Two people voted for Allen West instead of voting to keep this man his highest political position in 2013. Some conservatives accused him of violating the so-called Hastert Rule in 2013 when he allowed votes on Hurricane Sandy relief and the Violence Against Women Act. Name this Republican who sat behind President Obama during the State of the Union, the former Speaker of the House.",
             "round": "4",
             "year": 2013,
-            "answers": [
-                "John Boehner",
-                "prompt on \\\"Speaker of the House\\\" \\\"House Speaker\\\""
-            ],
+            "answers": ["John Boehner"],
             "id": 447
         },
         {
@@ -5244,7 +5104,7 @@
             "question": "One of these landforms \"of Tehuantepec\" is found in the Mexican states of Oaxaca and Veracruz. One \"of Kra\" connects the Malay Peninsula to the rest of Asia. The Suez Canal was built across one of these landforms separating the Red and Mediterranean Seas. Name these narrow strips of land that connect larger land masses, another of which is the country of Panama.",
             "round": "3",
             "year": 2012,
-            "answers": ["isthmus [accept isthmi]"],
+            "answers": ["isthmus", "isthmi"],
             "id": 448
         },
         {
@@ -5321,7 +5181,7 @@
             "question": "A group of genes coding for lactose breakdown, known as the lac operon, was first discovered in this model organism. Although it is not Shigella, shiga toxins are produced in virulent strains of this organism such as its serotype O157:H7. They colonize the human gut at birth. Name these gramnegative bacteria that are a common cause of food poisoning and food recalls.",
             "round": "10",
             "year": 2011,
-            "answers": ["Escherichia coli [prompt on Bacillus coli communis]"],
+            "answers": ["Escherichia coli", "E. Coli"],
             "id": 454
         },
         {
@@ -5386,15 +5246,10 @@
             "subcategory": null,
             "difficulty": "MS",
             "tournament": "Collaborative MS Tournament",
-            "question": "This conflict saw a battle for Kunduz, which saw cooperation between U.S. and German forces. The British \"Operation Herrick\" and American \"Operation Enduring Freedom\" led to a quick ousting of the Taliban regime, but Stanley McChrystal recently stated an increase of 500,000 troops would be needed to continue this war. Name this current war fought in a country bordering Pakistan.",
+            "question": "This conflict saw a battle for Kunduz, which saw cooperation between U.S. and German forces. The British \"Operation Herrick\" and American \"Operation Enduring Freedom\" led to a quick ousting of the Taliban regime, but Stanley McChrystal stated an increase of 500,000 troops would be needed to continue this war. This war fought in a country bordering Pakistan which ended in 2021.",
             "round": "CMST_Round03.pdf",
             "year": 2010,
-            "answers": [
-                "Afghanistan",
-                "War against the Taliban",
-                "War in Afghanistan [accept War against the Taliban before mentioned",
-                "other obvious"
-            ],
+            "answers": ["Afghanistan", "War against the Taliban"],
             "id": 459
         }
     ],
@@ -5423,7 +5278,9 @@
             "answers": [
                 "South Africa",
                 "South Africa;",
-                "Republic of South Africa [accept Union of South Africa; accept RSA]"
+                "Republic of South Africa",
+                "Union of South Africa",
+                "RSA"
             ],
             "id": 461
         },
@@ -5448,7 +5305,7 @@
             "question": "This god hung himself from Yggdrasil for nine days and nights in order to obtain the knowledge of runes. This owner of the spear Gungnir gives all his food to his wolves Geri and Freki and receives information about the world through his ravens Hugin and Munin. This husband of Frigg was known as the \"Allfather\" and will be killed at Ragnarok by the wolf Fenrir. Name this chief god of Norse mythology.",
             "round": "6",
             "year": 2013,
-            "answers": ["Odin", "accept Wodan, Wotan, Wodinaz"],
+            "answers": ["Odin", "Wodan, Wotan, Wodinaz"],
             "id": 463
         },
         {
@@ -5460,10 +5317,7 @@
             "question": "Its mascot is named Mandeville, and it will begin with a show titled \"Isles of Wonder,\" to be directed by Danny Boyle. Some of the venues to be used for it include Lord's Cricket Ground, Dorney Lake, Old Trafford, and Wembley Stadium. The Royal Mail will issue commemorative stamps for any British athlete who wins a gold medal at what quadrennial athletic event, which begins July 27 in London, England?",
             "round": "6",
             "year": 2012,
-            "answers": [
-                "2012 Summer Olympics",
-                "accept London Olympics before \"London\" is read; prompt on Olympics"
-            ],
+            "answers": ["2012 Summer Olympics", "London Olympics"],
             "id": 464
         },
         {
@@ -5484,10 +5338,10 @@
             "subcategory": "Math",
             "difficulty": "MS",
             "tournament": "Collaborative MS Tournament",
-            "question": "One method of performing this action involves using a base case and an induction step; another method begins by assuming the opposite and finding something impossible, which is the type \"by contradiction\". In 1994 Andrew Wiles did this for Fermat's [fair-mah'z] Last Theorem. Basic geometry often uses the \"two-column\" variety of what process of showing that a mathematical statement is true?",
+            "question": "One method of performing this action involves using a base case and an induction step; another method begins by assuming the opposite and finding something impossible, which is the type \"by contradiction\". In 1994 Andrew Wiles did this for Fermat's Last Theorem. Basic geometry often uses the \"two-column\" variety of what process of showing that a mathematical statement is true?",
             "round": "9",
             "year": 2013,
-            "answers": ["mathematical proof", "accept word forms"],
+            "answers": ["mathematical proof"],
             "id": 466
         },
         {
@@ -5542,7 +5396,7 @@
             "question": "In one novel written in this language, Adso of Melk and William of Baskerville solve a murder mystery at a monastery. That work, The Name of the Rose, was published in this language eight years before the same author's Foucault's Pendulum. A treatise in this language advised the title ruler that it was better to be feared than loved. Name this language employed by writers like Umberto Eco and Niccolo Machiavelli.",
             "round": "5",
             "year": 2013,
-            "answers": ["Italian", "accept Italiano Lingua italiana"],
+            "answers": ["Italian", "Italiano Lingua italiana"],
             "id": 470
         },
         {
@@ -5626,10 +5480,7 @@
             "question": "This country's northwest is home to the Islamic Uighur people. The leader of another religion from this country described the \"Five Great Relationships\" and listed virtues like \"reciprocity\" and \"culture\" in one of the \"Four Books.\" Adherents of a third religion from this country follow the practice of \"no action,\" or wu wei. For your answer identify this country home to Confucianism and Daoism.",
             "round": "4",
             "year": 2012,
-            "answers": [
-                "China",
-                "People's Republic of China; do not accept prompt on \"Republic of China\""
-            ],
+            "answers": ["China", "People's Republic of China"],
             "id": 477
         },
         {
@@ -5679,10 +5530,7 @@
             "question": "Some species in this group of animals have heat-sensitive pits in their heads, and most have only one working lung. The invasive brown tree type has caused many bird extinctions on Guam, and they use their tongues to gather scent molecules. Some kill prey by constriction or use fangs to inject venom, and the largest ever to exist was the titanoboa. Name these limbless reptiles that include the python and cobra.",
             "round": "3",
             "year": 2013,
-            "answers": [
-                "snakes",
-                "serpents; accept vipers before \\\"brown tree\\\""
-            ],
+            "answers": ["snakes", "serpents"],
             "id": 481
         },
         {
@@ -5706,12 +5554,7 @@
             "question": "One type of this weapon would have been defended against by President Reagan's Strategic Defense Initiative. Another type of these developed by the Soviet Union and used by Iraq was the Scud. Nazi Germany wanted to replace anti-aircraft guns with the surface-to-air type of these weapons. For your answer what projected weapons that carry explosive devices name a 1962 crisis in Cuba?",
             "round": "6",
             "year": 2013,
-            "answers": [
-                "missiles",
-                "\\\"nuclear bomb\\\"",
-                "missiles",
-                "prompt on \\\"nuclear bomb\\\" until \\\"surface-to-air\\\" is mentioned; do not accept prompt on rocket(s)"
-            ],
+            "answers": ["missiles", "nuclear bomb"],
             "id": 483
         },
         {
@@ -5723,7 +5566,7 @@
             "question": "This substance forms in the Bergeron process, in which vapor pressure drops as crystals grow. It can be produced by the lake effect, and it always stays below freezing, unlike sleet, which melts and refreezes as it falls. Name this type of precipitation which falls as six-sided flakes.",
             "round": "10",
             "year": 2013,
-            "answers": ["snowflakes [prompt on \\\"precipitation\\\"]"],
+            "answers": ["snowflakes"],
             "id": 484
         },
         {
@@ -5779,25 +5622,8 @@
             "question": "This structure experiences only compression, with no shear, and is therefore an inverted catenary curve. It is made from a series of tapering equilateral triangles, and visitors can ride a sloping tram system to its top. This largest building in the Jefferson National Expansion Memorial was designed by Eero Saarinen. Name this large curved structure located in St. Louis, Missouri.",
             "round": "CMST_Round03.pdf",
             "year": 2010,
-            "answers": [
-                "Gateway Arch",
-                "St. Louis Arch",
-                "The Gateway Arch",
-                "prompt on St. Louis Arch equivalents before \u201cSt. Louis\u201d"
-            ],
+            "answers": ["Gateway Arch", "St. Louis Arch", "The Gateway Arch"],
             "id": 488
-        },
-        {
-            "num": 13,
-            "category": "Trash",
-            "subcategory": "Norse",
-            "difficulty": "MS",
-            "tournament": "Collaborative MS Tournament",
-            "question": "A sports team from this city defeated the Calgary Stampeders in the 2012 Grey Cup. This city is the current home of major leaguers Adam Lind, Brett Lawrie, and Jose Bautista. Another sports team for this city features Landry Fields and Andrea Bargnani, but is probably better known for being the former team of Chris Bosh. Name this Canadian city, home of the Raptors, Maple Leafs, and Blue Jays.",
-            "round": "9",
-            "year": 2013,
-            "answers": ["Toronto"],
-            "id": 489
         }
     ],
     [
@@ -5834,9 +5660,7 @@
             "question": "This artwork was painted over a previous decoration of gold stars on a blue sky. Sibyls and Prophets surround its nine central panels, which depict scenes from the Book of Genesis. This painting's bestknown section shows a man reaching out and almost touching fingers with God. The artist stood on a scaffold to paint what large fresco that includes The Creation of Adam, a work of Michelangelo?",
             "round": "5",
             "year": 2011,
-            "answers": [
-                "ceiling of the Sistine Chapel [prompt on Sistine Chapel]"
-            ],
+            "answers": ["ceiling of the Sistine Chapel"],
             "id": 492
         },
         {
@@ -5864,24 +5688,6 @@
             "id": 494
         },
         {
-            "num": 8,
-            "category": "Trash",
-            "subcategory": null,
-            "difficulty": "MS",
-            "tournament": "Collaborative MS Tournament",
-            "question": "In retaliation for having been fired from Uptown Records, this man established his own record label and signed the artist Notorious B.I.G. In 2008, this man dedicated his new fragrance I Am King to Barack Obama, Muhammad Ali, and Martin Luther King. Name this rapper and record producer who established Bad Boy Records and is variously known as \"Puffy\" or \"Diddy.\"",
-            "round": "CMST_Round05.pdf",
-            "year": 2010,
-            "answers": [
-                "Combs",
-                "Puff Daddy",
-                "Puffy",
-                "Puffy",
-                "Sean John Combs [accept Puff Daddy or Puffy before \u201cPuffy\u201d and prompt afterwards;"
-            ],
-            "id": 495
-        },
-        {
             "num": 15,
             "category": "Mythology",
             "subcategory": "Norse",
@@ -5892,7 +5698,8 @@
             "year": 2013,
             "answers": [
                 "Shiva",
-                "accept Shiva the Destroyer, Shiva the Transformer"
+                "Shiva the Destroyer",
+                "Shiva the Transformer"
             ],
             "id": 496
         },
@@ -5905,12 +5712,7 @@
             "question": "The Reconstruction Finance Corporation was an early attempt to address this event, which resulted in the formation of the SEC. Dorothea Lange (LANG) took a famous photograph of Florence Owens Thompson during it, and it was exacerbated by drought in the Midwest leading to the Dust Bowl. For your answer Migrant Mother was taken during what economic downturn in the 1930s that Franklin Roosevelt tried to solve with his New Deal?",
             "round": "6",
             "year": 2012,
-            "answers": [
-                "Great Depression",
-                "banking crisis",
-                "Great Depression",
-                "accept banking crisis before \"SEC\" is read"
-            ],
+            "answers": ["Great Depression", "banking crisis"],
             "id": 497
         },
         {
@@ -5922,7 +5724,7 @@
             "question": "When this figure was born, his mother Thetis dipped him in the river Styx in an attempt to make him immortal. Agamemnon took Briseis from this figure, which caused him to refuse Agamemnon's commands to fight until his friend, Patroclus, died. As revenge for that death, this hero killed Hector. For your answer identify this Greek hero who was killed when a poisonous arrow pierced his heel.",
             "round": "7",
             "year": 2011,
-            "answers": ["Achilles [accept Achilleus]"],
+            "answers": ["Achilles", "Achilleus"],
             "id": 498
         },
         {
@@ -5945,7 +5747,7 @@
             "subcategory": "American",
             "difficulty": "MS",
             "tournament": "Collaborative MS Tournament",
-            "question": "William Hale Thompson was mayor of this city where the death of Mathias J. Degan led to the execution of August Spies. In addition to that event near the McCormick factory, an event in this city saw Pigasus the Pig nominated for President by people like Jerry Rubin and Abbie Hoffman. This city was the site of the Haymarket Square Riot and the 1968 Democratic National Convention. Name this Illinois city governed by two mayors named Daley and currently by Rahm Emanuel.",
+            "question": "William Hale Thompson was mayor of this city where the death of Mathias J. Degan led to the execution of August Spies. In addition to that event near the McCormick factory, an event in this city saw Pigasus the Pig nominated for President by people like Jerry Rubin and Abbie Hoffman. This city was the site of the Haymarket Square Riot and the 1968 Democratic National Convention. Name this Illinois city governed by two mayors named Daley and Rahm Emanuel.",
             "round": "2",
             "year": 2013,
             "answers": ["Chicago, Illinois"],
@@ -5964,7 +5766,7 @@
                 "photosynthesis",
                 "Calvin-Benson cycle",
                 "carbon fixation",
-                "photosynthesis [prompt on Calvin-Benson cycle; prompt on carbon fixation]"
+                "photosynthesis"
             ],
             "id": 501
         },
@@ -5984,8 +5786,7 @@
                 "marriage;",
                 "Arnolfini Portrait",
                 "Arnolfini Double Portrait",
-                "The Arnolfini Marriage",
-                "accept The Arnolfini Wedding any answer with Arnolfini and the suggestion of marriage; accept The Arnolfini Portrait The Arnolfini Double Portrait"
+                "The Arnolfini Marriage"
             ],
             "id": 502
         },
@@ -6010,10 +5811,7 @@
             "question": "This element turns a dark color when combined with starches, which is one reason it is used in Lugol's solution. At room temperature it is a solid that sublimes into a purple gas. This element or barium is used in most contrast solutions for CT scans, and this element is used naturally by the body to make thyroid hormones. A lack of this element causes goiter, which appears as a swollen neck. Name this element represented by the symbol I.",
             "round": "10",
             "year": 2013,
-            "answers": [
-                "iodine",
-                "prompt on \\\"I\\\" before the end; do not accept iodide"
-            ],
+            "answers": ["iodine"],
             "id": 504
         },
         {
@@ -6073,10 +5871,7 @@
             "question": "One superstition concerning certain winners of this election is known as Tecumseh's Curse. Third party candidates in previous elections of this type include Ross Perot and Teddy Roosevelt. Its most recent iteration concentrated on the economy, the war in Iraq, and people associated with Barack Obama. For your answer what is this election, held most recently in 2008 and responsible for choosing the next American leader?",
             "round": "CMST_Round10.pdf",
             "year": 2010,
-            "answers": [
-                "Presidential",
-                "Presidential general election [accept either]"
-            ],
+            "answers": ["Presidential election", "general election"],
             "id": 509
         }
     ],
@@ -6133,7 +5928,8 @@
             "year": 2012,
             "answers": [
                 "death/execution by beheading",
-                "accept guillotine and its word forms; accept any other answer that suggests decapitation"
+                "guillotine",
+                "decapitation"
             ],
             "id": 513
         },
@@ -6146,10 +5942,7 @@
             "question": "This force is produced by moving charges, and its namesake field is measured in henrys. Its most common form breaks down at a point at which domains lose their alignment. This phenomenon's \"electro\" type may be caused by wrapping wire around a nail and running current through it. Name this force whose \"ferro\" type is exhibited by cobalt, nickel, and iron and may be used to stick items to fridges.",
             "round": "3",
             "year": 2011,
-            "answers": [
-                "magnetism",
-                "accept word forms such as magnetic; accept electromagnetism until \"electro\""
-            ],
+            "answers": ["magnetism", "magnetic", "electromagnetism"],
             "id": 514
         },
         {
@@ -6185,7 +5978,7 @@
             "question": "Every chapter after the first chapter of this work is arranged from longest to shortest and all but one begins with the word \"bismallah\". This work's second chapter is known as the \"Cow\" sura and the first revelation in this text was transmitted when Muhammad was near the Cave of Hira. For your answer identify this text that is taken to be the word of Allah by Muslims.",
             "round": "5",
             "year": 2012,
-            "answers": ["Qur'an", "Koran; prompt on recitation"],
+            "answers": ["Qur'an", "Koran"],
             "id": 517
         },
         {
@@ -6200,11 +5993,10 @@
             "answers": [
                 "short story",
                 "short stories",
-                "fiction;",
-                "story;",
-                "prose;",
-                "short story",
-                "accept short stories by Jorge Luis Borges before it is read; prompt on fiction; prompt on story; prompt on prose; do not accept \"novel\""
+                "fiction",
+                "story",
+                "prose",
+                "short story"
             ],
             "id": 518
         },
@@ -6243,11 +6035,7 @@
             "question": "In Jainism, this object's central point is Mount Meru. In Chinese mythology, this object is the lower half of a cosmic egg split by Pangu, while in ancient Egypt the original form of this object was the primordial mound. This region will be reborn from a massive flood after Rangarok. Name this planet subjected to a massive flood that Noah escaped.",
             "round": "3",
             "year": 2013,
-            "answers": [
-                "\\\"planet\\\"",
-                "Earth",
-                "accept equivalents like world land before \\\"planet\\\" is mentioned"
-            ],
+            "answers": ["planet", "Earth"],
             "id": 521
         },
         {
@@ -6283,7 +6071,7 @@
             "question": "This figure lost his first wife after she bounced so high she hit her head on the moon. He won a wrestling match with the Bear Lake Monster and wore a rattlesnake necktie. This figure was raised by coyotes until the age of fifteen and attempted to ride a tornado like a horse, creating Death Valley when he finally fell off. Name this cowboy hero of American folklore.",
             "round": "6",
             "year": 2012,
-            "answers": ["Pecos Bill", "Bill", "Pecos Bill [prompt on Bill]"],
+            "answers": ["Pecos Bill", "Bill", "Pecos Bill"],
             "id": 524
         },
         {
@@ -6295,7 +6083,7 @@
             "question": "This man's dog Argus dies atop a refuse heap. He reveals himself to a foot-washing maid, Eurycleia. The Laestrygones destroy many ships belonging to his fleet, and he also visits the land of the lotos, then reunites with that wife, Penelope. For your answer an epic by Homer describes what man's twenty-year quest to get home after the Trojan War?",
             "round": "CMST_Round02.pdf",
             "year": 2010,
-            "answers": ["Odysseus", "Ulysses", "Odysseus [prompt on Ulysses]"],
+            "answers": ["Odysseus"],
             "id": 525
         },
         {
@@ -6366,12 +6154,10 @@
             "subcategory": "World",
             "difficulty": "MS",
             "tournament": "Collaborative MS Tournament",
-            "question": "The first prime minister of this country gave a speech outlining the Five Principles of Peaceful Coexistence that formed a basis for a treaty with China, and he also gave the \"Tryst with Destiny\" speech. Another prime minister was assassinated by her bodyguards in 1984 soon after approving an attack on the Golden Temple in Amritsar. For 10 points name this country once headed by Jawaharlal Nehru that disputes the status of Kashmir with Pakistan.",
+            "question": "The first prime minister of this country gave a speech outlining the Five Principles of Peaceful Coexistence that formed a basis for a treaty with China, and he also gave the \"Tryst with Destiny\" speech. Another prime minister was assassinated by her bodyguards in 1984 soon after approving an attack on the Golden Temple in Amritsar. Name this country once headed by Jawaharlal Nehru that disputes the status of Kashmir with Pakistan.",
             "round": "5",
             "year": 2013,
-            "answers": [
-                "Republic of India [accept Bh\u0101rat Ga\u1e47ar\u0101jya]"
-            ],
+            "answers": ["Republic of India", "Bh\u0101rat Ga\u1e47ar\u0101jya"],
             "id": 531
         },
         {
@@ -6407,7 +6193,7 @@
             "question": "The Rhapsody on a Theme of Paganini was written from twenty-four caprices originally written for this instrument. Vivaldi's The Four Seasons is a set of concerti written for this instrument. Its strings are tuned to perfect fifths, and Stradivarius was a notable luthier of this instrument. Name this four-stringed instrument, which is sometimes called the fiddle and which is smaller than the viola.",
             "round": "CMST_Round10.pdf",
             "year": 2010,
-            "answers": ["violin", "violin [prompt on fiddle]"],
+            "answers": ["violin"],
             "id": 534
         },
         {
@@ -6443,7 +6229,7 @@
             "question": "The poorwill is the only bird to demonstrate this behavior, which can be defined as sustained torpor. It is called estivation if it occurs during the summer. Animals must either collect or eat lots of food during the fall so that they do not starve while doing it. Name this behavior in which an animal goes into a deep sleep for the entire winter.",
             "round": "CMST_Round09.pdf",
             "year": 2010,
-            "answers": ["hibernation", "hibernation", "accept word forms"],
+            "answers": ["hibernation", "hibernate"],
             "id": 537
         },
         {
@@ -6472,23 +6258,6 @@
         }
     ],
     [
-        {
-            "num": 6,
-            "category": "Trash",
-            "subcategory": "Norse",
-            "difficulty": "MS",
-            "tournament": "Collaborative MS Tournament",
-            "question": "This university's women's soccer team has won 21 national championships, more than any other school in that sport. Its men's basketball team has featured players such as Ty Lawson and Tyler Hansbrough, behind whom it won the 2009 NCAA Championship. It is currently coached by Roy Williams. Name this university located in Chapel Hill and rival of Duke whose mascot is the Tar Heels.",
-            "round": "5",
-            "year": 2012,
-            "answers": [
-                "North Carolina",
-                "Chapel Hill",
-                "University of North Carolina \u0096 Chapel Hill",
-                "UNC"
-            ],
-            "id": 540
-        },
         {
             "num": 5,
             "category": "Science",
@@ -6594,11 +6363,7 @@
             "question": "This native of Tarsus undertook several missionary trips to western areas like Asia Minor and Syria. This author of two epistles to the Corinthians and one to the Romans advocated the persecution of Jews who accepted Jesus, until he had a life-altering vision on the road to Damascus. For your answer identify this Catholic saint born with the name Saul.",
             "round": "CMST_Round08.pdf",
             "year": 2010,
-            "answers": [
-                "Paul",
-                "Saul",
-                "St. Paul the Apostle [accept Saul until mentioned]"
-            ],
+            "answers": ["Paul", "Saul", "St. Paul the Apostle"],
             "id": 549
         }
     ],
@@ -6643,7 +6408,8 @@
             "year": 2011,
             "answers": [
                 "military reconstruction",
-                "Reconstruction Era; accept Radical Reconstruction before \"Lincoln\" but do not accept afterwards"
+                "Reconstruction Era",
+                "Radical Reconstruction"
             ],
             "id": 552
         },
@@ -6656,7 +6422,7 @@
             "question": "A work possibly ghost-written for this man praised Edmund Ross, Thomas Hart Benton, and six other Senators for doing what they felt was right; that work was Profiles in Courage. This president ordered a failed invasion at the Bay of Pigs. He persisted in a naval blockade of Cuba and resolved the Cuban Missile Crisis. Name this President who was assassinated by Lee Harvey Oswald in Dallas in 1963.",
             "round": "9",
             "year": 2012,
-            "answers": ["John F. Kennedy", "JFK; prompt on Kennedy"],
+            "answers": ["John F. Kennedy", "JFK"],
             "id": 553
         },
         {
@@ -6751,7 +6517,7 @@
             "question": "One story in this book involves a man who marries a daughter of Jethro; that man's mother is Jochebed and his sister is Miriam. This book begins with the death of Joseph and sees a ruler declare that all newborn Jewish babies must be drowned in the Nile. In this book, Aaron and Moses ask the pharaoh to \"let my people go.\" For your answer the Jews' flight from Egypt is detailed in what second book of the Bible?",
             "round": "9",
             "year": 2012,
-            "answers": ["Book of Exodus [accept Shemot and Names]"],
+            "answers": ["Book of Exodus", "Shemot", "Names"],
             "id": 560
         },
         {
@@ -6764,11 +6530,10 @@
             "round": "2",
             "year": 2011,
             "answers": [
-                "\"Simple Gifts\"",
+                "Simple Gifts",
                 "Appalachian Spring",
                 "Shakers",
-                "\"Simple Gifts\"",
-                "prompt on Appalachian Spring before mentioned; prompt on anything mentioning Shakers before mentioned"
+                "\"Simple Gifts\""
             ],
             "id": 561
         },
@@ -6863,7 +6628,7 @@
             "question": "This man's family was kicked out of the Borjigin clan after his father Yesugei was poisoned. After this leader came to power, he created the Yassa legal code, and this man and his son are credited for building up Karakorum and defeating the Khwarezmian Empire. Because one of his sons, Jochi, was poisoned, his successor was another son, Ogedei. For your answer identify this founder of the Mongol Empire and grandfather of Kublai Khan.",
             "round": "8",
             "year": 2013,
-            "answers": ["Genghis Khan [accept Temujin; prompt on Khan]"],
+            "answers": ["Genghis Khan", "Temujin"],
             "id": 568
         },
         {
@@ -6886,13 +6651,10 @@
             "subcategory": "Other",
             "difficulty": "MS",
             "tournament": "Collaborative MS Tournament",
-            "question": "Creations of this type include Roland Barthes's (BART'S) \"Death of the Author.\" Supporting details and examples are found in body paragraphs in this type of writing, genres of which include process, descriptive, argumentative, and compare-and-contrast. A five-paragraph type of these is frequently assigned in high schools. Name this type of non-fiction writing that seeks to prove a thesis statement.",
+            "question": "Creations of this type include Roland Barthes's \"Death of the Author.\" Supporting details and examples are found in body paragraphs in this type of writing, genres of which include process, descriptive, argumentative, and compare-and-contrast. A five-paragraph type of these is frequently assigned in high schools. Name this type of non-fiction writing that seeks to prove a thesis statement.",
             "round": "7",
             "year": 2012,
-            "answers": [
-                "essays",
-                "prompt on papers; prompt on prose; prompt on non-fiction; do not accept prompt on \"article\"; do not accept prompt on \"report\""
-            ],
+            "answers": ["essays"],
             "id": 570
         },
         {
@@ -6921,12 +6683,7 @@
             "question": "One form of this concept is equal to the product of charge and voltage. For a spring, this quantity is given by one-half times the spring constant times the square of the distance from equilibrium. The gravitational form of this quantity is equal to an object's weight times its height. For your answer give this \"stored\" energy that is converted into kinetic energy.",
             "round": "CMST_Round04.pdf",
             "year": 2010,
-            "answers": [
-                "potential energy",
-                "potential energy",
-                "potential energy",
-                "potential energy after \u201cenergy\u201d; prompt on energy"
-            ],
+            "answers": ["potential energy"],
             "id": 572
         },
         {
@@ -6962,7 +6719,7 @@
             "question": "This entity was assembled and in retaliation for English support of the Dutch Revolts. This entity was commanded by Alvaro de Bazan. It intended to deliver troops under the Duke of Parma across the English Channel, but it lost many vessels when attempting to sail around the British Isles in poor weather. For your answer identify this fleet of over 130 ships assembled by Philip II of Spain.",
             "round": "5",
             "year": 2011,
-            "answers": ["Spanish Armada [accept Armada after \"Spain\"]"],
+            "answers": ["Spanish Armada"],
             "id": 575
         },
         {
@@ -7001,12 +6758,11 @@
             "answers": [
                 "atomic bomb",
                 "Hiroshima",
-                "\\\"atomic\\\"",
-                "\\\"nuclear\\\"; \\\"atomic/nuclear\\\"",
-                "\\\"atomic\\\"",
-                "\\\"Little Boy\\\"",
-                "the detonation of an atomic bomb in Hiroshima",
-                "accept grammatical variants; accept variations of \\\"atomic\\\" like \\\"nuclear\\\"; \\\"atomic/nuclear\\\" is unnecessary after \\\"atomic\\\" is mentioned in question; prompt on partial answers; accept variations of detonation of \\\"Little Boy\\\" before it is mentioned; do not accept any answer mentioning \\\"Nagasaki\\\""
+                "atomic",
+                "nuclear; atomic/nuclear",
+                "atomic",
+                "Little Boy",
+                "the detonation of an atomic bomb in Hiroshima"
             ],
             "id": 578
         },
@@ -7019,12 +6775,7 @@
             "question": "The third game in this series saw its first set of dual worlds and the first use of the Spin Attack technique. A common theme in this game is the protagonist's attempts to rescue the title princess and reunite the Triforce. This series includes games subtitled A Link to the Past and The Ocarina of Time. For your answer what is this video game series whose most recent entry is subtitled The Twilight Princess?",
             "round": "5",
             "year": 2011,
-            "answers": [
-                "Legend",
-                "Zelda",
-                "Zelda",
-                "The Legend of Zelda [prompt on Zelda]"
-            ],
+            "answers": ["The Legend of Zelda", "Zelda"],
             "id": 579
         }
     ],
@@ -7098,7 +6849,7 @@
             "question": "This man's brothers were Nahor and Haran, and his father was Terah. He told his wife to say that she was his sister to evade Egyptian guards. This man fathered Ishmael with Hagar, but he is more famous for nearly sacrificing his son, Isaac. Name this Old Testament figure whose wife was Sarah and who made a covenant with God, making him a patriarchal figure in Islam, Christianity, and Judaism.",
             "round": "1",
             "year": 2013,
-            "answers": ["Abraham [accept Abram]"],
+            "answers": ["Abraham", "Abram"],
             "id": 585
         },
         {
@@ -7174,7 +6925,7 @@
                 "Atum",
                 "Ra",
                 "Ra",
-                "accept Re Amun-Ra Atum-Ra"
+                "Re Amun-Ra Atum-Ra"
             ],
             "id": 590
         },
@@ -7187,10 +6938,7 @@
             "question": "As president, this man shut down the Second Bank of the United States. This president had a group of friends and advisers called the \"kitchen cabinet.\" This victor at the Battle of New Orleans forced the removal of the Cherokee from their land by signing the Indian Removal Act. Name this man nicknamed \"Old Hickory,\" the seventh president.",
             "round": "5",
             "year": 2012,
-            "answers": [
-                "Andrew Jackson",
-                "prompt on Old Hickory before mentioned"
-            ],
+            "answers": ["Andrew Jackson"],
             "id": 591
         },
         {
@@ -7238,10 +6986,7 @@
             "question": "This type of respiration takes place when limited oxygen is available. It is used to make sauerkraut, kimchi, and yogurt, and can be carried out by microorganisms such as yeast. Name this process in which sugars are converted into ethanol, examples of which include the conversion of grapes to wine and wheat to beer.",
             "round": "4",
             "year": 2013,
-            "answers": [
-                "fermentation",
-                "accept word forms; prompt on \\\"anaerobic\\\" respiration"
-            ],
+            "answers": ["fermentation"],
             "id": 595
         },
         {
@@ -7265,7 +7010,7 @@
             "question": "Darwin predicted the existence of a Madagascar moth after observing one of these structures, which have separate male/female types in dioecious [dy-oh-EE-shus] species. The parts of this occur in multiples of three in monocots and many use nectar to attract pollinators. One mature part of this becomes the fruit, and it has stamen and carpel reproductive organs. Name this structure found in angiosperm plants, often surrounded by petals.",
             "round": "5",
             "year": 2013,
-            "answers": ["flower [do not prompt on \\\"plant\\\"]"],
+            "answers": ["flower"],
             "id": 597
         },
         {
@@ -7277,10 +7022,7 @@
             "question": "A system's Lagrangian equals this quantity minus potential energy. This quantity can be found by dividing the square of an objects momentum by twice its mass. The change in this quantity for an object is equal to the net work done on the object. It equals one-half times mass times velocity squared. Name this type of energy that objects possess because of motion.",
             "round": "1",
             "year": 2012,
-            "answers": [
-                "kinetic energy",
-                "prompt on energy; accept kinetic after \"energy\" but prompt before"
-            ],
+            "answers": ["kinetic energy"],
             "id": 598
         },
         {
@@ -7315,7 +7057,7 @@
             "subcategory": null,
             "difficulty": "MS",
             "tournament": "Collaborative MS Tournament",
-            "question": "A financial arm of this organization was founded at the Bretton Woods conference, and a conference that oversaw its creation was held in San Francisco. Its former leaders include Dag Hammarskjold and Kurt Waldheim. It encompasses the World Bank and General Assembly. For your answer Ban Ki-moon is the current Secretary General of what international organization?",
+            "question": "A financial arm of this organization was founded at the Bretton Woods conference, and a conference that oversaw its creation was held in San Francisco. Its former leaders include Dag Hammarskjold and Kurt Waldheim. It encompasses the World Bank and General Assembly. Ban Ki-moon was the Secretary General of what international organization until 2016?",
             "round": "CMST_Round06.pdf",
             "year": 2010,
             "answers": ["United Nations", "UN", "United Nations", "UN"],
@@ -7366,10 +7108,7 @@
             "question": "A Sanskrit group of these writings is found in the Panchatantra. Marianne Moore translated a collection of these writings by Jean de la Fontaine. The Perry Index catalogs ones written by a Greek slave; those include stories about the \"Tortoise and the Hare\" and \"Fox and the Grapes Out of Reach.\" Name these stories that often contain animals and a moral lesson, many of which were written by Aesop.",
             "round": "5",
             "year": 2012,
-            "answers": [
-                "fables",
-                "prompt on tales stories similar answers before \"stories\" is read"
-            ],
+            "answers": ["fables", "short stories"],
             "id": 605
         },
         {
@@ -7393,10 +7132,7 @@
             "question": "This city is protected from floods by a dam centered on the island of Kotlin. A bronze equestrian statue of this city's namesake stands in Senate Square, the site of the Decembrist revolt. This city lies on the Gulf of Finland at the mouth of the Neva River, a few hundred miles northwest of Moscow. Name this Russian city, formerly known as Leningrad and Petrograd, considered the most Westernized Russian city.",
             "round": "8",
             "year": 2013,
-            "answers": [
-                "St. Petersburg",
-                "prompt on \\\"Leningrad\\\" \\\"Petrograd\\\" before they are mentioned"
-            ],
+            "answers": ["St. Petersburg"],
             "id": 607
         },
         {
@@ -7494,9 +7230,7 @@
             "question": "This event was orchestrated by Isoroku Yamamoto in an attempt to prevent American interference in the Japanese invasion of the Dutch East Indies. The date on which it occurred \"will live in infamy,\" according to a Franklin Roosevelt speech. The U.S.S. Arizona Memorial is dedicated to over 1,100 Americans killed in this event. For your answer identify this December 7, 1941 attack on a United States naval base in Hawaii.",
             "round": "3",
             "year": 2012,
-            "answers": [
-                "the attack on Pearl Harbor [accept logical equivalents]"
-            ],
+            "answers": ["the attack on Pearl Harbor", "Pearl Harbor"],
             "id": 615
         },
         {
@@ -7508,11 +7242,7 @@
             "question": "The uniform probability distribution takes this shape. Rotating this shape using one of its sides as an axis yields a cylinder. This shape is traced out by the x-axis, the y-axis, and the equations x equals two and y equals six. Each diagonal of this kind of quadrilateral divides it into two congruent right triangles. For your answer give this shape that has four right angles.",
             "round": "CMST_Round10.pdf",
             "year": 2010,
-            "answers": [
-                "rectangles",
-                "rectangles",
-                "do not accept prompt on \"square\""
-            ],
+            "answers": ["rectangles", "rectangles"],
             "id": 616
         },
         {
@@ -7524,7 +7254,7 @@
             "question": "Big Bob Oakley was the first person on this show to say \"I'd have gotten away with it too, if it weren't for those kids,\" and one show in this series introduced a character named Scrappy. In 2002, a film of the same name starred Freddie Prinze, Jr. as Freddy and Sarah Michelle Gellar as Daphne. Name this cartoon franchise, named for a cowardly Great Dane.",
             "round": "2",
             "year": 2011,
-            "answers": ["Scooby-Doo [accept Scooby-Doo, Where Are You!]"],
+            "answers": ["Scooby-Doo", "Scooby-Doo, Where Are You!"],
             "id": 617
         },
         {
@@ -7577,10 +7307,7 @@
             "question": "This \"Foremost of the Westerners\" is linked with Serapis through the Apis bull. This son of Geb and Nut found thirteen of those pieces. After he was revived, this brother of Set fathered Horus. For your answer identify this husband of Isis and the Egyptian god of the dead.",
             "round": "1",
             "year": 2012,
-            "answers": [
-                "Osiris",
-                "accept Anubis before \"Serapis\" is read; prompt on Khenti-Amentiu"
-            ],
+            "answers": ["Osiris"],
             "id": 621
         },
         {
@@ -7593,11 +7320,10 @@
             "round": "7",
             "year": 2012,
             "answers": [
+                "Margaret Ann Simon",
                 "Margaret",
                 "Simon",
-                "Are You There, God?",
-                "Margaret",
-                "Margaret Ann Simon [prompt on Are You There, God? It's Me, Margaret]"
+                "Are You There, God?"
             ],
             "id": 622
         },
@@ -7646,10 +7372,7 @@
             "question": "One of these objects is named after Cocos Island and is next to one named after a region of Peru, Nazca. The spaces between them are usually classified as divergent or convergent transform faults. The theory of these objects has become connected to theories of mantle plumes, and the original theory came out of the continental drift ideas of Alfred Wegener. Name these shifting sections of the Earth's surface.",
             "round": "3",
             "year": 2011,
-            "answers": [
-                "tectonic plates",
-                "accept anything reasonable containing the word tectonic"
-            ],
+            "answers": ["tectonic plates"],
             "id": 626
         },
         {
@@ -7729,13 +7452,7 @@
             "question": "The rest type of this concept is described in special relativity. Its rotational analogue is rotational inertia. It equals energy divided by the square of the speed of light. On Earth, it is sometimes confused with weight, though it is measured not in pounds but in grams. Name this quantity that represents the amount of matter in an object.",
             "round": "1",
             "year": 2011,
-            "answers": [
-                "mass",
-                "m;",
-                "energy",
-                "mass",
-                "prompt on m; accept energy before \"inertia\""
-            ],
+            "answers": ["mass", "m", "energy", "mass"],
             "id": 632
         },
         {
@@ -7810,13 +7527,7 @@
             "question": "\"Wedge\" and \"rope\" are informal terms used to denote large and small forms of these phenomena. Twenty-eight different damage indicators help measure their severity via the enhanced Fujita scale. These phenomena occur when a funnel cloud touches the ground. Name these violently rotating windstorms that most often occur in their namesake \"Alley\" in the American Midwest.",
             "round": "CMST_Round07.pdf",
             "year": 2010,
-            "answers": [
-                "tornadoes",
-                "twisters",
-                "cyclones",
-                "tornadoes",
-                "twisters; prompt on cyclones"
-            ],
+            "answers": ["tornadoes", "twisters", "cyclones", "tornadoes"],
             "id": 638
         },
         {
@@ -7854,12 +7565,7 @@
             "question": "This man found that nothing would grow in nutrient broth unless it was exposed to the air, thereby rejecting the theory of spontaneous generation and providing evidence for germ theory. He generalized Edward Jenner's work with smallpox immunity to develop vaccines for anthrax and rabies. Name this French scientist who engineered a namesake process to destroy microorganisms in milk and other food products.",
             "round": "5",
             "year": 2011,
-            "answers": [
-                "Pasteur",
-                "pasteurization",
-                "Louis Pasteur",
-                "accept pasteurization word forms after \"process\""
-            ],
+            "answers": ["Pasteur", "pasteurization", "Louis Pasteur"],
             "id": 641
         },
         {
@@ -7943,9 +7649,7 @@
             "question": "The only people allowed to touch this object are members of its awarding organization's executive committee, current heads of state and previous winners of it. The current version of it was first awarded in 1974 after its predecessor, the Jules Rimet Trophy, was permanently given in 1970 to the first team to win it three times, Brazil. Name this ten-pound solid gold trophy that will next be awarded in Rio de Janeiro on July 7, 2014. to an international soccer team.",
             "round": "6",
             "year": 2013,
-            "answers": [
-                "FIFA World Cup [do not accept \\\"Jules Rimet Trophy\\\"]"
-            ],
+            "answers": ["FIFA World Cup"],
             "id": 648
         },
         {
@@ -8031,7 +7735,7 @@
             "question": "This particle was discovered by J.J. Thomson, and its exact charge was discovered in the Millikan oil drop experiment. According to the Pauli Exclusion Principle, two of these particles cannot exist in the same quantum state. These particles are shared during covalent bonding and orbit around the nucleus. Name this subatomic particle with a negative charge.",
             "round": "2",
             "year": 2012,
-            "answers": ["electron [prompt on fermion]"],
+            "answers": ["electron"],
             "id": 655
         },
         {
@@ -8043,10 +7747,7 @@
             "question": "The scholar John Marshall described this text as a parable of the civil wars gripping Rome, and he regards it as a Jewish text written by John of Patmos. The seven heads of the beast described in this book are often interpreted as the succession of seven Roman emperors during the first century. This book also describes the Four Horsemen of the Apocalypse. Name this last book of the New Testament.",
             "round": "5",
             "year": 2011,
-            "answers": [
-                "Book of Revelation",
-                "accept Apocalypse of John before \"John\"; do not accept prompt on \"John\""
-            ],
+            "answers": ["Book of Revelation"],
             "id": 656
         },
         {
@@ -8055,7 +7756,7 @@
             "subcategory": "Norse",
             "difficulty": "MS",
             "tournament": "Collaborative MS Tournament",
-            "question": "This politician claimed that he went into politics because of Ayn Rand and made Atlas Shrugged required reading for his staff, but he later said he rejected Rand's atheism. He is the current chair of the House Budget Committee, and one of his budget proposals was titled \"The Path to Prosperity.\" For 10 points what Wisconsin Republican was Mitt Romney's Vice Presidential nominee in the 2012 election?",
+            "question": "This politician claimed that he went into politics because of Ayn Rand and made Atlas Shrugged required reading for his staff, but he later said he rejected Rand's atheism. He served as the chair of the House Budget Committee, and was one of his budget proposals was titled \"The Path to Prosperity.\" What Wisconsin Republican was Mitt Romney's Vice Presidential nominee in the 2012 election?",
             "round": "2",
             "year": 2013,
             "answers": ["Paul Ryan"],
@@ -8070,7 +7771,7 @@
             "question": "Richard Dawkins described an \"extended\" form of this term, which becomes blended in incomplete dominance. The human skin color one is controlled by three genes, and crossing two heterozygous individuals usually results in a 3-to-1 ratio of this. In Mendel's pea plants, these included dwarf, yellow, and wrinkled. Name this term for an organism's physical traits that are determined by its genotype.",
             "round": "8",
             "year": 2013,
-            "answers": ["phenotypes [prompt on \\\"trait(s)\\\"]"],
+            "answers": ["phenotypes"],
             "id": 658
         },
         {
@@ -8082,12 +7783,7 @@
             "question": "This man's reign began with the Streltsy Revolt instigated by his half-sister, Sophia. He passed a law which required all men to either cut their beards or pay a tax. This leader created the Table of Ranks to organize the government and limit the power of the Boyars. He defeated Charles XII of Sweden in the Great Northern War. Name this tsar who established Russia as a dominant European power.",
             "round": "8",
             "year": 2011,
-            "answers": [
-                "Peter",
-                "Peter the Great;",
-                "Peter",
-                "Peter I [accept Peter the Great"
-            ],
+            "answers": ["Peter", "Peter the Great;", "Peter", "Peter I"],
             "id": 659
         }
     ],
@@ -8101,7 +7797,7 @@
             "question": "This element combines with nitrogen to form cyanides, and it combines with iron to make steel. Sixty atoms of this make a molecule of buckminsterfullerene, and another allotrope, mistakenly referred to as lead and used in pencils, is graphite. It exists in all organic molecules. A molecule made of this element and two oxygen atoms is used by plants in photosynthesis. Name this element whose atomic symbol is C.",
             "round": "5",
             "year": 2012,
-            "answers": ["carbon [accept C until mentioned]"],
+            "answers": ["carbon"],
             "id": 660
         },
         {
@@ -8113,10 +7809,7 @@
             "question": "In one work, this character is almost forced to marry Marcellina until it is revealed she is his long-lost mother. In another work, he advises a former employer to dress as a drunken soldier to get into Rosina's house. This former servant of Count Almaviva sings his name over and over again in \"Largo al Factotum,\" an aria from a Rossini opera. Name this Barber of Seville who gets married in a Mozart opera.",
             "round": "7",
             "year": 2011,
-            "answers": [
-                "Figaro",
-                "prompt on The Barber of Seville before mentioned; accept The Marriage of Figaro until \"employer\""
-            ],
+            "answers": ["Figaro"],
             "id": 661
         },
         {
@@ -8128,10 +7821,7 @@
             "question": "The energy of electromagnetic waves is obtained by multiplying Planck's constant \"h\" by this quantity. When an object such as a bridge vibrates at the natural state of this quantity, resonance occurs. For rotating devices, it is symbolized by omega and expressed in revolutions per second. Name this property referring to the number of occurrences of a repeating event per unit time, which is measured in Hertz.",
             "round": "8",
             "year": 2011,
-            "answers": [
-                "frequency",
-                "prompt on f; prompt on nu; prompt on omega before it is mentioned"
-            ],
+            "answers": ["frequency"],
             "id": 662
         },
         {
@@ -8167,7 +7857,7 @@
             "question": "That story describes how this phenomenon was found by a man tending his father-in-law Jethro's flock on Mount Horeb. While investigating it, Moses was told to deliver the children of Israel out of slavery in Egypt. For your answer identify this phenomenon in which a certain plant was engulfed in fire without being consumed.",
             "round": "1",
             "year": 2011,
-            "answers": ["the burning bush [accept clear equivalents]"],
+            "answers": ["the burning bush"],
             "id": 665
         },
         {
@@ -8203,7 +7893,7 @@
             "question": "This polity's army was defeated and its king, Cleombrotus, was killed at the battle of Leuctra by forces led by Epaminondas. Critias was installed as one of the Thirty Tyrants by this city-state to rule a naval power that led the Delian League. While defending against Persia, this city-state lost King Leonidas and three hundred other soldiers at Thermopylae. For your answer identify this Greek city-state and rival of Athens.",
             "round": "3",
             "year": 2011,
-            "answers": ["Sparta [accept Lacedaemon]"],
+            "answers": ["Sparta"],
             "id": 668
         },
         {
@@ -8262,7 +7952,7 @@
             "subcategory": null,
             "difficulty": "MS",
             "tournament": "Collaborative MS Tournament",
-            "question": "Frederick Muhlenberg was the first person to hold this office. This office is granted appointment power for select and conference committees. It confers the ability to schedule legislation for the floor and the person in this position controls the flow of debate. It is second in the line of presidential succession. For your answer what position was previously held by Dennis Hastert and is currently held by Nancy Pelosi?",
+            "question": "Frederick Muhlenberg was the first person to hold this office. This office is granted appointment power for select and conference committees. It confers the ability to schedule legislation for the floor and the person in this position controls the flow of debate. It is second in the line of presidential succession. For your answer what position was previously held by Dennis Hastert and was held by Nancy Pelosi until 2023?",
             "round": "CMST_Round09.pdf",
             "year": 2010,
             "answers": [
@@ -8450,7 +8140,7 @@
             "question": "Buildup of these organic molecules in the brain causes Tay-Sachs disease, and vitamins A and D dissolve in them. Humans use adipose cells to store the triglyceride form of these, while their water-repellant quality makes them excellent insulation in marine mammals. Some countries have banned the trans kind in foods altogether. Name these high-energy molecules that contribute to obesity and can be unsaturated.",
             "round": "1",
             "year": 2013,
-            "answers": ["fats", "fatty acids; prompt on lipids"],
+            "answers": ["fats", "fatty acids", "lipids"],
             "id": 687
         },
         {
@@ -8518,7 +8208,8 @@
             "year": 2012,
             "answers": [
                 "Constantine the Great",
-                "Constantine I; prompt on Constantine"
+                "Constantine I",
+                "Constantine"
             ],
             "id": 692
         },
@@ -8567,7 +8258,7 @@
             "question": "The god of war worshipped by these people was born from the union of a ball of feathers and Coatlicue. This people settled down in the place where they found an eagle, on a cactus, eating a snake. This people's main god threw himself on a funeral pyre after his chief rival, Tezcatlipoca, deceived him. For your answer identify this Mesoamerican civilization that worshipped the \"Feathered Serpent,\" Quetzalcoatl.",
             "round": "6",
             "year": 2011,
-            "answers": ["Aztecs [prompt on Mexicans]"],
+            "answers": ["Aztecs"],
             "id": 696
         },
         {
@@ -8617,13 +8308,7 @@
             "question": "In one myth, these creatures rose from the blood spilled by Uranus when his son Cronus castrated him. They chased Oedipus for wedding his mother and are believed to punish those who swear false oaths. Their members include Alecto, Megaera, and Tisiphone. Name these fearsome female winged deities of vengeance from Greco- Roman mythology.",
             "round": "9",
             "year": 2011,
-            "answers": [
-                "Erinnyes",
-                "Eumen\u00eddes;",
-                "Furies;",
-                "Dirae",
-                "Erinnyes [accept Eumen\u00eddes; accept Furies; accept Dirae (dahy-ree)]"
-            ],
+            "answers": ["Erinnyes", "Eumen\u00eddes;", "Furies;", "Dirae"],
             "id": 700
         },
         {
@@ -8647,7 +8332,7 @@
             "question": "This character's birthday is May 8. She trades the fish she catches at The Hob, a black market in District 12. After the reaping, she volunteers to take her sister Primrose's place. Her tumultuous relationship with Peeta continues and changes through Catching Fire and Mockingjay. Name the protagonist of Suzanne Collins' \"Hunger Games\" series.",
             "round": "4",
             "year": 2012,
-            "answers": ["Katniss Everdeen [accept either underlined name]"],
+            "answers": ["Katniss Everdeen", "Katniss", "Everdeen"],
             "id": 702
         },
         {
@@ -8659,10 +8344,7 @@
             "question": "This man's reign included an attempt by young officers to assassinate corrupt government officials; that event is known as the \"February 26th Incident\". He ordered the invasion of Manchuria and his general, Hideki Tojo, attempted suicide and was arrested for war crimes shortly after the bombings of Hiroshima and Nagasaki. Name this Japanese Emperor who ruled throughout World War II.",
             "round": "8",
             "year": 2011,
-            "answers": [
-                "Emperor Hirohito",
-                "accept EmperShowa; accept the Showa Emperor; prompt on Prince Michi"
-            ],
+            "answers": ["Emperor Hirohito", "EmperShowa", "Showa Emperor"],
             "id": 703
         },
         {
@@ -8674,7 +8356,7 @@
             "question": "This element is the most malleable and ductile metal. Like platinum, this metal cannot be dissolved by either hydrochloric or nitric acid alone, but can be dissolved by a mixture known as aqua regia. Relativistic effects on its outermost electrons explain its color, which is similar to pyrite. Name this precious metal whose Latin name, aurum, gives its atomic symbol, Au.",
             "round": "6",
             "year": 2012,
-            "answers": ["gold", "Au until mentioned"],
+            "answers": ["gold", "Au"],
             "id": 704
         },
         {
@@ -8698,7 +8380,7 @@
             "question": "One writer in this language wrote the collection \"Twenty Love Poems and a Song of Despair.\" Another user of this language published the short story collections The Aleph and Ficciones. Love in the Time of Cholera and One Hundred Years of Solitude were also written in this language. Name this language used by Latin American writers such as Pablo Neruda, Jorge Luis Borges, and Gabriel Garc\u00eda M\u00e1rquez.",
             "round": "CMST_Round03.pdf",
             "year": 2010,
-            "answers": ["Spanish", "Espanol", "Spanish", "Espanol"],
+            "answers": ["Spanish", "Espanol"],
             "id": 706
         },
         {
@@ -8722,7 +8404,7 @@
             "question": "Opposite corners of this constellation are at the start Saiph and Bellatrix. Though called its beta, its brightest star is usually Rigel [RY-jul]. This constellation is visible only in the winter, and its alpha star, part of the Winter Triangle and at the center of the Winter Hexagon, is Betelgeuse [\"beetle juice\"]. A line across its center formed by Alnitak, Alnilam, and Mintaka is known as its \"belt\". Name this constellation known as the Hunter.",
             "round": "5",
             "year": 2013,
-            "answers": ["Orion [prompt on the \\\"Hunter\\\"]"],
+            "answers": ["Orion"],
             "id": 708
         },
         {
@@ -8784,10 +8466,7 @@
             "question": "Darwin's first paper was on the formation of this biome, whose organisms are threatened by white-band disease. Acidification removes the minerals needed for this ecosystem to grow as each new generation builds on the calcium carbonate skeletons of the previous one. Constructed by tiny relatives of jellyfish, about 10% of these have been bleached by global warming. Name this most diverse aquatic ecosystem that includes the Great Barrier one.",
             "round": "9",
             "year": 2013,
-            "answers": [
-                "coral reefs",
-                "coral reefs [prompt on \\\"reef(s)\\\"]"
-            ],
+            "answers": ["coral reefs"],
             "id": 713
         },
         {
@@ -8847,7 +8526,7 @@
             "question": "The two-tiered tracking system during the Civil Rights era was one attempt to avoid this practice. Appropriations bills are not subject to it, and Strom Thurmond once did this for 24 hours and 37 minutes. The cloture rule requires a three-fifths majority to stop it. For your answer what is this practice found exclusively in the Senate, often used by minority parties to block legislation from passing?",
             "round": "CMST_Round08.pdf",
             "year": 2010,
-            "answers": ["filibuster", "filibuster", "accept word forms"],
+            "answers": ["filibuster"],
             "id": 718
         },
         {
@@ -8873,10 +8552,7 @@
             "question": "Fatty acids contain long chains of hydrogen and this element. Methane consists of four hydrogens bonded to this element. One form of this element in a cylindrical structure is the strongest known material, and is known as a namesake nanotube. Organic chemistry is the study of molecules containing this element. Its allotropes include diamond and graphite. Name this element that makes up all living things.",
             "round": "1",
             "year": 2011,
-            "answers": [
-                "carbon",
-                "C; accept carbon nanotubes before \"nanotube\""
-            ],
+            "answers": ["carbon", "C"],
             "id": 720
         },
         {
@@ -8912,7 +8588,7 @@
             "question": "Adrian Smith designed the world's largest structure of this type, which is currently located in the United Arab Emirates. Modern ones often use the tube frame design, which superseded the steel frame of earlier structures. Louis Sullivan is known as the father of these structures. Name this kind of large building, examples of which include the Burj Khalifa and the Empire State Building.",
             "round": "5",
             "year": 2012,
-            "answers": ["skyscraper [prompt on building; prompt on tower]"],
+            "answers": ["skyscraper", "building"],
             "id": 723
         },
         {
@@ -8924,9 +8600,7 @@
             "question": "One of Maxwell's equations describes how this physical quantity produces a magnetic field. A diode allows it to flow in only one direction. It equals voltage over resistance according to Ohm's law, and comes in alternating and direct types. Name this quantity whose units are amperes, and which measures the rate of charge flowing in a circuit.",
             "round": "9",
             "year": 2013,
-            "answers": [
-                "electric current [accept direct current; prompt on \\\"DC\\\"]"
-            ],
+            "answers": ["electric current", "direct current"],
             "id": 724
         },
         {
@@ -8938,10 +8612,7 @@
             "question": "This work features a story in which a fisherman finds a world without money. Another character in this work mistakes a fish for a large island. Another story from this collection concerns a character who sees forty thieves going into a cave of treasures. Name this work that features characters such as Sinbad the Sailor and Ali Baba, a collection of folk tales narrated by Scheherezade.",
             "round": "7",
             "year": 2013,
-            "answers": [
-                "1001 Nights",
-                "1001 Nights or The Arabian Nights Entertainment"
-            ],
+            "answers": ["1001 Nights", "The Arabian Nights Entertainment"],
             "id": 725
         },
         {
@@ -8965,7 +8636,7 @@
             "question": "The AM-GM inequality compares two types of this measure for a set of n non-negative numbers. One type of this is the nth root of the product of n numbers; that is the geometric type of this measure. The usual type of this measure is called the arithmetic type, which equals the sum of n numbers divided by n and is often contrasted with the median and mode. Name this measure, the average value of a set of numbers.",
             "round": "5",
             "year": 2013,
-            "answers": ["mean", "accept average before it is mentioned"],
+            "answers": ["mean", "average"],
             "id": 727
         },
         {
@@ -9026,7 +8697,7 @@
             "subcategory": null,
             "difficulty": "MS",
             "tournament": "Collaborative MS Tournament",
-            "question": "The reaction to this man's recent promise of a zero percent increase in public spending led John Bercow to call for order. He became a member of the Shadow Cabinet in 1986. In 1994, he was rumored to be a candidate for the leadership of the Labour Party, but struck the Granita Pact with man he would eventually succeed, Tony Blair. Name this current Prime Minister of the United Kingdom.",
+            "question": "The reaction to this man's recent promise of a zero percent increase in public spending led John Bercow to call for order. He became a member of the Shadow Cabinet in 1986. In 1994, he was rumored to be a candidate for the leadership of the Labour Party, but struck the Granita Pact with man he would eventually succeed, Tony Blair. Name this Prime Minister of the United Kingdom from 2007-2010.",
             "round": "CMST_Round06.pdf",
             "year": 2010,
             "answers": ["Brown", "Gordon Brown"],
@@ -9041,10 +8712,7 @@
             "question": "Gamma-tubulin is needed to activate centrosomes in this phase, which follows the G2 checkpoint. One of these phases in meiosis includes synapsis and the crossing over of homologous chromosomes. Asters form during this phase that sees the disappearance of the nucleolus and the growth of spindle fibers. Name this phase of mitosis in which chromatin condenses into chromosomes prior to metaphase.",
             "round": "5",
             "year": 2012,
-            "answers": [
-                "prophase",
-                "accept prophase I; prompt on meiosis until read; prompt on mitosis until \"meiosis\" is read but do not accept prompt on it afterwards"
-            ],
+            "answers": ["prophase", "prophase I"],
             "id": 733
         },
         {
@@ -9080,7 +8748,7 @@
             "question": "The dot product of two vectors over the product of their lengths gives this function of the angle between them. A law named for this function generalizes the Pythagorean theorem to non-right triangles; it uses two sides of a triangle and the included angle to find the length of the third side. Name this trigonometric ratio commonly calculated as \"adjacent over hypotenuse\" in right triangles.",
             "round": "10",
             "year": 2013,
-            "answers": ["cosine [accept cosine of x, with x being any letter]"],
+            "answers": ["cosine", "cosine of x", "cos"],
             "id": 736
         },
         {
@@ -9092,9 +8760,7 @@
             "question": "In Major Barbara, Andrew Undershaft became rich by manufacturing these objects. Both Hedda Gabler and Young Werther commit suicide using these objects. One of these objects shown in the background early in a story will be important later, according to a literary device named for Anton Chekhov. For your answer Eugene Onegin agrees to a duel that uses what bullet-firing weapons?",
             "round": "9",
             "year": 2012,
-            "answers": [
-                "guns [accept pistols; prompt on weapons; prompt on munitions]"
-            ],
+            "answers": ["guns", "pistols"],
             "id": 737
         },
         {
@@ -9106,7 +8772,7 @@
             "question": "This instrument was played by Cannonball Adderley on Kind of Blue, as well as by a musician whose own albums include Giant Steps and A Love Supreme. Another player of this instrument released Ornithology and Yardbird Suite. It was played by John Coltrane and Charlie Parker. Name this instrument whose alto and tenor varieties have a U-bend and tilted bell and are common in jazz ensembles.",
             "round": "9",
             "year": 2012,
-            "answers": ["saxophone [accept alto saxophone]"],
+            "answers": ["saxophone", "alto saxophone"],
             "id": 738
         },
         {
@@ -9118,7 +8784,7 @@
             "question": "This element's allotropes include nanotubes and fullerenes. Another allotrope of this element consists of thin hexagonal sheets and is known as graphite. This element is bound to four hydrogen atoms in methane. Name this element that makes up diamonds, which has atomic number six and symbol C.",
             "round": "CMST_Round07.pdf",
             "year": 2010,
-            "answers": ["carbon", "C", "carbon", "C before given"],
+            "answers": ["carbon", "C"],
             "id": 739
         }
     ],
@@ -9156,7 +8822,7 @@
             "question": "He sent his armies to quash an uprising that was sparked by the Papist Act of 1778; these uprisings were known as the Gordon Riots. He succeeded his grandfather as king during the Seven Years' War, and although he won that war, the resulting debt led Parliament to pass the Stamp Act of 1765. Name this \"mad\" king of Great Britain who lost the American colonies in the Revolutionary War.",
             "round": "5",
             "year": 2012,
-            "answers": ["George III", "prompt on George"],
+            "answers": ["George III"],
             "id": 742
         },
         {
@@ -9168,10 +8834,7 @@
             "question": "One movement with this name involved painters like Aaron Douglas and Jacob Lawrence, who were influenced by African folk art. In addition to that \"Harlem\" movement, another period by this name flourished in the fifteenth and sixteenth centuries and was based on humanism and classical influences. Raphael and Leonardo da Vinci were part of what period of art whose name is French for \"rebirth\"?",
             "round": "1",
             "year": 2011,
-            "answers": [
-                "Renaissance",
-                "accept \"Harlem Renaissance\" until \"Harlem\"; accept variants such as \"Early Renaissance\" \"High Renaissance\""
-            ],
+            "answers": ["Renaissance", "Harlem Renaissance"],
             "id": 743
         },
         {
@@ -9183,10 +8846,7 @@
             "question": "The practice of kapparot associated with this holiday sees a donation to the poor, while the Tetragrammaton or Ha-Shem was pronounced by the High Priest of the Great Temple on this day. The last of the five services occurring on this day is the Neilah. People try to transfer their sins away and recite the Kol Nidre prayer before its beginning. Occurring on the 10th of Tishrei, it concludes the High Holy Days. Name this Jewish Day of Atonement.",
             "round": "4",
             "year": 2013,
-            "answers": [
-                "Yom Kippur",
-                "Yom ha-Kipurim; prompt on Jewish \\\"Day of Atonement\\\" before mention"
-            ],
+            "answers": ["Yom Kippur", "Yom ha-Kipurim"],
             "id": 744
         },
         {
@@ -9199,13 +8859,13 @@
             "round": "6",
             "year": 2012,
             "answers": [
-                "Second Temple",
+                "Second Temple of Jerusalem",
                 "Jerusalem",
                 "Temple",
                 "Jerusalem;",
                 "Temple",
                 "Jerusalem\"",
-                "Second Temple of Jerusalem [prompt on Temple of Jerusalem; do not accept \"First Temple of Jerusalem\"]"
+                "Second Temple of Jerusalem"
             ],
             "id": 745
         },
@@ -9218,7 +8878,7 @@
             "question": "The first step in this process can be further broken down into leptotene, zygotene, and pachytene phases. A common problem during this process is nondisjunction, which leads to conditions such as Klinefelter's Syndrome and Down Syndrome. This process involves two instances of prophase, metaphase, anaphase, and telophase. Name this process used to create haploid cells, such as sperm and eggs.",
             "round": "7",
             "year": 2011,
-            "answers": ["meiosis", "do not accept prompt on \"mitosis\""],
+            "answers": ["meiosis"],
             "id": 746
         },
         {
@@ -9340,10 +9000,7 @@
             "question": "Before this event, a three-year winter will end almost all life. During this event, one deity's son will use a giant shoe to take revenge for his father's death. At its start, Heimdall will blow the Gjallarhorn and Loki will break free from his imprisonment. During this event, Thor will kill the Midgard Serpent, only to die from its poison. Name this event marking the end of the world in Norse mythology.",
             "round": "4",
             "year": 2012,
-            "answers": [
-                "Ragnarnk",
-                "prompt on Gotterdammerung; prompt on end of the world"
-            ],
+            "answers": ["Ragnarnk"],
             "id": 756
         },
         {
@@ -9405,10 +9062,7 @@
             "question": "In this body of water are the Emperor Seamounts and the Chinook Trough. The Ryukyu Trench lies in it, and its islands include Pitcairn Island and Wake Island. Its deepest point is Challenger Deep, which is in the Marianas Trench. Melanesia and Micronesia are island groups in what ocean that contains Tonga, Fiji, and Guam?",
             "round": "7",
             "year": 2011,
-            "answers": [
-                "Pacific Ocean",
-                "do not accept prompt on more specific answers"
-            ],
+            "answers": ["Pacific Ocean"],
             "id": 761
         },
         {
@@ -9444,9 +9098,7 @@
             "question": "An operation of this name can be performed on two matrices, one of which has an equal number of rows to the other's number of columns. Although this operation is not uniquely defined for vectors, two approximations are the cross product and the dot product. This operation is governed by the distributive property. For your answer identify this arithmetic operation, the inverse of division.",
             "round": "3",
             "year": 2012,
-            "answers": [
-                "multiplication [accept matrix multiplication in the first sentence]"
-            ],
+            "answers": ["multiplication", "matrix multiplication"],
             "id": 764
         },
         {
@@ -9470,10 +9122,7 @@
             "question": "Lieschen [lee-shen] is addicted to coffee in a cantata by this composer of the Notebook for Anna Magdalena. Gounod's [goo-noh's] Ave Maria is based on a prelude from this composer's Well-Tempered Clavier, and Mendelssohn revived his setting of the St. Matthew Passion. The Art of Fugue was composed by what German Baroque composer of the Goldberg Variations and the Brandenburg Concertos?",
             "round": "2",
             "year": 2012,
-            "answers": [
-                "Johann Sebastian Bach",
-                "accept Coffee Cantata before \"cantata\" is read"
-            ],
+            "answers": ["Johann Sebastian Bach", "Coffee Cantata"],
             "id": 766
         },
         {
@@ -9497,10 +9146,7 @@
             "question": "One ruler of this historical country went on a \"Grand Embassy\" to the west to learn shipbuilding and military training. That same ruler instituted a beard tax on boyars. Another of its rulers created a parliament called the Duma and issued the October Manifesto. Peter the Great and Nicholas II were rulers of what empire where a 1917 revolution toppled the government in Moscow?",
             "round": "8",
             "year": 2012,
-            "answers": [
-                "Russian Empire",
-                "do not accept prompt on \"Soviet Union\" \"U.S.S.R.\""
-            ],
+            "answers": ["Russian Empire"],
             "id": 768
         },
         {
@@ -9577,11 +9223,7 @@
             "question": "A pressure associated with this process is a colligative property proportional to mass and temperature, and is defined as the hydrostatic pressure necessary to counteract this process. A \"reverse\" form of this process is sometimes used to purify water. Name this movement of water across a semi-permeable membrane from an area of high concentration to an area of low concentration.",
             "round": "CMST_Round06.pdf",
             "year": 2010,
-            "answers": [
-                "osmosis",
-                "diffusion",
-                "osmosis [prompt on diffusion]"
-            ],
+            "answers": ["osmosis", "diffusion"],
             "id": 774
         },
         {
@@ -9593,11 +9235,7 @@
             "question": "This native of Tarsus undertook several missionary trips to western areas like Asia Minor and Syria. This author of two epistles to the Corinthians and one to the Romans advocated the persecution of Jews who accepted Jesus, until he had a life-altering vision on the road to Damascus. For your answer identify this Catholic saint born with the name Saul.",
             "round": "CMST_Round08.pdf",
             "year": 2010,
-            "answers": [
-                "Paul",
-                "Saul",
-                "St. Paul the Apostle [accept Saul until mentioned]"
-            ],
+            "answers": ["Paul", "Saul", "St. Paul the Apostle"],
             "id": 775
         },
         {
@@ -9621,7 +9259,7 @@
             "question": "In 2012 this team's third-string quarterback, Greg McElroy, claimed that its locker room was \"not a fun place to be.\" Team captain Santonio Holmes was benched during its Week 17 loss to the Dolphins. This team's fans are known to boo its draft picks, which have included cornerback Darrelle Revis and quarterback Mark Sanchez. Name this football team coached by Rex Ryan that shares a stadium with the Giants",
             "round": "2",
             "year": 2012,
-            "answers": ["New York Jets", "prompt on New York"],
+            "answers": ["New York Jets"],
             "id": 777
         },
         {
@@ -9633,12 +9271,7 @@
             "question": "In one scene in this novel, a Sheep talks of \"crabs\" and \"feathers\" while rowing. This novel begins with the protagonist blaming the black kitten, the offspring of Dinah, for the whole thing. In this novel, the protagonist plays a massively scaled chess game with the Red Queen. Name this sequel to Alice's Adventures in Wonderland whose title refers to the other side of a mirror.",
             "round": "2",
             "year": 2012,
-            "answers": [
-                "Through the Looking",
-                "Glass",
-                "Through the Looking-Glass",
-                "do not accept prompt on \"Alice's Adventures in Wonderland\" \"Alice in Wonderland\""
-            ],
+            "answers": ["Through the Looking-Glass"],
             "id": 778
         },
         {
@@ -9650,7 +9283,7 @@
             "question": "This man's nonfiction work A Footnote to History includes firsthand accounts of civil war in Samoa. He wrote a story in which Dr. Lanyon dies from shock after seeing a respectable doctor turn into the murderer Edward Hyde. This man's novel Catriona is a sequel to a work about David Balfour, and another of his works features the pirate Long John Silver. Name this author of Kidnapped and Treasure Island.",
             "round": "10",
             "year": 2011,
-            "answers": ["Stevenson", "Robert Louis Balfour Stevenson"],
+            "answers": ["Robert Louis Balfour Stevenson", "Stevenson"],
             "id": 779
         }
     ],
@@ -9688,13 +9321,7 @@
             "question": "Seven laws that apply to non-Jews are named for this figure, whose nakedness was uncovered by one of his sons. An agreement this figure made with God is symbolized by the rainbow. He was the son of Lamekh and had three sons, Japheth, Ham, and Shem. To confirm that one of his jobs was complete, he sent a dove to check for dry land. For your answer identify this Biblical character who took two animals of each kind in his ark.",
             "round": "9",
             "year": 2011,
-            "answers": [
-                "Noah",
-                "Noakh;",
-                "Noahide laws",
-                "Noah",
-                "Noakh; accept Noahide laws before \"nakedness\""
-            ],
+            "answers": ["Noah", "Noakh", "Noahide laws", "Noah"],
             "id": 782
         },
         {
@@ -9706,12 +9333,7 @@
             "question": "Characters in this work include Count Ugolino as well as Francesca da Rimini, whose husband caught her with Paolo. The speaker of this work faints while Charon and Virgil guide a boat across the Acheron. Beginning the day before Good Friday, this work depicts nine concentric circles in which sinners are punished. Name this first section of The Divine Comedy, in which the poet Dante is guided through Hell.",
             "round": "2",
             "year": 2011,
-            "answers": [
-                "Inferno",
-                "Divine Comedy",
-                "Inferno",
-                "prompt on The Divine Comedy before mentioned"
-            ],
+            "answers": ["Inferno", "Divine Comedy", "Inferno"],
             "id": 783
         },
         {
@@ -9732,7 +9354,7 @@
             "subcategory": null,
             "difficulty": "MS",
             "tournament": "Collaborative MS Tournament",
-            "question": "This man almost lost his Senate seat in the 1998, surviving a challenge from future colleague John Ensign, and he is expected to have a tough re-election in 2010 against Sue Lowden or Danny Tarkanian. He commented that Barack Obama was \"light-skinned\" and \"spoke with no Negro dialect, unless he wanted one.\" Name this senior Senator from Nevada, the current Senate Majority Leader.",
+            "question": "This man almost lost his Senate seat in the 1998, surviving a challenge from future colleague John Ensign, and he is expected to have a tough re-election in 2010 against Sue Lowden or Danny Tarkanian. He commented that Barack Obama was \"light-skinned\" and \"spoke with no Negro dialect, unless he wanted one.\" Name this senior Senator from Nevada, the Senate Majority Leader from 2007-2015.",
             "round": "CMST_Round09.pdf",
             "year": 2010,
             "answers": ["Reid", "Harry Mason Reid"],
@@ -9817,29 +9439,17 @@
             "id": 791
         },
         {
-            "num": 3,
-            "category": "Trash",
-            "subcategory": "Norse",
-            "difficulty": "MS",
-            "tournament": "Collaborative MS Tournament",
-            "question": "Some of this company's products use the SpiderMonkey JavaScript engine and the Gecko rendering engine. This free software company grew out of Netscape and produces an email client called Thunderbird. Its most popular product, currently on version 19, has a mobile version called Fennec and is a web browser that was recently passed in market share by Google Chrome. Name this company that produces Firefox.",
-            "round": "5",
-            "year": 2013,
-            "answers": ["Mozilla"],
-            "id": 792
-        },
-        {
             "num": 21,
             "category": "History",
             "subcategory": "World",
             "difficulty": "MS",
             "tournament": "Collaborative MS Tournament",
-            "question": "This present-day nation was the center of Axum, and its church claims to hold the Ark of the Covenant. It defeated Italy at the Battle of Adowa under Emperor Menilek II. Rastafarians hold that another emperor, Haile Selassie, was the second coming of Jesus. Its first emperor was supposedly the son of the Queen of Sheba. Name this African nation currently led by Girma Wolde-Giorgis from Addis Ababa.",
+            "question": "This present-day nation was the center of Axum, and its church claims to hold the Ark of the Covenant. It defeated Italy at the Battle of Adowa under Emperor Menilek II. Rastafarians hold that another emperor, Haile Selassie, was the second coming of Jesus. Its first emperor was supposedly the son of the Queen of Sheba. Name this African nation which was led by Girma Wolde-Giorgis from 2001-2013 from the capital Addis Ababa.",
             "round": "6",
             "year": 2011,
             "answers": [
                 "Federal Democratic Republic of Ethiopia",
-                "Ityop'iya Federalawi Demokrasiyawi Ripeblik; prompt on Abyssinia"
+                "Ityop'iya Federalawi Demokrasiyawi Ripeblik"
             ],
             "id": 793
         },
@@ -9866,9 +9476,7 @@
             "year": 2013,
             "answers": [
                 "Vice President",
-                "\\\"President\\\"",
-                "Vice President of the United States",
-                "do not accept prompt on \\\"President\\\""
+                "Vice President of the United States"
             ],
             "id": 795
         },
@@ -9878,15 +9486,10 @@
             "subcategory": "Norse",
             "difficulty": "MS",
             "tournament": "Collaborative MS Tournament",
-            "question": "This team won the NFL championship in 1957, but is the only NFC team to never play in a Super Bowl since the start of the Super Bowl era. Former stars for this team are Doak Walker, Billy Sims, and Barry Sanders. Its current quarterback is Matt Stafford. In 2008 it became the first team to lose all sixteen regular season games. Name this team that plays in the NFC North with the Packers, Vikings, and Bears.",
+            "question": "This team won the NFL championship in 1957, but is the only NFC team to never play in a Super Bowl since the start of the Super Bowl era. Former stars for this team are Doak Walker, Billy Sims, and Barry Sanders. In 2008 it became the first team to lose all sixteen regular season games. Name this team that plays in the NFC North with the Packers, Vikings, and Bears.",
             "round": "9",
             "year": 2011,
-            "answers": [
-                "Detroit Lions",
-                "Detroit Lions",
-                "Detroit Lions",
-                "Detroit Lions"
-            ],
+            "answers": ["Detroit Lions", "Lions"],
             "id": 796
         },
         {
@@ -9936,11 +9539,7 @@
             "question": "Cadmus once killed this deity's dragon and had to serve this deity for eight years, after which he married Harmonia, this deity's daughter. This deity was wounded by Diomedes during the Trojan War when he appeared on the battlefield helping the Trojans. This deity's union with Aphrodite yielded Eros and his attendants Phobos and Deimos. For your answer which son of Zeus and Hera is the Greek god of war?",
             "round": "1",
             "year": 2011,
-            "answers": [
-                "Ares",
-                "Mars",
-                "Ares [prompt on Mars until \"Greek\"]"
-            ],
+            "answers": ["Ares", "Mars"],
             "id": 800
         },
         {
@@ -9964,7 +9563,7 @@
             "question": "This man is told by the ghost of his wife Creusa to leave for Hesperia after carrying his father Anchises and son Ascanius out of a besieged city. He visits the underworld with the help of a golden bough, on the advice of the Cumaean Sibyl. He duels Turnus for the hand of Lavinia. After this son of Venus leaves Carthage, Dido kills herself. Name this Trojan who founds Rome according to an epic by Virgil.",
             "round": "5",
             "year": 2011,
-            "answers": ["Aeneas [prompt on The Aeneid]"],
+            "answers": ["Aeneas"],
             "id": 802
         },
         {
@@ -9976,12 +9575,7 @@
             "question": "The carrack Mary Rose sank during the reign of this ruler, who ordered Thomas Cromwell to dissolve the monasteries. Thomas Cranmer was Archbishop of Canterbury under this ruler, who became the supreme head of the Protestant Church of England. After his marriage to a Spanish princess ended, he married Anne Boleyn, but had Anne beheaded in 1536. Name this Tudor king with an eventual total of six wives.",
             "round": "CMST_Round03.pdf",
             "year": 2010,
-            "answers": [
-                "Henry VIII",
-                "Henry Tudor",
-                "Henry VIII",
-                "prompt on Henry Henry Tudor"
-            ],
+            "answers": ["Henry VIII", "Henry Tudor", "Henry VIII"],
             "id": 803
         },
         {
@@ -10082,10 +9676,7 @@
             "question": "By definition, this type of object does not clear the neighborhood around its orbit. Haumea, found in 2003, and Makemake, found in 2005, are two examples found in the Kuiper Belt. An object similar to those two was \"downgraded\" to this status in 2006. For your answer Eris and, since 2006, Pluto are what type of celestial body that is smaller than a true planet?",
             "round": "3",
             "year": 2012,
-            "answers": [
-                "dwarf planet",
-                "accept dwarf after \"planet\" is read but prompt before; do not accept \"planet\" by itself"
-            ],
+            "answers": ["dwarf planet"],
             "id": 811
         },
         {
@@ -10110,8 +9701,7 @@
                 "Paleogene",
                 "K",
                 "Pg",
-                "extinction of the dinosaurs",
-                "asteroid killing the dinosaurs Cretaceous-Tertiary event K-T event Cretaceous-Paleogene event K-Pg event; accept logical equivalents"
+                "extinction of the dinosaurs"
             ],
             "id": 812
         },
@@ -10141,7 +9731,7 @@
                 "The Maids",
                 "Honor",
                 "Las Meninas",
-                "accept The Maids of Honor"
+                "The Maids of Honor"
             ],
             "id": 814
         },
@@ -10252,10 +9842,7 @@
             "question": "A poster advertising this event featured a dancer posing on top of the Arturo DiModeca sculpture, Raging Bull, and the words \"bring tent.\" The Internet group \"Anonymous\" encouraged readers to participate in this event, which targeted Zuccotti Park in New York City and began on September 17th, 2011. For your answer identify this protest movement with a slogan of \"We are the 99 percent,\" and a Twitter hashtag of O.W.S.",
             "round": "2",
             "year": 2012,
-            "answers": [
-                "Occupy Wall Street",
-                "prompt on any answer that just includes the word occupy; prompt on O.W.S."
-            ],
+            "answers": ["Occupy Wall Street"],
             "id": 823
         },
         {
@@ -10279,7 +9866,7 @@
             "question": "This structure was built on the orders of Walter Ulbricht, who termed it anti-Fascist. It divided the Potsdamer Platz, and its best-known crossing was at Checkpoint Charlie. Ronald Reagan challenged Mikhail Gorbachev to tear it down. For your answer the capital of Germany was divided by what barrier that fell in November 1989?",
             "round": "CMST_Round06.pdf",
             "year": 2010,
-            "answers": ["Wall", "Mauer", "Berlin Wall [accept Berliner Mauer]"],
+            "answers": ["Wall", "Mauer", "Berlin Wall", "Berliner Mauer"],
             "id": 825
         },
         {
@@ -10338,7 +9925,7 @@
             "subcategory": "Visual",
             "difficulty": "MS",
             "tournament": "Collaborative MS Tournament",
-            "question": "This style emerged in Great Britain in the mid-1950's and was started by the Independent Group. Some examples of this style include the \"combines\" of Robert Rauschenberg and Jasper Johns's work Flag. Its most famous practitioner founded a studio known as \"The Factory\" and produced reproductions of everyday objects such as Campbell's Soup Cans. For 10 points name this type of art practiced Andy Warhol.",
+            "question": "This style emerged in Great Britain in the mid-1950's and was started by the Independent Group. Some examples of this style include the \"combines\" of Robert Rauschenberg and Jasper Johns's work Flag. Its most famous practitioner founded a studio known as \"The Factory\" and produced reproductions of everyday objects such as Campbell's Soup Cans. Name this type of art practiced Andy Warhol.",
             "round": "7",
             "year": 2012,
             "answers": ["Pop Art"],
@@ -10353,12 +9940,7 @@
             "question": "A self-help book by Spencer Johnson asks \"Who Moved?\" this object. The main character of the title \"Fairly Stupid Tale\" in a collection by Jon Scieszka is a man made of a \"stinky\" kind of this food. In \"The Farmer and the Dell,\" it stands alone. The moon is not actually made of a green version of it. Name this dairy product that comes in provolone and Swiss varieties.",
             "round": "CMST_Round09.pdf",
             "year": 2010,
-            "answers": [
-                "cheese",
-                "Who Moved My Cheese?",
-                "cheese",
-                "accept Who Moved My Cheese? before \u201cthis object\u201d"
-            ],
+            "answers": ["cheese", "Who Moved My Cheese?", "cheese"],
             "id": 831
         },
         {
@@ -10370,9 +9952,7 @@
             "question": "Samuel Chase was the only impeached member of this group, which is vested with power by Article III of the U.S. Constitution. Harriet Miers and Robert Bork were unsuccessful nominees to join this group, which Franklin Roosevelt proposed increasing to a size of 15. Marbury v. Madison was an 1803 decision by what nine-member panel, the highest-ranking in the judicial branch?",
             "round": "5",
             "year": 2013,
-            "answers": [
-                "United States Supreme Court [accept SCOTUS (Supreme Court of the United States); prompt on \\\"Court\\\"]"
-            ],
+            "answers": ["United States Supreme Court", "SCOTUS"],
             "id": 832
         },
         {
@@ -10421,7 +10001,8 @@
             "round": "3",
             "year": 2013,
             "answers": [
-                "Michelangelo (di Lodovico) Buonarroti (Simoni) [accept either underlined name]"
+                "Michelangelo (di Lodovico) Buonarroti (Simoni)",
+                "Michelangelo"
             ],
             "id": 836
         },
@@ -10434,7 +10015,7 @@
             "question": "This man wrote poems like \"maggie and milly and molly and may\" and \"i carry your heart with me.\" He chronicled his imprisonment during World War 1 in The Enormous Room. He wrote about \"someones marry[ing] their everyones\" and \"sun moon stars rain\" in \"anyone lived in a pretty how town.\" Name this poet known for his unconventional use of punctuation and capitalization.",
             "round": "5",
             "year": 2013,
-            "answers": ["E(dward) E(stlin) Cummings"],
+            "answers": ["E(dward) E(stlin) Cummings", "E. E. Cummings"],
             "id": 837
         },
         {
@@ -10508,10 +10089,7 @@
             "question": "The winning side of this battle had its main position at Henry House Hill. The losing side was led by General Irvin McDowell. General Joseph Johnston rushed reinforcements to P. G.T Beauregard at this battle. General Bernard Bee was shot at this battle after proclaiming, \"There stands Jackson like a stone wall!\" Name this first major battle of the Civil War.",
             "round": "8",
             "year": 2012,
-            "answers": [
-                "First Battle of Bull Run",
-                "First Battle of Manassas; prompt on Bull Run; prompt on Manassas"
-            ],
+            "answers": ["First Battle of Bull Run", "First Battle of Manassas"],
             "id": 843
         },
         {
@@ -10671,9 +10249,7 @@
                 "endoplasmic reticulum",
                 "ER",
                 "sarcoplasmic reticulum",
-                "SR",
-                "endoplasmic reticulum",
-                "ER ; accept sarcoplasmic reticulum SR"
+                "SR"
             ],
             "id": 855
         },
@@ -10683,10 +10259,14 @@
             "subcategory": "Norse",
             "difficulty": "MS",
             "tournament": "Collaborative MS Tournament",
-            "question": "This man defeated Caleb Boggs in a 1972 Senate election; the following month his wife and daughter were killed in an accident. In 2013, he and John Lewis led a re-enactment of the Selma civil rights march, and in 2012 he said on national television, \"With all due respect, that's a bunch of malarkey.\" He now heads a Gun Violence Task Force. Name this former Delaware Senator who is currently the Vice President.",
+            "question": "This man defeated Caleb Boggs in a 1972 Senate election; the following month his wife and daughter were killed in an accident. In 2013, he and John Lewis led a re-enactment of the Selma civil rights march, and in 2012 he said on national television, \"With all due respect, that's a bunch of malarkey.\" He now heads a Gun Violence Task Force. Name this former Delaware Senator who was the Vice President under Barack Obama.",
             "round": "4",
             "year": 2013,
-            "answers": ["Biden", "(Joseph Robinette) \\\"Joe\\\" Biden"],
+            "answers": [
+                "Joe Biden",
+                "Biden",
+                "(Joseph Robinette) \\\"Joe\\\" Biden"
+            ],
             "id": 856
         },
         {
@@ -10707,7 +10287,7 @@
             "subcategory": "Norse",
             "difficulty": "MS",
             "tournament": "Collaborative MS Tournament",
-            "question": "This leader has a weekly talk show, Aln Presidente, which went on hiatus in June 2011 when he traveled to Cuba for cancer treatment. This leader called Barack Obama a \"clown\" and has suggested that the U.S. is responsible for numerous cases of cancer among various South American leaders. Name this current President of Venezuela.",
+            "question": "This leader has a weekly talk show, Aln Presidente, which went on hiatus in June 2011 when he traveled to Cuba for cancer treatment. This leader called Barack Obama a \"clown\" and has suggested that the U.S. is responsible for numerous cases of cancer among various South American leaders. Name this President of Venezuela until 2013.",
             "round": "9",
             "year": 2012,
             "answers": ["Hugo Chavez"],
@@ -10760,7 +10340,7 @@
             "question": "Franz Schubert's three symphonies in this key are nicknamed Tragic, Little, and Great. Mozart's Jupiter Symphony and Bach's first Prelude from The Well Tempered Clavier are in this major key, whose relative minor is A minor. Instruments pitched in this key include the bassoon, oboe, and flute. A scale in this key played on piano only hits white keys. Name this musical key that contains no sharps or flats.",
             "round": "4",
             "year": 2013,
-            "answers": ["C major", "do not prompt on accept \\\"c minor\\\""],
+            "answers": ["C major"],
             "id": 862
         }
     ]
