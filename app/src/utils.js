@@ -14,5 +14,9 @@ export const convertNumberToEmoji = (number) => {
         10: "🔟",
     };
 
-    return emojiMap[number];
+    if (number in emojiMap) {
+        return emojiMap[number];
+    } else {
+        return number;
+    }
 };
