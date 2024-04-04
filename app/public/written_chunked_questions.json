@@ -3727,10 +3727,10 @@
             "round": "4",
             "year": 2013,
             "answers": [
-                "Uncle Tom\\'s Cabin;",
+                "Uncle Tom's Cabin;",
                 "Life among",
                 "Lowly",
-                "Uncle Tom\\'s Cabin; or, Life among the Lowly"
+                "Uncle Tom's Cabin; or, Life among the Lowly"
             ],
             "id": 341
         },
@@ -3827,10 +3827,7 @@
             "question": "One of these musical works features a harpsichord cadenza that was probably played by J.S. Bach at its premiere. Bela Bartok wrote one of these works for Orchestra. Vivaldi's hundreds of these works include The Four Seasons, and Mozart wrote a double one for flute and harp. Name this type of musical work in which a solo instrument is accompanied by an orchestra or other group of supporting instruments.",
             "round": "9",
             "year": 2013,
-            "answers": [
-                "concerto",
-                "Brandenburg Concerto(s) before \\\"Bela Bartok\\\" is mentioned"
-            ],
+            "answers": ["concerto"],
             "id": 349
         }
     ],
