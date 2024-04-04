@@ -8,6 +8,7 @@ import {
     CLOCK_EMOJI_HTML,
     GAME_SECONDS,
 } from "../../constants";
+import { convertNumberToEmoji } from "../../utils";
 
 const FinishScreen = ({
     setScreenShowing,
@@ -79,7 +80,7 @@ const FinishScreen = ({
         let i = 1;
         for (const result of playerResults.questionResults) {
             // TODO: make these emojis
-            const rowArr = [`${i}. `];
+            const rowArr = [`${convertNumberToEmoji(i)} `];
             if (result.isCorrect) {
                 rowArr.push("✅");
             } else if (result.skipped) {
