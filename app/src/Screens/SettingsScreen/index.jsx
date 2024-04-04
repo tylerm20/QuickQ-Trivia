@@ -1,4 +1,4 @@
-import Modal from "../Modal";
+import Modal from "../../Components/Modal";
 import "./style.css";
 
 const SettingsScreen = ({

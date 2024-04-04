@@ -1,6 +1,6 @@
 import React from "react";
 import "./style.css";
-import BasicButton from "../BasicButton";
+import BasicButton from "../../Components/BasicButton";
 import {
     GREEN_CHECK_EMOJI_HTML,
     NEXT_TRACK_EMOJI_HTML,

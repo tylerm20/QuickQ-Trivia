@@ -1,11 +1,11 @@
 import React, { useState, useEffect } from "react";
 import Fuse from "fuse.js";
-import Timer from "../Timer";
-import Score from "../Score";
-import SettingsButton from "../SettingsButton";
-import BasicButton from "../BasicButton";
-import Question from "../Question";
-import AnswerModal from "../AnswerModal";
+import Timer from "../../Components/Timer";
+import Score from "../../Components/Score";
+import SettingsButton from "../../Components/SettingsButton";
+import BasicButton from "../../Components/BasicButton";
+import Question from "../../Components/Question";
+import AnswerModal from "../../Components/AnswerModal";
 import { BUZZ_SECONDS, GAME_SECONDS, screens } from "../../constants";
 import "./style.css";
 import SettingsScreen from "../SettingsScreen";
