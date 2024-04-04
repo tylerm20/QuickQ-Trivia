@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import { screens } from "../../constants";
-import SettingsScreen from "../SettingsScreen";
-import BasicButton from "../BasicButton";
+import SettingsScreen from "../../Screens/SettingsScreen";
+import BasicButton from "../../Components/BasicButton";
 import "./style.css";
 
 const StartScreen = ({

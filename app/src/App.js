@@ -1,8 +1,8 @@
 import React, { useState, useEffect } from "react";
-import SettingsScreen from "./Components/SettingsScreen";
-import StartScreen from "./Components/StartScreen";
-import FinishScreen from "./Components/FinishScreen";
-import GameScreen from "./Components/GameScreen";
+import SettingsScreen from "./Screens/SettingsScreen";
+import StartScreen from "./Screens/StartScreen";
+import FinishScreen from "./Screens/FinishScreen";
+import GameScreen from "./Screens/GameScreen";
 // import { getQuestionsAndAnswers } from "./utils";
 
 import { screens } from "./constants";
