@@ -88,7 +88,6 @@ const GameScreen = ({
     useEffect(() => {
         if (gameSecondsRemaining < 1) {
             finishQuestion({ userAnswer: "", userSkipped: false });
-            finishGame();
         }
     }, [gameSecondsRemaining, finishGame, finishQuestion]);
 
@@ -145,7 +144,10 @@ const GameScreen = ({
 
     const moveToNextQuestion = () => {
         // if there is another question
-        if (currentQuestionIndex < questions.length - 1) {
+        if (
+            currentQuestionIndex < questions.length - 1 &&
+            gameSecondsRemaining > 0
+        ) {
             setCurrentQuestionIndex(currentQuestionIndex + 1);
             setIsBetweenQuestions(false);
             setShowWholeQuestion(false);
@@ -185,7 +187,10 @@ const GameScreen = ({
                         className="NextButton"
                         onClick={moveToNextQuestion}
                     >
-                        Next Question
+                        {currentQuestionIndex < questions.length - 1 &&
+                        gameSecondsRemaining > 0
+                            ? "Next Question"
+                            : "See Results"}
                     </BasicButton>
                 </div>
             );

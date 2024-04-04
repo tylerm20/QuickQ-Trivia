@@ -6,6 +6,7 @@ import {
     NEXT_TRACK_EMOJI_HTML,
     RED_X_EMOJI_HTML,
     CLOCK_EMOJI_HTML,
+    GAME_SECONDS,
 } from "../../constants";
 
 const FinishScreen = ({
@@ -77,6 +78,7 @@ const FinishScreen = ({
         ];
         let i = 1;
         for (const result of playerResults.questionResults) {
+            // TODO: make these emojis
             const rowArr = [`${i}. `];
             if (result.isCorrect) {
                 rowArr.push("✅");
@@ -96,7 +98,13 @@ const FinishScreen = ({
 
     return (
         <div className="FinishScreen">
-            <h3 className="GameOver">Game Over</h3>
+            <h3 className="GameOver">
+                Game Over:
+                <br />
+                {finalTime === GAME_SECONDS
+                    ? "You ran out of time"
+                    : "You answered all of today's questions"}
+            </h3>
             <h3>
                 Score: <span className="FinalScore">{finalScore}</span>
             </h3>
