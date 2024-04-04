@@ -1,0 +1,71 @@
+[
+    {
+        "num": 1,
+        "category": "History",
+        "subcategory": "World Leaders",
+        "difficulty": "MS",
+        "tournament": "Gemini",
+        "question": "This iconic revolutionary figure was born in Argentina and became a global symbol of resistance. He studied medicine but later embraced Marxist ideology.  A famous biopic chronicles his epic motorcycle journey through South America with his friend Alberto Granado. His distinctive beret and image continue to inspire movements for social change.  Who is this revolutionary leader assassinated in Bolivia in 1967?",
+        "round": "Round1",
+        "year": 2024,
+        "answers": ["Che Guevara"],
+        "id": 999
+    },
+    {
+        "num": 5,
+        "category": "Pop Culture",
+        "subcategory": "Music",
+        "difficulty": "MS",
+        "tournament": "Gemini",
+        "question": "This artist's childhood nickname inspired his stage name. As a young performer, he was known for his Elvis Presley impersonations. His debut album 'Doo-Wops & Hooligans' included hits like 'Grenade' and 'Just the Way You Are'. Known for his energetic stage presence and retro style, he teamed up with Anderson .Paak to form the super-duo Silk Sonic.",
+        "round": "Round2",
+        "year": 2024,
+        "answers": ["Bruno Mars"],
+        "id": 1005
+    },
+    {
+        "num": 1,
+        "category": "Science & Technology",
+        "subcategory": null,
+        "difficulty": "MS",
+        "tournament": "Claude",
+        "question": "Name the pioneering 1903 aircraft, the first powered heavier-than-air machine to achieve sustained, controlled flight. It consisted of a lightweight wooden structure with fabric wings powered by a gasoline engine. Taking off from Kitty Hawk, it flew for just 12 seconds and 120 feet but proved manned flight was possible, ushering in the era of modern aviation and being designed and built by the Wright Brothers.",
+        "answers": ["The Wright Flyer", "Wright Flyer"]
+    },
+    {
+        "num": 2,
+        "category": "World History",
+        "subcategory": null,
+        "difficulty": "MS",
+        "tournament": "Claude",
+        "question": "Name the diminutive French emperor famous for his tactical genius, whose forces conquered much of Europe before his ultimate defeat at Waterloo in 1815. Beginning in 1803, a series of conflicts engulfed the continent after this young Corsican military leader crowned himself Emperor of France, facing opposition from Britain, Prussia, Austria and Russia before his disastrous 1812 invasion of Russia.",
+        "answers": ["Napoleon Bonaparte", "Napoleon"]
+    },
+    {
+        "num": 3,
+        "category": "Pop Culture",
+        "subcategory": null,
+        "difficulty": "MS",
+        "tournament": "Claude",
+        "question": "Name the 1969 album that was the last recorded by the legendary English rock group The Beatles before their 1970 breakup announcement. It was immediately acclaimed for its iconic cover art featuring the four members walking across a zebra crossing, and included notable tracks like \"Come Together,\" \"Something,\" and a medley on the second side.",
+        "answers": ["Abbey Road"]
+    },
+    {
+        "num": 4,
+        "category": "U.S. Geography",
+        "subcategory": null,
+        "difficulty": "MS",
+        "tournament": "Claude",
+        "question": "Name the chief river of the second-largest drainage system in North America, originating from Lake Itasca in Minnesota and flowing approximately 2,300 miles south to the Gulf of Mexico. It travels through or borders states like Wisconsin, Iowa, Illinois, Missouri and Louisiana, with cities like Memphis and New Orleans along its banks.",
+        "answers": ["The Mississippi River", "Mississippi River"]
+    },
+    {
+        "num": 5,
+        "category": "Shakespeare",
+        "subcategory": null,
+        "difficulty": "MS",
+        "tournament": "Claude",
+        "question": "For the answer, name the quintessential Shakespearean love story, a tragedy which opens with servants of two wealthy families brawling, causing the Prince's warning before banishing them. The young lovers from the warring households meet and marry in secret, aided by a friar, but miscommunication after Romeo kills Juliet's cousin Tybalt leads to their tragic double suicide.",
+        "answers": ["Romeo and Juliet"]
+    }
+]
