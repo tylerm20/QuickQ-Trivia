@@ -1,0 +1,107 @@
+[
+    {
+        "category": "Visual Arts",
+        "question": "This American artist started his career as a commercial illustrator. He was shot by the radical feminist Valerie Solanas in 1968 but survived. He developed a unique silkscreen printing process for his work. His New York studio, known as The Factory, became a gathering place for celebrities and socialites. Name this artist who is best known for his iconic pop art images of soup cans, celebrities, and everyday objects.",
+        "answers": ["Andy Warhol"]
+    },
+    {
+        "category": "Math",
+        "question": "This mathematical concept refers to the total area of all the faces of a 3D shape added together.  You'll need different formulas to calculate this for different shapes, depending on if they are prisms, pyramids, cylinders, etc.  It's used in real-world applications, like figuring out how much paint you need to cover a room or how much material is required to make a product's packaging.  Name this measurement, typically expressed in square units.",
+        "answers": ["surface area"]
+    },
+    {
+        "category": "Geography",
+        "question": "This city was founded on the Shawmut Peninsula in 1630 by Puritan settlers. It is one of the largest biotechnology hubs in the world. It is also is a leader in higher education with 64 universities in the metro area. Name this city which was fundamental in the Revolutionary war and is home to Northeastern University ",
+        "answers": ["Boston"]
+    },
+    {
+        "category": "History",
+        "question": "This country was hit by a financial bubble in the 18th century due to the collapse of the Mississippi Company. It lost much of its North American territory in the Treaty of Paris in 1763. However, it regained some of its former territory through the Treaty of San Ildefonso with Spain in 1800. Napoleon Bonaparte later sold its territory back to the United States in the Louisiana Purchase of 1803. Name this European country.",
+        "answers": ["France"]
+    },
+    {
+        "category": "Visual Arts",
+        "question": "Name this 20th century photographer who helped found Group f/64. He grew up in the San Francisco Bay Area and is famous for his landscape photography. He photographed numerous U.S. National Parks but is most known for his photos of Yosemite National Park.",
+        "answers": ["Ansel Adams"]
+    },
+    {
+        "category": "Sports",
+        "question": "This rapidly growing sport combines elements of tennis, badminton, and ping pong. It features a perforated plastic ball and smaller paddles than those used in tennis. While the name of this sport includes a fermented food, it is believed to be named after a family dog. Name this sport which is known for its accessibility and social gameplay.",
+        "answers": ["Pickleball"]
+    },
+    {
+        "category": "Visual Arts",
+        "question": "This painting housed at the Art Institute of Chicago is set on a farm and inspired by Midwestern architecture. Its simple composition has made it both celebrated and the subject of numerous parodies. Name this 1930 painting by Grant Wood depicting a man holding a prominent pitchfork, next to a woman with a stern expression.",
+        "answers": ["American Gothic"]
+    },
+    {
+        "category": "Music",
+        "question": "This artist is the only woman in history to achieve 20 top 10 songs as a solo artist and 10 as a member of a group. She and her sister were a part of the famous musical group and were the first sisters to both have number one solo albums. She rose to fame as the lead singer of an iconic girl group Destiny's Child in the 1990s. Name this artist whose passionate fanbase is known as the Beyhive.",
+        "answers": ["Beyonce"]
+    },
+    {
+        "category": "Literature",
+        "question": "Ken Kessey wrote this 1962 novel focused on the struggle between individual freedom and institutional control. Set in a psychiatric hospital, it follows the rebellious Randle McMurphy's clash with the tyrannical Nurse Ratched. The conflict escalates when McMurphy encourages other patients to defy authority, leading to tragic consequences. Name this novel which was adapated to a film in 1975, starring Jack Nicholson which won five major Academy Awards, including Best Picture.",
+        "answers": ["One Flew Over the Cuckoos Nest"]
+    },
+    {
+        "category": "Biology",
+        "question": "This class of biomolecules is defined by its insolubility in water. They store energy, play a vital role in cell structure, and are essential for hormone production. Their building blocks often consist of long hydrocarbon chains. Some common examples include fats, oils, and waxes. Name this diverse group of organic compounds.",
+        "answers": ["lipids"]
+    },
+    {
+        "category": "Current Events",
+        "question": "This politician rose to prominence in the 1980s for the prosecution of New York City mafia bosses. He was the Associate Attorney General at the beginning of the Reagan Administration. He ran for Mayor of New York in 1989 and lost. However, he was elected Mayor in 1993 and 1997. He ran for a U.S. Senate seat against Hillary Clinton in 2000 but dropped out when he was diagnosed with prostate cancer. Name this politician who was nicknamed \"America's Mayor\" in 2001.",
+        "answers": ["Rudy Giuliani"]
+    },
+    {
+        "category": "Physics",
+        "question": "This German physicist made fundamental contributions to the development of quantum mechanics. He won a Nobel Prize for creating a mathematical formulation known as matrix mechanics. An influential figure during the controversial Nazi atomic research program, his exact role and intentions in the program are still debated. He is most widely recognized for a principle regarding the limits of precision in physics. Name this scientist associated with his namesake \"uncertainty principle\".",
+        "answers": ["Heisenberg"]
+    },
+    {
+        "category": "Movies/TV",
+        "question": "This epic space opera was first introduced to audiences in 1977. It turned out to span generations, with films, television shows, and a vast expanded universe. The films rank as the third-highest grossing film franchise of all time. Name this iconic series created by George Lucas that includes to the Force, the Jedi, and the Death Star.",
+        "answers": ["Star Wars"]
+    },
+    {
+        "category": "Celebrities",
+        "question": "This reality show follows the friendships, romantic dramas, and occasional workplace meltdowns of a group of friends working at a popular restaurant in West Hollywood, SUR. While the show revolves around a core cast, its popularity has launched some participants into the world of social media influencing. Name this show which focuses on an upscale restaurant owned by a former cast member of The Real Housewives of Beverly Hills.",
+        "answers": ["Vanderpump Rules"]
+    },
+    {
+        "category": "Animals",
+        "question": "These animals are highly social creatures that live in complex matriarchal herds led by an experienced female. They use an extensive range of vocalizations, including deep rumbles that can travel for miles through the ground. They are large mammals are known for their distinctive trunks, which are versatile appendages used for breathing, smelling, drinking, and grasping. Name these animals that are distributed across Africa and Asia, they are the largest land animals on Earth.",
+        "answers": ["Elephant"]
+    },
+    {
+        "category": "Performing Arts",
+        "question": "Rejecting the rigid structure of ballet, this dance form emerged in the early 20th century. It emphasizes natural movement, often using bare feet and loose-fitting costumes. Influential pioneers of this form include Isadora Duncan, Martha Graham, and Merce Cunningham. Pioneered in both Europe and the United States, it continues to evolve as a diverse and expressive art form. What is this type of dance?",
+        "answers": ["Modern Dance"]
+    },
+    {
+        "category": "Technology",
+        "question": "This invention revolutionized a major industry in the American South by dramatically increasing productivity.  Prior to its invention, the process involved a slow and labor-intensive task by hand. This machine made cotton a far more profitable crop, having a significant negative impact on the lives of enslaved people. Name this invention by Eli Whitney, which separates fibers from seeds.",
+        "answers": ["Cotton Gin"]
+    },
+    {
+        "category": "Geography",
+        "question": "This is the world's ninth-longest river, but it is the world's deepest and discharges the third most volume. It was formerly known as the Zaire River and passes through several African nations including one that shares its name. Name this river which has a basin that makes up 13% of the African continent.",
+        "answers": ["Congo River"]
+    },
+    {
+        "category": "Chemistry",
+        "question": "This type of chemical bond results from the transfer of electrons between atoms with significantly different electronegativities. The attraction between these oppositely charged ions forms a stable compound. These compounds often form crystalline lattice structures at room temperature and are considered good conductors of electricity when dissolved in water. Name this type of chemical bond typically formed between metals and non-metals.",
+        "answers": ["ionic bond"]
+    },
+    {
+        "category": "Plants",
+        "question": "These iconic plants are often associated with tropical and subtropical climates.  Though recognizable by their distinctive unbranched trunks and fan-like leaves, they come in thousands of different species. Some notable products derived from these plants include coconut, dates, and palm oil.  These hardy trees have been important sources of food, shelter, and materials for centuries. Name this type of plant that includes popular ornamental varieties as well as towering wild species.",
+        "answers": ["Palm Tree"]
+    },
+    {
+        "category": "Technology",
+        "question": "Name this technology leader who was born in 1985 and founded Loopt at age 19. He gained prominence as the head of the startup incubator Y Combinator from 2014 to 2019. He is known for his leadership on artificial intelligence as he was part of the founding team of OpenAI. Name this CEO of OpenAI who was ousted and reinstated over a week in November 2023. ",
+        "answers": ["Sam Altman"]
+    }
+]
