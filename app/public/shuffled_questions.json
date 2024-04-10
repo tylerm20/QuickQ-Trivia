@@ -281,16 +281,9 @@
     ],
     [
         {
-            "num": 1,
-            "category": "Fine Arts",
-            "subcategory": "Music",
-            "difficulty": "MS",
-            "tournament": "Collaborative MS Tournament",
-            "question": "One composer from this country depicted a \"March to the Scaffold\" in a five movement symphony, while another used a snare drum ostinato in a Spanish-inspired piece. A third composer from this country used a Mallarm\u00e9 poem for his Prelude to the Afternoon of a Faun. Symphonie Fantastique, Bolero, and Clair de Lune were written in what country, home to Hector Berlioz, Maurice Ravel, and Claude Debussy?",
-            "round": "8",
-            "year": 2012,
-            "answers": ["Republic of France"],
-            "id": 226
+            "category": "Sports",
+            "question": "This iconic outfielder's smooth, left-handed swing and backward baseball cap became synonymous with his effortless style. He and his father made history as the first father-son duo to play on the same team simultaneously. He won 10 Gold Glove Awards in center field to go along with his 630 home runs which rank as the seventh-most in MLB history, revitalizing baseball's popularity. Name this Hall of Famer who spent most of his career with the Seattle Mariners.",
+            "answers": ["Ken Griffey Jr."]
         },
         {
             "num": 18,
@@ -311,10 +304,9 @@
             "id": 850
         },
         {
-            "question": "The periodic table arranges them according to atomic number and groups them by shared properties. Some examples include carbon, iron, and gold.",
-            "answers": ["Elements"],
-            "category": "Chemistry",
-            "id": 42
+            "category": "History",
+            "question": "This lawyer turned activist began his legal career in South Africa where experiences with racial discrimination there significantly impacted his views on social justice. Returning to India, he adopted a simplified lifestyle and wore traditional Indian cloth, the dhoti. He became the central figure in India's fight for independence, leading a successful movement built on principles of nonviolent resistance against British rule. Who is this influential leader, revered as a Great Soul?",
+            "answers": ["Mahatma Gandhi"]
         },
         {
             "num": 4,
@@ -364,36 +356,22 @@
         },
         {
             "num": 20,
-            "category": "Science",
-            "subcategory": "Chemistry",
+            "category": "Literature",
+            "subcategory": "British",
             "difficulty": "MS",
             "tournament": "Collaborative MS Tournament",
-            "question": "Metallic bonds can be modeled as \"seas\" of these particles. In another model, the repulsion between pairs of them leads to molecular shapes like trigonal planar and octahedral. The fundamental charge is the charge of one of these particles, which can be found in s, p, d, and f orbitals. J.J. Thomson discovered which negatively-charged components of the atom that orbit the nucleus?",
-            "round": "6",
+            "question": "This author wrote about the eviction of Nell Trent and her grandfather from The Old Curiosity Shop. In another work by this author, Abel Magwitch raises a fortune for the orphan Pip, who loves Estella. He also wrote about Sydney Carton sacrificing himself to save Charles Darnay in a work set in London and Paris. Name this author who wrote Great Expectations and A Tale of Two Cities.",
+            "round": "1",
             "year": 2011,
-            "answers": ["electrons"],
-            "id": 336
+            "answers": ["Charles Dickens", "Boz"],
+            "id": 302
         }
     ],
     [
         {
-            "num": 19,
-            "category": "History",
-            "subcategory": "Classic",
-            "difficulty": "MS",
-            "tournament": "Collaborative MS Tournament",
-            "question": "This leader fought with co-emperor Licinius in battles at Cibalae and Adrianople. It is said that he had a vision before the Battle of Milvian Bridge. He called for the Council of Nicaea and issued the Edict of Milan. He was the first Roman Emperor to convert to Christianity, and he established an eastern capital at Byzantium. Name this Roman Emperor who lent his name to the city now called Istanbul.",
-            "round": "5",
-            "year": 2011,
-            "answers": [
-                "Constantine",
-                "Constantine the Great",
-                "Flavius Valerius Aurelius Constantinus",
-                "Constantine",
-                "Constantine I",
-                "Constantine the Great; Flavius Valerius Aurelius Constantinus; Saint Constantine"
-            ],
-            "id": 253
+            "category": "Visual Arts",
+            "question": "Born in Crete, this influential painter moved to Spain, where he became highly sought-after for his religious works. His paintings are characterized by elongated figures, dramatic lighting, and an intense spirituality that reflects the religious fervor of his time. Name this artist that was nicknamed for his nationality and is considered a significant figure in the Spanish Renaissance.",
+            "answers": ["El Greco", "Dominikos Theotokopoulos"]
         },
         {
             "num": 7,
@@ -483,15 +461,15 @@
         },
         {
             "num": 20,
-            "category": "Literature",
-            "subcategory": "British",
+            "category": "Science",
+            "subcategory": "Chemistry",
             "difficulty": "MS",
             "tournament": "Collaborative MS Tournament",
-            "question": "This author wrote about the eviction of Nell Trent and her grandfather from The Old Curiosity Shop. In another work by this author, Abel Magwitch raises a fortune for the orphan Pip, who loves Estella. He also wrote about Sydney Carton sacrificing himself to save Charles Darnay in a work set in London and Paris. Name this author who wrote Great Expectations and A Tale of Two Cities.",
-            "round": "1",
+            "question": "Metallic bonds can be modeled as \"seas\" of these particles. In another model, the repulsion between pairs of them leads to molecular shapes like trigonal planar and octahedral. The fundamental charge is the charge of one of these particles, which can be found in s, p, d, and f orbitals. J.J. Thomson discovered which negatively-charged components of the atom that orbit the nucleus?",
+            "round": "6",
             "year": 2011,
-            "answers": ["Charles Dickens", "Boz"],
-            "id": 302
+            "answers": ["electrons"],
+            "id": 336
         },
         {
             "num": 17,
