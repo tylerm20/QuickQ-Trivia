@@ -16,8 +16,6 @@ const FinishScreen = ({
     score,
     totalTime,
     questions,
-    isDevMode,
-    setIsDevMode,
     streak,
 }) => {
     const finalScore = score || playerResults.score;

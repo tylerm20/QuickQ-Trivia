@@ -1,12 +1,7 @@
 import Modal from "../../Components/Modal";
 import "./style.css";
 
-const SettingsScreen = ({
-    showModal,
-    setShowModal,
-    isDevMode,
-    setIsDevMode,
-}) => {
+const SettingsScreen = ({ showModal, setShowModal }) => {
     return (
         <Modal showModal>
             <div className="Settings">

@@ -16,7 +16,6 @@ function App() {
     const [previousScreen, setPreviousScreen] = useState(null);
     const [questions, setQuestions] = useState(null);
     const [today, setToday] = useState(new Date());
-    const [isDevMode, setIsDevMode] = useState(false);
     const [streak, setStreak] = useState(0);
 
     const setScreenShowingAndPreviousScreen = (newScreen) => {
@@ -106,8 +105,6 @@ function App() {
                         setScreenShowing={setScreenShowingAndPreviousScreen}
                         today={today}
                         hasPlayedTodaysGame={hasPlayedTodaysGame()}
-                        isDevMode={isDevMode}
-                        setIsDevMode={setIsDevMode}
                     />
                 );
             case screens.game:
@@ -120,8 +117,6 @@ function App() {
                             setScore={setScore}
                             setTotalTime={setTotalTime}
                             questions={questions}
-                            isDevMode={isDevMode}
-                            setIsDevMode={setIsDevMode}
                         />
                     )
                 );
@@ -133,8 +128,6 @@ function App() {
                         score={score}
                         totalTime={totalTime}
                         questions={questions}
-                        isDevMode={isDevMode}
-                        setIsDevMode={setIsDevMode}
                         streak={streak}
                     />
                 );

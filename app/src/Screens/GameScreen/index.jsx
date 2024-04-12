@@ -20,8 +20,6 @@ const GameScreen = ({
     setScore,
     setTotalTime,
     questions,
-    isDevMode,
-    setIsDevMode,
 }) => {
     const [currentQuestionIndex, setCurrentQuestionIndex] = useState(0);
     const [isBuzzing, setIsBuzzing] = useState(false);
@@ -214,8 +212,6 @@ const GameScreen = ({
                 <SettingsScreen
                     showModal={showSettingsModal}
                     setShowModal={setShowSettingsModal}
-                    isDevMode={isDevMode}
-                    setIsDevMode={setIsDevMode}
                 />
             )}
             <div className="TopRow">
