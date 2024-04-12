@@ -175,10 +175,14 @@ const GameScreen = ({
                         ) : (
                             <div className="Incorrect">Incorrect</div>
                         )}
-                        <div>Your Answer: {userAnswer}</div>
+                        <div>
+                            Your Answer: <b>{userAnswer}</b>
+                        </div>
                         <div>
                             Correct Answer:{" "}
-                            {getQuestionAnswerText(getCurrentQuestionObj())}
+                            <b>
+                                {getQuestionAnswerText(getCurrentQuestionObj())}
+                            </b>
                         </div>
                     </div>
                     <BasicButton
