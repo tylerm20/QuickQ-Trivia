@@ -74,6 +74,7 @@
 
 .NextButton {
     align-self: flex-end;
+    margin-left: 20px;
 }
 
 .BottomRow {
@@ -81,4 +82,5 @@
     display: flex;
     justify-content: space-between;
     flex-grow: 1;
+    margin-bottom: 20px;
 }
