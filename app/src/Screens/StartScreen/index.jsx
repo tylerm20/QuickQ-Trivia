@@ -4,7 +4,12 @@ import SettingsScreen from "../../Screens/SettingsScreen";
 import BasicButton from "../../Components/BasicButton";
 import "./style.css";
 
-const StartScreen = ({ setScreenShowing, today, hasPlayedTodaysGame }) => {
+const StartScreen = ({
+    setScreenShowing,
+    today,
+    hasFinishedTodaysGame,
+    hasStartedTodaysGame,
+}) => {
     const [showSettingsModal, setShowSettingsModal] = useState(false);
 
     return (
@@ -20,7 +25,7 @@ const StartScreen = ({ setScreenShowing, today, hasPlayedTodaysGame }) => {
                 <span className="Date">{today.toLocaleDateString()}</span>
             </div>
             <img className="BrainTreeLogo" src="brain_tree_logo_purple.svg" />
-            {hasPlayedTodaysGame ? (
+            {hasFinishedTodaysGame ? (
                 <div className="AlreadyPlayed">
                     <div className="ComeBack">
                         Come back for a new Quiz tomorrow!
@@ -43,7 +48,7 @@ const StartScreen = ({ setScreenShowing, today, hasPlayedTodaysGame }) => {
                         className="StartButton"
                         onClick={() => setScreenShowing(screens.game)}
                     >
-                        Start
+                        {hasStartedTodaysGame ? "Resume" : "Start"}
                     </button>
                 </div>
             )}

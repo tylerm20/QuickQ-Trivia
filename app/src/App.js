@@ -23,17 +23,20 @@ function App() {
         setScreenShowing(newScreen);
     };
 
-    const hasPlayedTodaysGame = () => {
+    const hasStartedTodaysGame = () => {
         return !!localStorage.getItem(today.toDateString());
     };
 
+    const hasFinishedTodaysGame = () => {
+        const results = localStorage.getItem(today.toDateString());
+        return results && JSON.parse(results)["isFinished"];
+    };
+
     const calculateStreak = () => {
-        console.log("calculating streak");
         let dateToCheck = new Date();
         let streak = 0;
         let keepChecking = true;
         while (keepChecking) {
-            console.log(streak);
             keepChecking = false;
             const results = localStorage.getItem(dateToCheck.toDateString());
             if (results) {
@@ -84,7 +87,7 @@ function App() {
     // TODO: this seems to be happening more than once
     useEffect(() => {
         readQuestionsFromFile();
-        if (hasPlayedTodaysGame()) {
+        if (hasFinishedTodaysGame()) {
             const results = JSON.parse(
                 localStorage.getItem(today.toDateString())
             );
@@ -104,7 +107,8 @@ function App() {
                     <StartScreen
                         setScreenShowing={setScreenShowingAndPreviousScreen}
                         today={today}
-                        hasPlayedTodaysGame={hasPlayedTodaysGame()}
+                        hasFinishedTodaysGame={hasFinishedTodaysGame()}
+                        hasStartedTodaysGame={hasStartedTodaysGame()}
                     />
                 );
             case screens.game:
@@ -117,6 +121,7 @@ function App() {
                             setScore={setScore}
                             setTotalTime={setTotalTime}
                             questions={questions}
+                            hasStartedTodaysGame={hasStartedTodaysGame()}
                         />
                     )
                 );

@@ -11,7 +11,7 @@ import "./style.css";
 import SettingsScreen from "../SettingsScreen";
 
 const playerResults = {};
-const questionResults = [];
+let questionResults = [];
 
 const GameScreen = ({
     setScreenShowing,
@@ -20,6 +20,7 @@ const GameScreen = ({
     setScore,
     setTotalTime,
     questions,
+    hasStartedTodaysGame,
 }) => {
     const [currentQuestionIndex, setCurrentQuestionIndex] = useState(0);
     const [isBuzzing, setIsBuzzing] = useState(false);
@@ -32,30 +33,23 @@ const GameScreen = ({
         useState(BUZZ_SECONDS);
     const [questionTime, setQuestionTime] = useState(0);
     const [showSettingsModal, setShowSettingsModal] = useState(false);
+    const today = new Date();
 
     const finishGame = () => {
-        const totalTime = GAME_SECONDS - gameSecondsRemaining;
-        playerResults["questionResults"] = questionResults;
-        playerResults["totalTime"] = totalTime;
-        playerResults["score"] = score;
-        setPlayerResults(playerResults);
         setScreenShowing(screens.finish);
-        setTotalTime(totalTime);
-        // store that game was played for today
-        localStorage.setItem(
-            new Date().toDateString(),
-            JSON.stringify(playerResults)
-        );
     };
 
     const finishQuestion = ({ userAnswer, userSkipped }) => {
         const questionResult = {};
+        // because we are updating the score in state in this function
+        // we can't rely on it to be up to date, so we have a local copy
+        let localScore = score;
         setUserAnswer(userAnswer);
         questionResult["userAnswer"] = userAnswer;
         if (checkAnswer(userAnswer)) {
-            setScore(score + 1);
+            localScore += 1;
+            setScore(localScore);
             questionResult["isCorrect"] = true;
-            // show something saying right answer
         } else {
             questionResult["isCorrect"] = false;
         }
@@ -67,7 +61,39 @@ const GameScreen = ({
         setIsBuzzing(false);
         setBuzzSecondsRemaining(BUZZ_SECONDS);
         questionResults.push(questionResult);
+        updateCurrentResults(localScore);
     };
+
+    const updateCurrentResults = (localScore) => {
+        const totalTime = GAME_SECONDS - gameSecondsRemaining;
+        playerResults["questionResults"] = questionResults;
+        playerResults["totalTime"] = totalTime;
+        playerResults["score"] = localScore;
+        playerResults["isFinished"] =
+            questionResults.length === questions.length;
+        setPlayerResults(playerResults);
+        setTotalTime(totalTime);
+        localStorage.setItem(
+            today.toDateString(),
+            JSON.stringify(playerResults)
+        );
+    };
+
+    useEffect(() => {
+        if (hasStartedTodaysGame) {
+            const results = localStorage.getItem(today.toDateString());
+            if (results) {
+                const jsonResults = JSON.parse(results);
+                questionResults = [...jsonResults["questionResults"]];
+                setPlayerResults(jsonResults);
+                setCurrentQuestionIndex(jsonResults["questionResults"].length);
+                setGameSecondsRemaining(
+                    GAME_SECONDS - jsonResults["totalTime"]
+                );
+                setScore(jsonResults["score"]);
+            }
+        }
+    }, []);
 
     useEffect(() => {
         const buzzOnSpace = (event) => {
