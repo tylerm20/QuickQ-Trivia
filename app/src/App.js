@@ -51,12 +51,12 @@ function App() {
         setStreak(streak);
     };
 
-    function daysPastMarch1st2024() {
+    function daysPastApril62024() {
         // Create a Date object for today's date
         const today = new Date();
 
-        // Create a Date object for March 1, 2024
-        const referenceDate = new Date(2024, 2, 1); // Months are zero-indexed (January = 0)
+        // Create a Date object for April 6, 2024
+        const referenceDate = new Date(2024, 3, 6); // Months are zero-indexed (January = 0)
 
         // Calculate the difference in milliseconds
         const timeDifference = today.getTime() - referenceDate.getTime();
@@ -68,12 +68,12 @@ function App() {
     }
 
     const readQuestionsFromFile = () => {
-        fetch("written_chunked_questions.json")
+        fetch("shuffled_questions.json")
             .then((response) => {
                 return response.json(); // Parse directly as JSON
             })
             .then((data) => {
-                const questionSetToUse = daysPastMarch1st2024();
+                const questionSetToUse = daysPastApril62024();
                 console.log("question set being used: " + questionSetToUse);
                 setQuestions(data[questionSetToUse]);
             })

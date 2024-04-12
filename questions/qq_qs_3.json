@@ -1,0 +1,128 @@
+[
+    [
+        {
+            "category": "Animals",
+            "question": "These solitary mammals native to the mountainous terrain have been loaded as diplomatic gestures. Despite being classified as carnivores, their diet consists almost one type of plant. They have a characteristic \"thumb\" (actually a modified wrist bone) which makes them easily recognizable. While a popular symbol of conservation efforts, their dependence on a single food source and low birth rate contribute to their vulnerable status. Name this iconic two-tone bear species.",
+            "answers": ["panda"]
+        },
+        {
+            "category": "Geography",
+            "question": "This U.S. National Park protects a vast swathe of temperate deciduous forest and is named after a natural fog that often hangs over the ancient mountains in the park. Straddling the border between two states in the southeastern US, this national park boasts the title of \"most visited\" in the country. Name this national park which home to Clingmans Dome and runs along the Tennessee-North Carolina border.",
+            "answers": ["Great Smoky Mountains"]
+        },
+        {
+            "category": "History",
+            "question": "The reign of this British monarch included the defeat of the Spanish Armada in 1588 and a period of flourishing arts and literature, including the works of William Shakespeare. The only surviving child of Henry VIII and his second wife, Anne Boleyn, this powerful Tudor monarch ruled for over 40 years.  Name this queen who famously never married and was thus nicknamed \"The Virgin Queen\".",
+            "answers": ["Queen Elizabeth I"]
+        },
+        {
+            "category": "Math",
+            "question": "This polymath who lived in the 17th century is known as the \"last universal genius\" due to his wide range of expertise. He made significant contributions to logic, physics, and law. He independently developed a version of a mathematical calculus and the binary system. Name this German philosopher and mathematician.",
+            "answers": ["Gottfried Wilhelm Leibniz"]
+        },
+        {
+            "category": "Technology",
+            "question": "Legend has it that this product was invented by a nursing student named Lupe Hern\u00e1ndez in 1966 for medical professionals. The demand for this product during the COVID-19 Pandemic surged. The primary active ingredient in most versions is ethanol or isopropyl. When soap and water aren't available, it can help reduce the spread of germs and viruses. To be effective, the Centers for Disease Control (CDC) recommends versions containing at least 60% alcohol. What is this common disinfectant?",
+            "answers": ["hand santitizer"]
+        },
+        {
+            "category": "Sports",
+            "question": "This English athlete began his professional career with one of the most prestigious football clubs in the world. He won numerous championships for his clubs in England and Spain. His marriage to a member of a popular 90s girl group further catapulted him to international fame. Known for his style both on and off the pitch, he transitioned into a successful career as a fashion icon and global brand ambassador. Name this retired professional footballer who owns a stake of Inter Miami.",
+            "answers": ["David Beckham"]
+        },
+        {
+            "category": "Current Events",
+            "question": "This celestial event occurs somewhere on Earth about every 18 months. However there are usually more than 300 years between these events at the same place. These events happen only during the new moon phase. When the alignment isn't perfect, a ring of sunlight remains visible, creating an annular, or \"ring of fire\" eclipse. Locations within the path of totality experience a brief period of darkness in the middle of the day. Name this event which last occurred in the United States on April 8, 2024.",
+            "answers": ["Solar Eclipse"]
+        },
+        {
+            "category": "History",
+            "question": "This American blacksmith revolutionized agriculture in the Midwest by inventing a the steel plow in 1837. His company, still in operation, is known for its distinctive green and yellow branded farm equipment including riding mowers. Name this inventor and industrialist.",
+            "answers": ["John Deere"]
+        }
+    ],
+    [
+        {
+            "category": "Sports",
+            "question": "This basketball player spent his entire 21-season NBA career with a single team, a rare feat in professional sports. He revolutionized the power forward position with his signature one-legged fadeaway shot. He led his team to their first-ever NBA Championship victory in 2011. Name this iconic German-born basketball player who retired in 2019.",
+            "answers": ["Dirk Nowitzki"]
+        },
+        {
+            "category": "Chemistry",
+            "question": "This compound is formed through an ionic bond between a positively-charged metal ion and a negatively-charged non-metal ion.  Essential to human life, it plays a major role in regulating bodily fluids. It's also found abundantly in seawater and used extensively for both flavoring and preserving food throughout history. Name this common chemical compound also known as table salt.",
+            "answers": ["sodium chloride", " NaCl"]
+        },
+        {
+            "category": "History",
+            "question": "This queen's strategic alliances with powerful Roman leaders like Julius Caesar and Mark Antony helped solidify her rule. Belonging to the Ptolemaic dynasty, she was the last active ruler of her kingdom before it fell to the Roman Empire. Legend has it she took her own life, possibly by venomous snakebite, to avoid capture by the Roman emperor Octavian Name this iconic Egyptian queen who is subject of a Shakespearean play.",
+            "answers": ["Cleopatra"]
+        },
+        {
+            "category": "History",
+            "question": "This young woman claimed to have received divine visions that inspired her to play a pivotal role in a century-long war. Her conviction and courage helped turn the tide of battle, but she was ultimately captured by opposing forces. Tried as a heretic and burned at the stake, she was later declared a martyr and a saint by the Catholic Church. Name this military leader and patron saint of France.",
+            "answers": ["Joan of Arc"]
+        },
+        {
+            "category": "Music",
+            "question": "This Miami-born rapper and entrepreneur is known for his high-energy dance tracks like \"Give Me Everything\" and \"Timber.\"  He often samples popular Latin music rhythms in his hip-hop sound. His collaborations with pop stars like Jennifer Lopez and Kesha have resulted in numerous chart-topping hits. Often seen in stylish suits and sunglasses, this artist known for shouting \"Dale!\" in his songs. Name this musician that has earned the nickname \"Mr. Worldwide\".",
+            "answers": ["Pitbull"]
+        },
+        {
+            "category": "Plants",
+            "question": "This plant replacement rose to prominence in the mid-20th century for its use in sports stadiums and quickly spread to landscaping in residential areas and playgrounds. It is often made from synthetic materials like nylon or polyethylene. While eliminating the need for watering and mowing, some versions raise environmental concerns due to the use of plastics and infill materials. Name this type of manufactured ground covering designed to look like grass.",
+            "answers": ["artifical turf", " turf", " synthetic grass"]
+        },
+        {
+            "category": "Performing Arts",
+            "question": "This acclaimed American drama follows the tense and destructive relationship between a fading Southern belle and her brutish brother-in-law. Set in a New Orleans, the play's iconic scene is a character desperately shouting \"Stella!\". This scene was perfomed by Marlon Brando in the 1951 flim. Name this Pulitzer Prize-winning play by Tennessee Williams.",
+            "answers": ["A Street Car Named Desire"]
+        },
+        {
+            "category": "Science",
+            "question": "This celestial body is the only object in space other than Earth that has clear evidence of stable bodies of surface liquid. This moon is larger than Mercury but less massive due to its composition. It is the only moon known to have an atmostphere denser than Earth's. Name this largest moon of Saturn and second largest in the solar system.",
+            "answers": ["Titan"]
+        }
+    ],
+    [
+        {
+            "category": "Literature",
+            "question": "This dystopian novel depicts a totalitarian future where the protagonist, forced into the role of childbearing and known as Offred, navigates a regime marked by color-coded uniforms and a strict religious hierarchy. Here, fertile women are subjugated into servitude for the ruling elite. Its disturbing themes and striking visual imagery have been translated into a critically acclaimed television series. Name this novel by Margaret Atwood.",
+            "answers": ["Handmaid's Tale"]
+        },
+        {
+            "category": "Movies/TV",
+            "question": "This award-winning American actor is known for his versatility and portrayal of likable characters. Early in his career, he starred in comedies like including \"Splash\". He won back-to-back Oscars for his dramatic performances in 1993 and 1994. Name this actor with memorable roles ranging from a World War II captain to a stranded FedEx employee.",
+            "answers": ["Tom Hanks"]
+        },
+        {
+            "category": "Visual Arts",
+            "question": "This Mexican artist spent most of her life at La Casa Azul. She was injured in a bus accident at age 18. Two years after that she joined the Mexican Communist Party and met her future husband Diego Rivera. She is known for her distinct portraits, especially self portraits including her signature unibrow.",
+            "answers": ["Frida Kahlo"]
+        },
+        {
+            "category": "Biology",
+            "question": "These organs work in tandem to produce urine and play a key role in regulating blood pressure. Some conditions, like diabetes and high blood pressure, can take a serious toll on these organs, sometimes leading to decreased function or even complete failure. Name these bean-shaped organs play a crucial role in filtering waste products and excess fluid out of the blood, a vital part of the urinary system.\n",
+            "answers": ["kidney"]
+        },
+        {
+            "category": "Celebrities",
+            "question": "This comedic actor, director, and producer rose to fame in the 1980s with his portrayal of a gruff, scheming dispatcher in the popular sitcom, \"Taxi\". Despite his short stature, he has a commanding screen presence and often plays outlandish, memorable characters. He has a long-running role in a darkly comedic series about a dysfunctional group of friends in Philadelphia. He is also a co-founder of a production company known for edgy films like \"Pulp Fiction.\" Name this versatile actor who starred alongside Arnold Schwarzenegger in the buddy comedy Twins.",
+            "answers": ["Danny Devito"]
+        },
+        {
+            "category": "US History",
+            "question": "This Founding Father was a true intellectual polymath whose interests included architecture, philosophy, and agriculture. He founded one of the nation's leading public universities. The controversial purchase of a vast territory from France during his presidency effectively doubled the size of the young nation. Name this primary author of the Declaration of Independence who hailed from Virginia.",
+            "answers": ["Thomas Jefferson"]
+        },
+        {
+            "category": "Physics",
+            "question": "These elementary particles are considered the fundamental building blocks of matter. They come in six varieties referred to as flavors, with names like \"up,\" \"down,\" and \"strange.\" The theoretical framework that includes particles of this type was independently proposed by physicists Murray Gell-Mann and George Zweig in 1964. Name this type of particle that cannot exist in isolation, always combining to form composite particles called hadrons which can be protons and neutrons.",
+            "answers": ["quark"]
+        },
+        {
+            "category": "History",
+            "question": "Born \"Araminta Ross\" into slavery in Maryland, this woman escaped to freedom in the Philadelphia. She repeatedly risked her life to return to the South, guiding numerous others to freedom through a network of secret routes and safe houses. Nicknamed the \"Moses of her people,\" she was an active abolitionist and served as a scout and spy for the Union Army during the Civil War. Name this iconic figure of resistance and freedom who is associated with the Underground Railroad.",
+            "answers": ["Harriet Tubman"]
+        }
+    ]
+]

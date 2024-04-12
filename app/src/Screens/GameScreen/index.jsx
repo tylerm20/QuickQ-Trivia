@@ -89,13 +89,13 @@ const GameScreen = ({
         if (gameSecondsRemaining < 1) {
             finishQuestion({ userAnswer: "", userSkipped: false });
         }
-    }, [gameSecondsRemaining, finishGame, finishQuestion]);
+    }, [gameSecondsRemaining]);
 
     useEffect(() => {
         if (buzzSecondsRemaining < 1) {
             finishQuestion({ userAnswer: "", userSkipped: false });
         }
-    }, [buzzSecondsRemaining, finishQuestion]);
+    }, [buzzSecondsRemaining]);
 
     const decrementGameSecondsTimer = () => {
         if (
