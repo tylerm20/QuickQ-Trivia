@@ -70,7 +70,8 @@ const GameScreen = ({
         playerResults["totalTime"] = totalTime;
         playerResults["score"] = localScore;
         playerResults["isFinished"] =
-            questionResults.length === questions.length;
+            questionResults.length === questions.length ||
+            totalTime === GAME_SECONDS;
         setPlayerResults(playerResults);
         setTotalTime(totalTime);
         localStorage.setItem(
