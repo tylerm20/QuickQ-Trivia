@@ -1,0 +1,308 @@
+[
+    [
+        {
+            "category": "Arts & Literature",
+            "question": "This American artist started his career as a commercial illustrator. He was shot by the radical feminist Valerie Solanas in 1968 but survived. He developed a unique silkscreen printing process for his work. His New York studio, known as The Factory, became a gathering place for celebrities and socialites. Name this artist who is best known for his iconic pop art images of soup cans, celebrities, and everyday objects.",
+            "answers": ["Andy Warhol"]
+        },
+        {
+            "category": "Science",
+            "question": "This mathematical concept refers to the total area of all the faces of a 3D shape added together.  You'll need different formulas to calculate this for different shapes, depending on if they are prisms, pyramids, cylinders, etc.  It's used in real-world applications, like figuring out how much paint you need to cover a room or how much material is required to make a product's packaging.  Name this measurement, typically expressed in square units.",
+            "answers": ["surface area"]
+        },
+        {
+            "category": "Geography",
+            "question": "This city was founded on the Shawmut Peninsula in 1630 by Puritan settlers. It is one of the largest biotechnology hubs in the world. It is also is a leader in higher education with 64 universities in the metro area. Name this city which was fundamental in the Revolutionary war and is home to Northeastern University ",
+            "answers": ["Boston"]
+        },
+        {
+            "category": "World History",
+            "question": "This country was hit by a financial bubble in the 18th century due to the collapse of the Mississippi Company. It lost much of its North American territory in the Treaty of Paris in 1763. However, it regained some of its former territory through the Treaty of San Ildefonso with Spain in 1800. Napoleon Bonaparte later sold its territory back to the United States in the Louisiana Purchase of 1803. Name this European country.",
+            "answers": ["France"]
+        },
+        {
+            "category": "Arts & Literature",
+            "question": "Name this 20th century photographer who helped found Group f/64. He grew up in the San Francisco Bay Area and is famous for his landscape photography. He photographed numerous U.S. National Parks but is most known for his photos of Yosemite National Park.",
+            "answers": ["Ansel Adams"]
+        },
+        {
+            "category": "Sports",
+            "question": "This rapidly growing sport combines elements of tennis, badminton, and ping pong. It features a perforated plastic ball and smaller paddles than those used in tennis. While the name of this sport includes a fermented food, it is believed to be named after a family dog. Name this sport which is known for its accessibility and social gameplay.",
+            "answers": ["Pickleball"]
+        },
+        {
+            "category": "Arts & Literature",
+            "question": "This painting housed at the Art Institute of Chicago is set on a farm and inspired by Midwestern architecture. Its simple composition has made it both celebrated and the subject of numerous parodies. Name this 1930 painting by Grant Wood depicting a man holding a prominent pitchfork, next to a woman with a stern expression.",
+            "answers": ["American Gothic"]
+        },
+        {
+            "category": "Entertainment",
+            "question": "This artist is the only woman in history to achieve 20 top 10 songs as a solo artist and 10 as a member of a group. She and her sister were a part of the famous musical group and were the first sisters to both have number one solo albums. She rose to fame as the lead singer of an iconic girl group Destiny's Child in the 1990s. Name this artist whose passionate fanbase is known as the Beyhive.",
+            "answers": ["Beyonce"]
+        }
+    ],
+    [
+        {
+            "category": "Arts & Literature",
+            "question": "Ken Kessey wrote this 1962 novel focused on the struggle between individual freedom and institutional control. Set in a psychiatric hospital, it follows the rebellious Randle McMurphy's clash with the tyrannical Nurse Ratched. The conflict escalates when McMurphy encourages other patients to defy authority, leading to tragic consequences. Name this novel which was adapated to a film in 1975, starring Jack Nicholson which won five major Academy Awards, including Best Picture.",
+            "answers": ["One Flew Over the Cuckoos Nest"]
+        },
+        {
+            "category": "Science",
+            "question": "This class of biomolecules is defined by its insolubility in water. They store energy, play a vital role in cell structure, and are essential for hormone production. Their building blocks often consist of long hydrocarbon chains. Some common examples include fats, oils, and waxes. Name this diverse group of organic compounds.",
+            "answers": ["lipids"]
+        },
+        {
+            "category": "Current Events",
+            "question": "This politician rose to prominence in the 1980s for the prosecution of New York City mafia bosses. He was the Associate Attorney General at the beginning of the Reagan Administration. He ran for Mayor of New York in 1989 and lost. However, he was elected Mayor in 1993 and 1997. He ran for a U.S. Senate seat against Hillary Clinton in 2000 but dropped out when he was diagnosed with prostate cancer. Name this politician who was nicknamed \"America's Mayor\" in 2001.",
+            "answers": ["Rudy Giuliani"]
+        },
+        {
+            "category": "Science",
+            "question": "This German physicist made fundamental contributions to the development of quantum mechanics. He won a Nobel Prize for creating a mathematical formulation known as matrix mechanics. An influential figure during the controversial Nazi atomic research program, his exact role and intentions in the program are still debated. He is most widely recognized for a principle regarding the limits of precision in physics. Name this scientist associated with his namesake \"uncertainty principle\".",
+            "answers": ["Heisenberg"]
+        },
+        {
+            "category": "Entertainment",
+            "question": "This epic space opera was first introduced to audiences in 1977. It turned out to span generations, with films, television shows, and a vast expanded universe. The films rank as the third-highest grossing film franchise of all time. Name this iconic series created by George Lucas that includes to the Force, the Jedi, and the Death Star.",
+            "answers": ["Star Wars"]
+        },
+        {
+            "category": "Entertainment",
+            "question": "This reality show follows the friendships, romantic dramas, and occasional workplace meltdowns of a group of friends working at a popular restaurant in West Hollywood, SUR. While the show revolves around a core cast, its popularity has launched some participants into the world of social media influencing. Name this show which focuses on an upscale restaurant owned by a former cast member of The Real Housewives of Beverly Hills.",
+            "answers": ["Vanderpump Rules"]
+        },
+        {
+            "category": "Science",
+            "question": "These animals are highly social creatures that live in complex matriarchal herds led by an experienced female. They use an extensive range of vocalizations, including deep rumbles that can travel for miles through the ground. They are large mammals are known for their distinctive trunks, which are versatile appendages used for breathing, smelling, drinking, and grasping. Name these animals that are distributed across Africa and Asia, they are the largest land animals on Earth.",
+            "answers": ["Elephant"]
+        },
+        {
+            "category": "Arts & Literature",
+            "question": "Rejecting the rigid structure of ballet, this dance form emerged in the early 20th century. It emphasizes natural movement, often using bare feet and loose-fitting costumes. Influential pioneers of this form include Isadora Duncan, Martha Graham, and Merce Cunningham. Pioneered in both Europe and the United States, it continues to evolve as a diverse and expressive art form. What is this type of dance?",
+            "answers": ["Modern Dance"]
+        }
+    ],
+    [
+        {
+            "category": "US History",
+            "question": "This invention revolutionized a major industry in the American South by dramatically increasing productivity.  Prior to its invention, the process involved a slow and labor-intensive task by hand. This machine made cotton a far more profitable crop, having a significant negative impact on the lives of enslaved people. Name this invention by Eli Whitney, which separates fibers from seeds.",
+            "answers": ["Cotton Gin"]
+        },
+        {
+            "category": "Geography",
+            "question": "This is the world's ninth-longest river, but it is the world's deepest and discharges the third most volume. It was formerly known as the Zaire River and passes through several African nations including one that shares its name. Name this river which has a basin that makes up 13% of the African continent.",
+            "answers": ["Congo River"]
+        },
+        {
+            "category": "Science",
+            "question": "This type of chemical bond results from the transfer of electrons between atoms with significantly different electronegativities. The attraction between these oppositely charged ions forms a stable compound. These compounds often form crystalline lattice structures at room temperature and are considered good conductors of electricity when dissolved in water. Name this type of chemical bond typically formed between metals and non-metals.",
+            "answers": ["ionic bond"]
+        },
+        {
+            "category": "Science",
+            "question": "These iconic plants are often associated with tropical and subtropical climates.  Though recognizable by their distinctive unbranched trunks and fan-like leaves, they come in thousands of different species. Some notable products derived from these plants include coconut, dates, and palm oil.  These hardy trees have been important sources of food, shelter, and materials for centuries. Name this type of plant that includes popular ornamental varieties as well as towering wild species.",
+            "answers": ["Palm Tree"]
+        },
+        {
+            "category": "Current Events",
+            "question": "Name this technology leader who was born in 1985 and founded Loopt at age 19. He gained prominence as the head of the startup incubator Y Combinator from 2014 to 2019. He is known for his leadership on artificial intelligence as he was part of the founding team of OpenAI. Name this CEO of OpenAI who was ousted and reinstated over a week in November 2023. ",
+            "answers": ["Sam Altman"]
+        },
+        {
+            "category": "World History",
+            "question": "The founding of this nation was promised in the Balfour Declaration. David Ben-Gurion was the first prime minister of this nation, which has been governed by the Kadima and Likud parties. It fought Egypt and Syria in the Six-Day War and signed the Camp David accords with Egypt. Name this Middle Eastern nation, founded by Zionists to create a Jewish state.",
+            "answers": ["Israel"]
+        },
+        {
+            "category": "Science",
+            "question": "When air resistance exactly counteracts this force, an object has reached terminal velocity. The escape velocity is the minimum speed needed to overcome the effects of this force. On Earth, this force acts to accelerate a body at nine point eight meters per second squared. Name this force responsible for keeping objects on the ground.",
+            "answers": ["gravity", "gravitational force"]
+        },
+        {
+            "num": 16,
+            "category": "Science",
+            "question": "A problem of antiquity concerned constructing a square of the same area as one of these shapes using compass and straightedge; that problem is known as \"squaring\" this shape. When one on a graph has a total area of pi, it is known as a \"unit\" one. A line segment connecting two points on this shape is known as a chord. Name this shape consisting of all points that are a radius away from a center.",
+            "answers": ["circles"]
+        }
+    ],
+    [
+        {
+            "category": "Sports",
+            "question": "This iconic outfielder's smooth, left-handed swing and backward baseball cap became synonymous with his effortless style. He and his father made history as the first father-son duo to play on the same team simultaneously. He won 10 Gold Glove Awards in center field to go along with his 630 home runs which rank as the seventh-most in MLB history, revitalizing baseball's popularity. Name this Hall of Famer who spent most of his career with the Seattle Mariners.",
+            "answers": ["Ken Griffey Jr."]
+        },
+        {
+            "category": "Arts & Literature",
+            "question": "In one story by these authors, a tailor kills seven flies hovering over his jam and boasts that he killed \"seven in one blow.\" In another story, a dog, cat, donkey, and rooster drive away robbers. They wrote about a woman who bribes the title figure to weave straw into gold. Name the German brothers who wrote \"The Brave Little Tailor,\" \"The Bremen Town Musicians,\" \"Rumpelstiltskin,\" and other fairy tales.",
+            "answers": [
+                "Brothers Grimm",
+                "Jakob Grimm",
+                "Wilhelm Grimm",
+                "Brothers Grimm",
+                "Jakob and Wilhelm Grimm"
+            ]
+        },
+        {
+            "category": "World History",
+            "question": "This lawyer turned activist began his legal career in South Africa where experiences with racial discrimination there significantly impacted his views on social justice. Returning to India, he adopted a simplified lifestyle and wore traditional Indian cloth, the dhoti. He became the central figure in India's fight for independence, leading a successful movement built on principles of nonviolent resistance against British rule. Who is this influential leader, revered as a Great Soul?",
+            "answers": ["Mahatma Gandhi"]
+        },
+        {
+            "category": "US History",
+            "question": "The late Senator Robert Byrd once held the rank of Exalted Cyclops in this organization, whose first major leader was Nathan Bedford Forrest. The Civil Rights Act of 1871 was also named for this group. D.W. Griffith's film The Birth of a Nation glorifies this group, which was sued for lynching Michael Donald. Name this white supremacist group that burns crosses and wears white clothing.",
+            "answers": ["Ku Klux Klan", "KKK", "K.K.K."]
+        },
+        {
+            "category": "Arts & Literature",
+            "question": "The wife of one character in this novel is named Teresa Cascajo. That character's donkey is named Dapple and accompanies Rocinante, the nag of this novel's protagonist. A long-legged paunchy rustic named Sancho Panza is the squire of the title character. Name this novel by Miguel de Cervantes in which a chivalry-obsessed title character tilts at windmills.",
+            "answers": ["Don Quixote", "Don Quixote de la Mancha"]
+        },
+        {
+            "category": "Arts & Literature",
+            "question": "This French artist, who lived from 1834 to 1917, is renowned for his Impressionist paintings, which often depicted scenes of modern Parisian life. His most famous works include 'Luncheon on the Grass' and 'Olympia.'",
+            "answers": ["\u00c9douard Manet", "Manet"]
+        },
+        {
+            "category": "World History",
+            "question": "This man became sole emperor of the Western Roman Empire following Maxentius' death at the Battle of Milvian Bridge. This man would later gain control of the Eastern Roman Empire following his victory over Licinius at the Battle of Adrianople. This man issued the Edict of Milan, which established religious toleration throughout the Roman Empire. Name this first Christian emperor.",
+            "answers": ["Constantine the Great", "Constantine I", "Constantine"]
+        },
+        {
+            "category": "Arts & Literature",
+            "question": "This author wrote about the eviction of Nell Trent and her grandfather from The Old Curiosity Shop. In another work by this author, Abel Magwitch raises a fortune for the orphan Pip, who loves Estella. He also wrote about Sydney Carton sacrificing himself to save Charles Darnay in a work set in London and Paris. Name this author who wrote Great Expectations and A Tale of Two Cities.",
+            "answers": ["Charles Dickens", "Boz"]
+        }
+    ],
+    [
+        {
+            "category": "Science",
+            "question": "These solitary mammals native to the mountainous terrain have been loaned as diplomatic gestures. Despite being classified as carnivores, their diet consists almost one type of plant. They have a characteristic \"thumb\" (actually a modified wrist bone) which makes them easily recognizable. While a popular symbol of conservation efforts, their dependence on a single food source and low birth rate contribute to their vulnerable status. Name this iconic two-tone bear species.",
+            "answers": ["panda"]
+        },
+        {
+            "category": "Geography",
+            "question": "This U.S. National Park protects a vast swathe of temperate deciduous forest and is named after a natural fog that often hangs over the ancient mountains in the park. Straddling the border between two states in the southeastern US, this national park boasts the title of \"most visited\" in the country. Name this national park which home to Clingmans Dome and runs along the Tennessee-North Carolina border.",
+            "answers": ["Great Smoky Mountains"]
+        },
+        {
+            "category": "World History",
+            "question": "The reign of this British monarch included the defeat of the Spanish Armada in 1588 and a period of flourishing arts and literature, including the works of William Shakespeare. The only surviving child of Henry VIII and his second wife, Anne Boleyn, this powerful Tudor monarch ruled for over 40 years.  Name this queen who famously never married and was thus nicknamed \"The Virgin Queen\".",
+            "answers": ["Queen Elizabeth I"]
+        },
+        {
+            "category": "Science",
+            "question": "This polymath who lived in the 17th century is known as the \"last universal genius\" due to his wide range of expertise. He made significant contributions to logic, physics, and law. He independently developed a version of a mathematical calculus and the binary system. Name this German philosopher and mathematician.",
+            "answers": ["Gottfried Wilhelm Leibniz"]
+        },
+        {
+            "category": "Science",
+            "question": "Legend has it that this product was invented by a nursing student named Lupe Hern\u00e1ndez in 1966 for medical professionals. The demand for this product during the COVID-19 Pandemic surged. The primary active ingredient in most versions is ethanol or isopropyl. When soap and water aren't available, it can help reduce the spread of germs and viruses. To be effective, the Centers for Disease Control (CDC) recommends versions containing at least 60% alcohol. What is this common disinfectant?",
+            "answers": ["hand santitizer"]
+        },
+        {
+            "category": "Sports",
+            "question": "This English athlete began his professional career with one of the most prestigious football clubs in the world. He won numerous championships for his clubs in England and Spain. His marriage to a member of a popular 90s girl group further catapulted him to international fame. Known for his style both on and off the pitch, he transitioned into a successful career as a fashion icon and global brand ambassador. Name this retired professional footballer who owns a stake of Inter Miami.",
+            "answers": ["David Beckham"]
+        },
+        {
+            "category": "Current Events",
+            "question": "This celestial event occurs somewhere on Earth about every 18 months. However there are usually more than 300 years between these events at the same place. These events happen only during the new moon phase. When the alignment isn't perfect, a ring of sunlight remains visible, creating an annular, or \"ring of fire\" eclipse. Locations within the path of totality experience a brief period of darkness in the middle of the day. Name this event which last occurred in the United States on April 8, 2024.",
+            "answers": ["Solar Eclipse"]
+        },
+        {
+            "category": "US History",
+            "question": "This American blacksmith revolutionized agriculture in the Midwest by inventing a the steel plow in 1837. His company, still in operation, is known for its distinctive green and yellow branded farm equipment including riding mowers. Name this inventor and industrialist.",
+            "answers": ["John Deere"]
+        }
+    ],
+    [
+        {
+            "category": "Sports",
+            "question": "This basketball player spent his entire 21-season NBA career with a single team, a rare feat in professional sports. He revolutionized the power forward position with his signature one-legged fadeaway shot. He led his team to their first-ever NBA Championship victory in 2011. Name this iconic German-born basketball player who retired in 2019.",
+            "answers": ["Dirk Nowitzki"]
+        },
+        {
+            "category": "Science",
+            "question": "This compound is formed through an ionic bond between a positively-charged metal ion and a negatively-charged non-metal ion.  Essential to human life, it plays a major role in regulating bodily fluids. It's also found abundantly in seawater and used extensively for both flavoring and preserving food throughout history. Name this common chemical compound also known as table salt.",
+            "answers": ["sodium chloride", "NaCl"]
+        },
+        {
+            "category": "World History",
+            "question": "This queen's strategic alliances with powerful Roman leaders like Julius Caesar and Mark Antony helped solidify her rule. Belonging to the Ptolemaic dynasty, she was the last active ruler of her kingdom before it fell to the Roman Empire. Legend has it she took her own life, possibly by venomous snakebite, to avoid capture by the Roman emperor Octavian Name this iconic Egyptian queen who is subject of a Shakespearean play.",
+            "answers": ["Cleopatra"]
+        },
+        {
+            "category": "World History",
+            "question": "This young woman claimed to have received divine visions that inspired her to play a pivotal role in a century-long war. Her conviction and courage helped turn the tide of battle, but she was ultimately captured by opposing forces. Tried as a heretic and burned at the stake, she was later declared a martyr and a saint by the Catholic Church. Name this military leader and patron saint of France.",
+            "answers": ["Joan of Arc"]
+        },
+        {
+            "category": "Entertainment",
+            "question": "This Miami-born rapper and entrepreneur is known for his high-energy dance tracks like \"Give Me Everything\" and \"Timber.\"  He often samples popular Latin music rhythms in his hip-hop sound. His collaborations with pop stars like Jennifer Lopez and Kesha have resulted in numerous chart-topping hits. Often seen in stylish suits and sunglasses, this artist known for shouting \"Dale!\" in his songs. Name this musician that has earned the nickname \"Mr. Worldwide\".",
+            "answers": ["Pitbull"]
+        },
+        {
+            "category": "Science",
+            "question": "This plant replacement rose to prominence in the mid-20th century for its use in sports stadiums and quickly spread to landscaping in residential areas and playgrounds. It is often made from synthetic materials like nylon or polyethylene. While eliminating the need for watering and mowing, some versions raise environmental concerns due to the use of plastics and infill materials. Name this type of manufactured ground covering designed to look like grass.",
+            "answers": ["artifical turf", "turf", "synthetic grass"]
+        },
+        {
+            "category": "Arts & Literature",
+            "question": "This acclaimed American drama follows the tense and destructive relationship between a fading Southern belle and her brutish brother-in-law. Set in a New Orleans, the play's iconic scene is a character desperately shouting \"Stella!\". This scene was perfomed by Marlon Brando in the 1951 flim. Name this Pulitzer Prize-winning play by Tennessee Williams.",
+            "answers": ["A Street Car Named Desire"]
+        },
+        {
+            "category": "Science",
+            "question": "This celestial body is the only object in space other than Earth that has clear evidence of stable bodies of surface liquid. This moon is larger than Mercury but less massive due to its composition. It is the only moon known to have an atmostphere denser than Earth's. Name this largest moon of Saturn and second largest in the solar system.",
+            "answers": ["Titan"]
+        }
+    ],
+    [
+        {
+            "category": "Arts & Literature",
+            "question": "This dystopian novel depicts a totalitarian future where the protagonist, forced into the role of childbearing and known as Offred, navigates a regime marked by color-coded uniforms and a strict religious hierarchy. Here, fertile women are subjugated into servitude for the ruling elite. Its disturbing themes and striking visual imagery have been translated into a critically acclaimed television series. Name this novel by Margaret Atwood.",
+            "answers": ["The Handmaid's Tale", "Handmaid's Tale"]
+        },
+        {
+            "category": "Entertainment",
+            "question": "This award-winning American actor is known for his versatility and portrayal of likable characters. Early in his career, he starred in comedies like including \"Splash\". He won back-to-back Oscars for his dramatic performances in 1993 and 1994. Name this actor with memorable roles ranging from a World War II captain to a stranded FedEx employee.",
+            "answers": ["Tom Hanks"]
+        },
+        {
+            "category": "Arts & Literature",
+            "question": "This Mexican artist spent most of her life at La Casa Azul. She was injured in a bus accident at age 18. Two years after that she joined the Mexican Communist Party and met her future husband Diego Rivera. She is known for her distinct portraits, especially self portraits including her signature unibrow.",
+            "answers": ["Frida Kahlo"]
+        },
+        {
+            "category": "Science",
+            "question": "These organs work in tandem to produce urine and play a key role in regulating blood pressure. Some conditions, like diabetes and high blood pressure, can take a serious toll on these organs, sometimes leading to decreased function or even complete failure. Name these bean-shaped organs play a crucial role in filtering waste products and excess fluid out of the blood, a vital part of the urinary system.\n",
+            "answers": ["kidney"]
+        },
+        {
+            "category": "Entertainment",
+            "question": "This comedic actor, director, and producer rose to fame in the 1980s with his portrayal of a gruff, scheming dispatcher in the popular sitcom, \"Taxi\". Despite his short stature, he has a commanding screen presence and often plays outlandish, memorable characters. He has a long-running role in a darkly comedic series about a dysfunctional group of friends in Philadelphia. He is also a co-founder of a production company known for edgy films like \"Pulp Fiction.\" Name this versatile actor who starred alongside Arnold Schwarzenegger in the buddy comedy Twins.",
+            "answers": ["Danny Devito"]
+        },
+        {
+            "category": "US History",
+            "question": "This Founding Father was a true intellectual polymath whose interests included architecture, philosophy, and agriculture. He founded one of the nation's leading public universities. The controversial purchase of a vast territory from France during his presidency effectively doubled the size of the young nation. Name this primary author of the Declaration of Independence who hailed from Virginia.",
+            "answers": ["Thomas Jefferson"]
+        },
+        {
+            "category": "Science",
+            "question": "These elementary particles are considered the fundamental building blocks of matter. They come in six varieties referred to as flavors, with names like \"up,\" \"down,\" and \"strange.\" The theoretical framework that includes particles of this type was independently proposed by physicists Murray Gell-Mann and George Zweig in 1964. Name this type of particle that cannot exist in isolation, always combining to form composite particles called hadrons which can be protons and neutrons.",
+            "answers": ["quark"]
+        },
+        {
+            "category": "US History",
+            "question": "Born \"Araminta Ross\" into slavery in Maryland, this woman escaped to freedom in the Philadelphia. She repeatedly risked her life to return to the South, guiding numerous others to freedom through a network of secret routes and safe houses. Nicknamed the \"Moses of her people,\" she was an active abolitionist and served as a scout and spy for the Union Army during the Civil War. Name this iconic figure of resistance and freedom who is associated with the Underground Railroad.",
+            "answers": ["Harriet Tubman"]
+        },
+        {
+            "category": "Arts & Literature",
+            "question": "Born in Crete, this influential painter moved to Spain, where he became highly sought-after for his religious works. His paintings are characterized by elongated figures, dramatic lighting, and an intense spirituality that reflects the religious fervor of his time. Name this artist that was nicknamed for his nationality and is considered a significant figure in the Spanish Renaissance.",
+            "answers": ["El Greco", "Dominikos Theotokopoulos"]
+        }
+    ]
+]
