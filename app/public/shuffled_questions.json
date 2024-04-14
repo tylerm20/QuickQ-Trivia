@@ -500,6 +500,30 @@
             "answers": ["El Greco", "Dominikos Theotokopoulos"]
         },
         {
+            "num": 21,
+            "category": "Literature",
+            "subcategory": "American",
+            "difficulty": "MS",
+            "tournament": "Collaborative MS Tournament",
+            "question": "This city is where Ralph Ellison's Invisible Man works at the Liberty Paint Company. George Selden wrote about a cricket in one of this city's major public spaces. The Great Gatsby takes place in this city where Percy Jackson visits the Metropolitan Museum of Art. This city is where Stuart Little races boats in Central Park. Name this city in which the Harlem Renaissance took place.",
+            "round": "1",
+            "year": 2012,
+            "answers": ["New York City"],
+            "id": 391
+        },
+        {
+            "num": 10,
+            "category": "Science",
+            "subcategory": null,
+            "difficulty": "MS",
+            "tournament": "Collaborative MS Tournament",
+            "question": "pH in this fluid is regulated by the bicarbonate ion buffer system. Cells in this fluid include leukocytes and erythrocytes, while platelets help form clots that stop its flow. It is carried in arteries and veins. Name this fluid that delivers oxygen and nutrients to cells and is pumped by the heart.",
+            "round": "CMST_Round08.pdf",
+            "year": 2010,
+            "answers": ["blood"],
+            "id": 576
+        },
+        {
             "num": 7,
             "category": "Science",
             "subcategory": "Other",
@@ -512,6 +536,41 @@
             "id": 294
         },
         {
+            "num": 10,
+            "category": "Geography",
+            "subcategory": "Norse",
+            "difficulty": "MS",
+            "tournament": "Collaborative MS Tournament",
+            "question": "This country was officially recognized in the Lateran Treaties of 1929. It has extraterritorial authority over Castel Gandolfo. Places of interest in this country include the Sistine Chapel and Saint Peter's Square and Basilica. Voting in this country is restricted to Cardinals under eighty years old. Name this world's smallest country located entirely within the city of Rome.",
+            "round": "4",
+            "year": 2012,
+            "answers": [
+                "State of the Vatican City",
+                "Holy See",
+                "Santa Sede",
+                "Stato della Citta del Vaticano"
+            ],
+            "id": 406
+        },
+        {
+            "question": "An American writer known for his macabre and mysterious stories, his haunting prose and explorations of themes like madness and guilt established him as a master of Gothic literature. Name this author who gained recognition with his poem 'The Raven'.",
+            "answers": ["Edgar Allan Poe", "Poe"],
+            "category": "Literature",
+            "id": 80
+        },
+        {
+            "num": 11,
+            "category": "Literature",
+            "subcategory": "American",
+            "difficulty": "MS",
+            "tournament": "Collaborative MS Tournament",
+            "question": "This poet delivered \"The Gift Outright\" at President John F. Kennedy's inauguration. One of his poems observes that \"good fences make good neighbors\" and is called \"Mending Wall.\" His poem \"Nothing Gold Can Stay\" notes that \"Nature's first green is gold.\" Name this poet who stated in his most famous poem that he took \"the road less traveled by, and that has made all the difference.\"",
+            "round": "6",
+            "year": 2012,
+            "answers": ["Robert Lee Frost"],
+            "id": 752
+        },
+        {
             "num": 15,
             "category": "Mythology",
             "subcategory": null,
@@ -522,25 +581,9 @@
             "year": 2010,
             "answers": ["Jason"],
             "id": 214
-        },
-        {
-            "num": 5,
-            "category": "Literature",
-            "subcategory": null,
-            "difficulty": "MS",
-            "tournament": "Collaborative MS Tournament",
-            "question": "In one novel, this writer depicts a character named Protopopov who becomes the lover of Natasha, the selfish wife of Andrey Prozorov. In another novel, this writer depicts the intellectual liberal named Anya who is the daughter of Madame Ranevskaya. Name this Russian author of The Three Sisters and The Cherry Orchard.",
-            "round": "CMST_Round07.pdf",
-            "year": 2010,
-            "answers": ["Chekhov", "Anton Pavlovich Chekhov"],
-            "id": 701
-        },
-        {
-            "question": "An American writer known for his macabre and mysterious stories, his haunting prose and explorations of themes like madness and guilt established him as a master of Gothic literature. Name this author who gained recognition with his poem 'The Raven'.",
-            "answers": ["Edgar Allan Poe", "Poe"],
-            "category": "Literature",
-            "id": 80
-        },
+        }
+    ],
+    [
         {
             "question": "A 19th century American poet who celebrated individuality and democracy in free verse, his groundbreaking major work titled after himself found both widespread critical acclaim and controversy.",
             "answers": ["Walt Whitman", "Whitman"],
@@ -570,21 +613,20 @@
             "year": 2011,
             "answers": ["inequality"],
             "id": 274
-        }
-    ],
-    [
+        },
         {
-            "num": 11,
+            "num": 5,
             "category": "Literature",
-            "subcategory": "American",
+            "subcategory": null,
             "difficulty": "MS",
             "tournament": "Collaborative MS Tournament",
-            "question": "This poet delivered \"The Gift Outright\" at President John F. Kennedy's inauguration. One of his poems observes that \"good fences make good neighbors\" and is called \"Mending Wall.\" His poem \"Nothing Gold Can Stay\" notes that \"Nature's first green is gold.\" Name this poet who stated in his most famous poem that he took \"the road less traveled by, and that has made all the difference.\"",
-            "round": "6",
-            "year": 2012,
-            "answers": ["Robert Lee Frost"],
-            "id": 752
+            "question": "In one novel, this writer depicts a character named Protopopov who becomes the lover of Natasha, the selfish wife of Andrey Prozorov. In another novel, this writer depicts the intellectual liberal named Anya who is the daughter of Madame Ranevskaya. Name this Russian author of The Three Sisters and The Cherry Orchard.",
+            "round": "CMST_Round07.pdf",
+            "year": 2010,
+            "answers": ["Chekhov", "Anton Pavlovich Chekhov"],
+            "id": 701
         },
+
         {
             "num": 20,
             "category": "Science",
@@ -609,18 +651,7 @@
             "answers": ["Figaro"],
             "id": 661
         },
-        {
-            "num": 10,
-            "category": "Science",
-            "subcategory": null,
-            "difficulty": "MS",
-            "tournament": "Collaborative MS Tournament",
-            "question": "pH in this fluid is regulated by the bicarbonate ion buffer system. Cells in this fluid include leukocytes and erythrocytes, while platelets help form clots that stop its flow. It is carried in arteries and veins. Name this fluid that delivers oxygen and nutrients to cells and is pumped by the heart.",
-            "round": "CMST_Round08.pdf",
-            "year": 2010,
-            "answers": ["blood"],
-            "id": 576
-        },
+
         {
             "num": 18,
             "category": "History",
@@ -632,18 +663,6 @@
             "year": 2011,
             "answers": ["Peter", "Peter the Great", "Peter", "Peter I"],
             "id": 659
-        },
-        {
-            "num": 21,
-            "category": "Literature",
-            "subcategory": "American",
-            "difficulty": "MS",
-            "tournament": "Collaborative MS Tournament",
-            "question": "This city is where Ralph Ellison's Invisible Man works at the Liberty Paint Company. George Selden wrote about a cricket in one of this city's major public spaces. The Great Gatsby takes place in this city where Percy Jackson visits the Metropolitan Museum of Art. This city is where Stuart Little races boats in Central Park. Name this city in which the Harlem Renaissance took place.",
-            "round": "1",
-            "year": 2012,
-            "answers": ["New York City"],
-            "id": 391
         },
         {
             "num": 10,
@@ -790,23 +809,7 @@
             "category": "Science",
             "id": 81
         },
-        {
-            "num": 10,
-            "category": "Geography",
-            "subcategory": "Norse",
-            "difficulty": "MS",
-            "tournament": "Collaborative MS Tournament",
-            "question": "This country was officially recognized in the Lateran Treaties of 1929. It has extraterritorial authority over Castel Gandolfo. Places of interest in this country include the Sistine Chapel and Saint Peter's Square and Basilica. Voting in this country is restricted to Cardinals under eighty years old. Name this world's smallest country located entirely within the city of Rome.",
-            "round": "4",
-            "year": 2012,
-            "answers": [
-                "State of the Vatican City",
-                "Holy See",
-                "Santa Sede",
-                "Stato della Citta del Vaticano"
-            ],
-            "id": 406
-        },
+
         {
             "num": 11,
             "category": "Science",
