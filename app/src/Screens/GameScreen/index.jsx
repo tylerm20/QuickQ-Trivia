@@ -55,6 +55,9 @@ const GameScreen = ({
         }
         questionResult["skipped"] = userSkipped;
         questionResult["time"] = questionTime;
+        questionResult["category"] = getQuestionCategory(
+            getCurrentQuestionObj()
+        );
         setQuestionTime(0);
         setIsBetweenQuestions(true);
         setShowWholeQuestion(true);
@@ -143,6 +146,14 @@ const GameScreen = ({
     const getCurrentQuestionObj = () => questions[currentQuestionIndex];
     const getQuestionText = (questionObj) => questionObj["question"];
     const getQuestionAnswerText = (questionObj) => questionObj["answers"][0];
+    const getQuestionCategory = (questionObj) => {
+        try {
+            return questionObj["category"];
+        } catch (e) {
+            console.log(e);
+            return "Miscellaneous";
+        }
+    };
 
     const checkAnswer = (userAnswer) => {
         if (!userAnswer) {
@@ -264,6 +275,7 @@ const GameScreen = ({
                     showWholeQuestion={showWholeQuestion}
                     questionNumber={currentQuestionIndex + 1}
                     isShowingSettings={showSettingsModal}
+                    category={getQuestionCategory(getCurrentQuestionObj())}
                 />
             </div>
             <div className="BottomRow">{getBottomRowContent()}</div>

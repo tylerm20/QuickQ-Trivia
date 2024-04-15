@@ -3,7 +3,6 @@ import SettingsScreen from "./Screens/SettingsScreen";
 import StartScreen from "./Screens/StartScreen";
 import FinishScreen from "./Screens/FinishScreen";
 import GameScreen from "./Screens/GameScreen";
-// import { getQuestionsAndAnswers } from "./utils";
 
 import { screens } from "./constants";
 import "./App.css";
@@ -53,12 +52,12 @@ function App() {
         setStreak(streak);
     };
 
-    function daysPastApril62024() {
+    function daysPastApril142024() {
         // Create a Date object for today's date
         const today = new Date();
 
-        // Create a Date object for April 6, 2024
-        const referenceDate = new Date(2024, 3, 6); // Months are zero-indexed (January = 0)
+        // Create a Date object for April 14, 2024
+        const referenceDate = new Date(2024, 3, 14); // Months are zero-indexed (January = 0)
 
         // Calculate the difference in milliseconds
         const timeDifference = today.getTime() - referenceDate.getTime();
@@ -70,12 +69,12 @@ function App() {
     }
 
     const readQuestionsFromFile = () => {
-        fetch("shuffled_questions.json")
+        fetch("questions_with_categories.json")
             .then((response) => {
                 return response.json(); // Parse directly as JSON
             })
             .then((data) => {
-                const questionSetToUse = daysPastApril62024();
+                const questionSetToUse = daysPastApril142024();
                 console.log("question set being used: " + questionSetToUse);
                 setQuestions(data[questionSetToUse]);
             })

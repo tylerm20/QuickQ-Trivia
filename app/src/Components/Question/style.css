@@ -13,3 +13,7 @@
     font-size: 24px;
     padding-top: 20px;
 }
+
+.Category {
+    color: var(--dark-purple);
+}

@@ -20,3 +20,23 @@ export const convertNumberToEmoji = (number) => {
         return number;
     }
 };
+
+export const getEmojiForCategory = (category) => {
+    // Map digits to corresponding emoji using a lookup object
+    const categoryEmojiMap = {
+        "Current Events": "🗞️",
+        "World History": "🏺",
+        Sports: "🏆",
+        "US History": "🇺🇸",
+        Entertainment: "📺",
+        Geography: "🌏",
+        Science: "🔬",
+        "Arts & Literature": "🎭",
+    };
+
+    if (category in categoryEmojiMap) {
+        return categoryEmojiMap[category];
+    } else {
+        return "";
+    }
+};

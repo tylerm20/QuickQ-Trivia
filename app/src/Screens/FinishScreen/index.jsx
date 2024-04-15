@@ -8,7 +8,7 @@ import {
     CLOCK_EMOJI_HTML,
     GAME_SECONDS,
 } from "../../constants";
-import { convertNumberToEmoji } from "../../utils";
+import { convertNumberToEmoji, getEmojiForCategory } from "../../utils";
 
 const FinishScreen = ({
     setScreenShowing,
@@ -31,7 +31,10 @@ const FinishScreen = ({
                 <div className="QuestionResult" key={i}>
                     <details>
                         <summary>
-                            <b>Question {i}</b>
+                            <b>
+                                Question {i}{" "}
+                                {getEmojiForCategory(questions[i - 1].category)}
+                            </b>
                         </summary>
                         <p>{questions[i - 1].question}</p>
                     </details>
@@ -78,7 +81,9 @@ const FinishScreen = ({
         let i = 1;
         for (const result of playerResults.questionResults) {
             // TODO: make these emojis
-            const rowArr = [`${convertNumberToEmoji(i)} `];
+            const rowArr = [
+                `${convertNumberToEmoji(i)} ${getEmojiForCategory(questions[i - 1].category)} `,
+            ];
             if (result.isCorrect) {
                 rowArr.push("✅");
             } else if (result.skipped) {
