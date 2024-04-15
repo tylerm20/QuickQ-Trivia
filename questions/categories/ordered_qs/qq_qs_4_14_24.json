@@ -1,0 +1,256 @@
+[
+    [
+        {
+            "category": "Current Events",
+            "question": "This video game series is set in a post-apocalyptic world that features a retro-futuristic setting influenced by the post-war culture of 1950s America, imagining an alternate history where the transistor was never invented. Known for its open-world gameplay, it allows players to explore vast wastelands and make choices that affect the game's story and environment. Developed by Bethesda Game Studios and recently adapted into a TV show, what is the name of this RPG series that begins with the aftermath of a global nuclear war?",
+            "answers": ["Fallout"],
+            "used": "FALSE"
+        },
+        {
+            "category": "World History",
+            "question": "This treaty's Article 231, known as the \"War Guilt Clause,\" assigned full blame for the war and all damages to Germany and its allies. It not only demanded reparations and territory from Germany but also mandated the disarmament of the German military and limited the size of the German navy. Additionally, it led to the creation of new nations in Eastern Europe and the League of Nations. What is the name of this treaty, that was signed in the Hall of Mirrors in a palace and ended World War I?",
+            "answers": ["Treaty of Versailles"],
+            "used": "FALSE"
+        },
+        {
+            "category": "Sports",
+            "question": "Before basketball, this athlete was a competitive swimmer, aiming to compete in the Olympics. Known for his calm demeanor and fundamental playing style, he earned the nickname \"The Big Fundamental.\" He played his entire 19-season NBA career with the San Antonio Spurs, winning five NBA championships and two MVP awards. Who is this legendary power forward, celebrated for his leadership and consistency on the court?",
+            "answers": ["Tim Duncan"],
+            "used": "FALSE"
+        },
+        {
+            "category": "US History",
+            "question": "This famous American traitor started his military career as a pharmacist and bookseller. He initially became a hero in the early stages of the American Revolutionary War by playing a key role in the capture of Fort Ticonderoga and was pivotal in the Battle of Saratoga. However, his name became synonymous with treason after his plot to surrender West Point to the British was exposed. He later served as a brigadier general in the British Army. Who is this controversial figure in American history?",
+            "answers": ["Benedict Arnold"],
+            "used": "FALSE"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This series is noted for its complex characters and storylines, as well as its frequent use of shocking plot twists, including the infamous \"Red Wedding\" episode. It is based on the book series \"A Song of Ice and Fire\" by George R.R. Martin, who served as a producer on the show. The show's extensive filming locations included Northern Ireland, Croatia, Iceland, and Spain. It set a record for the most Emmy Awards won by a scripted television series. What is the name of this fantasy television series that follows the power struggles among the Seven Kingdoms of Westeros?",
+            "answers": ["\"Game of Thrones\""],
+            "used": "FALSE"
+        },
+        {
+            "category": "Geography",
+            "question": "This vast desert is not only composed of sand dunes; it also features mountains, rock plateaus, and extensive gravel plains. It is home to the desert ant, Cataglyphis bicolor, known for its unique ability to withstand extreme temperatures by sprinting across the sand. Despite its arid climate, it houses over 20 lakes, most of which are saltwater lakes. Covering most of North Africa, it is nearly as large as the United States. What is the name of this desert, the largest hot desert in the world?",
+            "answers": ["Sahara Desert"],
+            "used": "FALSE"
+        },
+        {
+            "category": "Science",
+            "question": "Formulated in 1925, this equation is a key foundation of quantum mechanics and provides a mathematical description of the wave-like behavior of particles at atomic and subatomic scales. Unlike classical mechanics, it uses a wave function to describe probabilistically the state of a particle rather than determining precise outcomes. Developed by an Austrian physicist who later won the Nobel Prize in Physics in 1933 for his contributions to the wave theory of matter, this equation has revolutionized our understanding of the atomic world. What is the name of this critical equation in quantum physics?",
+            "answers": ["Schrodinger's Equation"],
+            "used": "FALSE"
+        },
+        {
+            "category": "Arts & Literature",
+            "question": "This ancient epic is traditionally attributed to a poet who is also credited with composing another foundational work of ancient Greek literature that details a famous war. The narrative centers on the protagonist's challenging journey home following the fall of Troy, which takes an arduous ten years to complete. Throughout his voyage, he encounters various mythical creatures including the Cyclops, the seductive Sirens, and the shape-shifting witch-goddess Circe. This epic is not just a tale of adventure but also explores themes of heroism, loyalty, and the human condition. What is the name of this seminal work, a cornerstone of ancient Greek literature, detailing the adventures of Odysseus?",
+            "answers": ["The Odyssey"],
+            "used": "FALSE"
+        }
+    ],
+    [
+        {
+            "category": "US History",
+            "question": "Before entering politics, this future president briefly ran a general store and served as a Captain for the Illinois Miltia during the Black Hawk War. Despite his iconic image, he is the only president to hold a patent for an invention. His stovepipe hat was a practical accessory meant to hold important documents and letters. Name this president known for his leadership during the Civil War.",
+            "answers": ["Abraham Lincoln"],
+            "used": "FALSE"
+        },
+        {
+            "category": "Sports",
+            "question": "This Major League Baseball team was originally founded in Baltimore, Maryland, in 1901 before moving to New York City in 1903. Known for their distinctive pinstripe uniforms, they are often referred to by their nickname, \"The Bronx Bombers.\" The team holds the record for the most MLB championships, having won 27 World Series titles. Their storied rivalries, especially with the Boston Red Sox, are among the most famous in baseball history. What is the name of this iconic baseball team, synonymous with success and a global fanbase?",
+            "answers": ["New York Yankees", " Yankees"],
+            "used": "FALSE"
+        },
+        {
+            "category": "Arts & Literature",
+            "question": "This play is set in the Kingdom of Denmark and features a plot that revolves around themes of treachery, revenge, incest, and moral corruption. The protagonist of the play studies in Wittenberg and is visited by the ghost of his father, who reveals the truth about his murder. Famous for its exploration of the human psyche, it introduces phrases like \"To be, or not to be\" into the English lexicon. Name this tragedy, often considered William Shakespeare's masterpiece, which centers on the Prince of Denmark.",
+            "answers": ["\"Hamlet\"", "Hamlet"],
+            "used": "FALSE"
+        },
+        {
+            "category": "Science",
+            "question": "Launched into low Earth orbit in 1990, this space-based observatory has become one of the most important instruments in the history of astronomy. It was not the first space telescope, but it is one of the largest and most versatile, known for its deep field images that have provided a deeper look into space and time. This telescope is named after an American astronomer who is famous for his discovery of the universe's expansion. What is the name of this telescope that has allowed astronomers to observe the most distant stars and galaxies ever seen",
+            "answers": ["Hubble Space Telescope"],
+            "used": "FALSE"
+        },
+        {
+            "category": "World History",
+            "question": "This ancient trade route played a critical role in the spread of Buddhism from India to East Asia. It was established during the Han Dynasty around 130 B.C, and famous travelers like Marco Polo and Ibn Battuta traversed the route, documenting their journeys. Name this historic trade route which connected China with the Mediterranean.",
+            "answers": ["The Silk Road"],
+            "used": "FALSE"
+        },
+        {
+            "category": "Geography",
+            "question": "This peak experiences geological uplift, growing approximately 4 mm every year. Its \"death zone\" above 8,000 meters is notorious for its harsh conditions, where the thin air contains insufficient oxygen to sustain human life for extended periods, contributing to the peril many climbers face. Successfully ascended for the first time by Sir Edmund Hillary and Tenzing Norgay in 1953, this mountain is renowned globally. What is the name of this mountain, known as the highest point on Earth?",
+            "answers": ["Mount Everest"],
+            "used": "FALSE"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This actress made her stage debut in the play \"The Playboy of Seville\" in 1971. She is known for her ability to master almost any accent, from a British accent in \"The Iron Lady\" to a Polish one in \"Sophie's Choice.\" She holds the record for the most Academy Award nominations of any actor. Known for her roles in diverse films from \"Kramer vs. Kramer\" to \"The Devil Wears Prada,\" who is this acclaimed actress often described as the \"best actress of her generation\"?",
+            "answers": ["Meryl Streep"],
+            "used": "FALSE"
+        },
+        {
+            "category": "Current Events",
+            "question": "This golf tournament is the only major that does not rotate between courses, being held annually at the same location since its inception in 1934. It is known for its green jacket, which is awarded to the champion and must be returned to the clubhouse after a year. The event was won by Scottie Scheffler in 2024 and 2022 which Jon Rahm winning in between. Held in Augusta, Georgia, what is the name of this prestigious golf tournament, one of the four major championships in professional golf?",
+            "answers": ["The Masters"],
+            "used": "FALSE"
+        }
+    ],
+    [
+        {
+            "category": "Science",
+            "question": "This American virologist was born in New York City in 1914. After focusing on influenza research, he shifted his attention to a viral disease that caused widespread fear and paralysis, particularly affecting children. In a significant act of public service, he chose not to patent his greatest medical discovery, famously stating, \"Could you patent the sun?\" His research led to the first effective vaccine against polio, introduced in 1955. What is the name of this influential medical researcher?",
+            "answers": ["Jonas Salk"],
+            "used": "FALSE"
+        },
+        {
+            "category": "Sports",
+            "question": "This international competition features a trophy made of 18-carat gold and weighs approximately 6 kilograms. The inaugural tournament was held in 1930, hosted by Uruguay, who also won the title. It is the most watched sporting event globally, surpassing even the Olympic Games in viewership. Held every four years, teams from around the world compete, but only Brazil has won five times, the most by any country. What is the name of this prestigious international football tournament?",
+            "answers": ["FIFA World Cup"],
+            "used": "FALSE"
+        },
+        {
+            "category": "World History",
+            "question": "This ruler of the Mali Empire during the early 14th century is celebrated not only for his wealth but also for his contributions to the spread of Islam in West Africa. He embarked on a famous pilgrimage to Mecca in 1324, which included a procession of thousands of attendants and camels laden with gold. His journey through Cairo was notably extravagant, causing a temporary devaluation of gold in the region due to his generous distributions. Under his reign, the legendary city of Timbuktu flourished as a center of trade and Islamic scholarship, marked by the construction of the Djinguereber Mosque. Who is this emperor, often cited as one of the wealthiest people in history?",
+            "answers": ["Mansa Musa"],
+            "used": "FALSE"
+        },
+        {
+            "category": "Geography",
+            "question": "This marine structure is large enough to be visible from space, comprising over 2,900 individual reefs and 900 islands. It hosts a significant population of dugongs and is one of the most biodiverse ecosystems on the planet. The reef is a breeding area for humpback whales migrating from the Antarctic. Located off the coast of Queensland in northeastern Australia, it is the world's largest coral reef system. What is the name of this UNESCO World Heritage Site known for its vibrant marine life?",
+            "answers": ["Great Barrier Reef"],
+            "used": "FALSE"
+        },
+        {
+            "category": "Arts & Literature",
+            "question": "This artist served in the First Regiment of African Light Cavalry in Algeria for two years. He suffered from cataracts in his later years, which greatly influenced his shift to broader brushstrokes and bolder color choices in his paintings. He is known for his detailed garden at Giverny, which he transformed into a living canvas and used as inspiration for many works. His series on water lilies and scenes of the French countryside are celebrated globally. Name this French painter, a founding father of Impressionism.",
+            "answers": ["Claude Monet"],
+            "used": "FALSE"
+        },
+        {
+            "category": "US History",
+            "question": "Constructed between 1792 and 1800, this iconic building was designed by Irish-born architect James Hoban. It has 132 rooms, 35 bathrooms, and 6 levels in the residence. It was rebuilt after being burned down during the War of 1812 in an event known as the Burning of Washington. Its first resident was President John Adams. What is this famous building called?",
+            "answers": ["White House"],
+            "used": "FALSE"
+        },
+        {
+            "category": "Current Events",
+            "question": "This novel intricately portrays the clash of cultures between feudal Japan and the Western world during the early 17th century. It is based on the historical adventures of an English navigator who becomes a samurai and political player within the Japanese feudal system. Published in 1975, it became a bestseller and was later adapted into a successful television miniseries in 1980 and again in 2024. What is the name of this historical novel by James Clavell that explores the rise of a foreigner in the Japanese samurai-led society?",
+            "answers": ["Shogun"],
+            "used": "FALSE"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This actor began his career with appearances in television commercials before moving on to recurring roles in TV series such as \"Growing Pains.\" He is a committed environmentalist, founding a non-profit organization focused on global warming and preserving Earth's biodiversity. He received critical acclaim for his performance in \"What's Eating Gilbert Grape\" at a young age. Known for his collaborations with director Martin Scorsese in films like \"The Wolf of Wall Street\" and \"Shutter Island,\" who is this Oscar-winning actor famous for his role in \"Titanic\"?",
+            "answers": ["Leonardo DiCaprio"],
+            "used": "FALSE"
+        }
+    ],
+    [
+        {
+            "category": "World History",
+            "question": "Constructed over several dynasties, this extensive fortification stretches more than 13,000 miles and was primarily built using tamped earth and later enhanced with brick and stone. Its construction began as early as the 7th century BC, with significant extensions during the Ming Dynasty. Originally designed to protect against nomadic invasions, it also controlled immigration and facilitated duties on goods transported along the Silk Road. What is this historical landmark?",
+            "answers": ["The Great Wall of China"],
+            "used": "FALSE"
+        },
+        {
+            "category": "Science",
+            "question": "Initially derived from the pancreases of dogs and later from cattle and pigs, this hormone plays a critical role in part of the body's metabolic regulation. Its first use in treating a human patient was in 1922. This medical advancement earned the discovering scientist the Nobel Prize in Physiology or Medicine in 1923. Today, it is synthesized using recombinant DNA technology, providing essential treatment for diabetes patients worldwide. What is this life-saving hormone called?",
+            "answers": ["Insulin"],
+            "used": "FALSE"
+        },
+        {
+            "category": "Geography",
+            "question": "This ancient lake contains over 20% of the world's unfrozen freshwater reserve. It earned the nickname \"Gal\u00e1pagos of Russia\" due to its unique biodiversity. It is home to the world's only freshwater seal species. This UNESCO World Heritage Site boasts an exceptional array of endemic species. Located in southern Siberia, it is the world's deepest lake. What is the name of this lake, often referred to as the 'Pearl of Siberia'?",
+            "answers": ["Lake Baikal"],
+            "used": "FALSE"
+        },
+        {
+            "category": "Current Events",
+            "question": "Before his infamous legal battles, this individual had a successful career in advertising, notably appearing in commercials for the Hertz rental car company. He set records in the NFL, including rushing over 2,000 yards in a single season, a feat achieved during a 14-game season. His transition to film and television included roles in movies and the popular \"Naked Gun\" series. In 1994, he was tried and acquitted in a highly publicized and controversial criminal trial for the murders of his ex-wife Nicole Brown Simpson and her friend Ronald Goldman. Who is this infamous former NFL running back and actor who died in 2024?",
+            "answers": ["O.J. Simpson"],
+            "used": "FALSE"
+        },
+        {
+            "category": "Sports",
+            "question": "This competition is one of the most grueling one-day sporting events in the world, combining three continuous and sequential endurance races. It starts with a 2.4-mile swim, followed by a 112-mile bicycle ride, and finishes with a marathon 26.2-mile run, raced in that order without a break. Originating in Hawaii in 1978 as a challenge among groups of athletes to see who was the fittest\u2014swimmers, cyclists, or runners\u2014it has grown into a global phenomenon. What is the name of this triathlon that tests the limits of human endurance?",
+            "answers": ["Ironman", " Ironman Triathlon"],
+            "used": "FALSE"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This film features a famous scene with a severed horse's head, which was real and acquired from a dog food company. The hauntingly beautiful score for the film was composed by Nino Rota. It is based on a novel by Mario Puzo and portrays the powerful Italian-American crime family of Don Vito Corleone. The film launched the careers of several actors, including Al Pacino, who plays Michael Corleone. Directed by Francis Ford Coppola, what is the name of this iconic film that won the Academy Award for Best Picture in 1972?",
+            "answers": ["\"The Godfather\"", "Godfather"],
+            "used": "FALSE"
+        },
+        {
+            "category": "Arts & Literature",
+            "question": "This historic chapel's ceiling was originally painted blue and decorated with stars before being replaced by the artwork that is seen today. It serves as the site for the Papal conclave, where new popes are elected. Renowned for its Renaissance art, particularly the frescoes that cover the interior, it features works by several prominent artists of the period, including Botticelli, Perugino, and Michelangelo. Michelangelo's contributions include not only the ceiling but also the iconic \"The Last Judgment\" on the altar wall. What is the name of this chapel located in Vatican City, famous for its magnificent Renaissance art?",
+            "answers": ["The Sistine Chapel"],
+            "used": "FALSE"
+        },
+        {
+            "category": "US History",
+            "question": "Before joining NASA, this astronaut flew 78 combat missions during the Korean War and tested high-speed aircraft, including the X-15. He was part of the Gemini 8 mission, achieving the first successful docking of two spacecraft in orbit. He later became the first person to walk on the moon, famously declaring, \"That's one small step for [a] man, one giant leap for mankind.\" Who is this pioneering astronaut?",
+            "answers": ["The Moon Landing"],
+            "used": "FALSE"
+        }
+    ],
+    [
+        {
+            "category": "Arts & Literature",
+            "question": "This painting was created during the artist's time at the Saint-Paul-de-Mausole asylum in Saint-R\u00e9my-de-Provence, France, after he voluntarily admitted himself. It depicts the view from the east-facing window of his asylum room, though it was painted from memory during the day. Characterized by swirling clouds in a starry night and a bright crescent moon, its vibrant colors and emotional depth are a signature of the artist's turbulent state of mind. Currently housed in the Museum of Modern Art in New York City, this work is one of the most recognized paintings in the history of Western culture. Name this iconic 1889 painting by Vincent van Gogh.",
+            "answers": ["The Starry Night"],
+            "used": "FALSE"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This television series was pitched by its creator, Vince Gilligan, as a story where the protagonist transforms into the antagonist. It features a character named Saul Goodman, who was later the subject of a successful spin-off prequel series. Filmed primarily in Albuquerque, New Mexico, it uses the unique landscape as a backdrop to its intense narrative. The series centers on Walter White, a high school chemistry teacher turned methamphetamine manufacturer. What is the name of this critically acclaimed series that won multiple Emmy Awards for its lead actor, Bryan Cranston?",
+            "answers": ["\"Breaking Bad\""],
+            "used": "FALSE"
+        },
+        {
+            "category": "Geography",
+            "question": "This South American river is home to the uniquely colored and intelligent pink river dolphin. It flows through the world's largest tropical rainforest, encompassing an area twice the size of India. Despite its vast length, it has no bridges due to its width and the dense forest surrounding much of its length. It is the second-longest river globally but discharges the largest volume of water, influencing the Atlantic Ocean up to 100 miles from its mouth. What is the name of this river?",
+            "answers": ["Amazon River"],
+            "used": "FALSE"
+        },
+        {
+            "category": "US History",
+            "question": "Originally built between 1871 and 1888 to accommodate the growing staff of the White House, this French Second Empire-style building is located next to the West Wing. It was initially known as the State, War, and Navy Building, reflecting its original occupants. Since 2002, its name honor has honored the 34th U.S. President. What is the official name of this building where the Vice President has an office?",
+            "answers": [
+                "Eisenhower Executive Office Building",
+                "EEOB",
+                "Eisenhower"
+            ],
+            "used": "FALSE"
+        },
+        {
+            "category": "Science",
+            "question": "First isolated using simple adhesive tape, this material was discovered at the University of Manchester by Andre Geim and Konstantin Novoselov, who were later awarded the Nobel Prize in Physics in 2010 for their work. It is notable for being just one atom thick, making it one of the thinnest yet strongest materials ever tested.What is this two-dimensional material composed of a single layer of carbon atoms arranged in a honeycomb lattice?",
+            "answers": ["Graphene"],
+            "used": "FALSE"
+        },
+        {
+            "category": "Sports",
+            "question": "This athlete has a successful fashion line and has also been involved in numerous off-court ventures, including voice acting in animated films. She won her first major championship at the U.S. Open in 1999, setting the stage for one of the most dominant careers in tennis. Known for her powerful playing style and strong serve, she has won 23 Grand Slam singles titles, the most by any player in the Open Era. Who is this iconic tennis player, often celebrated as one of the greatest athletes of all time?",
+            "answers": ["Serena Williams"],
+            "used": "FALSE"
+        },
+        {
+            "category": "World History",
+            "question": "This period saw the development of the printing press by Johannes Gutenberg, significantly impacting the accessibility of knowledge. Notably, it emphasized humanism, redefining the intellectual landscape of Europe.It heralded major advancements in arts, introducing techniques like perspective in painting, represented by masters such as Leonardo da Vinci and Michelangelo. Name this cultural phenomenon that began in 14th century Florence and was characterized by a revival of classical learning and wisdom, a shift that distanced Europe from the Middle Ages.",
+            "answers": ["The Renaissance"],
+            "used": "FALSE"
+        },
+        {
+            "category": "Current Events",
+            "question": "This country is home to one of the world's oldest continuous major civilizations, with historical and urban settlements dating back to 4000 BC. It was known as Persia until 1935 and has a significant role in the history of the silk road and international trade. The nation is also known for its substantial oil reserves, ranking as the world's fourth-largest holder of oil. It features a diverse landscape ranging from arid mountains to lush forests. What is the name of this country that launched an air attack at Israel after they destroyed it's embassy in Syria?",
+            "answers": ["Iran"],
+            "used": "FALSE"
+        }
+    ]
+]
