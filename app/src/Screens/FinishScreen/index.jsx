@@ -73,14 +73,12 @@ const FinishScreen = ({
 
     const getResultsStr = () => {
         const sharableResultsArr = [
-            "QuickQ: Daily Trivia Quiz",
-            `${new Date().toLocaleDateString()}`,
+            `QuickQ: ${new Date().toLocaleDateString()}`,
             `Score: ${finalScore}`,
             `Time: ${finalTime}s`,
         ];
         let i = 1;
         for (const result of playerResults.questionResults) {
-            // TODO: make these emojis
             const rowArr = [
                 `${convertNumberToEmoji(i)} ${getEmojiForCategory(questions[i - 1].category)} `,
             ];
