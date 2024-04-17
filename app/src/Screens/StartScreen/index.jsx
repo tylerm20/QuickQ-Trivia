@@ -2,6 +2,7 @@ import React, { useState } from "react";
 import { screens } from "../../constants";
 import SettingsScreen from "../../Screens/SettingsScreen";
 import BasicButton from "../../Components/BasicButton";
+import CategoriesChart from "../../Components/CategoriesChart";
 import "./style.css";
 
 const StartScreen = ({
@@ -24,6 +25,7 @@ const StartScreen = ({
                 <div>Rapid Daily Trivia Quiz</div>{" "}
                 <span className="Date">{today.toLocaleDateString()}</span>
             </div>
+            <CategoriesChart />
             <img className="BrainTreeLogo" src="brain_tree_logo_purple.svg" />
             {hasFinishedTodaysGame ? (
                 <div className="AlreadyPlayed">
