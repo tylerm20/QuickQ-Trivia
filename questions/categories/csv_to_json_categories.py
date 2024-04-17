@@ -37,7 +37,7 @@ def csv_to_json(json_filepath, array_column):
                 random.shuffle(category_to_questions[csv_filepath])
 
     multiple_days_qs = []
-    for i in range(5):
+    for i in range(4):
         daily_qs = []
         for category, questions in category_to_questions.items():
             daily_qs.append(questions[i])

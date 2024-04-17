@@ -1,0 +1,202 @@
+[
+    [
+        {
+            "category": "World History",
+            "question": "This historical figure was born an Archduchess of Austria before becoming the Queen of France through her marriage to Louis XVI. Known for her extravagant lifestyle amid France's financial crisis, she was a controversial queen, often misquoted in response to hearing that the French peasants had no bread. Her reputation, whether deserved or not, fueled populist rage that contributed to the climactic moments of the French Revolution. She met her end by guillotine in 1793 during the Reign of Terror. Who is this queen, often remembered for her dramatic downfall?",
+            "answers": ["Marie Antoinette"],
+            "used": "TRUE"
+        },
+        {
+            "category": "Science",
+            "question": "Developed by a French mathematician in the early 19th century, this mathematical transform is essential for analyzing the frequencies contained in a signal. It decomposes a function or a dataset into a spectrum of its sine and cosine components, enabling engineers and scientists to work with the frequency domain rather than time domain. This technique has wide-ranging applications, including image processing, signal analysis, and quantum physics. What is the name of this transformative analysis method, named after its inventor?",
+            "answers": ["Fourier Transform"],
+            "used": "TRUE"
+        },
+        {
+            "category": "Sports",
+            "question": "This Argentine footballer is known for his low center of gravity and dribbling skills. He began his professional career with FC Barcelona, where he spent over two decades, setting records for the most goals scored for a single club. Renowned for his precise left foot, he has won numerous Ballon d'Or awards, distinguishing him as one of the best players of his generation. In 2021, he made a high-profile transfer to Paris Saint-Germain. What is the name of this iconic soccer player, often cited as one of the greatest footballers of all time?",
+            "answers": ["Lionel Messi"],
+            "used": "TRUE"
+        },
+        {
+            "category": "Arts & Literature",
+            "question": "This iconic ballet, first performed in 1877 at the Bolshoi Theatre in Moscow, was initially met with criticism but has since become one of the most beloved ballets worldwide. Its music was composed by Pyotr Ilyich Tchaikovsky, and the ballet's plot revolves around a princess turned into a swan by an evil sorcerer's curse. Known for its demanding choreography, particularly the role of the dual lead of Odette/Odile, this ballet is a staple in the classical repertoire. What is the name of this ballet which was made into a movie starring Natalie Portman?",
+            "answers": ["Swan Lake"],
+            "used": "TRUE"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This Canadian actor was born in Beirut, Lebanon, in 1964 and first gained major Hollywood attention for his performance in \"Speed.\" Known for his range, he has appeared in everything from romantic comedies like \"Something's Gotta Give\" to supernatural thrillers like \"Constantine.\" Off-screen, he is lauded for his humility and philanthropic efforts, particularly his contributions to cancer research and children\u2019s hospitals. He is also celebrated for his role as Neo in the \"Matrix\" trilogy and as the titular character in the \"John Wick\" film series. What is the name of this versatile and well-respected actor?",
+            "answers": ["Keanu Reeves"],
+            "used": "TRUE"
+        },
+        {
+            "category": "Current Events",
+            "question": "This American politician from Louisiana, a member of the Republican Party, has served in the U.S. House of Representatives since 2017. He represents Louisiana's 4th congressional district, which includes the northwestern part of the state. Known for his strong conservative views, he has been a vocal advocate for constitutional conservatism, emphasizing fiscal responsibility, limited government, and traditional family values. In 2023, he was elected as the Speaker of the House, becoming one of the key figures in the national political landscape. What is the name of this politician who currently holds the position of Speaker of the U.S. House of Representatives?",
+            "answers": ["Mike Johnson"],
+            "used": "TRUE"
+        },
+        {
+            "category": "Geography",
+            "question": "Flowing through more countries than any other river in the world, this major European waterway starts in the Black Forest mountains of western Germany and extends through Central and Eastern Europe to the Black Sea. It has been a vital conduit for cultural exchange among the diverse regions along its path, historically serving as a long-standing frontier of the Roman Empire. Today, it plays a crucial role in the regions\u2019 commerce, environmental sustainability, and tourism. What is the name of this second-longest river in Europe, known for connecting ten countries?",
+            "answers": ["The Danube"],
+            "used": "TRUE"
+        },
+        {
+            "category": "US History",
+            "question": "This iconic national park, located in California's Sierra Nevada mountains, was established in 1890. It was created largely due to the advocacy of naturalist John Muir. It includes one of the tallest waterfalls in North America as well as giant, ancient sequoia trees, and spectacular granite cliffs. What is the name of this national park known for its stunning natural beauty?",
+            "answers": ["Yosemite National Park"],
+            "used": "TRUE"
+        }
+    ],
+    [
+        {
+            "category": "Sports",
+            "question": "Known for his extraordinary height for a sprinter, this Jamaican athlete revolutionized the science of sprinting, focusing heavily on his start technique and stride efficiency. He set the world record for the 100 meters, 200 meters, and 4x100 meters relay, and his iconic celebration pose has become synonymous with his name. Dominating three consecutive Olympic Games, he secured gold medals in all three sprint events at Beijing 2008, London 2012, and Rio 2016. What is the name of this athlete, often referred to as the fastest man alive?",
+            "answers": ["Usain Bolt"],
+            "used": "TRUE"
+        },
+        {
+            "category": "Science",
+            "question": "Invented by Nikola Tesla in the late 19th century, this electrical resonant transformer circuit is used to produce high-voltage, low-current, high-frequency alternating-current electricity. Notable for creating impressive electrical arcs and being used in entertainment and educational displays, it was originally developed as part of Tesla's experiments with wireless lighting and electrical power distribution. What is the name of this device that exemplifies Tesla\u2019s work in electrical engineering?",
+            "answers": ["Tesla Coil", " coil"],
+            "used": "TRUE"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This 2010 science fiction film directed by Christopher Nolan features a skilled thief who can enter people's dreams to steal secrets from their subconscious. His greatest challenge involves a complex task where he must implant an idea into a CEO's mind through a layered dream sequence. Known for its elaborate visual effects and a plot that weaves through various levels of consciousness, the film is also famous for its open-ended conclusion, symbolized by a spinning top. What is the name of this critically acclaimed film that explores the concept of dream manipulation?",
+            "answers": ["\"Inception\""],
+            "used": "TRUE"
+        },
+        {
+            "category": "Current Events",
+            "question": "Founded in 1769, this Ivy League institution is located was originally established to educate Native Americans in Christian theology and the English way of life. This university was the first of an elite group of American universities to bring back a requirement for ACT or SAT scores after the COVID-19 pandemic. Name this Ivy League school located in Hanover, New Hampshire.",
+            "answers": ["Dartmouth"],
+            "used": "TRUE"
+        },
+        {
+            "category": "World History",
+            "question": "This document, originally issued in 1215, was a result of the political crisis between King John of England and a group of rebel barons within his kingdom. It was first drafted by the Archbishop of Canterbury to make peace between the unpopular King and the rebels. Over time, it has become a symbol of liberty and the rule of law, particularly noted for its role in shaping the legal system of the British constitutional monarchy. What is the name of this historic charter often credited as a foundational document for modern democracy?",
+            "answers": ["Magna Carta"],
+            "used": "TRUE"
+        },
+        {
+            "category": "US History",
+            "question": "This pivotal event was triggered by legislation passed in 1773 that aimed to rescue the financially struggling British East India Company. It involved a late-night act of rebellion where protestors, some disguised as Mohawk Indians, boarded three ships in a famous harbor. What is this event, famously associated with the phrase \"No taxation without representation\"?",
+            "answers": ["The Boston Tea Party"],
+            "used": "TRUE"
+        },
+        {
+            "category": "Arts & Literature",
+            "question": "This figure from Norse mythology is known for his cunning and deceptive nature, often causing as much trouble for the other gods as he resolves. A shape-shifter capable of changing both form and gender, he plays a pivotal role in many myths, including the events leading up to Ragnarok, the end of the world in Norse legend. His complex character has inspired various modern portrayals, including a popular supervillain in the Marvel Cinematic Universe. Known as the Norse god of mischief, what is his name?",
+            "answers": ["Loki"],
+            "used": "TRUE"
+        },
+        {
+            "category": "Geography",
+            "question": "Holding about 90% of the world\u2019s ice and 70% of its fresh water, this continent is crucial for global climate regulation. Governed by an international treaty that designates it as a scientific preserve and prohibits military activity, it has no indigenous human population and supports only temporary research communities. The extreme environment, featuring the coldest temperatures recorded on Earth, facilitates studies ranging from glaciology to climate science. What is the name of this continent, renowned for its expansive ice sheets and unique legal status?",
+            "answers": ["Antarctica"],
+            "used": "TRUE"
+        }
+    ],
+    [
+        {
+            "category": "US History",
+            "question": "The first successful use of this invention was achieved in 1903 in Kitty Hawk, North Carolina. The initial use lasted only 12 seconds but covered 120 feet.  Today, it is integral to global transportation and commerce. This invention revolutionized travel and military strategy, leading to the first nonstop transatlantic flight in 1919. What is this device which was invented by the Wright Brothers?",
+            "answers": ["airplane", " plane"],
+            "used": "TRUE"
+        },
+        {
+            "category": "Science",
+            "question": "Developed in the early 21st century, this groundbreaking biotechnological tool allows for precise editing of the DNA in the genomes of living organisms. It utilizes a component of a bacterial immune system, which captures pieces of DNA from viruses, to make precise cuts in specific DNA sequences. This innovation has transformed genetic research, offering potential treatments for a myriad of genetic diseases and advancements in agricultural science. What is the name of this powerful gene-editing technology?",
+            "answers": ["CRISPR", " CRISPR-Cas9"],
+            "used": "TRUE"
+        },
+        {
+            "category": "World History",
+            "question": "Originating in Asia and spreading via the Silk Road, this pandemic reached Europe in the mid-14th century, causing massive social upheaval and labor shortages due to its high mortality rate. The pathogen was transmitted by fleas carried on black rats aboard trading ships, leading to rapid spread through congested urban areas. Characterized by painful swellings called buboes, this devastating outbreak is known as one of the deadliest pandemics in human history. What is this historical epidemic commonly called?",
+            "answers": ["The Black Death", " bubonic plague"],
+            "used": "TRUE"
+        },
+        {
+            "category": "Geography",
+            "question": "In the arid regions surrounding this hypersaline lake, ancient manuscripts that include some of the earliest known religious texts were discovered, offering significant insights into early religious practices. Located at the lowest land elevation on Earth, this body of water allows swimmers to float effortlessly due to its extremely high salinity, which also supports a thriving health and cosmetics industry based on its mineral-rich mud. Bordered by Jordan to the east and Israel and the West Bank to the west, what is the name of this unique lake renowned for its buoyancy and therapeutic properties?",
+            "answers": ["Dead Sea"],
+            "used": "TRUE"
+        },
+        {
+            "category": "Sports",
+            "question": "This prestigious tennis tournament, known for its unique tradition of consuming strawberries and cream by spectators, maintains a strict no-play policy on the middle Sunday to allow the grass courts to rest. Established in 1877, it is the oldest tennis tournament in the world and is particularly noted for its requirement that players wear all-white attire. Celebrated for being played on outdoor grass courts, this event is one of the four Grand Slam tournaments held annually. What is the name of this tournament, regarded as the most prestigious in the sport of tennis?",
+            "answers": ["Wimbledon"],
+            "used": "TRUE"
+        },
+        {
+            "category": "Entertainment",
+            "question": "Launched in 2016, this Netflix original series combines 1980s nostalgia with supernatural and horror elements. Set in the fictional town of Hawkins, Indiana, the story begins with the mysterious disappearance of a young boy, which leads to revelations about secret government experiments and a girl with psychokinetic abilities. Created by the Duffer Brothers, this series has become a cultural phenomenon. What is the name of this show?",
+            "answers": ["\"Stranger Things\""],
+            "used": "TRUE"
+        },
+        {
+            "category": "Current Events",
+            "question": "This U.S. government agency is responsible for tax collection and tax law enforcement. It administers the Internal Revenue Code enacted by Congress. Established in 1862 during the presidency of Abraham Lincoln, its primary purpose was to fund the Civil War. The agency is also known for its role in the annual observance of April 15th as Tax Day, the deadline for filing individual tax returns. In recent years, it has implemented various modernization efforts to improve taxpayer service and compliance. What is the name of this agency tasked with ensuring the nation's tax laws are followed?",
+            "answers": ["Internal Revenue Service", " IRS"],
+            "used": "TRUE"
+        },
+        {
+            "category": "Arts & Literature",
+            "question": "This British author began his career as a political journalist before achieving fame with serialized novels that highlighted the social and economic challenges of Victorian England. Notable for exploring themes like poverty, child labor, and social injustice, his vivid characters and detailed settings have made works such as \"Oliver Twist,\" \"David Copperfield,\" and \"A Christmas Carol\" enduring classics. Name this author whose works have been adapted into numerous plays and films, continuing to influence popular culture.",
+            "answers": ["Charles Dickens"],
+            "used": "TRUE"
+        }
+    ],
+    [
+        {
+            "category": "Geography",
+            "question": "Known locally as 'Mosi-oa-Tunya,' which translates to 'The Smoke That Thunders,' this natural wonder creates a thunderous roar and a mist that can be seen from miles away. It forms one of the largest curtains of falling water in the world, drawing visitors from all over the globe to its breathtaking views. Designated as a UNESCO World Heritage site, it straddles the border between Zambia and Zimbabwe along the Zambezi River. What is the name of this magnificent waterfall, celebrated as one of the Seven Natural Wonders of the World?",
+            "answers": ["Victoria Falls"],
+            "used": "TRUE"
+        },
+        {
+            "category": "World History",
+            "question": "Launched in 1588 by King Philip II of Spain, this fleet was one of the largest maritime fleets in European history, consisting of 130 ships manned by 8,000 sailors and over 18,000 soldiers. Its mission was to overthrow Queen Elizabeth I of England and halt the influence of Protestantism in Europe. Despite its formidable size, the fleet suffered a disastrous defeat due to a combination of strategic miscalculations, stormy weather, and effective tactics by the English navy. What is this famous naval campaign commonly known as, which marked a pivotal moment in Anglo-Spanish relations?",
+            "answers": ["The Spanish Armada"],
+            "used": "TRUE"
+        },
+        {
+            "category": "Current Events",
+            "question": "This novel intricately portrays the clash of cultures between feudal Japan and the Western world during the early 17th century. It is based on the historical adventures of an English navigator who becomes a samurai and political player within the Japanese feudal system. Published in 1975, it became a bestseller and was later adapted into a successful television miniseries in 1980 and again in 2024. What is the name of this historical novel by James Clavell that explores the rise of a foreigner in the Japanese samurai-led society?",
+            "answers": ["Shogun"],
+            "used": "TRUE"
+        },
+        {
+            "category": "Science",
+            "question": "This scientist was born in 1822 in a region now part of the Czech Republic and initially entered a monastery where he could receive an education. He conducted hybridization experiments in the monastery's garden, using pea plants to study inheritance patterns. His work laid the foundation for the modern understanding of genetics, though it was largely ignored during his lifetime. What is the name of this pioneer of genetic research, known for his laws of inheritance?",
+            "answers": ["Gregor Mendel"],
+            "used": "TRUE"
+        },
+        {
+            "category": "US History",
+            "question": "Before becoming president, this man owned a whiskey distillery, one of the largest in the nation. From 1749 to 1750, he served in his first public office as surveyor of Culpeper County in the Colony of Virginia. This Founding Father led the Continental Army in battle against the British during the Revolutionary War. Name this general and first president of the United States.",
+            "answers": ["George Washington"],
+            "used": "TRUE"
+        },
+        {
+            "category": "Arts & Literature",
+            "question": "Published in 1925, this iconic American novel captures the spirit of the Roaring Twenties with its themes of decadence, idealism, and the pursuit of the American Dream. Narrated by Nick Carraway, the story delves into the lives of the wealthy occupants of Long Island's North Shore, focusing on his mysterious and affluent neighbor's quest to reunite with a former lover. Celebrated for its sharp critique of social stratification and the elusive nature of happiness, this novel remains a staple of American literature. What is the title of this F. Scott Fitzgerald work, emblematic of the Jazz Age?",
+            "answers": ["\"The Great Gatsby\""],
+            "used": "TRUE"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This British singer-songwriter rose to fame with her debut album \"19,\" and further captivated audiences worldwide with her soulful voice in the follow-up album \"21,\" which included hits like \"Rolling in the Deep\" and \"Someone Like You.\" Known for her deep, expressive vocals and poignant lyrics, her music often explores themes of love, heartbreak, and self-reflection. Winning multiple Grammy Awards, she has become one of the best-selling music artists of the 21st century. What is the name of this influential artist whose third album, \"25,\" continued her streak of chart-topping success?",
+            "answers": ["Adele"],
+            "used": "TRUE"
+        },
+        {
+            "category": "Sports",
+            "question": "This annual event, established in 1897, is the world's oldest annual marathon and ranks as one of the world's most prestigious road racing events. It is held on Patriots' Day, the third Monday of April. The race starts in rural Hopkinton. Notably, it was the scene of a tragic event in 2013 when bombings near the finish line resulted in widespread injuries and loss of life. What is the name of this historic marathon known for its challenging course and storied history?",
+            "answers": ["The Boston Marathon"],
+            "used": "TRUE"
+        }
+    ]
+]
