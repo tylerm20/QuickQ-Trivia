@@ -28,7 +28,7 @@ export const getEmojiForCategory = (category) => {
         "World History": "🏺",
         Sports: "🏆",
         "US History": "🇺🇸",
-        Entertainment: "📺",
+        Entertainment: "🎬",
         Geography: "🌏",
         Science: "🔬",
         "Arts & Literature": "🎭",

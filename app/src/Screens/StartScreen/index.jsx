@@ -26,7 +26,7 @@ const StartScreen = ({
                 <span className="Date">{today.toLocaleDateString()}</span>
             </div>
             <CategoriesChart />
-            <img className="BrainTreeLogo" src="brain_tree_logo_purple.svg" />
+            {/* <img className="BrainTreeLogo" src="brain_tree_logo_purple.svg" /> */}
             {hasFinishedTodaysGame ? (
                 <div className="AlreadyPlayed">
                     <div className="ComeBack">

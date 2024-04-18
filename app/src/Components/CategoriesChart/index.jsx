@@ -7,59 +7,64 @@ import {
     BarElement,
     Title,
     Tooltip,
-    Legend,
 } from "chart.js";
 import { Bar } from "react-chartjs-2";
+import { CATEGORIES_EMOJIS_LIST } from "../../constants";
 
 export const CategoriesChart = () => {
-    ChartJS.register(
-        CategoryScale,
-        LinearScale,
-        BarElement,
-        Title,
-        Tooltip,
-        Legend
-    );
+    ChartJS.register(CategoryScale, LinearScale, BarElement, Title, Tooltip);
 
     const options = {
+        aspectRatio: 0.8,
         responsive: true,
+        indexAxis: "y",
+        font: { size: 20 },
+        scales: {
+            x: {
+                // Assuming the categories are on the x-axis
+                ticks: {
+                    font: {
+                        size: 16, // Increase the font size as needed
+                    },
+                    // Optionally adjust color and other font properties
+                    color: "#000", // Example to change the text color
+                },
+            },
+            y: {
+                // Configuration for the y-axis
+                ticks: {
+                    font: {
+                        size: 30, // Consistent or different font size for y-axis labels
+                    },
+                    color: "#000", // Example to change the text color
+                },
+            },
+        },
         plugins: {
+            fill: true,
+            // font: {
+            //     size: 16, // Large font size for data labels
+            // },
             legend: {
-                position: "top",
+                display: false,
             },
             title: {
                 display: true,
-                text: "Chart.js Bar Chart",
+                text: "Qs Correct by Category",
             },
         },
     };
 
-    const labels = [
-        "January",
-        "February",
-        "March",
-        "April",
-        "May",
-        "June",
-        "July",
-    ];
-
     const data = {
-        labels,
+        labels: CATEGORIES_EMOJIS_LIST,
         datasets: [
             {
-                label: "Dataset 1",
-                data: labels.map(() => 10),
+                data: CATEGORIES_EMOJIS_LIST.map(() => 10),
                 backgroundColor: "rgba(255, 99, 132, 0.5)",
-            },
-            {
-                label: "Dataset 2",
-                data: labels.map(() => 10),
-                backgroundColor: "rgba(53, 162, 235, 0.5)",
             },
         ],
     };
-    return <Bar />;
+    return <Bar options={options} data={data} />;
 };
 
 export default CategoriesChart;
