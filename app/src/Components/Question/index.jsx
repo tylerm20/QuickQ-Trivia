@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from "react";
 import "./style.css";
 import { getEmojiForCategory } from "../../utils";
+import { CATEGORY_COLOR_MAP } from "../../constants";
 
 const Question = ({
     question,
@@ -43,7 +44,13 @@ const Question = ({
     return (
         <div className="question">
             <div className="QuestionHeader">
-                #{questionNumber}: <span className="Category">{category}</span>{" "}
+                #{questionNumber}:{" "}
+                <span
+                    className="Category"
+                    style={{ color: CATEGORY_COLOR_MAP[category] }}
+                >
+                    {category}
+                </span>{" "}
                 {getEmojiForCategory(category)}
             </div>
             <div className="QuestionText">

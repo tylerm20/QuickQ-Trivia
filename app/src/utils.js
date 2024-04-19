@@ -1,3 +1,5 @@
+import { CATEGORY_EMOJI_MAP } from "./constants";
+
 export const convertNumberToEmoji = (number) => {
     // Map digits to corresponding emoji using a lookup object
     const emojiMap = {
@@ -23,19 +25,8 @@ export const convertNumberToEmoji = (number) => {
 
 export const getEmojiForCategory = (category) => {
     // Map digits to corresponding emoji using a lookup object
-    const categoryEmojiMap = {
-        "Current Events": "🗞️",
-        "World History": "🏺",
-        Sports: "🏆",
-        "US History": "🇺🇸",
-        Entertainment: "🎬",
-        Geography: "🌏",
-        Science: "🔬",
-        "Arts & Literature": "🎭",
-    };
-
-    if (category in categoryEmojiMap) {
-        return categoryEmojiMap[category];
+    if (category in CATEGORY_EMOJI_MAP) {
+        return CATEGORY_EMOJI_MAP[category];
     } else {
         return "";
     }
