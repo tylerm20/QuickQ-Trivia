@@ -75,9 +75,9 @@ export const CategoriesChart = () => {
         plugins: {
             tooltip: {
                 callbacks: {
-                    // Label callback to add more information to the default tooltip
-                    label: (context) =>
-                        Object.keys(CATEGORY_EMOJI_MAP)[context.dataIndex],
+                    // show the category name as tooltip title
+                    title: (context) =>
+                        Object.keys(CATEGORY_EMOJI_MAP)[context[0].dataIndex],
                 },
             },
             fill: true,

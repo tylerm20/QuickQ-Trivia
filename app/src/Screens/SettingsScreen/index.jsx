@@ -18,6 +18,18 @@ const SettingsScreen = ({ showModal, setShowModal }) => {
                     button. See how many questions you can answer correctly in
                     90 seconds! Start a streak to see how many days in a row you
                     can answer at least one question correctly.
+                    <p>
+                        There are 8 categories of questions: Current Events,
+                        U.S. History, Sports, World History, Science, Geography,
+                        Arts & Literature, and Entertainment (TV, Movies,
+                        Music). Each day's Quiz will feature one question from
+                        each category.
+                    </p>
+                    <p>
+                        All data used for statistics is stored locally in your
+                        browser, so if you switch devices or clear your
+                        browser's storage you will lose your stats.
+                    </p>
                 </div>
                 <br />
                 <div>

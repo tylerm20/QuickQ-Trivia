@@ -1,6 +1,139 @@
 [
     [
         {
+            "num": 5,
+            "category": "Science",
+            "subcategory": "Math",
+            "difficulty": "MS",
+            "tournament": "Collaborative MS Tournament",
+            "question": "All solutions of Diophantine equations are in this set. This set is closed under addition, subtraction, and multiplication, but not division, and is denoted by a boldface Z. The absolute value of any number in this set except 0 is a natural number. Rational numbers can be expressed as the quotient of two of these kinds of numbers. For your answer give the term that applies to the set of whole numbers and their negatives.",
+            "round": "9",
+            "year": 2011,
+            "answers": ["integers"],
+            "id": 360
+        },
+        {
+            "num": 16,
+            "category": "Fine Arts",
+            "subcategory": "Visual",
+            "difficulty": "MS",
+            "tournament": "Collaborative MS Tournament",
+            "question": "An early invention used to make art works in this medium was the daguerreotype [duh-gayr-\"row\"-\"type\"]. Eadweard [\"edward\"] Muybridge created works in this medium which clarified the method by which horses gallop. The Steerage and Migrant Mother are specific examples of these types of art works. Works in this medium showing Yosemite National Park were created by Ansel Adams. Name these objects which can be instantly produced by Polaroids.",
+            "round": "9",
+            "year": 2013,
+            "answers": ["photographs"],
+            "id": 361
+        },
+        {
+            "num": 4,
+            "category": "Trash",
+            "subcategory": "Norse",
+            "difficulty": "MS",
+            "tournament": "Collaborative MS Tournament",
+            "question": "In 2003, this person warned that the Iraq War would create 100 bin Ladens. This person did not have a vice president until he appointed Omar Suleiman to that position. He originally declared he would not resign, which caused Tahrir Square to \"[erupt] with anger,\" but reversed that decision the next day. Name this former president and subject of mass uprisings in Egypt.",
+            "round": "9",
+            "year": 2011,
+            "answers": ["Hosni Mubarak"],
+            "id": 362
+        },
+        {
+            "num": 11,
+            "category": "Science",
+            "subcategory": null,
+            "difficulty": "MS",
+            "tournament": "Collaborative MS Tournament",
+            "question": "For any odd number greater than one, there exists one of these types of sets where that number is the smallest of the three elements. By definition, all numbers in these kinds of sets are integers. Common example of this type of set are (8, 15, 17); (5, 12, 13); and (3, 4, 5). Name these sets of three integers a, b, and c which satisfy the equation a squared plus b squared equals c squared.",
+            "round": "CMST_Round07.pdf",
+            "year": 2010,
+            "answers": [
+                "Pythagorean triples",
+                "Pythagorean theorem",
+                "Pythagorean triples"
+            ],
+            "id": 363
+        },
+        {
+            "num": 16,
+            "category": "Religion",
+            "subcategory": "Norse",
+            "difficulty": "MS",
+            "tournament": "Collaborative MS Tournament",
+            "question": "One figure in this religion wears three wedding bands to symbolize her marriages to Agwe, Dumballah, and Ogoun. In addition to Erzulie, one figure in this religion is represented by a cross over a tomb and is named Ghede. Gods in this religion are called \"loa\" and this religion's god of the Earth is named Papa Legba. Name this religion that originated in Haiti, famous for its namesake dolls.",
+            "round": "6",
+            "year": 2013,
+            "answers": [
+                "Voodoo",
+                "Vodun",
+                "Vodou",
+                "Vodoun",
+                "Vaudou",
+                "Vaudoux"
+            ],
+            "id": 364
+        },
+        {
+            "num": 10,
+            "category": "Literature",
+            "subcategory": "British",
+            "difficulty": "MS",
+            "tournament": "Collaborative MS Tournament",
+            "question": "The title character of this work is hired on as a burglar after unknowingly advertising for a job through a mark on his door. In this work, an attempt is made to reclaim family treasure and avenge the deaths of the villagers of Dale by a group of dwarves. The dwarves are aided by a wizard named Gandalf, and a less-obviously powerful character named Bilbo. Name this novel written by J.R.R. Tolkien.",
+            "round": "9",
+            "year": 2013,
+            "answers": ["The Hobbit"],
+            "id": 365
+        },
+        {
+            "num": 2,
+            "category": "Fine Arts",
+            "subcategory": "Music",
+            "difficulty": "MS",
+            "tournament": "Collaborative MS Tournament",
+            "question": "One work by this composer includes the sections \"O Death, where is thy sting?\" and \"I know that my Redeemer liveth.\" He included two bourr\u00e9es in a collection of three suites first played on barges on the River Thames for George I. This composer of Water Music composed a fugue on the line \"and he shall reign for ever and ever\" in a chorus named \"Hallelujah.\" Name this composer of Messiah.",
+            "round": "5",
+            "year": 2013,
+            "answers": ["George Frideric H\u00e4ndel"],
+            "id": 366
+        },
+        {
+            "num": 11,
+            "category": "Science",
+            "subcategory": "Math",
+            "difficulty": "MS",
+            "tournament": "Collaborative MS Tournament",
+            "question": "In Boolean algebra, this property holds that a value multiplied by its inverse is equal to zero. For matrices under addition, a function of this name is given by a matrix with all zeros. This term applies to functions that take a number to the first power, multiply it by one, or do any other operation that returns the input. For your answer any number plus zero equals itself according to what kind of property of addition?",
+            "round": "4",
+            "year": 2012,
+            "answers": ["identity function", "identity property"],
+            "id": 367
+        },
+        {
+            "num": 18,
+            "category": "Geography",
+            "subcategory": "Norse",
+            "difficulty": "MS",
+            "tournament": "Collaborative MS Tournament",
+            "question": "This state is home to a Robert Smithson-designed earthwork sculpture titled Spiral Jetty. Sandstone landforms such as the Fiery Furnace and the Organ can be found in this state's Arches National Park. The transcontinental railroad was officially completed in Promontory Summit in this state. Its capital hosted the 2002 Winter Olympics. Name this Western state that contains the Great Salt Lake.",
+            "round": "2",
+            "year": 2013,
+            "answers": ["Utah"],
+            "id": 368
+        },
+        {
+            "num": 20,
+            "category": "Geography",
+            "subcategory": "Norse",
+            "difficulty": "MS",
+            "tournament": "Collaborative MS Tournament",
+            "question": "The Ebro Valley is in this nation that owns the Balearic Islands and the Canary Islands. The southwest slope of the Pyrenees is in this country, which was unified by a 15th century marriage between rulers of Aragon and Castile. Tourists visit the Costa Brava in its region of Catalonia, which also contains Barcelona. For your answer the Iberian Peninsula is shared by Portugal and what nation whose capital is Madrid?",
+            "round": "8",
+            "year": 2012,
+            "answers": ["Kingdom of Spain", "Reino de Espana"],
+            "id": 369
+        }
+    ],
+    [
+        {
             "category": "Visual Arts",
             "question": "This American artist started his career as a commercial illustrator. He was shot by the radical feminist Valerie Solanas in 1968 but survived. He developed a unique silkscreen printing process for his work. His New York studio, known as The Factory, became a gathering place for celebrities and socialites. Name this artist who is best known for his iconic pop art images of soup cans, celebrities, and everyday objects.",
             "answers": ["Andy Warhol"]
@@ -148,16 +281,9 @@
     ],
     [
         {
-            "num": 1,
-            "category": "Fine Arts",
-            "subcategory": "Music",
-            "difficulty": "MS",
-            "tournament": "Collaborative MS Tournament",
-            "question": "One composer from this country depicted a \"March to the Scaffold\" in a five movement symphony, while another used a snare drum ostinato in a Spanish-inspired piece. A third composer from this country used a Mallarm\u00e9 poem for his Prelude to the Afternoon of a Faun. Symphonie Fantastique, Bolero, and Clair de Lune were written in what country, home to Hector Berlioz, Maurice Ravel, and Claude Debussy?",
-            "round": "8",
-            "year": 2012,
-            "answers": ["Republic of France"],
-            "id": 226
+            "category": "Sports",
+            "question": "This iconic outfielder's smooth, left-handed swing and backward baseball cap became synonymous with his effortless style. He and his father made history as the first father-son duo to play on the same team simultaneously. He won 10 Gold Glove Awards in center field to go along with his 630 home runs which rank as the seventh-most in MLB history, revitalizing baseball's popularity. Name this Hall of Famer who spent most of his career with the Seattle Mariners.",
+            "answers": ["Ken Griffey Jr."]
         },
         {
             "num": 18,
@@ -178,10 +304,9 @@
             "id": 850
         },
         {
-            "question": "The periodic table arranges them according to atomic number and groups them by shared properties. Some examples include carbon, iron, and gold.",
-            "answers": ["Elements"],
-            "category": "Chemistry",
-            "id": 42
+            "category": "History",
+            "question": "This lawyer turned activist began his legal career in South Africa where experiences with racial discrimination there significantly impacted his views on social justice. Returning to India, he adopted a simplified lifestyle and wore traditional Indian cloth, the dhoti. He became the central figure in India's fight for independence, leading a successful movement built on principles of nonviolent resistance against British rule. Who is this influential leader, revered as a Great Soul?",
+            "answers": ["Mahatma Gandhi"]
         },
         {
             "num": 4,
@@ -192,7 +317,7 @@
             "question": "The late Senator Robert Byrd once held the rank of Exalted Cyclops in this organization, whose first major leader was Nathan Bedford Forrest. The Civil Rights Act of 1871 was also named for this group. D.W. Griffith's film The Birth of a Nation glorifies this group, which was sued for lynching Michael Donald. Name this white supremacist group that burns crosses and wears white clothing.",
             "round": "7",
             "year": 2013,
-            "answers": ["Ku Klux Klan"],
+            "answers": ["Ku Klux Klan", "KKK", "K.K.K."],
             "id": 515
         },
         {
@@ -231,36 +356,172 @@
         },
         {
             "num": 20,
-            "category": "Science",
-            "subcategory": "Chemistry",
+            "category": "Literature",
+            "subcategory": "British",
             "difficulty": "MS",
             "tournament": "Collaborative MS Tournament",
-            "question": "Metallic bonds can be modeled as \"seas\" of these particles. In another model, the repulsion between pairs of them leads to molecular shapes like trigonal planar and octahedral. The fundamental charge is the charge of one of these particles, which can be found in s, p, d, and f orbitals. J.J. Thomson discovered which negatively-charged components of the atom that orbit the nucleus?",
-            "round": "6",
+            "question": "This author wrote about the eviction of Nell Trent and her grandfather from The Old Curiosity Shop. In another work by this author, Abel Magwitch raises a fortune for the orphan Pip, who loves Estella. He also wrote about Sydney Carton sacrificing himself to save Charles Darnay in a work set in London and Paris. Name this author who wrote Great Expectations and A Tale of Two Cities.",
+            "round": "1",
             "year": 2011,
-            "answers": ["electrons"],
-            "id": 336
+            "answers": ["Charles Dickens", "Boz"],
+            "id": 302
         }
     ],
     [
         {
-            "num": 19,
+            "category": "Animals",
+            "question": "These solitary mammals native to the mountainous terrain have been loaned as diplomatic gestures. Despite being classified as carnivores, their diet consists almost one type of plant. They have a characteristic \"thumb\" (actually a modified wrist bone) which makes them easily recognizable. While a popular symbol of conservation efforts, their dependence on a single food source and low birth rate contribute to their vulnerable status. Name this iconic two-tone bear species.",
+            "answers": ["panda"]
+        },
+        {
+            "category": "Geography",
+            "question": "This U.S. National Park protects a vast swathe of temperate deciduous forest and is named after a natural fog that often hangs over the ancient mountains in the park. Straddling the border between two states in the southeastern US, this national park boasts the title of \"most visited\" in the country. Name this national park which home to Clingmans Dome and runs along the Tennessee-North Carolina border.",
+            "answers": ["Great Smoky Mountains"]
+        },
+        {
             "category": "History",
-            "subcategory": "Classic",
+            "question": "The reign of this British monarch included the defeat of the Spanish Armada in 1588 and a period of flourishing arts and literature, including the works of William Shakespeare. The only surviving child of Henry VIII and his second wife, Anne Boleyn, this powerful Tudor monarch ruled for over 40 years.  Name this queen who famously never married and was thus nicknamed \"The Virgin Queen\".",
+            "answers": ["Queen Elizabeth I"]
+        },
+        {
+            "category": "Math",
+            "question": "This polymath who lived in the 17th century is known as the \"last universal genius\" due to his wide range of expertise. He made significant contributions to logic, physics, and law. He independently developed a version of a mathematical calculus and the binary system. Name this German philosopher and mathematician.",
+            "answers": ["Gottfried Wilhelm Leibniz"]
+        },
+        {
+            "category": "Technology",
+            "question": "Legend has it that this product was invented by a nursing student named Lupe Hern\u00e1ndez in 1966 for medical professionals. The demand for this product during the COVID-19 Pandemic surged. The primary active ingredient in most versions is ethanol or isopropyl. When soap and water aren't available, it can help reduce the spread of germs and viruses. To be effective, the Centers for Disease Control (CDC) recommends versions containing at least 60% alcohol. What is this common disinfectant?",
+            "answers": ["hand santitizer"]
+        },
+        {
+            "category": "Sports",
+            "question": "This English athlete began his professional career with one of the most prestigious football clubs in the world. He won numerous championships for his clubs in England and Spain. His marriage to a member of a popular 90s girl group further catapulted him to international fame. Known for his style both on and off the pitch, he transitioned into a successful career as a fashion icon and global brand ambassador. Name this retired professional footballer who owns a stake of Inter Miami.",
+            "answers": ["David Beckham"]
+        },
+        {
+            "category": "Current Events",
+            "question": "This celestial event occurs somewhere on Earth about every 18 months. However there are usually more than 300 years between these events at the same place. These events happen only during the new moon phase. When the alignment isn't perfect, a ring of sunlight remains visible, creating an annular, or \"ring of fire\" eclipse. Locations within the path of totality experience a brief period of darkness in the middle of the day. Name this event which last occurred in the United States on April 8, 2024.",
+            "answers": ["Solar Eclipse"]
+        },
+        {
+            "category": "History",
+            "question": "This American blacksmith revolutionized agriculture in the Midwest by inventing a the steel plow in 1837. His company, still in operation, is known for its distinctive green and yellow branded farm equipment including riding mowers. Name this inventor and industrialist.",
+            "answers": ["John Deere"]
+        }
+    ],
+    [
+        {
+            "category": "Sports",
+            "question": "This basketball player spent his entire 21-season NBA career with a single team, a rare feat in professional sports. He revolutionized the power forward position with his signature one-legged fadeaway shot. He led his team to their first-ever NBA Championship victory in 2011. Name this iconic German-born basketball player who retired in 2019.",
+            "answers": ["Dirk Nowitzki"]
+        },
+        {
+            "category": "Chemistry",
+            "question": "This compound is formed through an ionic bond between a positively-charged metal ion and a negatively-charged non-metal ion.  Essential to human life, it plays a major role in regulating bodily fluids. It's also found abundantly in seawater and used extensively for both flavoring and preserving food throughout history. Name this common chemical compound also known as table salt.",
+            "answers": ["sodium chloride", "NaCl"]
+        },
+        {
+            "category": "History",
+            "question": "This queen's strategic alliances with powerful Roman leaders like Julius Caesar and Mark Antony helped solidify her rule. Belonging to the Ptolemaic dynasty, she was the last active ruler of her kingdom before it fell to the Roman Empire. Legend has it she took her own life, possibly by venomous snakebite, to avoid capture by the Roman emperor Octavian Name this iconic Egyptian queen who is subject of a Shakespearean play.",
+            "answers": ["Cleopatra"]
+        },
+        {
+            "category": "History",
+            "question": "This young woman claimed to have received divine visions that inspired her to play a pivotal role in a century-long war. Her conviction and courage helped turn the tide of battle, but she was ultimately captured by opposing forces. Tried as a heretic and burned at the stake, she was later declared a martyr and a saint by the Catholic Church. Name this military leader and patron saint of France.",
+            "answers": ["Joan of Arc"]
+        },
+        {
+            "category": "Music",
+            "question": "This Miami-born rapper and entrepreneur is known for his high-energy dance tracks like \"Give Me Everything\" and \"Timber.\"  He often samples popular Latin music rhythms in his hip-hop sound. His collaborations with pop stars like Jennifer Lopez and Kesha have resulted in numerous chart-topping hits. Often seen in stylish suits and sunglasses, this artist known for shouting \"Dale!\" in his songs. Name this musician that has earned the nickname \"Mr. Worldwide\".",
+            "answers": ["Pitbull"]
+        },
+        {
+            "category": "Plants",
+            "question": "This plant replacement rose to prominence in the mid-20th century for its use in sports stadiums and quickly spread to landscaping in residential areas and playgrounds. It is often made from synthetic materials like nylon or polyethylene. While eliminating the need for watering and mowing, some versions raise environmental concerns due to the use of plastics and infill materials. Name this type of manufactured ground covering designed to look like grass.",
+            "answers": ["artifical turf", "turf", "synthetic grass"]
+        },
+        {
+            "category": "Performing Arts",
+            "question": "This acclaimed American drama follows the tense and destructive relationship between a fading Southern belle and her brutish brother-in-law. Set in a New Orleans, the play's iconic scene is a character desperately shouting \"Stella!\". This scene was perfomed by Marlon Brando in the 1951 flim. Name this Pulitzer Prize-winning play by Tennessee Williams.",
+            "answers": ["A Street Car Named Desire"]
+        },
+        {
+            "category": "Science",
+            "question": "This celestial body is the only object in space other than Earth that has clear evidence of stable bodies of surface liquid. This moon is larger than Mercury but less massive due to its composition. It is the only moon known to have an atmostphere denser than Earth's. Name this largest moon of Saturn and second largest in the solar system.",
+            "answers": ["Titan"]
+        }
+    ],
+    [
+        {
+            "category": "Literature",
+            "question": "This dystopian novel depicts a totalitarian future where the protagonist, forced into the role of childbearing and known as Offred, navigates a regime marked by color-coded uniforms and a strict religious hierarchy. Here, fertile women are subjugated into servitude for the ruling elite. Its disturbing themes and striking visual imagery have been translated into a critically acclaimed television series. Name this novel by Margaret Atwood.",
+            "answers": ["The Handmaid's Tale", "Handmaid's Tale"]
+        },
+        {
+            "category": "Movies/TV",
+            "question": "This award-winning American actor is known for his versatility and portrayal of likable characters. Early in his career, he starred in comedies like including \"Splash\". He won back-to-back Oscars for his dramatic performances in 1993 and 1994. Name this actor with memorable roles ranging from a World War II captain to a stranded FedEx employee.",
+            "answers": ["Tom Hanks"]
+        },
+        {
+            "category": "Visual Arts",
+            "question": "This Mexican artist spent most of her life at La Casa Azul. She was injured in a bus accident at age 18. Two years after that she joined the Mexican Communist Party and met her future husband Diego Rivera. She is known for her distinct portraits, especially self portraits including her signature unibrow.",
+            "answers": ["Frida Kahlo"]
+        },
+        {
+            "category": "Biology",
+            "question": "These organs work in tandem to produce urine and play a key role in regulating blood pressure. Some conditions, like diabetes and high blood pressure, can take a serious toll on these organs, sometimes leading to decreased function or even complete failure. Name these bean-shaped organs play a crucial role in filtering waste products and excess fluid out of the blood, a vital part of the urinary system.\n",
+            "answers": ["kidney"]
+        },
+        {
+            "category": "Celebrities",
+            "question": "This comedic actor, director, and producer rose to fame in the 1980s with his portrayal of a gruff, scheming dispatcher in the popular sitcom, \"Taxi\". Despite his short stature, he has a commanding screen presence and often plays outlandish, memorable characters. He has a long-running role in a darkly comedic series about a dysfunctional group of friends in Philadelphia. He is also a co-founder of a production company known for edgy films like \"Pulp Fiction.\" Name this versatile actor who starred alongside Arnold Schwarzenegger in the buddy comedy Twins.",
+            "answers": ["Danny Devito"]
+        },
+        {
+            "category": "US History",
+            "question": "This Founding Father was a true intellectual polymath whose interests included architecture, philosophy, and agriculture. He founded one of the nation's leading public universities. The controversial purchase of a vast territory from France during his presidency effectively doubled the size of the young nation. Name this primary author of the Declaration of Independence who hailed from Virginia.",
+            "answers": ["Thomas Jefferson"]
+        },
+        {
+            "category": "Physics",
+            "question": "These elementary particles are considered the fundamental building blocks of matter. They come in six varieties referred to as flavors, with names like \"up,\" \"down,\" and \"strange.\" The theoretical framework that includes particles of this type was independently proposed by physicists Murray Gell-Mann and George Zweig in 1964. Name this type of particle that cannot exist in isolation, always combining to form composite particles called hadrons which can be protons and neutrons.",
+            "answers": ["quark"]
+        },
+        {
+            "category": "History",
+            "question": "Born \"Araminta Ross\" into slavery in Maryland, this woman escaped to freedom in the Philadelphia. She repeatedly risked her life to return to the South, guiding numerous others to freedom through a network of secret routes and safe houses. Nicknamed the \"Moses of her people,\" she was an active abolitionist and served as a scout and spy for the Union Army during the Civil War. Name this iconic figure of resistance and freedom who is associated with the Underground Railroad.",
+            "answers": ["Harriet Tubman"]
+        }
+    ],
+    [
+        {
+            "category": "Visual Arts",
+            "question": "Born in Crete, this influential painter moved to Spain, where he became highly sought-after for his religious works. His paintings are characterized by elongated figures, dramatic lighting, and an intense spirituality that reflects the religious fervor of his time. Name this artist that was nicknamed for his nationality and is considered a significant figure in the Spanish Renaissance.",
+            "answers": ["El Greco", "Dominikos Theotokopoulos"]
+        },
+        {
+            "num": 21,
+            "category": "Literature",
+            "subcategory": "American",
             "difficulty": "MS",
             "tournament": "Collaborative MS Tournament",
-            "question": "This leader fought with co-emperor Licinius in battles at Cibalae and Adrianople. It is said that he had a vision before the Battle of Milvian Bridge. He called for the Council of Nicaea and issued the Edict of Milan. He was the first Roman Emperor to convert to Christianity, and he established an eastern capital at Byzantium. Name this Roman Emperor who lent his name to the city now called Istanbul.",
-            "round": "5",
-            "year": 2011,
-            "answers": [
-                "Constantine",
-                "Constantine the Great",
-                "Flavius Valerius Aurelius Constantinus",
-                "Constantine",
-                "Constantine I",
-                "Constantine the Great; Flavius Valerius Aurelius Constantinus; Saint Constantine"
-            ],
-            "id": 253
+            "question": "This city is where Ralph Ellison's Invisible Man works at the Liberty Paint Company. George Selden wrote about a cricket in one of this city's major public spaces. The Great Gatsby takes place in this city where Percy Jackson visits the Metropolitan Museum of Art. This city is where Stuart Little races boats in Central Park. Name this city in which the Harlem Renaissance took place.",
+            "round": "1",
+            "year": 2012,
+            "answers": ["New York City"],
+            "id": 391
+        },
+        {
+            "num": 10,
+            "category": "Science",
+            "subcategory": null,
+            "difficulty": "MS",
+            "tournament": "Collaborative MS Tournament",
+            "question": "pH in this fluid is regulated by the bicarbonate ion buffer system. Cells in this fluid include leukocytes and erythrocytes, while platelets help form clots that stop its flow. It is carried in arteries and veins. Name this fluid that delivers oxygen and nutrients to cells and is pumped by the heart.",
+            "round": "CMST_Round08.pdf",
+            "year": 2010,
+            "answers": ["blood"],
+            "id": 576
         },
         {
             "num": 7,
@@ -275,6 +536,41 @@
             "id": 294
         },
         {
+            "num": 10,
+            "category": "Geography",
+            "subcategory": "Norse",
+            "difficulty": "MS",
+            "tournament": "Collaborative MS Tournament",
+            "question": "This country was officially recognized in the Lateran Treaties of 1929. It has extraterritorial authority over Castel Gandolfo. Places of interest in this country include the Sistine Chapel and Saint Peter's Square and Basilica. Voting in this country is restricted to Cardinals under eighty years old. Name this world's smallest country located entirely within the city of Rome.",
+            "round": "4",
+            "year": 2012,
+            "answers": [
+                "State of the Vatican City",
+                "Holy See",
+                "Santa Sede",
+                "Stato della Citta del Vaticano"
+            ],
+            "id": 406
+        },
+        {
+            "question": "An American writer known for his macabre and mysterious stories, his haunting prose and explorations of themes like madness and guilt established him as a master of Gothic literature. Name this author who gained recognition with his poem 'The Raven'.",
+            "answers": ["Edgar Allan Poe", "Poe"],
+            "category": "Literature",
+            "id": 80
+        },
+        {
+            "num": 11,
+            "category": "Literature",
+            "subcategory": "American",
+            "difficulty": "MS",
+            "tournament": "Collaborative MS Tournament",
+            "question": "This poet delivered \"The Gift Outright\" at President John F. Kennedy's inauguration. One of his poems observes that \"good fences make good neighbors\" and is called \"Mending Wall.\" His poem \"Nothing Gold Can Stay\" notes that \"Nature's first green is gold.\" Name this poet who stated in his most famous poem that he took \"the road less traveled by, and that has made all the difference.\"",
+            "round": "6",
+            "year": 2012,
+            "answers": ["Robert Lee Frost"],
+            "id": 752
+        },
+        {
             "num": 15,
             "category": "Mythology",
             "subcategory": null,
@@ -285,25 +581,263 @@
             "year": 2010,
             "answers": ["Jason"],
             "id": 214
+        }
+    ],
+    [
+        {
+            "category": "Current Events",
+            "question": "This video game series is set in a post-apocalyptic world that features a retro-futuristic setting influenced by the post-war culture of 1950s America, imagining an alternate history where the transistor was never invented. Known for its open-world gameplay, it allows players to explore vast wastelands and make choices that affect the game's story and environment. Developed by Bethesda Game Studios and recently adapted into a TV show, what is the name of this RPG series that begins with the aftermath of a global nuclear war?",
+            "answers": ["Fallout"],
+            "used": "TRUE"
         },
         {
-            "num": 5,
-            "category": "Literature",
-            "subcategory": null,
-            "difficulty": "MS",
-            "tournament": "Collaborative MS Tournament",
-            "question": "In one novel, this writer depicts a character named Protopopov who becomes the lover of Natasha, the selfish wife of Andrey Prozorov. In another novel, this writer depicts the intellectual liberal named Anya who is the daughter of Madame Ranevskaya. Name this Russian author of The Three Sisters and The Cherry Orchard.",
-            "round": "CMST_Round07.pdf",
-            "year": 2010,
-            "answers": ["Chekhov", "Anton Pavlovich Chekhov"],
-            "id": 701
+            "category": "World History",
+            "question": "This treaty's Article 231, known as the \"War Guilt Clause,\" assigned full blame for the war and all damages to Germany and its allies. It not only demanded reparations and territory from Germany but also mandated the disarmament of the German military and limited the size of the German navy. Additionally, it led to the creation of new nations in Eastern Europe and the League of Nations. What is the name of this treaty, that was signed in the Hall of Mirrors in a palace and ended World War I?",
+            "answers": ["Treaty of Versailles"],
+            "used": "TRUE"
         },
         {
-            "question": "An American writer known for his macabre and mysterious stories, his haunting prose and explorations of themes like madness and guilt established him as a master of Gothic literature. Name this author who gained recognition with his poem 'The Raven'.",
-            "answers": ["Edgar Allan Poe", "Poe"],
-            "category": "Literature",
-            "id": 80
+            "category": "Sports",
+            "question": "Before basketball, this athlete was a competitive swimmer, aiming to compete in the Olympics. Known for his calm demeanor and fundamental playing style, he earned the nickname \"The Big Fundamental.\" He played his entire 19-season NBA career with the San Antonio Spurs, winning five NBA championships and two MVP awards. Who is this legendary power forward, celebrated for his leadership and consistency on the court?",
+            "answers": ["Tim Duncan"],
+            "used": "TRUE"
         },
+        {
+            "category": "US History",
+            "question": "This famous American traitor started his military career as a pharmacist and bookseller. He initially became a hero in the early stages of the American Revolutionary War by playing a key role in the capture of Fort Ticonderoga and was pivotal in the Battle of Saratoga. However, his name became synonymous with treason after his plot to surrender West Point to the British was exposed. He later served as a brigadier general in the British Army. Who is this controversial figure in American history?",
+            "answers": ["Benedict Arnold"],
+            "used": "TRUE"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This series is noted for its complex characters and storylines, as well as its frequent use of shocking plot twists, including the infamous \"Red Wedding\" episode. It is based on the book series \"A Song of Ice and Fire\" by George R.R. Martin, who served as a producer on the show. The show's extensive filming locations included Northern Ireland, Croatia, Iceland, and Spain. It set a record for the most Emmy Awards won by a scripted television series. What is the name of this fantasy television series that follows the power struggles among the Seven Kingdoms of Westeros?",
+            "answers": ["\"Game of Thrones\""],
+            "used": "TRUE"
+        },
+        {
+            "category": "Geography",
+            "question": "This vast desert is not only composed of sand dunes; it also features mountains, rock plateaus, and extensive gravel plains. It is home to the desert ant, Cataglyphis bicolor, known for its unique ability to withstand extreme temperatures by sprinting across the sand. Despite its arid climate, it houses over 20 lakes, most of which are saltwater lakes. Covering most of North Africa, it is nearly as large as the United States. What is the name of this desert, the largest hot desert in the world?",
+            "answers": ["Sahara Desert"],
+            "used": "TRUE"
+        },
+        {
+            "category": "Science",
+            "question": "Formulated in 1925, this equation is a key foundation of quantum mechanics and provides a mathematical description of the wave-like behavior of particles at atomic and subatomic scales. Unlike classical mechanics, it uses a wave function to describe probabilistically the state of a particle rather than determining precise outcomes. Developed by an Austrian physicist who later won the Nobel Prize in Physics in 1933 for his contributions to the wave theory of matter, this equation has revolutionized our understanding of the atomic world. What is the name of this critical equation in quantum physics?",
+            "answers": ["Schrodinger's Equation"],
+            "used": "TRUE"
+        },
+        {
+            "category": "Arts & Literature",
+            "question": "This ancient epic is traditionally attributed to a poet who is also credited with composing another foundational work of ancient Greek literature that details a famous war. The narrative centers on the protagonist's challenging journey home following the fall of Troy, which takes an arduous ten years to complete. Throughout his voyage, he encounters various mythical creatures including the Cyclops, the seductive Sirens, and the shape-shifting witch-goddess Circe. This epic is not just a tale of adventure but also explores themes of heroism, loyalty, and the human condition. What is the name of this seminal work, a cornerstone of ancient Greek literature, detailing the adventures of Odysseus?",
+            "answers": ["The Odyssey"],
+            "used": "TRUE"
+        }
+    ],
+    [
+        {
+            "category": "US History",
+            "question": "Before entering politics, this future president briefly ran a general store and served as a Captain for the Illinois Miltia during the Black Hawk War. Despite his iconic image, he is the only president to hold a patent for an invention. His stovepipe hat was a practical accessory meant to hold important documents and letters. Name this president known for his leadership during the Civil War.",
+            "answers": ["Abraham Lincoln"],
+            "used": "TRUE"
+        },
+        {
+            "category": "Sports",
+            "question": "This Major League Baseball team was originally founded in Baltimore, Maryland, in 1901 before moving to New York City in 1903. Known for their distinctive pinstripe uniforms, they are often referred to by their nickname, \"The Bronx Bombers.\" The team holds the record for the most MLB championships, having won 27 World Series titles. Their storied rivalries, especially with the Boston Red Sox, are among the most famous in baseball history. What is the name of this iconic baseball team, synonymous with success and a global fanbase?",
+            "answers": ["New York Yankees", " Yankees"],
+            "used": "TRUE"
+        },
+        {
+            "category": "Arts & Literature",
+            "question": "This play is set in the Kingdom of Denmark and features a plot that revolves around themes of treachery, revenge, incest, and moral corruption. The protagonist of the play studies in Wittenberg and is visited by the ghost of his father, who reveals the truth about his murder. Famous for its exploration of the human psyche, it introduces phrases like \"To be, or not to be\" into the English lexicon. Name this tragedy, often considered William Shakespeare's masterpiece, which centers on the Prince of Denmark.",
+            "answers": ["\"Hamlet\"", "Hamlet"],
+            "used": "TRUE"
+        },
+        {
+            "category": "Science",
+            "question": "Launched into low Earth orbit in 1990, this space-based observatory has become one of the most important instruments in the history of astronomy. It was not the first space telescope, but it is one of the largest and most versatile, known for its deep field images that have provided a deeper look into space and time. This telescope is named after an American astronomer who is famous for his discovery of the universe's expansion. What is the name of this telescope that has allowed astronomers to observe the most distant stars and galaxies ever seen",
+            "answers": ["Hubble Space Telescope"],
+            "used": "TRUE"
+        },
+        {
+            "category": "World History",
+            "question": "This ancient trade route played a critical role in the spread of Buddhism from India to East Asia. It was established during the Han Dynasty around 130 B.C, and famous travelers like Marco Polo and Ibn Battuta traversed the route, documenting their journeys. Name this historic trade route which connected China with the Mediterranean.",
+            "answers": ["The Silk Road"],
+            "used": "TRUE"
+        },
+        {
+            "category": "Geography",
+            "question": "This peak experiences geological uplift, growing approximately 4 mm every year. Its \"death zone\" above 8,000 meters is notorious for its harsh conditions, where the thin air contains insufficient oxygen to sustain human life for extended periods, contributing to the peril many climbers face. Successfully ascended for the first time by Sir Edmund Hillary and Tenzing Norgay in 1953, this mountain is renowned globally. What is the name of this mountain, known as the highest point on Earth?",
+            "answers": ["Mount Everest"],
+            "used": "TRUE"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This actress made her stage debut in the play \"The Playboy of Seville\" in 1971. She is known for her ability to master almost any accent, from a British accent in \"The Iron Lady\" to a Polish one in \"Sophie's Choice.\" She holds the record for the most Academy Award nominations of any actor. Known for her roles in diverse films from \"Kramer vs. Kramer\" to \"The Devil Wears Prada,\" who is this acclaimed actress often described as the \"best actress of her generation\"?",
+            "answers": ["Meryl Streep"],
+            "used": "TRUE"
+        },
+        {
+            "category": "Current Events",
+            "question": "This golf tournament is the only major that does not rotate between courses, being held annually at the same location since its inception in 1934. It is known for its green jacket, which is awarded to the champion and must be returned to the clubhouse after a year. The event was won by Scottie Scheffler in 2024 and 2022 which Jon Rahm winning in between. Held in Augusta, Georgia, what is the name of this prestigious golf tournament, one of the four major championships in professional golf?",
+            "answers": ["The Masters"],
+            "used": "TRUE"
+        }
+    ],
+    [
+        {
+            "category": "Science",
+            "question": "This American virologist was born in New York City in 1914. After focusing on influenza research, he shifted his attention to a viral disease that caused widespread fear and paralysis, particularly affecting children. In a significant act of public service, he chose not to patent his greatest medical discovery, famously stating, \"Could you patent the sun?\" His research led to the first effective vaccine against polio, introduced in 1955. What is the name of this influential medical researcher?",
+            "answers": ["Jonas Salk"],
+            "used": "TRUE"
+        },
+        {
+            "category": "Sports",
+            "question": "This international competition features a trophy made of 18-carat gold and weighs approximately 6 kilograms. The inaugural tournament was held in 1930, hosted by Uruguay, who also won the title. It is the most watched sporting event globally, surpassing even the Olympic Games in viewership. Held every four years, teams from around the world compete, but only Brazil has won five times, the most by any country. What is the name of this prestigious international football tournament?",
+            "answers": ["FIFA World Cup"],
+            "used": "TRUE"
+        },
+        {
+            "category": "World History",
+            "question": "This ruler of the Mali Empire during the early 14th century is celebrated not only for his wealth but also for his contributions to the spread of Islam in West Africa. He embarked on a famous pilgrimage to Mecca in 1324, which included a procession of thousands of attendants and camels laden with gold. His journey through Cairo was notably extravagant, causing a temporary devaluation of gold in the region due to his generous distributions. Under his reign, the legendary city of Timbuktu flourished as a center of trade and Islamic scholarship, marked by the construction of the Djinguereber Mosque. Who is this emperor, often cited as one of the wealthiest people in history?",
+            "answers": ["Mansa Musa"],
+            "used": "TRUE"
+        },
+        {
+            "category": "Geography",
+            "question": "This marine structure is large enough to be visible from space, comprising over 2,900 individual reefs and 900 islands. It hosts a significant population of dugongs and is one of the most biodiverse ecosystems on the planet. The reef is a breeding area for humpback whales migrating from the Antarctic. Located off the coast of Queensland in northeastern Australia, it is the world's largest coral reef system. What is the name of this UNESCO World Heritage Site known for its vibrant marine life?",
+            "answers": ["Great Barrier Reef"],
+            "used": "TRUE"
+        },
+        {
+            "category": "Arts & Literature",
+            "question": "This artist served in the First Regiment of African Light Cavalry in Algeria for two years. He suffered from cataracts in his later years, which greatly influenced his shift to broader brushstrokes and bolder color choices in his paintings. He is known for his detailed garden at Giverny, which he transformed into a living canvas and used as inspiration for many works. His series on water lilies and scenes of the French countryside are celebrated globally. Name this French painter, a founding father of Impressionism.",
+            "answers": ["Claude Monet"],
+            "used": "TRUE"
+        },
+        {
+            "category": "US History",
+            "question": "Constructed between 1792 and 1800, this iconic building was designed by Irish-born architect James Hoban. It has 132 rooms, 35 bathrooms, and 6 levels in the residence. It was rebuilt after being burned down during the War of 1812 in an event known as the Burning of Washington. Its first resident was President John Adams. What is this famous building called?",
+            "answers": ["White House"],
+            "used": "TRUE"
+        },
+        {
+            "category": "Current Events",
+            "question": "This novel intricately portrays the clash of cultures between feudal Japan and the Western world during the early 17th century. It is based on the historical adventures of an English navigator who becomes a samurai and political player within the Japanese feudal system. Published in 1975, it became a bestseller and was later adapted into a successful television miniseries in 1980 and again in 2024. What is the name of this historical novel by James Clavell that explores the rise of a foreigner in the Japanese samurai-led society?",
+            "answers": ["Shogun"],
+            "used": "TRUE"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This actor began his career with appearances in television commercials before moving on to recurring roles in TV series such as \"Growing Pains.\" He is a committed environmentalist, founding a non-profit organization focused on global warming and preserving Earth's biodiversity. He received critical acclaim for his performance in \"What's Eating Gilbert Grape\" at a young age. Known for his collaborations with director Martin Scorsese in films like \"The Wolf of Wall Street\" and \"Shutter Island,\" who is this Oscar-winning actor famous for his role in \"Titanic\"?",
+            "answers": ["Leonardo DiCaprio"],
+            "used": "TRUE"
+        }
+    ],
+    [
+        {
+            "category": "World History",
+            "question": "Constructed over several dynasties, this extensive fortification stretches more than 13,000 miles and was primarily built using tamped earth and later enhanced with brick and stone. Its construction began as early as the 7th century BC, with significant extensions during the Ming Dynasty. Originally designed to protect against nomadic invasions, it also controlled immigration and facilitated duties on goods transported along the Silk Road. What is this historical landmark?",
+            "answers": ["The Great Wall of China"],
+            "used": "TRUE"
+        },
+        {
+            "category": "Science",
+            "question": "Initially derived from the pancreases of dogs and later from cattle and pigs, this hormone plays a critical role in part of the body's metabolic regulation. Its first use in treating a human patient was in 1922. This medical advancement earned the discovering scientist the Nobel Prize in Physiology or Medicine in 1923. Today, it is synthesized using recombinant DNA technology, providing essential treatment for diabetes patients worldwide. What is this life-saving hormone called?",
+            "answers": ["Insulin"],
+            "used": "TRUE"
+        },
+        {
+            "category": "Geography",
+            "question": "This ancient lake contains over 20% of the world's unfrozen freshwater reserve. It earned the nickname \"Gal\u00e1pagos of Russia\" due to its unique biodiversity. It is home to the world's only freshwater seal species. This UNESCO World Heritage Site boasts an exceptional array of endemic species. Located in southern Siberia, it is the world's deepest lake. What is the name of this lake, often referred to as the 'Pearl of Siberia'?",
+            "answers": ["Lake Baikal"],
+            "used": "TRUE"
+        },
+        {
+            "category": "Current Events",
+            "question": "Before his infamous legal battles, this individual had a successful career in advertising, notably appearing in commercials for the Hertz rental car company. He set records in the NFL, including rushing over 2,000 yards in a single season, a feat achieved during a 14-game season. His transition to film and television included roles in movies and the popular \"Naked Gun\" series. In 1994, he was tried and acquitted in a highly publicized and controversial criminal trial for the murders of his ex-wife Nicole Brown Simpson and her friend Ronald Goldman. Who is this infamous former NFL running back and actor who died in 2024?",
+            "answers": ["O.J. Simpson"],
+            "used": "TRUE"
+        },
+        {
+            "category": "Sports",
+            "question": "This competition is one of the most grueling one-day sporting events in the world, combining three continuous and sequential endurance races. It starts with a 2.4-mile swim, followed by a 112-mile bicycle ride, and finishes with a marathon 26.2-mile run, raced in that order without a break. Originating in Hawaii in 1978 as a challenge among groups of athletes to see who was the fittest\u2014swimmers, cyclists, or runners\u2014it has grown into a global phenomenon. What is the name of this triathlon that tests the limits of human endurance?",
+            "answers": ["Ironman", " Ironman Triathlon"],
+            "used": "TRUE"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This film features a famous scene with a severed horse's head, which was real and acquired from a dog food company. The hauntingly beautiful score for the film was composed by Nino Rota. It is based on a novel by Mario Puzo and portrays the powerful Italian-American crime family of Don Vito Corleone. The film launched the careers of several actors, including Al Pacino, who plays Michael Corleone. Directed by Francis Ford Coppola, what is the name of this iconic film that won the Academy Award for Best Picture in 1972?",
+            "answers": ["\"The Godfather\"", "Godfather"],
+            "used": "TRUE"
+        },
+        {
+            "category": "Arts & Literature",
+            "question": "This historic chapel's ceiling was originally painted blue and decorated with stars before being replaced by the artwork that is seen today. It serves as the site for the Papal conclave, where new popes are elected. Renowned for its Renaissance art, particularly the frescoes that cover the interior, it features works by several prominent artists of the period, including Botticelli, Perugino, and Michelangelo. Michelangelo's contributions include not only the ceiling but also the iconic \"The Last Judgment\" on the altar wall. What is the name of this chapel located in Vatican City, famous for its magnificent Renaissance art?",
+            "answers": ["The Sistine Chapel"],
+            "used": "TRUE"
+        },
+        {
+            "category": "US History",
+            "question": "Before joining NASA, this astronaut flew 78 combat missions during the Korean War and tested high-speed aircraft, including the X-15. He was part of the Gemini 8 mission, achieving the first successful docking of two spacecraft in orbit. He later became the first person to walk on the moon, famously declaring, \"That's one small step for [a] man, one giant leap for mankind.\" Who is this pioneering astronaut?",
+            "answers": ["The Moon Landing"],
+            "used": "TRUE"
+        }
+    ],
+    [
+        {
+            "category": "Arts & Literature",
+            "question": "This painting was created during the artist's time at the Saint-Paul-de-Mausole asylum in Saint-R\u00e9my-de-Provence, France, after he voluntarily admitted himself. It depicts the view from the east-facing window of his asylum room, though it was painted from memory during the day. Characterized by swirling clouds in a starry night and a bright crescent moon, its vibrant colors and emotional depth are a signature of the artist's turbulent state of mind. Currently housed in the Museum of Modern Art in New York City, this work is one of the most recognized paintings in the history of Western culture. Name this iconic 1889 painting by Vincent van Gogh.",
+            "answers": ["The Starry Night"],
+            "used": "TRUE"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This television series was pitched by its creator, Vince Gilligan, as a story where the protagonist transforms into the antagonist. It features a character named Saul Goodman, who was later the subject of a successful spin-off prequel series. Filmed primarily in Albuquerque, New Mexico, it uses the unique landscape as a backdrop to its intense narrative. The series centers on Walter White, a high school chemistry teacher turned methamphetamine manufacturer. What is the name of this critically acclaimed series that won multiple Emmy Awards for its lead actor, Bryan Cranston?",
+            "answers": ["\"Breaking Bad\""],
+            "used": "TRUE"
+        },
+        {
+            "category": "Geography",
+            "question": "This South American river is home to the uniquely colored and intelligent pink river dolphin. It flows through the world's largest tropical rainforest, encompassing an area twice the size of India. Despite its vast length, it has no bridges due to its width and the dense forest surrounding much of its length. It is the second-longest river globally but discharges the largest volume of water, influencing the Atlantic Ocean up to 100 miles from its mouth. What is the name of this river?",
+            "answers": ["Amazon River"],
+            "used": "TRUE"
+        },
+        {
+            "category": "US History",
+            "question": "Originally built between 1871 and 1888 to accommodate the growing staff of the White House, this French Second Empire-style building is located next to the West Wing. It was initially known as the State, War, and Navy Building, reflecting its original occupants. Since 2002, its name honor has honored the 34th U.S. President. What is the official name of this building where the Vice President has an office?",
+            "answers": [
+                "Eisenhower Executive Office Building",
+                "EEOB",
+                "Eisenhower"
+            ],
+            "used": "TRUE"
+        },
+        {
+            "category": "Science",
+            "question": "First isolated using simple adhesive tape, this material was discovered at the University of Manchester by Andre Geim and Konstantin Novoselov, who were later awarded the Nobel Prize in Physics in 2010 for their work. It is notable for being just one atom thick, making it one of the thinnest yet strongest materials ever tested.What is this two-dimensional material composed of a single layer of carbon atoms arranged in a honeycomb lattice?",
+            "answers": ["Graphene"],
+            "used": "TRUE"
+        },
+        {
+            "category": "Sports",
+            "question": "This athlete has a successful fashion line and has also been involved in numerous off-court ventures, including voice acting in animated films. She won her first major championship at the U.S. Open in 1999, setting the stage for one of the most dominant careers in tennis. Known for her powerful playing style and strong serve, she has won 23 Grand Slam singles titles, the most by any player in the Open Era. Who is this iconic tennis player, often celebrated as one of the greatest athletes of all time?",
+            "answers": ["Serena Williams"],
+            "used": "TRUE"
+        },
+        {
+            "category": "World History",
+            "question": "This period saw the development of the printing press by Johannes Gutenberg, significantly impacting the accessibility of knowledge. Notably, it emphasized humanism, redefining the intellectual landscape of Europe.It heralded major advancements in arts, introducing techniques like perspective in painting, represented by masters such as Leonardo da Vinci and Michelangelo. Name this cultural phenomenon that began in 14th century Florence and was characterized by a revival of classical learning and wisdom, a shift that distanced Europe from the Middle Ages.",
+            "answers": ["The Renaissance"],
+            "used": "TRUE"
+        },
+        {
+            "category": "Current Events",
+            "question": "This country is home to one of the world's oldest continuous major civilizations, with historical and urban settlements dating back to 4000 BC. It was known as Persia until 1935 and has a significant role in the history of the silk road and international trade. The nation is also known for its substantial oil reserves, ranking as the world's fourth-largest holder of oil. It features a diverse landscape ranging from arid mountains to lush forests. What is the name of this country that launched an air attack at Israel after they destroyed it's embassy in Syria?",
+            "answers": ["Iran"],
+            "used": "TRUE"
+        }
+    ],
+    [
         {
             "question": "A 19th century American poet who celebrated individuality and democracy in free verse, his groundbreaking major work titled after himself found both widespread critical acclaim and controversy.",
             "answers": ["Walt Whitman", "Whitman"],
@@ -333,32 +867,31 @@
             "year": 2011,
             "answers": ["inequality"],
             "id": 274
-        }
-    ],
-    [
-        {
-            "num": 11,
-            "category": "Literature",
-            "subcategory": "American",
-            "difficulty": "MS",
-            "tournament": "Collaborative MS Tournament",
-            "question": "This poet delivered \"The Gift Outright\" at President John F. Kennedy's inauguration. One of his poems observes that \"good fences make good neighbors\" and is called \"Mending Wall.\" His poem \"Nothing Gold Can Stay\" notes that \"Nature's first green is gold.\" Name this poet who stated in his most famous poem that he took \"the road less traveled by, and that has made all the difference.\"",
-            "round": "6",
-            "year": 2012,
-            "answers": ["Robert Lee Frost"],
-            "id": 752
         },
         {
-            "num": 20,
+            "num": 5,
             "category": "Literature",
-            "subcategory": "British",
+            "subcategory": null,
             "difficulty": "MS",
             "tournament": "Collaborative MS Tournament",
-            "question": "This author wrote about the eviction of Nell Trent and her grandfather from The Old Curiosity Shop. In another work by this author, Abel Magwitch raises a fortune for the orphan Pip, who loves Estella. He also wrote about Sydney Carton sacrificing himself to save Charles Darnay in a work set in London and Paris. Name this author who wrote Great Expectations and A Tale of Two Cities.",
-            "round": "1",
+            "question": "In one novel, this writer depicts a character named Protopopov who becomes the lover of Natasha, the selfish wife of Andrey Prozorov. In another novel, this writer depicts the intellectual liberal named Anya who is the daughter of Madame Ranevskaya. Name this Russian author of The Three Sisters and The Cherry Orchard.",
+            "round": "CMST_Round07.pdf",
+            "year": 2010,
+            "answers": ["Chekhov", "Anton Pavlovich Chekhov"],
+            "id": 701
+        },
+
+        {
+            "num": 20,
+            "category": "Science",
+            "subcategory": "Chemistry",
+            "difficulty": "MS",
+            "tournament": "Collaborative MS Tournament",
+            "question": "Metallic bonds can be modeled as \"seas\" of these particles. In another model, the repulsion between pairs of them leads to molecular shapes like trigonal planar and octahedral. The fundamental charge is the charge of one of these particles, which can be found in s, p, d, and f orbitals. J.J. Thomson discovered which negatively-charged components of the atom that orbit the nucleus?",
+            "round": "6",
             "year": 2011,
-            "answers": ["Charles Dickens", "Boz"],
-            "id": 302
+            "answers": ["electrons"],
+            "id": 336
         },
         {
             "num": 17,
@@ -372,18 +905,7 @@
             "answers": ["Figaro"],
             "id": 661
         },
-        {
-            "num": 10,
-            "category": "Science",
-            "subcategory": null,
-            "difficulty": "MS",
-            "tournament": "Collaborative MS Tournament",
-            "question": "pH in this fluid is regulated by the bicarbonate ion buffer system. Cells in this fluid include leukocytes and erythrocytes, while platelets help form clots that stop its flow. It is carried in arteries and veins. Name this fluid that delivers oxygen and nutrients to cells and is pumped by the heart.",
-            "round": "CMST_Round08.pdf",
-            "year": 2010,
-            "answers": ["blood"],
-            "id": 576
-        },
+
         {
             "num": 18,
             "category": "History",
@@ -395,18 +917,6 @@
             "year": 2011,
             "answers": ["Peter", "Peter the Great", "Peter", "Peter I"],
             "id": 659
-        },
-        {
-            "num": 21,
-            "category": "Literature",
-            "subcategory": "American",
-            "difficulty": "MS",
-            "tournament": "Collaborative MS Tournament",
-            "question": "This city is where Ralph Ellison's Invisible Man works at the Liberty Paint Company. George Selden wrote about a cricket in one of this city's major public spaces. The Great Gatsby takes place in this city where Percy Jackson visits the Metropolitan Museum of Art. This city is where Stuart Little races boats in Central Park. Name this city in which the Harlem Renaissance took place.",
-            "round": "1",
-            "year": 2012,
-            "answers": ["New York City"],
-            "id": 391
         },
         {
             "num": 10,
@@ -553,23 +1063,7 @@
             "category": "Science",
             "id": 81
         },
-        {
-            "num": 10,
-            "category": "Geography",
-            "subcategory": "Norse",
-            "difficulty": "MS",
-            "tournament": "Collaborative MS Tournament",
-            "question": "This country was officially recognized in the Lateran Treaties of 1929. It has extraterritorial authority over Castel Gandolfo. Places of interest in this country include the Sistine Chapel and Saint Peter's Square and Basilica. Voting in this country is restricted to Cardinals under eighty years old. Name this world's smallest country located entirely within the city of Rome.",
-            "round": "4",
-            "year": 2012,
-            "answers": [
-                "State of the Vatican City",
-                "Holy See",
-                "Santa Sede",
-                "Stato della Citta del Vaticano"
-            ],
-            "id": 406
-        },
+
         {
             "num": 11,
             "category": "Science",

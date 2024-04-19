@@ -25,8 +25,10 @@ const StartScreen = ({
                 <div>Rapid Daily Trivia Quiz</div>{" "}
                 <span className="Date">{today.toLocaleDateString()}</span>
             </div>
+            {/* if we have no games in local storage */}
+            {Object.keys(localStorage).length === 0 &&
+                "Play your first game to start collecting stats!"}
             <CategoriesChart />
-            {/* <img className="BrainTreeLogo" src="brain_tree_logo_purple.svg" /> */}
             {hasFinishedTodaysGame ? (
                 <div className="AlreadyPlayed">
                     <div className="ComeBack">
