@@ -120,12 +120,11 @@ const FinishScreen = ({
                 <BasicButton onClick={share}>share</BasicButton>
             </div>
             {showResults()}
-            {/* TODO: update categories chart to have data when navigating back there */}
-            {/* <div className="Footer">
+            <div className="Footer">
                 <BasicButton onClick={() => setScreenShowing(screens.start)}>
                     Home
                 </BasicButton>
-            </div> */}
+            </div>
         </div>
     );
 };
