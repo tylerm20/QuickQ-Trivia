@@ -1,7 +1,7 @@
 import React from "react";
 import "./style.css";
 import BasicButton from "../../Components/BasicButton";
-import {
+import screens, {
     GREEN_CHECK_EMOJI_HTML,
     NEXT_TRACK_EMOJI_HTML,
     RED_X_EMOJI_HTML,
@@ -120,6 +120,11 @@ const FinishScreen = ({
                 <BasicButton onClick={share}>share</BasicButton>
             </div>
             {showResults()}
+            <div className="Footer">
+                <BasicButton onClick={() => setScreenShowing(screens.start)}>
+                    Home
+                </BasicButton>
+            </div>
         </div>
     );
 };

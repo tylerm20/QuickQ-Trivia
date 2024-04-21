@@ -29,8 +29,9 @@
     min-width: 120px;
 }
 
-.BrainTreeLogo {
-    max-height: 250px;
+.Logo {
+    max-width: 80vw;
+    align-self: center;
 }
 
 .Buttons {

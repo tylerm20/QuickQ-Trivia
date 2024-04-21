@@ -1,8 +1,9 @@
-import React, { useState } from "react";
+import React, { useState, useEffect } from "react";
 import { screens } from "../../constants";
 import SettingsScreen from "../../Screens/SettingsScreen";
 import BasicButton from "../../Components/BasicButton";
 import CategoriesChart from "../../Components/CategoriesChart";
+import { calculateCategoryScores } from "../../utils";
 import "./style.css";
 
 const StartScreen = ({
@@ -12,6 +13,12 @@ const StartScreen = ({
     hasStartedTodaysGame,
 }) => {
     const [showSettingsModal, setShowSettingsModal] = useState(false);
+    const [categoryScores, setCategoryScores] = useState({});
+
+    useEffect(
+        () => setCategoryScores(calculateCategoryScores()),
+        [calculateCategoryScores]
+    );
 
     return (
         <div className="StartScreen">
@@ -25,10 +32,13 @@ const StartScreen = ({
                 <div>Rapid Daily Trivia Quiz</div>{" "}
                 <span className="Date">{today.toLocaleDateString()}</span>
             </div>
-            {/* if we have no games in local storage */}
-            {Object.keys(localStorage).length === 0 &&
-                "Play your first game to start collecting stats!"}
-            <CategoriesChart />
+
+            {Object.keys(localStorage).length === 0 ? (
+                /* if we have no games in local storage */
+                <img className="Logo" src="QQ2.png" />
+            ) : (
+                <CategoriesChart categoryScores={categoryScores} />
+            )}
             {hasFinishedTodaysGame ? (
                 <div className="AlreadyPlayed">
                     <div className="ComeBack">

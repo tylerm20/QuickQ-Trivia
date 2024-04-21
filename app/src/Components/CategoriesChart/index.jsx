@@ -15,35 +15,8 @@ import {
     CATEGORIES_SET,
 } from "../../constants";
 
-export const CategoriesChart = () => {
-    const [categoryScores, setCategoryScores] = useState({});
+export const CategoriesChart = ({ categoryScores }) => {
     ChartJS.register(CategoryScale, LinearScale, BarElement, Title, Tooltip);
-
-    const calculateCategoryScores = () => {
-        Object.keys(CATEGORY_EMOJI_MAP).forEach(
-            (category) => (categoryScores[category] = 0)
-        );
-        Object.keys(localStorage).forEach((key) => {
-            const results = localStorage.getItem(key);
-            try {
-                const jsonResults = JSON.parse(results);
-                const questionResults = jsonResults.questionResults;
-                questionResults.forEach((questionResult) => {
-                    if (
-                        CATEGORIES_SET.has(questionResult.category) &&
-                        questionResult.isCorrect
-                    ) {
-                        categoryScores[questionResult.category]++;
-                    }
-                });
-            } catch (e) {
-                // continue
-            }
-        });
-        setCategoryScores(categoryScores);
-    };
-
-    useEffect(() => calculateCategoryScores(), [calculateCategoryScores]);
 
     const options = {
         aspectRatio: 0.8,
