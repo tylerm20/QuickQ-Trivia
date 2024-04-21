@@ -24,3 +24,9 @@
 .Streak {
     color: var(--dark-purple);
 }
+
+.Footer {
+    display: flex;
+    padding-bottom: 20px;
+    justify-content: center;
+}
