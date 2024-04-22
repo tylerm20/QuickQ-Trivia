@@ -149,7 +149,7 @@
         {
             "category": "Sports",
             "question": "This Major League Baseball team was originally founded in Baltimore, Maryland, in 1901 before moving to New York City in 1903. Known for their distinctive pinstripe uniforms, they are often referred to by their nickname, \"The Bronx Bombers.\" The team holds the record for the most MLB championships, having won 27 World Series titles. Their storied rivalries, especially with the Boston Red Sox, are among the most famous in baseball history. What is the name of this iconic baseball team, synonymous with success and a global fanbase?",
-            "answers": ["New York Yankees", " Yankees"],
+            "answers": ["New York Yankees", "Yankees"],
             "used": "TRUE"
         },
         {
@@ -267,7 +267,7 @@
         {
             "category": "Sports",
             "question": "This competition is one of the most grueling one-day sporting events in the world, combining three continuous and sequential endurance races. It starts with a 2.4-mile swim, followed by a 112-mile bicycle ride, and finishes with a marathon 26.2-mile run, raced in that order without a break. Originating in Hawaii in 1978 as a challenge among groups of athletes to see who was the fittest\u2014swimmers, cyclists, or runners\u2014it has grown into a global phenomenon. What is the name of this triathlon that tests the limits of human endurance?",
-            "answers": ["Ironman", " Ironman Triathlon"],
+            "answers": ["Ironman", "Ironman Triathlon"],
             "used": "TRUE"
         },
         {
@@ -403,7 +403,7 @@
         {
             "category": "Science",
             "question": "Invented by Nikola Tesla in the late 19th century, this electrical resonant transformer circuit is used to produce high-voltage, low-current, high-frequency alternating-current electricity. Notable for creating impressive electrical arcs and being used in entertainment and educational displays, it was originally developed as part of Tesla's experiments with wireless lighting and electrical power distribution. What is the name of this device that exemplifies Tesla\u2019s work in electrical engineering?",
-            "answers": ["Tesla Coil", " coil"],
+            "answers": ["Tesla Coil", "coil"],
             "used": "TRUE"
         },
         {
@@ -446,20 +446,20 @@
     [
         {
             "category": "US History",
-            "question": "The first successful use of this invention was achieved in 1903 in Kitty Hawk, North Carolina. The initial use lasted only 12 seconds but covered 120 feet.  Today, it is integral to global transportation and commerce. This invention revolutionized travel and military strategy, leading to the first nonstop transatlantic flight in 1919. What is this device which was invented by the Wright Brothers?",
-            "answers": ["airplane", " plane"],
+            "question": "The first successful use of this invention was achieved in 1903 in Kitty Hawk, North Carolina. The initial use lasted only 12 seconds but covered 120 feet. Today, it is integral to global transportation and commerce. This invention revolutionized travel and military strategy, leading to the first nonstop transatlantic flight in 1919. What is this device which was invented by the Wright Brothers?",
+            "answers": ["airplane", "plane"],
             "used": "TRUE"
         },
         {
             "category": "Science",
             "question": "Developed in the early 21st century, this groundbreaking biotechnological tool allows for precise editing of the DNA in the genomes of living organisms. It utilizes a component of a bacterial immune system, which captures pieces of DNA from viruses, to make precise cuts in specific DNA sequences. This innovation has transformed genetic research, offering potential treatments for a myriad of genetic diseases and advancements in agricultural science. What is the name of this powerful gene-editing technology?",
-            "answers": ["CRISPR", " CRISPR-Cas9"],
+            "answers": ["CRISPR", "CRISPR-Cas9"],
             "used": "TRUE"
         },
         {
             "category": "World History",
             "question": "Originating in Asia and spreading via the Silk Road, this pandemic reached Europe in the mid-14th century, causing massive social upheaval and labor shortages due to its high mortality rate. The pathogen was transmitted by fleas carried on black rats aboard trading ships, leading to rapid spread through congested urban areas. Characterized by painful swellings called buboes, this devastating outbreak is known as one of the deadliest pandemics in human history. What is this historical epidemic commonly called?",
-            "answers": ["The Black Death", " bubonic plague"],
+            "answers": ["The Black Death", "bubonic plague"],
             "used": "TRUE"
         },
         {
@@ -483,7 +483,7 @@
         {
             "category": "Current Events",
             "question": "This U.S. government agency is responsible for tax collection and tax law enforcement. It administers the Internal Revenue Code enacted by Congress. Established in 1862 during the presidency of Abraham Lincoln, its primary purpose was to fund the Civil War. The agency is also known for its role in the annual observance of April 15th as Tax Day, the deadline for filing individual tax returns. In recent years, it has implemented various modernization efforts to improve taxpayer service and compliance. What is the name of this agency tasked with ensuring the nation's tax laws are followed?",
-            "answers": ["Internal Revenue Service", " IRS"],
+            "answers": ["Internal Revenue Service", "IRS"],
             "used": "TRUE"
         },
         {
