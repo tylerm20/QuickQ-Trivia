@@ -459,7 +459,7 @@
         {
             "category": "World History",
             "question": "Originating in Asia and spreading via the Silk Road, this pandemic reached Europe in the mid-14th century, causing massive social upheaval and labor shortages due to its high mortality rate. The pathogen was transmitted by fleas carried on black rats aboard trading ships, leading to rapid spread through congested urban areas. Characterized by painful swellings called buboes, this devastating outbreak is known as one of the deadliest pandemics in human history. What is this historical epidemic commonly called?",
-            "answers": ["The Black Death", "bubonic plague"],
+            "answers": ["The Black Death", "bubonic plague", "black plague"],
             "used": "TRUE"
         },
         {
