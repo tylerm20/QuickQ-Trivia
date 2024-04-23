@@ -497,13 +497,13 @@
         {
             "category": "Current Events",
             "question": "Scheduled to be the third time this city has hosted the Summer Olympics, the 2024 event plans to integrate iconic landmarks as backdrops for competitions. This edition of the Games will also introduce breakdancing as an official Olympic sport. What is the host nation for the olympics which will feature beach volleyball at the foot of the Eiffel Tower and fencing at the Grand Palais?",
-            "answers": ["Paris"],
+            "answers": ["Paris", "Paris, France"],
             "used": "TRUE"
         },
         {
             "category": "Sports",
             "question": "This American basketball legend is renowned for his six NBA championships with the Chicago Bulls and two Olympic gold medals. Known for his scoring ability, defensive skills, and clutch performances, he won five MVP awards and is often regarded as the greatest basketball player of all time. What is the name of this iconic athlete, also famous for his global brand and \"Air Jordan\" sneakers?",
-            "answers": ["Michael Jordan"],
+            "answers": ["Michael Jordan", "jordan", "air jordan"],
             "used": "TRUE"
         },
         {
@@ -533,13 +533,13 @@
         {
             "category": "Entertainment",
             "question": "This 1977 album by a British-American rock band is one of the best-selling albums of all time, noted for its production quality and harmonious sound despite the band members' tumultuous relationships at the time. Hits like \"Go Your Own Way,\" \"Dreams,\" and \"The Chain\" have made it a classic. What is the name of this Fleetwood Mac album, which was largely influenced by personal strife among band members?",
-            "answers": ["Rumours"],
+            "answers": ["Rumours", "rumors"],
             "used": "TRUE"
         },
         {
             "category": "Geography",
             "question": "This tropical paradise is made up of 26 atolls in the Indian Ocean, comprising over 1,000 coral islands. Known for its beaches, blue lagoons, and extensive reefs, the country is also the lowest-lying nation in the world, with an average ground level of just 1.5 meters above sea level. It gained independence from British protection in 1965. What is the name of this island nation, renowned for its vibrant marine life and luxury resorts?",
-            "answers": ["The Maldives"],
+            "answers": ["The Maldives", "maldives"],
             "used": "TRUE"
         }
     ],
@@ -559,37 +559,42 @@
         {
             "category": "US History",
             "question": "This device, first successfully demonstrated in 1876, transformed global communication. Its early versions transmitted sound over a single wire, often requiring operators to connect calls. The inventor originally considered it an improvement to the telegraph. What device was famously first used by Alexander Graham Bell to summin his assistant with the words, \"Mr. Watson, come here, I want to see you\"?",
-            "answers": ["telephone"],
+            "answers": ["telephone", "phone"],
             "used": "TRUE"
         },
         {
             "category": "Science",
             "question": "This type of vaccine uses a synthetic strand of genetic material called messenger RNA to instruct cells in the body to produce a protein similar to one found in a virus. This protein triggers an immune response, preparing the body to fight the actual virus if encountered. First widely used during the COVID-19 pandemic, what is this innovative category of vaccines called?",
-            "answers": ["mRNA Vaccines"],
+            "answers": ["mRNA Vaccines", "mrna"],
             "used": "TRUE"
         },
         {
             "category": "World History",
             "question": "Founded by a Roman Emperor in 330 AD, this city served as a capital for the Roman, Byzantine, and Ottoman empires. Renowned for its strategic position between Europe and Asia, it was pivotal in controlling the passage between the Black Sea and the Mediterranean. The city fell to the Ottoman Empire in 1453, an event that marked the end of the Byzantine Empire. It was later renamed Istanbul. Name this historically significant city that was once known as the \"Queen of Cities.\"",
-            "answers": ["The Fall of Constantinople"],
+            "answers": [
+                "Constantinople",
+                "The Fall of Constantinople",
+                "siege of constantionple",
+                "constantinople"
+            ],
             "used": "TRUE"
         },
         {
             "category": "Sports",
             "question": "This German Formula One driver is renowned for his seven World Championships, tying him with Lewis Hamilton for the most titles in the history of the sport. Known for his precision driving and competitiveness, he drove for teams like Benetton and Ferrari, where he helped build the latter into one of the most successful teams in F1 history. What is the name of this legendary driver, often celebrated as one of the greatest Formula One racers ever?",
-            "answers": ["Michael Schumacher"],
+            "answers": ["Michael Schumacher", "Mick Schumacher"],
             "used": "TRUE"
         },
         {
             "category": "Entertainment",
             "question": "This iconic American television series, created by Rod Serling, premiered in 1959 and is renowned for its twist endings and moral lessons. The show blended elements of science fiction, horror, and fantasy to explore complex social and existential themes through standalone, often surreal narratives. What is the name of this groundbreaking anthology series?",
-            "answers": ["The Twilight Zone"],
+            "answers": ["The Twilight Zone", "twilight zone"],
             "used": "TRUE"
         },
         {
             "category": "Current Events",
             "question": "This popular online puzzle game, created by software engineer Josh Wardle, quickly gained a massive following after its release in 2021. The game challenges players to guess a five-letter word within six attempts, using color-coded feedback to show correct letters and placements. Its simple yet engaging format led to its acquisition by The New York Times. What is the name of this daily word game that has become a global phenomenon?",
-            "answers": ["wordle"],
+            "answers": ["Wordle"],
             "used": "TRUE"
         }
     ],
@@ -653,7 +658,7 @@
         {
             "category": "World History",
             "question": "This ancient civilization, known for its road systems, architectural achievements like the Colosseum, and influential legal structures, became one of the largest empires in history. It reached its peak under Emperor Trajan and eventually split into Western and Eastern segments. The empire began expanding from a city on the Italian Peninsula in the 8th century BC. Name this empire, famous for its vast influence across Europe.",
-            "answers": ["The Roman Empire"],
+            "answers": ["The Roman Empire", "roman"],
             "used": "TRUE"
         },
         {
@@ -755,8 +760,8 @@
             "question": "Founded by Osman I in the late 13th century, this empire expanded across three continents at its peak under Suleiman the Magnificent. Known for its military prowess and cultural synthesis, it significantly influenced Southeastern Europe, Western Asia, and Northern Africa. Name this empire, which had a capital of Constantinople and dissolved after World War I.",
             "answers": [
                 "The Ottoman Empire",
-                " Ottoman Empire",
-                " Turkish Empire"
+                "Ottoman Empire",
+                "Turkish Empire"
             ],
             "used": "TRUE"
         },
@@ -783,10 +788,10 @@
             "question": "This day in U.S. history witnessed a brave act of passenger resistance aboard United Flight 93, which resulted in the plane crashing into a field in Pennsylvania, thwarting the hijackers' intended attack on the nation's capital. The aftermath of the attacks on this day saw significant changes in U.S. policy, including the establishment of the Department of Homeland Security and stricter aviation security measures. The same day, other hijacked planes struck the World Trade Center and the Pentagon. What is the date of these pivotal events known as in American history?",
             "answers": [
                 "9/11",
-                " 9/11/2001",
-                " 9/11/01",
-                " September 11",
-                " September 11 2001"
+                "9/11/2001",
+                "9/11/01",
+                "September 11",
+                "September 11 2001"
             ],
             "used": "TRUE"
         },
@@ -831,7 +836,7 @@
         {
             "category": "Current Events",
             "question": "This politician is the longest serving Senator from New York. Before he was elected to the senate he served nine terms in the House of Represenatives. He was the first Jewish Senate Majority Leader. Name this current Senate Majority Leader who has led the Democrats in the Senate since 2017.",
-            "answers": ["Chuck Schumer", "Charles Schumer", "Shumer "],
+            "answers": ["Chuck Schumer", "Charles Schumer", "Shumer"],
             "used": "TRUE"
         },
         {
@@ -869,7 +874,7 @@
         {
             "category": "Arts & Literature",
             "question": "This novel, published in 1925 by a prominent English writer, is set in post-World War I London and spans a single day in the life of its protagonist, who prepares for a party she will host that evening. The narrative delves into the complexities of its characters' thoughts and memories, utilizing the stream of consciousness technique to reveal their inner lives. What is the name of this seminal modernist work which follows Clarissa Dalloway by Virginia Woolf?",
-            "answers": ["\"Mrs Dalloway\""],
+            "answers": ["\"Mrs Dalloway\"", "Mrs. Dalloway"],
             "used": "TRUE"
         },
         {
@@ -969,7 +974,7 @@
         {
             "category": "Entertainment",
             "question": "This American director, known for his dynamic storytelling and strong character development, has a long-standing collaboration with actor Robert De Niro, with whom he created classics like \"Taxi Driver\" and \"Raging Bull.\" His films often explore complex themes such as crime, guilt, and redemption. Among his celebrated works is \"Goodfellas,\" a critical and commercial success that redefined the gangster genre. What is the name of this influential filmmaker?",
-            "answers": ["Martin Scorsese", "Scorsese"],
+            "answers": ["Martin Scorsese", "Scorsese", "Marty Scorsese"],
             "used": "TRUE"
         },
         {
@@ -1037,7 +1042,7 @@
         {
             "category": "Arts & Literature",
             "question": "Published in 1925, this iconic American novel captures the spirit of the Roaring Twenties with its themes of decadence, idealism, and the pursuit of the American Dream. Narrated by Nick Carraway, the story delves into the lives of the wealthy occupants of Long Island's North Shore, focusing on his mysterious and affluent neighbor's quest to reunite with a former lover. Celebrated for its sharp critique of social stratification and the elusive nature of happiness, this novel remains a staple of American literature. What is the title of this F. Scott Fitzgerald work, emblematic of the Jazz Age?",
-            "answers": ["\"The Great Gatsby\""],
+            "answers": ["\"The Great Gatsby\"", "great gatsby"],
             "used": "TRUE"
         },
         {
