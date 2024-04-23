@@ -1,17 +1,50 @@
 import gspread
+import json
+import random
 
-gc = gspread.oauth()
+def get_data_from_sheet(json_filepath):
+    gc = gspread.oauth()
 
-sh = gc.open("Quiz Questions")
+    sh = gc.open("Quiz Questions")
 
-us_history = sh.worksheet("US History")
-world_history = sh.worksheet("World History")
-science = sh.worksheet("Science")
-geography = sh.worksheet("Geography")
-arts_and_lit = sh.worksheet("Arts & Literature")
-entertainment = sh.worksheet("Entertainment")
-sports = sh.worksheet("Sports")
-current_events = sh.worksheet("Current Events")
+    categories = [
+        "US History",
+        "World History",
+        "Science",
+        "Geography",
+        "Arts & Literature",
+        "Entertainment",
+        "Sports",
+        "Current Events",
+    ]
+    category_to_questions_all = {}
+    category_to_questions_unused = {}
 
-print(us_history.get_all_records()[0]) # this prints the first row as a dict
+    for category in categories:
+        category_to_questions_all[category] = sh.worksheet(category)
+        category_to_questions_unused[category] = []
 
+    for category, worksheet in category_to_questions_all.items():
+        for row in worksheet.get_all_records():
+            if row["used"] == "FALSE" and row["question"]:
+                if "answers" in row:
+                    row["answers"] = row["answers"].split(',')  # Modify this if your delimiter is different
+                
+                category_to_questions_unused[category].append(row)
+        random.shuffle(category_to_questions_unused[category])
+
+    multiple_days_qs = []
+    fewest_unused_questions = min(len(values) for values in category_to_questions_unused.values())
+    for i in range(fewest_unused_questions):
+        daily_qs = []
+        for category, questions in category_to_questions_unused.items():
+            daily_qs.append(questions[i])
+        random.shuffle(daily_qs)
+        multiple_days_qs.append(daily_qs)
+    
+    with open(json_filepath, 'w', encoding='utf-8') as json_file:
+        json.dump(multiple_days_qs, json_file, indent=4)
+
+# Example usage
+json_filepath = '/Users/mheavey/personal/minquiz/questions/categories/ordered_qs/qq_qs_4_22_24.json'
+get_data_from_sheet(json_filepath)

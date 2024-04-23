@@ -495,6 +495,516 @@
     ],
     [
         {
+            "category": "Current Events",
+            "question": "Scheduled to be the third time this city has hosted the Summer Olympics, the 2024 event plans to integrate iconic landmarks as backdrops for competitions. This edition of the Games will also introduce breakdancing as an official Olympic sport. What is the host nation for the olympics which will feature beach volleyball at the foot of the Eiffel Tower and fencing at the Grand Palais?",
+            "answers": ["Paris"],
+            "used": "TRUE"
+        },
+        {
+            "category": "Sports",
+            "question": "This American basketball legend is renowned for his six NBA championships with the Chicago Bulls and two Olympic gold medals. Known for his scoring ability, defensive skills, and clutch performances, he won five MVP awards and is often regarded as the greatest basketball player of all time. What is the name of this iconic athlete, also famous for his global brand and \"Air Jordan\" sneakers?",
+            "answers": ["Michael Jordan"],
+            "used": "TRUE"
+        },
+        {
+            "category": "Science",
+            "question": "This public health concept occurs when a sufficient proportion of a population becomes immune to an infectious disease, either through vaccination or previous infections, thus providing indirect protection to those who are not immune. It helps control the spread of contagious diseases and is crucial for protecting vulnerable individuals who cannot be vaccinated. What is the term used to describe this phenomenon, which plays a key role in preventing outbreaks and achieving disease control?",
+            "answers": ["Herd Immunity"],
+            "used": "TRUE"
+        },
+        {
+            "category": "US History",
+            "question": "Initiated as a military project during the Cold War, this early computer network was developed by the Advanced Research Projects Agency. The first message sent on this network was supposed to be \"LOGIN\" but famously crashed after the first two letters. This network employed packet switching and was a precursor to the modern Internet. What is the name of this groundbreaking project that fundamentally changed the way information is disseminated and communicated globally?",
+            "answers": ["ARPANET"],
+            "used": "TRUE"
+        },
+        {
+            "category": "Arts & Literature",
+            "question": "This famous mural painting by an Italian Renaissance artist depicts Jesus Christ's final meal with his apostles before his crucifixion, as described in the Gospel of John. Notable for its detailed representation of the apostles' reactions and the use of perspective, it is located in the Convent of Santa Maria delle Grazie in Milan. What is the name of this masterpiece, created by Leonardo da Vinci?",
+            "answers": ["\"The Last Supper\"", "last supper"],
+            "used": "TRUE"
+        },
+        {
+            "category": "World History",
+            "question": "This monarch, born in 1819, was known for her strict standards of personal morality and a lengthy reign that saw the expansion of the British Empire. Her era is often associated with the height of the Industrial Revolution. She was the granddaughter of King George III and the mother of nine children. Name this queen, whose name defines an entire age of British history.",
+            "answers": ["Queen Victoria"],
+            "used": "TRUE"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This 1977 album by a British-American rock band is one of the best-selling albums of all time, noted for its production quality and harmonious sound despite the band members' tumultuous relationships at the time. Hits like \"Go Your Own Way,\" \"Dreams,\" and \"The Chain\" have made it a classic. What is the name of this Fleetwood Mac album, which was largely influenced by personal strife among band members?",
+            "answers": ["Rumours"],
+            "used": "TRUE"
+        },
+        {
+            "category": "Geography",
+            "question": "This tropical paradise is made up of 26 atolls in the Indian Ocean, comprising over 1,000 coral islands. Known for its beaches, blue lagoons, and extensive reefs, the country is also the lowest-lying nation in the world, with an average ground level of just 1.5 meters above sea level. It gained independence from British protection in 1965. What is the name of this island nation, renowned for its vibrant marine life and luxury resorts?",
+            "answers": ["The Maldives"],
+            "used": "TRUE"
+        }
+    ],
+    [
+        {
+            "category": "Geography",
+            "question": "This European mountain range features the Great St Bernard Pass, a historical route used since Roman times, and is renowned for its extensive ski resorts and hiking trails. Stretching approximately 1,200 kilometers across eight countries including France, Switzerland, Italy, and Austria. The range includes Mont Blanc, the highest peak at 4,809 meters. What is the name of this prominent mountain range known for its scenic beauty and outdoor recreational opportunities?",
+            "answers": ["The Alps", "alps"],
+            "used": "TRUE"
+        },
+        {
+            "category": "Arts & Literature",
+            "question": "This poem, first published in 1845, is known for its melodic and dramatic qualities, exploring themes of despair, longing, and the torment of loss. The narrative follows a grieving man who encounters a mysterious raven, whose repeated word \"Nevermore\" enhances the poem's atmosphere of melancholy and doom. Written by an American writer famous for his tales and poems of horror and mystery, what is the name of this poem by Edgar Allan Poe?",
+            "answers": ["The Raven"],
+            "used": "TRUE"
+        },
+        {
+            "category": "US History",
+            "question": "This device, first successfully demonstrated in 1876, transformed global communication. Its early versions transmitted sound over a single wire, often requiring operators to connect calls. The inventor originally considered it an improvement to the telegraph. What device was famously first used by Alexander Graham Bell to summin his assistant with the words, \"Mr. Watson, come here, I want to see you\"?",
+            "answers": ["telephone"],
+            "used": "TRUE"
+        },
+        {
+            "category": "Science",
+            "question": "This type of vaccine uses a synthetic strand of genetic material called messenger RNA to instruct cells in the body to produce a protein similar to one found in a virus. This protein triggers an immune response, preparing the body to fight the actual virus if encountered. First widely used during the COVID-19 pandemic, what is this innovative category of vaccines called?",
+            "answers": ["mRNA Vaccines"],
+            "used": "TRUE"
+        },
+        {
+            "category": "World History",
+            "question": "Founded by a Roman Emperor in 330 AD, this city served as a capital for the Roman, Byzantine, and Ottoman empires. Renowned for its strategic position between Europe and Asia, it was pivotal in controlling the passage between the Black Sea and the Mediterranean. The city fell to the Ottoman Empire in 1453, an event that marked the end of the Byzantine Empire. It was later renamed Istanbul. Name this historically significant city that was once known as the \"Queen of Cities.\"",
+            "answers": ["The Fall of Constantinople"],
+            "used": "TRUE"
+        },
+        {
+            "category": "Sports",
+            "question": "This German Formula One driver is renowned for his seven World Championships, tying him with Lewis Hamilton for the most titles in the history of the sport. Known for his precision driving and competitiveness, he drove for teams like Benetton and Ferrari, where he helped build the latter into one of the most successful teams in F1 history. What is the name of this legendary driver, often celebrated as one of the greatest Formula One racers ever?",
+            "answers": ["Michael Schumacher"],
+            "used": "TRUE"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This iconic American television series, created by Rod Serling, premiered in 1959 and is renowned for its twist endings and moral lessons. The show blended elements of science fiction, horror, and fantasy to explore complex social and existential themes through standalone, often surreal narratives. What is the name of this groundbreaking anthology series?",
+            "answers": ["The Twilight Zone"],
+            "used": "TRUE"
+        },
+        {
+            "category": "Current Events",
+            "question": "This popular online puzzle game, created by software engineer Josh Wardle, quickly gained a massive following after its release in 2021. The game challenges players to guess a five-letter word within six attempts, using color-coded feedback to show correct letters and placements. Its simple yet engaging format led to its acquisition by The New York Times. What is the name of this daily word game that has become a global phenomenon?",
+            "answers": ["wordle"],
+            "used": "TRUE"
+        }
+    ],
+    [
+        {
+            "category": "Arts & Literature",
+            "question": "This German composer and pianist was a crucial figure in the transition between the Classical and Romantic eras in Western music. His compositions include 9 symphonies, 5 piano concertos, and a significant number of sonatas, among them the famously emotive \u201cMoonlight Sonata.\u201d Despite his progressive hearing loss, he continued to compose some of his greatest works, which remain central to the music repertoire today. What is the name of this influential composer, known for his symphony \u201cOde to Joy\u201d?",
+            "answers": ["Ludwig van Beethoven", "beethoven"],
+            "used": "TRUE"
+        },
+        {
+            "category": "World History",
+            "question": "Established after World War I as part of the Treaty of Versailles in 1920, this international organization was intended to maintain world peace and prevent future conflicts. Despite its efforts, it struggled with membership and enforcement power, failing to stop aggression from Axis powers in the 1930s. It was eventually replaced by the United Nations after World War II. Name this precursor to the United Nations, which aimed to promote diplomatic dialogue and collective security.",
+            "answers": ["The League of Nations"],
+            "used": "TRUE"
+        },
+        {
+            "category": "Sports",
+            "question": "This Swiss tennis player, renowned for his graceful play and sportsmanship, has won 20 Grand Slam singles titles, a record he held until surpassed by his rivals. Known for his prowess on grass courts, especially at Wimbledon where he has won a record eight times, he is celebrated as one of the greatest tennis players of all time. What is the name of this legendary tennis icon?",
+            "answers": ["Roger Federer"],
+            "used": "TRUE"
+        },
+        {
+            "category": "US History",
+            "question": "This computer launched in 1977 as one of the first to come with a color display and was sold as a fully assembled circuit board. It included a keyboard and was notably user-friendly, which helped it stand out in a market dominated by technical kits for hobbyists. Name this early PC that helped launch the personal computer revolution and solidified its company, founded by two Steves, as a key player in the technology sector.",
+            "answers": ["Apple II", "Apple 2"],
+            "used": "TRUE"
+        },
+        {
+            "category": "Science",
+            "question": "These computational systems are inspired by the biological neural networks that constitute animal brains. Utilized in machine learning, they are composed of layers of interconnected nodes or \"neurons\" that can learn to recognize patterns and make decisions by adjusting the strength of the connections based on the data they process. What is the term for these powerful tools in artificial intelligence that mimic the structure and function of the human brain?",
+            "answers": ["Neural Networks"],
+            "used": "TRUE"
+        },
+        {
+            "category": "Current Events",
+            "question": "This American businessman and television personality turned politician was known for his real estate ventures and the reality TV show \"The Apprentice\" before entering the political arena. In 2016, he won the U.S. presidential election as the Republican candidate, becoming the 45th President of the United States. Noted for his unconventional approach to politics and governance, he is also the first president without prior military or government service. What is the name of this figure, who was impeached twice during his term?",
+            "answers": ["Donald Trump"],
+            "used": "TRUE"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This 1993 film, directed by Steven Spielberg, is noted for its poignant use of black and white cinematography, and it won seven Academy Awards, including Best Picture. It tells the story of a German businessman who saved over a thousand Polish-Jewish refugees during the Holocaust by employing them in his factories. What is the name of this powerful historical drama?",
+            "answers": ["Schindler's List"],
+            "used": "TRUE"
+        },
+        {
+            "category": "Geography",
+            "question": "This mountain range extends over 7,000 kilometers and is known for its varied climates, from arid to one of the wettest places on Earth. It is home to many unique species and reaches its highest point at Mount Aconcagua, which is the highest peak outside Asia. Passing through seven countries, it is the longest continental mountain range located along the western coast of South America. What is the name of this significant mountain range?",
+            "answers": ["The Andes", "Andes"],
+            "used": "TRUE"
+        }
+    ],
+    [
+        {
+            "category": "US History",
+            "question": "This iconic statue representing a Roman goddess was designed by Fr\u00e9d\u00e9ric Auguste Bartholdi and dedicated on October 28, 1886. It features a broken chain at its feet, symbolizing freedom and the abolition of slavery. The statue's exterior is made of copper sheets, which have oxidized to form its green patina. Initially, it served as a lighthouse, guiding ships into New York Harbor. What is this American landmark commonly known as?",
+            "answers": ["Statue of Liberty"],
+            "used": "TRUE"
+        },
+        {
+            "category": "World History",
+            "question": "This ancient civilization, known for its road systems, architectural achievements like the Colosseum, and influential legal structures, became one of the largest empires in history. It reached its peak under Emperor Trajan and eventually split into Western and Eastern segments. The empire began expanding from a city on the Italian Peninsula in the 8th century BC. Name this empire, famous for its vast influence across Europe.",
+            "answers": ["The Roman Empire"],
+            "used": "TRUE"
+        },
+        {
+            "category": "Science",
+            "question": "This term describes the boundary around a black hole beyond which no radiation can escape. It shares its name with a 1997 sci-fi horror film that explores a spaceship encountering a similar boundary in space. The concept was first detailed by the German astronomer Karl Schwarzschild. What is this term, which marks the limits of a black hole's gravitational influence?",
+            "answers": ["Event Horizon"],
+            "used": "TRUE"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This American filmmaker directed iconic films across genres, including \"2001: A Space Odyssey\" and \"The Shining.\" Known for his meticulous craftsmanship and thematic complexity, his works are celebrated for innovative cinematography and deep philosophical underpinnings. What is the name of this influential director whose style has left a lasting impact on the film industry?",
+            "answers": ["Stanley Kubrick"],
+            "used": "TRUE"
+        },
+        {
+            "category": "Sports",
+            "question": "This American golfer has won 15 major championships, including five Masters Tournaments. Famous for his red shirt on final-round Sundays and his influence in making golf a global sport, he is one of the most recognized and highest-earning athletes in the world. What is the name of this iconic golfer, often referred to simply by his first name?",
+            "answers": ["Tiger Woods", "tiger"],
+            "used": "TRUE"
+        },
+        {
+            "category": "Geography",
+            "question": "Known for its two major tributaries with the names, Blue and White, this river traverses eleven countries, including Uganda, Sudan, and Egypt. It plays a vital role in agriculture, particularly for Egyptian civilizations since ancient times. Flowing northward through northeastern Africa and draining into the Mediterranean Sea, this is recognized as the longest river in the world. What is the name of this significant African river?",
+            "answers": ["The Nile River", "nile"],
+            "used": "TRUE"
+        },
+        {
+            "category": "Arts & Literature",
+            "question": "This novel, published in 1922 by an Irish author, is known for its stream of consciousness technique and deep exploration of the mundane activities of its characters during a single day in Dublin. The narrative parallels the structure of Homer\u2019s epic, \"The Odyssey,\" with its characters reflecting modern versions of those from the ancient text. What is the name of this complex and highly influential modernist work by James Joyce?",
+            "answers": ["\"Ulysses\"", "ulysses"],
+            "used": "TRUE"
+        },
+        {
+            "category": "Current Events",
+            "question": "This region, located on the eastern coast of the Mediterranean Sea, has been a focal point of conflict between Israel and Hamas. The conflict in this region grew into a full war after terrorist attacks by Hamas in Israel on October 7, 2023. What is the name of this territory that has been at the center of protracted and intense geopolitical strife?",
+            "answers": ["Gaza Strip", "Gaza"],
+            "used": "TRUE"
+        }
+    ],
+    [
+        {
+            "category": "Arts & Literature",
+            "question": "This series of approximately 250 oil paintings by a French Impressionist captures the artist's flower garden at his home in Giverny, with the main focus on a pond. Created during the last 30 years of his life, these paintings show the artist's shifting focus from representing the garden's landscape to the play of light and shadow across the pond's surface. What is the name of this series by Claude Monet, celebrated for its exploration of perception and natural beauty?",
+            "answers": ["Water Lilies"],
+            "used": "TRUE"
+        },
+        {
+            "category": "US History",
+            "question": "This pivotal event of World War II occurred on June 6, 1944. The planning of this operation was shrouded in secrecy, utilizing deception techniques such as fake equipment and phantom armies. It involved the largest amphibious invasion in history with the use of over 5,000 vessels and 13,000 aircraft and marked a turning point in the war against Nazi Germany. Originally codenamed Operation Overlord, what is this historic day commonly known as?",
+            "answers": ["D-Day", "D Day", "Battle of Normandy"],
+            "used": "TRUE"
+        },
+        {
+            "category": "Entertainment",
+            "question": "Released in 1995, this groundbreaking film was the first feature-length movie created entirely using computer-generated imagery (CGI). It tells the story of a group of toys that come to life when humans aren't looking, led by Woody the cowboy and Buzz Lightyear, a space ranger. This film set new standards in animation and launched a successful franchise. What is the name of this pioneering animated film produced by Pixar?",
+            "answers": ["Toy Story"],
+            "used": "TRUE"
+        },
+        {
+            "category": "Sports",
+            "question": "This NBA team has a storied history with 17 championships, tying them for the most in league history. Known for their purple and gold colors, they have been home to basketball legends such as Magic Johnson, Kobe Bryant, and LeBron James. What is the name of this iconic basketball franchise based in Los Angeles?",
+            "answers": ["Los Angeles Lakers", "Lakers"],
+            "used": "TRUE"
+        },
+        {
+            "category": "Geography",
+            "question": "This Asian mountain range is known for containing many of the world's highest peaks, including over 100 that exceed 7,200 meters. It is home to the famous K2 and the highest point on Earth, Mount Everest. The range also forms a natural barrier between the Indian subcontinent and the Tibetan Plateau. What is the name of this extensive mountain range, crucial for its climatic impact and cultural significance in the regions it spans?",
+            "answers": ["The Himalayas", "himalayan"],
+            "used": "TRUE"
+        },
+        {
+            "category": "Current Events",
+            "question": "This port city in southeastern Ukraine became a focal point during the Russo-Ukrainian War. Heavily industrialized, it is strategically located on the coast of the Sea of Azov, linking it directly to the Black Sea. In 2022, the city endured a significant siege that resulted in widespread destruction and a humanitarian crisis, highlighting the severe impacts of the conflict. What is the name of this city which was subject of an Oscar-winning documentary in 2024?",
+            "answers": ["Mariupol"],
+            "used": "TRUE"
+        },
+        {
+            "category": "Science",
+            "question": "First predicted by Albert Einstein's theory of general relativity in 1916, these ripples in spacetime are generated by some of the most violent and energetic processes in the Universe, such as colliding black holes or exploding stars. They were directly detected for the first time in 2015 by the LIGO observatory, confirming a major prediction of Einstein's theory. What are these disturbances in spacetime that share a name with an essential physical force called?",
+            "answers": ["Gravitational Waves"],
+            "used": "TRUE"
+        },
+        {
+            "category": "World History",
+            "question": "This decisive battle took place on June 18, 1815, near Brussels. It featured a coalition of armies led by the Duke of Wellington and a Prussian army under General Bl\u00fccher, who faced Napoleon Bonaparte\u2019s French troops, and marked the end of the Napoleonic Wars. The defeat led to Napoleon's abdication and exile to Saint Helena. Name this battle, often cited as one of the major turning points in European history.",
+            "answers": ["The Battle of Waterloo", "waterloo"],
+            "used": "TRUE"
+        }
+    ],
+    [
+        {
+            "category": "Geography",
+            "question": "Formed by volcanic activity, this archipelago consists of hundreds of islands spread over 1,500 miles in the central Pacific Ocean. It became the 50th U.S. state in 1959 and is known for its rich cultural heritage. The state's major islands include Oahu, Maui, Kauai, and the Big Island. What is the name of this U.S. state, celebrated for its natural beauty?",
+            "answers": ["Hawaii", "The Hawaiian Islands", "hawaii"],
+            "used": "TRUE"
+        },
+        {
+            "category": "World History",
+            "question": "Founded by Osman I in the late 13th century, this empire expanded across three continents at its peak under Suleiman the Magnificent. Known for its military prowess and cultural synthesis, it significantly influenced Southeastern Europe, Western Asia, and Northern Africa. Name this empire, which had a capital of Constantinople and dissolved after World War I.",
+            "answers": [
+                "The Ottoman Empire",
+                " Ottoman Empire",
+                " Turkish Empire"
+            ],
+            "used": "TRUE"
+        },
+        {
+            "category": "Sports",
+            "question": "This British Formula One driver has matched the record for the most World Championships in the sport, with seven titles, sharing this achievement with Michael Schumacher. Known for his skillful driving and advocacy for social issues, he has raced predominantly for Mercedes-Benz and has set numerous records, including the most career wins. What is the name of this influential and successful Formula One racer?",
+            "answers": ["Lewis Hamilton"],
+            "used": "TRUE"
+        },
+        {
+            "category": "Current Events",
+            "question": "This American politician served as a U.S. Senator from Delaware for 36 years before becoming Vice President under Barack Obama from 2009 to 2017. Known for his work on foreign relations, criminal justice, and domestic policy issues, he won the presidential election in 2020 to become the 46th President of the United States. What is the name of this President, notable for being the oldest person inaugurated to this office?",
+            "answers": ["Joe Biden"],
+            "used": "TRUE"
+        },
+        {
+            "category": "Arts & Literature",
+            "question": "This American musical blends hip-hop, jazz, R&B, and Broadway styles to tell the story of a forgotten Founding Father. It was inspired by a 2004 biography and features a racially diverse cast to reflect America's contemporary composition rather than its historical one. The show's creator, who also originated the title role, earned widespread acclaim for his innovative approach to storytelling. What is the name of this groundbreaking musical that reimagines the life of Alexander Hamilton?",
+            "answers": ["Hamilton"],
+            "used": "TRUE"
+        },
+        {
+            "category": "US History",
+            "question": "This day in U.S. history witnessed a brave act of passenger resistance aboard United Flight 93, which resulted in the plane crashing into a field in Pennsylvania, thwarting the hijackers' intended attack on the nation's capital. The aftermath of the attacks on this day saw significant changes in U.S. policy, including the establishment of the Department of Homeland Security and stricter aviation security measures. The same day, other hijacked planes struck the World Trade Center and the Pentagon. What is the date of these pivotal events known as in American history?",
+            "answers": [
+                "9/11",
+                " 9/11/2001",
+                " 9/11/01",
+                " September 11",
+                " September 11 2001"
+            ],
+            "used": "TRUE"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This popular American sitcom, which debuted in 1994, follows the lives of six friends living in New York City as they navigate the ups and downs of adulthood. Known for its witty dialogue, memorable one-liners, and iconic coffee shop setting, the show remained a top-rated TV show throughout its ten-season run. It has left a lasting impact on television comedy. What is the name of this beloved sitcom?",
+            "answers": ["Friends"],
+            "used": "TRUE"
+        },
+        {
+            "category": "Science",
+            "question": "This graph, first plotted by scientist Charles David Keeling in 1958, shows the concentration of atmospheric carbon dioxide (CO2) based on continuous measurements taken at the Mauna Loa Observatory in Hawaii. It is considered one of the most important scientific contributions to the understanding of global climate change because it provides clear evidence of rising CO2 levels over decades. What is this iconic graph that tracks the increasing presence of a key greenhouse gas in Earth's atmosphere called?",
+            "answers": ["Keeling Curve"],
+            "used": "TRUE"
+        }
+    ],
+    [
+        {
+            "category": "Geography",
+            "question": "Revered as sacred by millions, particularly in Hinduism, this river supports one of the world\u2019s highest population densities and is central to agriculture in both India and Bangladesh. Historically significant for centuries, it originates in the Indian Himalayas and flows over 2,525 kilometers into the Bay of Bengal. What is the name of this vital South Asian river?",
+            "answers": ["The Ganges River", "Ganges"],
+            "used": "TRUE"
+        },
+        {
+            "category": "Science",
+            "question": "Proposed by a British theoretical physicist in 1974, this theoretical prediction suggests that black holes are not entirely black but emit radiation due to quantum effects near the event horizon. This radiation implies that black holes can slowly lose mass and eventually evaporate over astronomical timescales. What is the name of this radiation, named after the scientist who first theorized its existence?",
+            "answers": ["Hawking Radiation", "Hawking", "Stephen Hawking"],
+            "used": "TRUE"
+        },
+        {
+            "category": "World History",
+            "question": "This Italian explorer, sailing under the Spanish flag, set out on his first voyage in 1492 with three ships: the Ni\u00f1a, the Pinta, and the Santa Mar\u00eda. He is often mistakenly credited with being the first European to reach the Americas. His expeditions marked the beginning of European exploration and colonization of the American continents. Name this historical figure whose voyages had a profound impact on the global interactions of the Renaissance era.",
+            "answers": ["Christopher Columbus", "columbus"],
+            "used": "TRUE"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This Japanese animated film, released in 2001, became critically acclaimed for its rich storytelling and animation. Directed by Hayao Miyazaki and produced by Studio Ghibli, it tells the story of a young girl navigating a world of spirits and gods after her parents are transformed into pigs. Name this film that won the Academy Award for Best Animated Feature, making it the first and only hand-drawn and non-English-language animated film to win the award.",
+            "answers": ["Spirited Away"],
+            "used": "TRUE"
+        },
+        {
+            "category": "Current Events",
+            "question": "This politician is the longest serving Senator from New York. Before he was elected to the senate he served nine terms in the House of Represenatives. He was the first Jewish Senate Majority Leader. Name this current Senate Majority Leader who has led the Democrats in the Senate since 2017.",
+            "answers": ["Chuck Schumer", "Charles Schumer", "Shumer "],
+            "used": "TRUE"
+        },
+        {
+            "category": "Sports",
+            "question": "This American golfer, known as \"The Golden Bear,\" has won a record 18 major championships, a mark that stands as the benchmark for success in professional golf. Renowned for his powerful play and strategic approach, he won six Masters Tournaments and four U.S. Open titles among his impressive tally. What is the name of this legendary golfer, celebrated for his dominance in the sport's biggest tournaments?",
+            "answers": ["Jack Nicklaus"],
+            "used": "TRUE"
+        },
+        {
+            "category": "US History",
+            "question": "Initially patented by Joseph Swan, this invention saw significant improvement when a more durable filament material was used by another inventor. It's often associated with a famous American inventor's first major public system of electric illumination. This innovation has evolved into various forms including LED and CFL. What is this invention which is often credited to Thomas Edison and commonly used to illuminate homes and streets?",
+            "answers": ["light bulb"],
+            "used": "TRUE"
+        },
+        {
+            "category": "Arts & Literature",
+            "question": "This German composer of the Baroque period is renowned for his intricate compositions and profound influence on the structure of classical music. His works, characterized by their intellectual depth, technical command, and artistic beauty, include the \"Brandenburg Concertos,\" \"The Well-Tempered Clavier,\" and numerous cantatas and fugues. He spent much of his career as a church musician and a Kapellmeister in Leipzig. What is the name of this composer, celebrated for his masterful use of counterpoint and harmony?",
+            "answers": ["Johann Sebastian Bach", "bach"],
+            "used": "TRUE"
+        }
+    ],
+    [
+        {
+            "category": "Entertainment",
+            "question": "This American singer was involved in a highly publicized incident during the Super Bowl XXXVIII halftime show in 2004, which resulted in a nationwide controversy. The performance concluded with a surprise \"wardrobe malfunction\" during a duet with Justin Timberlake, leading to immediate media backlash and changes in broadcast regulations. What is the name of this artist, whose performance led to the coining of the term \"wardrobe malfunction\"?",
+            "answers": ["Janet Jackson"],
+            "used": "TRUE"
+        },
+        {
+            "category": "Science",
+            "question": "This fundamental concept in quantum mechanics, introduced by a German physicist in 1927, states that it is impossible to simultaneously know both the exact position and exact momentum of a particle. The more precisely one property is measured, the less precisely the other can be controlled or known. This principle challenged classical ideas of exactitude in science. Name the physicist who formulated this principle, which has profound implications for the behavior of subatomic particles.",
+            "answers": ["Heisenberg's Uncertainty Principle", "Heisenberg"],
+            "used": "TRUE"
+        },
+        {
+            "category": "Arts & Literature",
+            "question": "This novel, published in 1925 by a prominent English writer, is set in post-World War I London and spans a single day in the life of its protagonist, who prepares for a party she will host that evening. The narrative delves into the complexities of its characters' thoughts and memories, utilizing the stream of consciousness technique to reveal their inner lives. What is the name of this seminal modernist work which follows Clarissa Dalloway by Virginia Woolf?",
+            "answers": ["\"Mrs Dalloway\""],
+            "used": "TRUE"
+        },
+        {
+            "category": "Sports",
+            "question": "This national soccer team holds the record for the most FIFA World Cup victories, having won the prestigious tournament five times. Known for their skillful play and prominent players like Pel\u00e9 and Ronaldo, they first won in 1958 and secured their latest title in 2002. What is the name of this country's team, celebrated for its rich football heritage and success on the global stage?",
+            "answers": ["Brazil"],
+            "used": "TRUE"
+        },
+        {
+            "category": "Current Events",
+            "question": "This city had over 10 inches of rain fall in a 24 hour period in April 2024. This set a record for the last 75 years in this city which lies in a desert nation known for its oil reserves. This city is also home to the world's tallest building, the Burj Khalifa. Name this city which was recently overwhelmed by flooding in the United Arab Emirates.",
+            "answers": ["Dubai"],
+            "used": "TRUE"
+        },
+        {
+            "category": "US History",
+            "question": "This geological marvel was first seen by European eyes in 1540, part of an expedition led by Spanish explorers. Despite its remote location, it became more accessible after the construction of a railway bearing its name 1901. This natural wonder was designated as a national park in 1919 by President Woodrow Wilson. What is the name of this famous canyon that was carved over millions of years by the Colorado River?",
+            "answers": ["Grand Canyon"],
+            "used": "TRUE"
+        },
+        {
+            "category": "Geography",
+            "question": "This mountain range stretches over 3,000 miles from British Columbia to New Mexico and includes Mount Elbert, its highest peak. Known for the Continental Divide, it forms the eastern portion of the North American Cordillera. This range shares a name with a baseball team based in Denver and has been invoked in beer commercials. What is the name of this iconic North American mountain range?",
+            "answers": ["The Rockies", "Rocky Mountains", "rockies"],
+            "used": "TRUE"
+        },
+        {
+            "category": "World History",
+            "question": "This transformative period began in Britain in the late 18th century and spread to other parts of the world. It was marked by the transition from hand production methods to machines, new chemical manufacturing and iron production processes, and the rise of the factory system. Notable innovations include the steam engine and spinning jenny. Name this era that dramatically changed economies, societies, and environments across the globe.",
+            "answers": ["The Industrial Revolution", "industrial age"],
+            "used": "TRUE"
+        }
+    ],
+    [
+        {
+            "category": "Entertainment",
+            "question": "This groundbreaking music video, released in 1983 by an American pop star, revolutionized the music industry with its elaborate narrative and dance sequences. Directed by John Landis and featuring iconic zombie dance moves, the video extended over 13 minutes, blending music with cinematic storytelling. It became a global phenomenon and significantly boosted sales of the album of the same name. What is the name of this influential music video by Michael Jackson?",
+            "answers": ["Thriller"],
+            "used": "TRUE"
+        },
+        {
+            "category": "Science",
+            "question": "This thought experiment in quantum mechanics involves a hypothetical cat that may be simultaneously both alive and dead, depending on an earlier random event. Devised by an Austrian physicist in 1935, it illustrates the concept of superposition\u2014the ability of a quantum system to be in multiple states at once until it is measured. Name the physicist who created this paradoxical experiment to challenge the Copenhagen interpretation of quantum mechanics.",
+            "answers": ["Schr\u00f6dinger's Cat", "Schrodinger"],
+            "used": "TRUE"
+        },
+        {
+            "category": "World History",
+            "question": "This period of geopolitical tension between the Soviet Union and the United States spanned from 1947 to 1991. Characterized by the arms race, space competition, and various proxy wars, it never escalated into direct military conflict between the two superpowers. Notable events include the Cuban Missile Crisis and the fall of the Berlin Wall. Name this era marked by the struggle for global supremacy without open warfare.",
+            "answers": ["The Cold War"],
+            "used": "TRUE"
+        },
+        {
+            "category": "Geography",
+            "question": "This major North American river is known for its historical importance as a trade route during the era of steamboats. It flows over 2,300 miles from northern Minnesota to the Gulf of Mexico, making it the second-longest river in the United States. The river also passes through or borders ten states, including Illinois, Iowa, and Louisiana. What is the name of this river, vital for its ecological diversity and economic significance in U.S. history?",
+            "answers": ["The Mississippi River", "mississippi"],
+            "used": "TRUE"
+        },
+        {
+            "category": "Arts & Literature",
+            "question": "This iconic statue was sculpted by an Italian Renaissance artist between 1501 and 1504 and stands at over 14 feet tall. Originally commissioned as one of a series of statues for Florence Cathedral, it now resides in the Galleria dell'Accademia in Florence. Representing the Biblical hero who defeated Goliath, it is renowned for its detailed anatomy and expression of calm readiness. What is the name of this famous marble sculpture created by Michelangelo?",
+            "answers": ["\"David\"", "david"],
+            "used": "TRUE"
+        },
+        {
+            "category": "Sports",
+            "question": "Known for his charismatic presence and phrases like \"float like a butterfly, sting like a bee,\" this American boxer became a cultural icon beyond the world of sports. He won the world heavyweight championship three times and participated in several historic boxing matches, including the \"Rumble in the Jungle.\" His refusal to serve in the Vietnam War due to his religious beliefs and stance on civil rights brought him significant attention and controversy. What is the name of this legendary boxer, often referred to as \"The Greatest\"?",
+            "answers": ["Muhammad Ali"],
+            "used": "TRUE"
+        },
+        {
+            "category": "Current Events",
+            "question": "This U.S. state, known for its desert climate and picturesque landscapes was admitted to the union in 1912 as the 48th state. This state's Supreme Court recently paved the wave for enforcement of a strict abortion restriction which was passed into law during the U.S. Civil War. What is the name of this southwestern state, recognized for its unique cacti and significant Native American history?",
+            "answers": ["Arizona"],
+            "used": "TRUE"
+        },
+        {
+            "category": "US History",
+            "question": "This individual won a Grammy Award for his audiobook \"Dreams from My Father\" and taught constitutional law at the University of Chicago Law School.He was the first African American president of the Harvard Law Review in 1990. He was awarded the Nobel Peace Prize in 2009. Can you name this prominent political figure?",
+            "answers": ["Barack Obama"],
+            "used": "TRUE"
+        }
+    ],
+    [
+        {
+            "category": "US History",
+            "question": "This women's rights advocate and social reformer was arrested and fined for illegally attempting to vote in the 1872 presidential election.  She was once depicted on a dollar coin issued by the U.S. Treasury, though it failed to gain widespread circulation. She co-founded the National Woman Suffrage Association with Elizabeth Cady Stanton. Name this tireless champion of women's rights",
+            "answers": ["Susan B. Anthony"],
+            "used": "TRUE"
+        },
+        {
+            "category": "Geography",
+            "question": "This dormant volcano in Tanzania is known for its three volcanic cones: Kibo, Mawenzi, and Shira. Popular among climbers and trekkers worldwide, it features a snow-capped summit near the equator, despite being located just 205 miles from the equator. Rising about 5,895 meters (19,341 feet) above sea level, it holds the title of the highest mountain in Africa. What is the name of this mountain, a symbol of towering natural beauty and challenge?",
+            "answers": ["Mount Kilimanjaro", "Kilimanjaro"],
+            "used": "TRUE"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This American director, known for his dynamic storytelling and strong character development, has a long-standing collaboration with actor Robert De Niro, with whom he created classics like \"Taxi Driver\" and \"Raging Bull.\" His films often explore complex themes such as crime, guilt, and redemption. Among his celebrated works is \"Goodfellas,\" a critical and commercial success that redefined the gangster genre. What is the name of this influential filmmaker?",
+            "answers": ["Martin Scorsese", "Scorsese"],
+            "used": "TRUE"
+        },
+        {
+            "category": "Sports",
+            "question": "This American swimmer set the record for the most Olympic medals won by any athlete, totaling 28 medals, including 23 golds. His performances at the 2008 Beijing Olympics, where he won eight gold medals, are particularly celebrated. Who is this legendary swimmer who featured in a series of Subway ads?",
+            "answers": ["Michael Phelps"],
+            "used": "TRUE"
+        },
+        {
+            "category": "Arts & Literature",
+            "question": "This musical, based on a French novel of the same name by Gaston Leroux, is renowned for its captivating romance and haunting narrative. It tells the story of a disfigured musical genius, who haunts the Parisian entertainment venue and becomes obsessed with a young soprano, Christine. Composed by Andrew Lloyd Webber, it is one of the longest-running shows on Broadway. What is the name of this iconic musical?",
+            "answers": ["The Phantom of the Opera"],
+            "used": "TRUE"
+        },
+        {
+            "category": "World History",
+            "question": "This leader implemented the Yassa code to promote trade and communication within his empire, which stretched from Eastern Europe across Asia to the Sea of Japan. He united the nomadic tribes of Northeast Asia, founding the largest contiguous empire in history. His conquests encompassed large parts of Central Asia and China, with his descendants continuing to expand the empire after his death. Name this Mongolian ruler, born in the late 12th century.",
+            "answers": ["Genghis Khan"],
+            "used": "TRUE"
+        },
+        {
+            "category": "Current Events",
+            "question": "This American politician served as the Attorney General of California and then as a United States Senator before making history in her current role. She became the first female Vice President of the United States in January 2021, also making her the highest-ranking female official in U.S. history, and the first African American and South Asian American to hold this office. What is the name of this groundbreaking political figure?",
+            "answers": ["Kamala Harris"],
+            "used": "TRUE"
+        },
+        {
+            "category": "Science",
+            "question": "Developed to combat vitamin A deficiency, this genetically modified crop produces beta-carotene in its grain, which the human body can convert into vitamin A. This innovation is especially aimed at improving the health outcomes in developing countries where rice is a staple food but malnutrition is prevalent. What is the colorful name of this biofortified rice that has been altered to address a specific nutritional deficiency?",
+            "answers": ["Golden Rice"],
+            "used": "TRUE"
+        }
+    ],
+    [
+        {
             "category": "Geography",
             "question": "Known locally as 'Mosi-oa-Tunya,' which translates to 'The Smoke That Thunders,' this natural wonder creates a thunderous roar and a mist that can be seen from miles away. It forms one of the largest curtains of falling water in the world, drawing visitors from all over the globe to its breathtaking views. Designated as a UNESCO World Heritage site, it straddles the border between Zambia and Zimbabwe along the Zambezi River. What is the name of this magnificent waterfall, celebrated as one of the Seven Natural Wonders of the World?",
             "answers": ["Victoria Falls"],
