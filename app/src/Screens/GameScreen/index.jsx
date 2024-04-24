@@ -75,7 +75,8 @@ const GameScreen = ({
         playerResults["isFinished"] =
             questionResults.length === questions.length ||
             totalTime === GAME_SECONDS;
-        setPlayerResults(playerResults);
+        // need a new copy of the object to for React to know playerResults have changed and call calculateStreak again
+        setPlayerResults({ ...playerResults });
         setTotalTime(totalTime);
         localStorage.setItem(
             today.toDateString(),

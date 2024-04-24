@@ -94,10 +94,11 @@ function App() {
         }
     }, []);
 
-    // TODO: this seems to be happening more than once
     useEffect(() => {
-        calculateStreak();
-    }, [playerResults, streak]);
+        if (screenShowing === screens.finish) {
+            calculateStreak();
+        }
+    }, [playerResults, streak, screenShowing]);
 
     const getScreenToShow = () => {
         switch (screenShowing) {
