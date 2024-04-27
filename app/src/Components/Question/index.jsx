@@ -15,31 +15,41 @@ const Question = ({
     const [charactersShowing, setCharactersShowing] = useState(0);
 
     useEffect(() => {
-        let interval;
+        // Reset displayed question when the question or showWholeQuestion changes
+        if (showWholeQuestion) {
+            setDisplayedQuestion(question);
+            return;
+        }
+
+        setDisplayedQuestion("");
+        setCharactersShowing(0);
+    }, [question, showWholeQuestion]);
+
+    useEffect(() => {
         if (
-            charactersShowing <= question.length &&
             !isBuzzing &&
             !isShowingSettings &&
-            !showWholeQuestion
+            !showWholeQuestion &&
+            charactersShowing <= question.length
         ) {
-            interval = setInterval(() => {
-                setDisplayedQuestion(question.slice(0, charactersShowing));
-                setCharactersShowing(charactersShowing + 1);
-            }, 50); // Adjust the speed by changing the interval duration
-        } else if (interval) {
-            clearInterval(interval);
+            const interval = setInterval(() => {
+                setCharactersShowing((c) => c + 1);
+            }, 50); // Reveal characters one by one
+
+            return () => clearInterval(interval);
         }
-        return () => {
-            interval && clearInterval(interval);
-            showWholeQuestion && setCharactersShowing(0);
-        };
     }, [
-        question,
         isBuzzing,
         isShowingSettings,
-        charactersShowing,
         showWholeQuestion,
+        charactersShowing,
+        question.length,
     ]);
+
+    useEffect(() => {
+        // Update displayed question only when charactersShowing changes
+        setDisplayedQuestion(question.slice(0, charactersShowing));
+    }, [charactersShowing, question]);
 
     return (
         <div className="question">
