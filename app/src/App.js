@@ -1,5 +1,4 @@
 import React, { useState, useEffect } from "react";
-import SettingsScreen from "./Screens/SettingsScreen";
 import StartScreen from "./Screens/StartScreen";
 import FinishScreen from "./Screens/FinishScreen";
 import GameScreen from "./Screens/GameScreen";
@@ -7,20 +6,15 @@ import GameScreen from "./Screens/GameScreen";
 import { screens } from "./constants";
 import "./App.css";
 
+const today = new Date();
+
 function App() {
     const [screenShowing, setScreenShowing] = useState(screens.start);
     const [playerResults, setPlayerResults] = useState(null);
     const [score, setScore] = useState(0);
     const [totalTime, setTotalTime] = useState(0);
-    const [previousScreen, setPreviousScreen] = useState(null);
     const [questions, setQuestions] = useState(null);
-    const [today, setToday] = useState(new Date());
     const [streak, setStreak] = useState(0);
-
-    const setScreenShowingAndPreviousScreen = (newScreen) => {
-        setPreviousScreen(screenShowing);
-        setScreenShowing(newScreen);
-    };
 
     const hasStartedTodaysGame = () => {
         return !!localStorage.getItem(today.toDateString());
@@ -53,9 +47,6 @@ function App() {
     };
 
     function daysPastApril142024() {
-        // Create a Date object for today's date
-        const today = new Date();
-
         // Create a Date object for April 14, 2024
         const referenceDate = new Date(2024, 3, 14); // Months are zero-indexed (January = 0)
 
@@ -68,23 +59,63 @@ function App() {
         return daysPast;
     }
 
-    const readQuestionsFromFile = () => {
-        fetch("questions_with_categories.json")
-            .then((response) => {
-                return response.json(); // Parse directly as JSON
-            })
-            .then((data) => {
-                const questionSetToUse = daysPastApril142024();
-                console.log("question set being used: " + questionSetToUse);
-                setQuestions(data[questionSetToUse]);
-            })
-            .catch((error) => {
-                console.error("Error fetching or parsing JSON:", error);
-            });
+    const getScreenToShow = () => {
+        switch (screenShowing) {
+            case screens.start:
+                return (
+                    <StartScreen
+                        setScreenShowing={setScreenShowing}
+                        today={today}
+                        hasFinishedTodaysGame={hasFinishedTodaysGame()}
+                        hasStartedTodaysGame={hasStartedTodaysGame()}
+                    />
+                );
+            case screens.game:
+                return (
+                    questions && (
+                        <GameScreen
+                            setScreenShowing={setScreenShowing}
+                            setPlayerResults={setPlayerResults}
+                            score={score}
+                            setScore={setScore}
+                            setTotalTime={setTotalTime}
+                            questions={questions}
+                            hasStartedTodaysGame={hasStartedTodaysGame()}
+                        />
+                    )
+                );
+            case screens.finish:
+                return (
+                    <FinishScreen
+                        setScreenShowing={setScreenShowing}
+                        playerResults={playerResults}
+                        score={score}
+                        totalTime={totalTime}
+                        questions={questions}
+                        streak={streak}
+                    />
+                );
+            default:
+                console.log("not sure what screen to show");
+        }
     };
 
-    // TODO: this seems to be happening more than once
     useEffect(() => {
+        const readQuestionsFromFile = () => {
+            fetch("questions_with_categories.json")
+                .then((response) => {
+                    return response.json(); // Parse directly as JSON
+                })
+                .then((data) => {
+                    const questionSetToUse = daysPastApril142024();
+                    console.log("question set being used: " + questionSetToUse);
+                    setQuestions(data[questionSetToUse]);
+                })
+                .catch((error) => {
+                    console.error("Error fetching or parsing JSON:", error);
+                });
+        };
+
         readQuestionsFromFile();
         if (hasFinishedTodaysGame()) {
             const results = JSON.parse(
@@ -98,48 +129,7 @@ function App() {
         if (screenShowing === screens.finish) {
             calculateStreak();
         }
-    }, [playerResults, streak, screenShowing]);
-
-    const getScreenToShow = () => {
-        switch (screenShowing) {
-            case screens.start:
-                return (
-                    <StartScreen
-                        setScreenShowing={setScreenShowingAndPreviousScreen}
-                        today={today}
-                        hasFinishedTodaysGame={hasFinishedTodaysGame()}
-                        hasStartedTodaysGame={hasStartedTodaysGame()}
-                    />
-                );
-            case screens.game:
-                return (
-                    questions && (
-                        <GameScreen
-                            setScreenShowing={setScreenShowingAndPreviousScreen}
-                            setPlayerResults={setPlayerResults}
-                            score={score}
-                            setScore={setScore}
-                            setTotalTime={setTotalTime}
-                            questions={questions}
-                            hasStartedTodaysGame={hasStartedTodaysGame()}
-                        />
-                    )
-                );
-            case screens.finish:
-                return (
-                    <FinishScreen
-                        setScreenShowing={setScreenShowingAndPreviousScreen}
-                        playerResults={playerResults}
-                        score={score}
-                        totalTime={totalTime}
-                        questions={questions}
-                        streak={streak}
-                    />
-                );
-            default:
-                console.log("not sure what screen to show");
-        }
-    };
+    }, [streak, screenShowing]);
 
     return (
         <div className="App">

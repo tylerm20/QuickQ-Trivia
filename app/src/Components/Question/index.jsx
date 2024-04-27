@@ -4,12 +4,12 @@ import { getEmojiForCategory } from "../../utils";
 import { CATEGORY_COLOR_MAP } from "../../constants";
 
 const Question = ({
-    question,
+    category,
     isBuzzing,
     isShowingSettings,
-    showWholeQuestion,
+    question,
     questionNumber,
-    category,
+    showWholeQuestion,
 }) => {
     const [displayedQuestion, setDisplayedQuestion] = useState("");
     const [charactersShowing, setCharactersShowing] = useState(0);

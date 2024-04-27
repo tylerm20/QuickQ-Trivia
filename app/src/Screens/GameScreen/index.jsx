@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from "react";
+import React, { useState, useEffect, useCallback } from "react";
 import Fuse from "fuse.js";
 import Timer from "../../Components/Timer";
 import Score from "../../Components/Score";
@@ -12,6 +12,7 @@ import SettingsScreen from "../SettingsScreen";
 
 const playerResults = {};
 let questionResults = [];
+const today = new Date();
 
 const GameScreen = ({
     setScreenShowing,
@@ -33,96 +34,10 @@ const GameScreen = ({
         useState(BUZZ_SECONDS);
     const [questionTime, setQuestionTime] = useState(0);
     const [showSettingsModal, setShowSettingsModal] = useState(false);
-    const today = new Date();
 
     const finishGame = () => {
         setScreenShowing(screens.finish);
     };
-
-    const finishQuestion = ({ userAnswer, userSkipped }) => {
-        const questionResult = {};
-        // because we are updating the score in state in this function
-        // we can't rely on it to be up to date, so we have a local copy
-        let localScore = score;
-        setUserAnswer(userAnswer);
-        questionResult["userAnswer"] = userAnswer;
-        if (checkAnswer(userAnswer)) {
-            localScore += 1;
-            setScore(localScore);
-            questionResult["isCorrect"] = true;
-        } else {
-            questionResult["isCorrect"] = false;
-        }
-        questionResult["skipped"] = userSkipped;
-        questionResult["time"] = questionTime;
-        questionResult["category"] = getQuestionCategory();
-        setQuestionTime(0);
-        setIsBetweenQuestions(true);
-        setShowWholeQuestion(true);
-        setIsBuzzing(false);
-        setBuzzSecondsRemaining(BUZZ_SECONDS);
-        questionResults.push(questionResult);
-        updateCurrentResults(localScore);
-    };
-
-    const updateCurrentResults = (localScore) => {
-        const totalTime = GAME_SECONDS - gameSecondsRemaining;
-        playerResults["questionResults"] = questionResults;
-        playerResults["totalTime"] = totalTime;
-        playerResults["score"] = localScore;
-        playerResults["isFinished"] =
-            questionResults.length === questions.length ||
-            totalTime === GAME_SECONDS;
-        // need a new copy of the object to for React to know playerResults have changed and call calculateStreak again
-        setPlayerResults({ ...playerResults });
-        setTotalTime(totalTime);
-        localStorage.setItem(
-            today.toDateString(),
-            JSON.stringify(playerResults)
-        );
-    };
-
-    useEffect(() => {
-        if (hasStartedTodaysGame) {
-            const results = localStorage.getItem(today.toDateString());
-            if (results) {
-                const jsonResults = JSON.parse(results);
-                questionResults = [...jsonResults["questionResults"]];
-                setPlayerResults(jsonResults);
-                setCurrentQuestionIndex(jsonResults["questionResults"].length);
-                setGameSecondsRemaining(
-                    GAME_SECONDS - jsonResults["totalTime"]
-                );
-                setScore(jsonResults["score"]);
-            }
-        }
-    }, []);
-
-    useEffect(() => {
-        const buzzOnSpace = (event) => {
-            if (event.key === " " && !isBuzzing && !isBetweenQuestions) {
-                setIsBuzzing(true);
-                event.preventDefault();
-            }
-        };
-
-        document.addEventListener("keydown", buzzOnSpace);
-
-        // Clean up the event listener when the component unmounts
-        return () => document.removeEventListener("keydown", buzzOnSpace);
-    }, [isBuzzing, isBetweenQuestions]);
-
-    useEffect(() => {
-        if (gameSecondsRemaining < 1) {
-            finishQuestion({ userAnswer: "", userSkipped: false });
-        }
-    }, [gameSecondsRemaining]);
-
-    useEffect(() => {
-        if (buzzSecondsRemaining < 1) {
-            finishQuestion({ userAnswer: "", userSkipped: false });
-        }
-    }, [buzzSecondsRemaining]);
 
     const decrementGameSecondsTimer = () => {
         if (
@@ -140,32 +55,6 @@ const GameScreen = ({
         if (buzzSecondsRemaining > 0 && isBuzzing) {
             setBuzzSecondsRemaining(buzzSecondsRemaining - 1);
         }
-    };
-
-    const getCurrentQuestionObj = () => questions[currentQuestionIndex];
-    const getQuestionText = () => getCurrentQuestionObj()["question"];
-    const getQuestionAnswerText = () => getCurrentQuestionObj()["answers"][0];
-    const getQuestionCategory = () => {
-        try {
-            return getCurrentQuestionObj()["category"];
-        } catch (e) {
-            console.log(e);
-            return "Miscellaneous";
-        }
-    };
-
-    const checkAnswer = (userAnswer) => {
-        if (!userAnswer) {
-            return false;
-        }
-        const currentQuestionAnswers = getCurrentQuestionObj()["answers"];
-        const fuse = new Fuse(currentQuestionAnswers, {
-            includeScore: true,
-            threshold: 0.35,
-            minMatchCharLength: 3,
-        });
-        const fuseResults = fuse.search(userAnswer.trim());
-        return fuseResults.length;
     };
 
     const skipQuestion = () => {
@@ -244,6 +133,143 @@ const GameScreen = ({
         }
     };
 
+    const getCurrentQuestionObj = useCallback(
+        () => questions[currentQuestionIndex],
+        [questions, currentQuestionIndex]
+    );
+    const getQuestionText = useCallback(
+        () => getCurrentQuestionObj()["question"],
+        [getCurrentQuestionObj]
+    );
+    const getQuestionAnswerText = useCallback(
+        () => getCurrentQuestionObj()["answers"][0],
+        [getCurrentQuestionObj]
+    );
+    const getQuestionCategory = useCallback(() => {
+        try {
+            return getCurrentQuestionObj()["category"];
+        } catch (e) {
+            console.log(e);
+            return "Miscellaneous";
+        }
+    }, [getCurrentQuestionObj]);
+
+    const updateCurrentResults = useCallback(
+        (localScore) => {
+            const totalTime = GAME_SECONDS - gameSecondsRemaining;
+            playerResults["questionResults"] = questionResults;
+            playerResults["totalTime"] = totalTime;
+            playerResults["score"] = localScore;
+            playerResults["isFinished"] =
+                questionResults.length === questions.length ||
+                totalTime === GAME_SECONDS;
+            // need a new copy of the object to for React to know playerResults have changed and call calculateStreak again
+            setPlayerResults({ ...playerResults });
+            setTotalTime(totalTime);
+            localStorage.setItem(
+                today.toDateString(),
+                JSON.stringify(playerResults)
+            );
+        },
+        [gameSecondsRemaining, questions.length, setPlayerResults, setTotalTime]
+    );
+
+    const checkAnswer = useCallback(
+        (userAnswer) => {
+            if (!userAnswer) {
+                return false;
+            }
+            const currentQuestionAnswers = getCurrentQuestionObj()["answers"];
+            const fuse = new Fuse(currentQuestionAnswers, {
+                includeScore: true,
+                threshold: 0.35,
+                minMatchCharLength: 3,
+            });
+            const fuseResults = fuse.search(userAnswer.trim());
+            return fuseResults.length;
+        },
+        [getCurrentQuestionObj]
+    );
+
+    const finishQuestion = useCallback(
+        ({ userAnswer, userSkipped }) => {
+            const questionResult = {};
+            // because we are updating the score in state in this function
+            // we can't rely on it to be up to date, so we have a local copy
+            let localScore = score;
+            setUserAnswer(userAnswer);
+            questionResult["userAnswer"] = userAnswer;
+            if (checkAnswer(userAnswer)) {
+                localScore += 1;
+                setScore(localScore);
+                questionResult["isCorrect"] = true;
+            } else {
+                questionResult["isCorrect"] = false;
+            }
+            questionResult["skipped"] = userSkipped;
+            questionResult["time"] = questionTime;
+            questionResult["category"] = getQuestionCategory();
+            setQuestionTime(0);
+            setIsBetweenQuestions(true);
+            setShowWholeQuestion(true);
+            setIsBuzzing(false);
+            setBuzzSecondsRemaining(BUZZ_SECONDS);
+            questionResults.push(questionResult);
+            updateCurrentResults(localScore);
+        },
+        [
+            checkAnswer,
+            getQuestionCategory,
+            questionTime,
+            score,
+            setScore,
+            updateCurrentResults,
+        ]
+    );
+
+    useEffect(() => {
+        // if we are resuming a game
+        if (hasStartedTodaysGame && !isBetweenQuestions) {
+            const results = localStorage.getItem(today.toDateString());
+            if (results) {
+                const jsonResults = JSON.parse(results);
+                questionResults = [...jsonResults["questionResults"]];
+                setPlayerResults(jsonResults);
+                setCurrentQuestionIndex(jsonResults["questionResults"].length);
+                setGameSecondsRemaining(
+                    GAME_SECONDS - jsonResults["totalTime"]
+                );
+                setScore(jsonResults["score"]);
+            }
+        }
+    }, [hasStartedTodaysGame, setPlayerResults, setScore, isBetweenQuestions]);
+
+    useEffect(() => {
+        const buzzOnSpace = (event) => {
+            if (event.key === " " && !isBuzzing && !isBetweenQuestions) {
+                setIsBuzzing(true);
+                event.preventDefault();
+            }
+        };
+
+        document.addEventListener("keydown", buzzOnSpace);
+
+        // Clean up the event listener when the component unmounts
+        return () => document.removeEventListener("keydown", buzzOnSpace);
+    }, [isBuzzing, isBetweenQuestions]);
+
+    useEffect(() => {
+        if (gameSecondsRemaining < 1) {
+            finishQuestion({ userAnswer: "", userSkipped: false });
+        }
+    }, [gameSecondsRemaining, finishQuestion]);
+
+    useEffect(() => {
+        if (buzzSecondsRemaining < 1) {
+            finishQuestion({ userAnswer: "", userSkipped: false });
+        }
+    }, [buzzSecondsRemaining, finishQuestion]);
+
     return (
         <div className="GameScreen">
             {showSettingsModal && (
@@ -266,12 +292,12 @@ const GameScreen = ({
             </div>
             <div className="CenterContent">
                 <Question
-                    question={getQuestionText()}
-                    isBuzzing={isBuzzing}
-                    showWholeQuestion={showWholeQuestion}
-                    questionNumber={currentQuestionIndex + 1}
-                    isShowingSettings={showSettingsModal}
                     category={getQuestionCategory()}
+                    isBuzzing={isBuzzing}
+                    isShowingSettings={showSettingsModal}
+                    question={getQuestionText()}
+                    questionNumber={currentQuestionIndex + 1}
+                    showWholeQuestion={showWholeQuestion}
                 />
             </div>
             <div className="BottomRow">{getBottomRowContent()}</div>
