@@ -55,9 +55,7 @@ const GameScreen = ({
         }
         questionResult["skipped"] = userSkipped;
         questionResult["time"] = questionTime;
-        questionResult["category"] = getQuestionCategory(
-            getCurrentQuestionObj()
-        );
+        questionResult["category"] = getQuestionCategory();
         setQuestionTime(0);
         setIsBetweenQuestions(true);
         setShowWholeQuestion(true);
@@ -145,11 +143,11 @@ const GameScreen = ({
     };
 
     const getCurrentQuestionObj = () => questions[currentQuestionIndex];
-    const getQuestionText = (questionObj) => questionObj["question"];
-    const getQuestionAnswerText = (questionObj) => questionObj["answers"][0];
-    const getQuestionCategory = (questionObj) => {
+    const getQuestionText = () => getCurrentQuestionObj()["question"];
+    const getQuestionAnswerText = () => getCurrentQuestionObj()["answers"][0];
+    const getQuestionCategory = () => {
         try {
-            return questionObj["category"];
+            return getCurrentQuestionObj()["category"];
         } catch (e) {
             console.log(e);
             return "Miscellaneous";
@@ -218,10 +216,7 @@ const GameScreen = ({
                             Your Answer: <b>{userAnswer}</b>
                         </div>
                         <div>
-                            Correct Answer:{" "}
-                            <b>
-                                {getQuestionAnswerText(getCurrentQuestionObj())}
-                            </b>
+                            Correct Answer: <b>{getQuestionAnswerText()}</b>
                         </div>
                     </div>
                     <BasicButton
@@ -271,12 +266,12 @@ const GameScreen = ({
             </div>
             <div className="CenterContent">
                 <Question
-                    question={getQuestionText(getCurrentQuestionObj())}
+                    question={getQuestionText()}
                     isBuzzing={isBuzzing}
                     showWholeQuestion={showWholeQuestion}
                     questionNumber={currentQuestionIndex + 1}
                     isShowingSettings={showSettingsModal}
-                    category={getQuestionCategory(getCurrentQuestionObj())}
+                    category={getQuestionCategory()}
                 />
             </div>
             <div className="BottomRow">{getBottomRowContent()}</div>
