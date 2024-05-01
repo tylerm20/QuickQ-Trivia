@@ -154,25 +154,22 @@ const GameScreen = ({
         }
     }, [getCurrentQuestionObj]);
 
-    const updateCurrentResults = useCallback(
-        (localScore) => {
-            const totalTime = GAME_SECONDS - gameSecondsRemaining;
-            playerResults["questionResults"] = questionResults;
-            playerResults["totalTime"] = totalTime;
-            playerResults["score"] = localScore;
-            playerResults["isFinished"] =
-                questionResults.length === questions.length ||
-                totalTime === GAME_SECONDS;
-            // need a new copy of the object to for React to know playerResults have changed and call calculateStreak again
-            setPlayerResults({ ...playerResults });
-            setTotalTime(totalTime);
-            localStorage.setItem(
-                today.toDateString(),
-                JSON.stringify(playerResults)
-            );
-        },
-        [gameSecondsRemaining, questions.length, setPlayerResults, setTotalTime]
-    );
+    const updateCurrentResults = (localScore) => {
+        const totalTime = GAME_SECONDS - gameSecondsRemaining;
+        playerResults["questionResults"] = questionResults;
+        playerResults["totalTime"] = totalTime;
+        playerResults["score"] = localScore;
+        playerResults["isFinished"] =
+            questionResults.length === questions.length ||
+            totalTime === GAME_SECONDS;
+        // need a new copy of the object to for React to know playerResults have changed and call calculateStreak again
+        setPlayerResults({ ...playerResults });
+        setTotalTime(totalTime);
+        localStorage.setItem(
+            today.toDateString(),
+            JSON.stringify(playerResults)
+        );
+    };
 
     const checkAnswer = useCallback(
         (userAnswer) => {
@@ -191,41 +188,31 @@ const GameScreen = ({
         [getCurrentQuestionObj]
     );
 
-    const finishQuestion = useCallback(
-        ({ userAnswer, userSkipped }) => {
-            const questionResult = {};
-            // because we are updating the score in state in this function
-            // we can't rely on it to be up to date, so we have a local copy
-            let localScore = score;
-            setUserAnswer(userAnswer);
-            questionResult["userAnswer"] = userAnswer;
-            if (checkAnswer(userAnswer)) {
-                localScore += 1;
-                setScore(localScore);
-                questionResult["isCorrect"] = true;
-            } else {
-                questionResult["isCorrect"] = false;
-            }
-            questionResult["skipped"] = userSkipped;
-            questionResult["time"] = questionTime;
-            questionResult["category"] = getQuestionCategory();
-            setQuestionTime(0);
-            setIsBetweenQuestions(true);
-            setShowWholeQuestion(true);
-            setIsBuzzing(false);
-            setBuzzSecondsRemaining(BUZZ_SECONDS);
-            questionResults.push(questionResult);
-            updateCurrentResults(localScore);
-        },
-        [
-            checkAnswer,
-            getQuestionCategory,
-            questionTime,
-            score,
-            setScore,
-            updateCurrentResults,
-        ]
-    );
+    const finishQuestion = ({ userAnswer, userSkipped }) => {
+        const questionResult = {};
+        // because we are updating the score in state in this function
+        // we can't rely on it to be up to date, so we have a local copy
+        let localScore = score;
+        setUserAnswer(userAnswer);
+        questionResult["userAnswer"] = userAnswer;
+        if (checkAnswer(userAnswer)) {
+            localScore += 1;
+            setScore(localScore);
+            questionResult["isCorrect"] = true;
+        } else {
+            questionResult["isCorrect"] = false;
+        }
+        questionResult["skipped"] = userSkipped;
+        questionResult["time"] = questionTime;
+        questionResult["category"] = getQuestionCategory();
+        setQuestionTime(0);
+        setIsBetweenQuestions(true);
+        setShowWholeQuestion(true);
+        setIsBuzzing(false);
+        setBuzzSecondsRemaining(BUZZ_SECONDS);
+        questionResults.push(questionResult);
+        updateCurrentResults(localScore);
+    };
 
     useEffect(() => {
         // if we are resuming a game
@@ -260,15 +247,17 @@ const GameScreen = ({
 
     useEffect(() => {
         if (gameSecondsRemaining < 1) {
+            console.log(gameSecondsRemaining);
+            console.log("q", finishQuestion);
             finishQuestion({ userAnswer: "", userSkipped: false });
         }
-    }, [gameSecondsRemaining, finishQuestion]);
+    }, [gameSecondsRemaining]);
 
     useEffect(() => {
         if (buzzSecondsRemaining < 1) {
             finishQuestion({ userAnswer: "", userSkipped: false });
         }
-    }, [buzzSecondsRemaining, finishQuestion]);
+    }, [buzzSecondsRemaining]);
 
     return (
         <div className="GameScreen">
