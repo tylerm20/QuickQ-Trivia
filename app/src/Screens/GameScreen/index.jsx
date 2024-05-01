@@ -247,8 +247,6 @@ const GameScreen = ({
 
     useEffect(() => {
         if (gameSecondsRemaining < 1) {
-            console.log(gameSecondsRemaining);
-            console.log("q", finishQuestion);
             finishQuestion({ userAnswer: "", userSkipped: false });
         }
     }, [gameSecondsRemaining]);

@@ -953,7 +953,7 @@
         },
         {
             "category": "US History",
-            "question": "This individual won a Grammy Award for his audiobook \"Dreams from My Father\" and taught constitutional law at the University of Chicago Law School.He was the first African American president of the Harvard Law Review in 1990. He was awarded the Nobel Peace Prize in 2009. Can you name this prominent political figure?",
+            "question": "This individual won a Grammy Award for his audiobook \"Dreams from My Father\" and taught constitutional law at the University of Chicago Law School. He was the first African American president of the Harvard Law Review in 1990. He was awarded the Nobel Peace Prize in 2009. What is the name of this prominent political figure?",
             "answers": ["Barack Obama"],
             "used": "TRUE"
         }
