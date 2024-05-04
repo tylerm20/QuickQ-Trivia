@@ -1,0 +1,514 @@
+[
+    [
+        {
+            "category": "Entertainment",
+            "question": "Released in 1990, this hit song by an iconic pop artist became a global sensation, topping the charts in over 30 countries and becoming one of the best-selling singles of all time. The track is known for its influence on dance and fashion, highlighted in its stylish black-and-white music video, which drew inspiration from 1920s and 1930s Hollywood cinema. What is the name of this influential song by Madonna that brought a specific underground dance style into mainstream pop culture?",
+            "answers": ["Vogue"],
+            "used": "TRUE"
+        },
+        {
+            "category": "Sports",
+            "question": "This former NFL running back is celebrated for his storied career with the Dallas Cowboys, where he became the league's all-time leading rusher. Over his 15 seasons, primarily with the Cowboys and later with the Arizona Cardinals, he amassed 18,355 rushing yards, setting a record that still stands. Known for his durability and powerful running style, he played a key role in helping his team secure three Super Bowl victories in the 1990s. Inducted into the Pro Football Hall of Fame in 2010, his legacy as one of the greatest running backs in history is well secured. What is the name of this legendary NFL player?",
+            "answers": ["Emmitt Smith"],
+            "used": "TRUE"
+        },
+        {
+            "category": "World History",
+            "question": "This tribunal was notorious for its use of torture and public executions, it primarily targeted converted Jews and Muslims suspected of secretly practicing their old religions. It was established in 1478 by Ferdinand II of Aragon and Isabella I of Castile, and it aimed to enforce Catholic orthodoxy in Spain. What is the name of this period of intense religious scrutiny and persecution?",
+            "answers": [
+                "Spanish Inquisition",
+                "Inquisition",
+                "Tribunal of the Holy Office of the Inquisition"
+            ],
+            "used": "TRUE"
+        },
+        {
+            "category": "US History",
+            "question": "This 1803 event dramatically altered the size and shape of the United States, adding approximately 828,000 square miles of territory. It involved a deal with Napoleon Bonaparte of France, who needed funds for his military campaigns. The acquisition doubled the size of the young nation and included land that would become fifteen different states. At less than three cents an acre, it remains one of the largest land deals in history. What is the name of this significant expansion of U.S. territory?",
+            "answers": ["Louisiana Purchase"],
+            "used": "TRUE"
+        },
+        {
+            "category": "Arts & Literature",
+            "question": "This American author, known for his legal thrillers, published his first novel, \"A Time to Kill,\" in 1989, drawing upon his experiences as a lawyer and legislator in Mississippi. He gained widespread fame with his second book, \"The Firm,\" which became a bestseller and was adapted into a successful film starring Tom Cruise. Many of his subsequent novels, including \"The Pelican Brief\" and \"The Client,\" have also been turned into popular movies. What is the name of this prolific writer whose works frequently explore legal and moral issues?",
+            "answers": ["John Grisham"],
+            "used": "TRUE"
+        },
+        {
+            "category": "Geography",
+            "question": "Known for its iconic Joshua trees and stark beauty, this desert features unique ecosystems and landmarks such as Death Valley, the hottest place on earth. It is the driest desert in North America and plays a significant role in renewable energy development, particularly solar power. Spanning across southeastern California, Nevada, and small parts of Utah and Arizona, what is the name of this arid region in the United States?",
+            "answers": ["The Mojave Desert", "Mojave"],
+            "used": "TRUE"
+        },
+        {
+            "category": "Science",
+            "question": "First proposed by a German mathematician in 1859, this conjecture deals with the zeros of the Riemann zeta function, asserting that all non-trivial zeros have real parts of one-half. It has significant implications for the distribution of prime numbers and remains one of the most important unsolved problems in mathematics. This hypothesis is also one of the seven Millennium Prize Problems, offering a million-dollar reward for a proof. What is the name of this renowned mathematical hypothesis?",
+            "answers": ["Riemann Hypothesis"],
+            "used": "TRUE"
+        },
+        {
+            "category": "Current Events",
+            "question": "This entrepreneur, originally from China, has made significant strides in the cryptocurrency industry as the founder and CEO of one of the world's largest cryptocurrency exchanges by trading volume. Established in 2017, his company, Binance, quickly rose to prominence in the crypto community. What is the name of this influential figure in the cryptocurrency world who was sentenced to four months in prison for money laundering charges in April 2024?",
+            "answers": ["Changpeng Zhao", "CZ"],
+            "used": "TRUE"
+        }
+    ],
+    [
+        {
+            "category": "World History",
+            "question": "This major WWII battle, fought during the winter of 1944-1945, was the largest and bloodiest battle involving American forces. It occurred when German troops launched a massive counteroffensive in the Ardennes region, aiming to split Allied lines. Despite initial success, the Allies ultimately contained the German advance, marking the last major Nazi offensive on the Western Front. What is the name of this pivotal battle?",
+            "answers": ["Battle of the Bulge", "Ardennes Offensive"],
+            "used": "TRUE"
+        },
+        {
+            "category": "Geography",
+            "question": "This desert, often used by scientists as a Mars-like environment for testing space-bound equipment, features vast salt flats, sand, and lava flows. It is known for spectacular flower blooms that occasionally appear following rare rainfalls. Stretching across northern Chile and into parts of Peru, Bolivia, and Argentina, this region is renowned as one of the driest places on Earth. What is the name of this extremely arid region?",
+            "answers": ["The Atacama Desert", "Atacama"],
+            "used": "TRUE"
+        },
+        {
+            "category": "Sports",
+            "question": "This professional ice hockey team, based in Ontario, Canada, is one of the \"Original Six\" members of the National Hockey League. Founded in 1917, they have a storied history and a passionate fan base, known for their long-standing rivalries with teams like the Montreal Canadiens and the Detroit Red Wings. Despite their success in the early years, they hold one of the longest Stanley Cup droughts, having not won since 1967. They play their home games at Scotiabank Arena. What is the name of this NHL team, famous for its blue and white uniforms?",
+            "answers": ["Toronto Maple Leafs", "Maple Leafs"],
+            "used": "TRUE"
+        },
+        {
+            "category": "Science",
+            "question": "Discovered independently by Carl Wilhelm Scheele and Joseph Priestley in the 1770s, this element is essential for cellular respiration in most aerobic organisms and is the most abundant element by mass in the Earth's crust. Comprising approximately 21% of the Earth's atmosphere, it is vital for combustion processes and is commonly used in medical treatments for respiratory illnesses. What is the name of this colorless, odorless, tasteless gas that is critical for life on Earth?",
+            "answers": ["Oxygen", "O2"],
+            "used": "TRUE"
+        },
+        {
+            "category": "Arts & Literature",
+            "question": "Originating in 12th-century France and lasting into the 16th century, this style of architecture is renowned for its verticality and light-filled interiors. Characterized by features such as pointed arches, ribbed vaults, and flying buttresses, it supported taller structures and larger windows than were previously possible. Notable examples include the Notre-Dame Cathedral in Paris and the Cologne Cathedral in Germany. This style also marked a significant shift from the solid, heavy forms of Romanesque architecture to a more ornate aesthetic. What is the name of this architectural style that flourished during the high and late medieval period?",
+            "answers": ["Gothic"],
+            "used": "TRUE"
+        },
+        {
+            "category": "US History",
+            "question": "This year featured a series of pivotal moments in American history, including the iconic Woodstock music festival, which symbolized the peak of the counterculture movement. It also witnessed the monumental first manned moon landing by Apollo 11, where Neil Armstrong and Buzz Aldrin famously walked on the lunar surface. Additionally, Richard Nixon was inaugurated as the 37th president of the United States during this significant year. In which year did all these historic events occur?",
+            "answers": ["1969"],
+            "used": "TRUE"
+        },
+        {
+            "category": "Current Events",
+            "question": "First celebrated in 1970, this annual event marks the anniversary of the birth of the modern environmental movement. It was founded by U.S. Senator Gaylord Nelson as a way to promote ecology and raise awareness of the growing problems of air, water, and soil pollution. This day encourages environmental action by individuals, communities, and governments around the world to combat issues like climate change and habitat destruction. Activities include planting trees, cleaning up trash, and campaigns for recycling and conservation. What is the name of this global observance dedicated to protecting the planet?",
+            "answers": ["Earth Day"],
+            "used": "TRUE"
+        },
+        {
+            "category": "Entertainment",
+            "question": "Released in 2008, this film features a memorable performance by Heath Ledger in a role that won him a posthumous Oscar for Best Supporting Actor. It is the second installment in Christopher Nolan's Batman trilogy and is celebrated for its complex characters and dark psychological depth. It f The movie's critical and commercial success helped redefine superhero films as a genre capable of serious storytelling. Set in the fictional Gotham City, it explores themes of chaos, morality, and heroism. What is the title of this influential superhero film?",
+            "answers": ["The Dark Knight"],
+            "used": "TRUE"
+        }
+    ],
+    [
+        {
+            "category": "Geography",
+            "question": "This Spanish archipelago is renowned for its vibrant nightlife and beautiful beaches. It includes the Serra de Tramuntana mountain range in Mallorca, a UNESCO World Heritage site, and features historical megalithic stone monuments on Menorca. The group consists of four major islands: Mallorca, Menorca, Ibiza, and Formentera, located in the Mediterranean Sea. What is the collective name of these islands?",
+            "answers": ["The Balearic Islands", "Balearic Islands"],
+            "used": "TRUE"
+        },
+        {
+            "category": "Arts & Literature",
+            "question": "This novel, first published in 1851, is a complex tale of a monomaniacal quest for revenge set against the backdrop of the 19th-century whaling industry. The narrative is driven by the obsessive Captain Ahab, commander of the whaling ship Pequod, who seeks vengeance on a giant white whale that once maimed him. The book explores themes of fate, nature, and the struggles between man and the sea. Written by Herman Melville, what is the title of this classic American novel that begins with the famous line, \"Call me Ishmael\"?",
+            "answers": ["Moby Dick"],
+            "used": "TRUE"
+        },
+        {
+            "category": "World History",
+            "question": "Known as \"El Libertador,\" this influential figure was instrumental in the early 19th-century movements that led to the independence of several South American countries from Spanish rule. His military and political leadership contributed to the liberation of present-day Venezuela, Bolivia, Colombia, Ecuador, Peru, and Panama. Born in Caracas, he is revered as a national hero in many Latin American countries, and his vision of a united South America remains influential. What is the name of this iconic South American liberator?",
+            "answers": ["Simon Bolivar"],
+            "used": "TRUE"
+        },
+        {
+            "category": "US History",
+            "question": "This site served as the busiest immigrant inspection station in the United States from 1892 to 1954. It processed approximately 12 million immigrants who entered the country. The island was expanded from its original size using land reclamation, largely due to the surplus earth from the construction of the New York City subway system. Today, it is part of the Statue of Liberty National Monument and houses a museum that explores immigrant experiences. What is the name of this island, once known as the \"Gateway to America\"?",
+            "answers": ["Ellis Island"],
+            "used": "TRUE"
+        },
+        {
+            "category": "Entertainment",
+            "question": "Born Peter Gene Hernandez, this American artist made a splash with his debut album \"Doo-Wops & Hooligans\" in 2010, featuring hits like \"Just the Way You Are\" and \"Grenade.\" Known for his vibrant performances and retro flair, he has won multiple Grammy Awards and achieved international fame with songs such as \"Uptown Funk\" with Mark Ronson. Celebrated for blending pop, R&B, funk, and soul, what is the stage name of this dynamic performer?",
+            "answers": ["Bruno Mars"],
+            "used": "TRUE"
+        },
+        {
+            "category": "Current Events",
+            "question": "This university located in Manhattan, New York is led by Minouche Shafik. Established in 1754 as King's College on the grounds of Trinity Church, it is the oldest institution of higher education in New York and the fifth-oldest in the United States. Name this university that made headlines in April 2024 after pro-Gaza protests created an encampment on its campus and occupied one of a university building.  ",
+            "answers": ["Columbia"],
+            "used": "TRUE"
+        },
+        {
+            "category": "Sports",
+            "question": "This American former professional boxer emerged as the undisputed heavyweight champion of the world in the late 1980s. His quick ascension to the top included becoming the youngest boxer ever to win a heavyweight title at just 20 years old. Known for his powerful punches and controversial moments both inside and outside the ring, his career features significant bouts including a highly publicized match where he was disqualified for biting an opponent's ear. What is the name of this iconic boxer, often referred to by his nickname \"Iron Mike\"?",
+            "answers": ["Mike Tyson"],
+            "used": "TRUE"
+        },
+        {
+            "category": "Science",
+            "question": "This Russian chemist created a systematic table in the late 19th century, organizing elements by atomic mass and chemical properties. His work predicted the properties of elements before they were discovered and has been fundamental to the development of chemical science. Known for this significant contribution to chemistry, what is the name of the scientist who developed the Periodic Table?",
+            "answers": ["Dmitri Mendeleev", "Mendeleev"],
+            "used": "TRUE"
+        }
+    ],
+    [
+        {
+            "category": "Current Events",
+            "question": "Emerging as a prominent figure in college football, this quarterback started his career at the University of Oklahoma. He quickly made headlines during his freshman year before transferring to USC, where he continued to excel and won the Heisman Trophy in 2022. In 2024 he was selected as the first pick in the NFL Draft by the Chicago Bears. What is the name of this rising star in the sport?",
+            "answers": ["Caleb Williams"],
+            "used": "TRUE"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This reality television series, which first aired in 2002, features a single man starting with a pool of romantic interests from whom he is expected to select a wife. Over multiple weeks, he dates the candidates, with eliminations based on rose ceremonies, leading to home visits and ultimately, marriage proposals. Known for its dramatic rose ceremonies and often controversial outcomes, this show has spawned numerous spin-offs and international versions. What is the name of this long-running series that has become a cultural phenomenon in the realm of dating shows?",
+            "answers": ["The Bachelor"],
+            "used": "TRUE"
+        },
+        {
+            "category": "World History",
+            "question": "This figure rose to power after leading a successful revolution in 1959 that overthrew the Batista regime. His policies transformed his nation into the first communist state in the Western Hemisphere. His tenure was marked by significant tensions with the United States, including the infamous Bay of Pigs Invasion and the Cuban Missile Crisis. Known for his long speeches and iconic military-style attire, he remained a controversial global figure until his death in 2016. Who is this revolutionary leader?",
+            "answers": ["Fidel Castro"],
+            "used": "TRUE"
+        },
+        {
+            "category": "Sports",
+            "question": "This American figure has made a significant impact both as a professional wrestler and as an actor. Known for his time in WWE, where his catchphrase \"You can't see me\" became iconic, he has won multiple championships and is recognized for his charismatic persona and philanthropy, especially his record number of wishes granted for the Make-A-Wish Foundation. Transitioning into acting, he has appeared in films like \"Trainwreck\" and \"Bumblebee,\" showcasing his versatility beyond the ring. What is the name of this influential entertainer who has successfully crossed over from sports entertainment to mainstream cinema?",
+            "answers": ["John Cena"],
+            "used": "TRUE"
+        },
+        {
+            "category": "US History",
+            "question": "Organized by Elizabeth Cady Stanton and Lucretia Mott, this 1848 gathering marked the beginning of the organized women's suffrage movement in America. It took place in a small New York town and produced a pivotal document known as the Declaration of Sentiments, which asserted the equality of men and women and demanded women's suffrage among other rights. What is the name of this historic convention?",
+            "answers": ["Seneca Falls Convention", "Seneca Falls"],
+            "used": "TRUE"
+        },
+        {
+            "category": "Science",
+            "question": "Discovered by Alexander Fleming in 1928, this substance marked the beginning of the antibiotic era, revolutionizing the treatment of bacterial infections. Derived from the Penicillium mold, it was the first antibiotic to successfully combat diseases such as syphilis, gangrene, and tuberculosis. Its development significantly decreased the death rate in World War II by treating infected wounds. What is the name of this groundbreaking antibiotic?",
+            "answers": ["Penicillin"],
+            "used": "TRUE"
+        },
+        {
+            "category": "Geography",
+            "question": "Known for its profound influence on classical music, this capital city has been home to legendary composers such as Mozart, Beethoven, and Schubert. Renowned for its architectural beauty, it features iconic structures like the Sch\u00f6nbrunn Palace and St. Stephen's Cathedral. Additionally, this city is famous for its historic coffee house culture, which has been recognized by UNESCO as an intangible cultural heritage. What is the name of this culturally rich European city?",
+            "answers": ["Vienna Austria", "Vienna"],
+            "used": "TRUE"
+        },
+        {
+            "category": "Arts & Literature",
+            "question": "This epic poem details the protagonist's ten-year journey home to Ithaca after the fall of Troy, where he encounters numerous obstacles including the Cyclops, the Sirens, and the wrath of Poseidon. Meanwhile, his wife, Penelope, and son, Telemachus, deal with suitors attempting to take over his kingdom. This work attributed to the ancient Greek poet Homer, a sequel to \"The Iliad,\" is considered a seminal piece in Western literature. What is the name of this classic narrative?",
+            "answers": ["The Odyssey"],
+            "used": "TRUE"
+        }
+    ],
+    [
+        {
+            "category": "Current Events",
+            "question": "This major Christian holiday marks the culmination of the Passion of Christ, preceded by Lent, a 40-day period of fasting, prayer, and penance. Its date varies each year, determined by the lunar calendar to fall on the first Sunday after the first full moon occurring on or after the vernal equinox. Celebrated with traditions such as egg hunts and a festive bunny, it commemorates a pivotal event: the resurrection of Jesus Christ. What is the name of this holiday?",
+            "answers": ["Easter"],
+            "used": "TRUE"
+        },
+        {
+            "category": "US History",
+            "question": "This pivotal document took effect on January 1, 1863. It declared that all enslaved people in Confederate-held territory were to be set free, fundamentally shifting the war\u2019s focus to include the abolition of slavery as a Union goal alongside reunification. Although it didn\u2019t immediately free all slaves, it was a crucial step towards the abolition of slavery and paved the way for the Thirteenth Amendment. What is the name of this historic proclamation?",
+            "answers": ["Emancipation Proclamation"],
+            "used": "TRUE"
+        },
+        {
+            "category": "Geography",
+            "question": "Nestled between the imposing Table Mountain and the confluence of the Atlantic and Indian Oceans, this city is known for its stunning natural landscapes and vibrant cultural scene. It is one of South Africa's three capital cities, specifically serving as the legislative center. Notable landmarks include the historic Robben Island, where Nelson Mandela was imprisoned, and the colorful houses of the Bo-Kaap district. What is the name of this picturesque city at the southern tip of Africa?",
+            "answers": ["Cape Town", "Cape Town South Africa"],
+            "used": "TRUE"
+        },
+        {
+            "category": "World History",
+            "question": "Beginning in 1789, this pivotal event marked a period of radical social and political upheaval in a large European nation. It led to the downfall of the monarchy, rise of the Republic, and a series of successive revolutionary governments. Key symbols include the storming of the Bastille and the adoption of the Declaration of the Rights of Man and of the Citizen. What is the name of this historic period in French history?",
+            "answers": ["French Revolution"],
+            "used": "TRUE"
+        },
+        {
+            "category": "Sports",
+            "question": "This former professional cyclist became famous worldwide for winning the Tour de France seven consecutive times from 1999 to 2005, a feat unmatched in the history of the sport. However, his career later became overshadowed by one of the most significant doping scandals in sports, leading to his titles being stripped and his being banned from competitive cycling for life. Known for his cancer survival and founding of a cancer support foundation, what is the name of this controversial athlete?",
+            "answers": ["Lance Armstrong"],
+            "used": "TRUE"
+        },
+        {
+            "category": "Science",
+            "question": "Launched by NASA in the late 1970s, these twin spacecraft were designed to explore the outer planets and then continue on to study the outer limits of the Sun's influence. Their missions have provided humanity with close-up photos of Jupiter, Saturn, Uranus, and Neptune, vastly expanding our knowledge of these systems and the outer solar system. Remarkably, both probes have now entered interstellar space, sending back valuable data about the heliosphere and beyond. What is the collective name of these pioneering space probes?",
+            "answers": ["Voyager"],
+            "used": "TRUE"
+        },
+        {
+            "category": "Arts & Literature",
+            "question": "Written when the author was just 16 years old and published in 1967, this novel is a pivotal piece of adolescent literature that captures the intense class struggles between two rival groups, the Greasers and the Socs, in 1960s Oklahoma. The story is told through the perspective of Ponyboy Curtis, a young Greaser who navigates the challenges of violence, class conflict, and growing up. What is the title of this influential novel by S.E. Hinton?",
+            "answers": ["The Outsiders"],
+            "used": "TRUE"
+        },
+        {
+            "category": "Entertainment",
+            "question": "Released in 1986, this groundbreaking music video features a blend of claymation, pixilation, and stop-motion animation, creating a visually stunning and innovative experience. It was made for a song by Peter Gabriel and won a record nine MTV Video Music Awards, a record that still stands. The video is often celebrated for its creativity and technical achievements in animation, helping to set a new standard for the art form in the music industry. What is the name of this iconic music video, known for its pioneering visual effects and animation techniques?",
+            "answers": ["Sledgehammer"],
+            "used": "TRUE"
+        }
+    ],
+    [
+        {
+            "category": "Current Events",
+            "question": "This Russian opposition leader and anti-corruption activist was known for his vocal criticism of the Kremlin and President Vladimir Putin. He organized large-scale demonstrations and utilized social media and YouTube to expose corruption and mobilize public dissent. In 2020, he was the victim of a high-profile poisoning attack, which he survived and attributed to Russian government agents. What is the name of this prominent figure in contemporary Russian politics who died in 2024 after being confined in a Russian prison since 2021?",
+            "answers": ["Alexey Navalny"],
+            "used": "TRUE"
+        },
+        {
+            "category": "Geography",
+            "question": "Known for its rich history that traces back to the Aztec Empire, this city features landmark sites like the Z\u00f3calo plaza and the ancient ruins of Tenochtitl\u00e1n. It boasts an impressive array of museums, including the Frida Kahlo Museum and the National Museum of Anthropology, and is celebrated for its culinary delights, particularly tacos and tamales. Serving as the capital of Mexico, what is the name of this vibrant metropolitan area?",
+            "answers": ["Mexico City", "Mexico DF"],
+            "used": "TRUE"
+        },
+        {
+            "category": "US History",
+            "question": "This American political figure represented West Virginia in the U.S. Senate for over 51 years, making him the longest-serving Senator in history. Initially elected to the House of Representatives in 1952 and then to the Senate in 1958, he held his Senate seat until his death in 2010. Early in his career, he was a member of the Ku Klux Klan, a fact he later said he regretted and spent much of his career attempting to atone for. He also served as the Senate Majority Leader at various times during the 1970s and 1980s. What is the name of this influential senator?",
+            "answers": ["Robert Byrd"],
+            "used": "TRUE"
+        },
+        {
+            "category": "World History",
+            "question": "Initiated by the February Revolution which led to the abdication of Tsar Nicholas II, this transformative period in 1917 resulted in major political upheaval. The Bolsheviks, led by Lenin, seized power in the subsequent October Revolution, marking the rise of the Soviet Union and the end of the Romanov dynasty. This series of events significantly impacted global politics throughout the 20th century. What is the name of this pivotal period in Russian history?",
+            "answers": ["Russian Revolution"],
+            "used": "TRUE"
+        },
+        {
+            "category": "Science",
+            "question": "This private aerospace manufacturer and space transport services company, established in 2002, has been a pioneer in the development of reusable rockets. Among its achievements are being the first privately funded entity to send a liquid-fueled rocket to orbit, successfully launch, orbit, and recover a spacecraft, and dispatch astronauts to the International Space Station. Founded with the ultimate goal of enabling Mars colonization, it was started by entrepreneur Elon Musk. What is the name of this company known for revolutionizing space travel?",
+            "answers": ["SpaceX"],
+            "used": "TRUE"
+        },
+        {
+            "category": "Sports",
+            "question": "Established in 1933, this professional American football team is part of the AFC North division in the NFL and is known for its deep-rooted history and passionate fan base. Holding the record for the most Super Bowl titles tied with another franchise, they are renowned for their tough, physical style of play. Famous for their black and gold colors, they play their home games at Acrisure Stadium, where fans are known for waving the iconic \"Terrible Towel.\" What is the name of this team, based in Pittsburgh, Pennsylvania?",
+            "answers": ["Pittsburgh Steelers", "Steelers"],
+            "used": "TRUE"
+        },
+        {
+            "category": "Arts & Literature",
+            "question": "This American novelist is renowned for her powerful narratives that explore the African American experience.  In 1993, she became the first African American woman to win the Nobel Prize in Literature, celebrated for her epic themes and vivid dialogue. She won the Pulitzer Prize for her novel \"Beloved\" in 1988, a story about a mother and her daughter dealing with the haunting legacy of slavery. Her works often focus on issues of identity, race, and humanity. What is the name of this influential literary figure?",
+            "answers": ["Toni Morrison"],
+            "used": "TRUE"
+        },
+        {
+            "category": "Entertainment",
+            "question": "Released in 1939, this epic historical romance is set in the American South during the Civil War and Reconstruction era. It follows the turbulent life of Scarlett O'Hara, the spirited daughter of a plantation owner, and her romantic entanglements with Ashley Wilkes and Rhett Butler. Known for its sweeping narrative and complex characters, this film won multiple Academy Awards, including Best Picture. It remains one of the highest-grossing films of all time when adjusted for inflation. What is the title of this classic film, famous for its line, \"Frankly, my dear, I don't give a damn\"?",
+            "answers": ["Gone with the Wind"],
+            "used": "TRUE"
+        }
+    ],
+    [
+        {
+            "category": "Entertainment",
+            "question": "Debuting in 2007, this reality television series provides an intimate look into the lives of a high-profile family, chronicling their personal and professional dramas. Known for its influence on pop culture and social media, the show features sisters Kim, Khlo\u00e9, and Kourtney, along with their half-sisters Kendall and Kylie. It has spawned numerous spin-offs and remained a staple in reality TV for over a decade. What is the name of this long-running series that tracks the day-to-day activities of the Kardashian-Jenner family?",
+            "answers": ["Keeping Up with the Kardashians", "Kardashians"],
+            "used": "TRUE"
+        },
+        {
+            "category": "Sports",
+            "question": "This former NFL wide receiver largely played for the Minnesota Vikings and New England Patriots. Known for his impressive vertical leap and speed, he set the single-season touchdown reception record as a rookie in 1998 and later broke his own record in 2007 with 23 touchdown receptions. What is the name of this Hall of Fame wide receiver known for setting remarkable receiving records?",
+            "answers": ["Randy Moss"],
+            "used": "TRUE"
+        },
+        {
+            "category": "Current Events",
+            "question": "Founded in 2006, this American social media platform is known for its microblogging service where users post and interact with messages. It has played a significant role in social movements and public discourse worldwide. In 2022 Elon Musk purchased this company and has since renamed it to \"X\". What is the name of this influential social media company which previously featured a blue bird in its logo?",
+            "answers": ["X", "Twitter"],
+            "used": "TRUE"
+        },
+        {
+            "category": "US History",
+            "question": "This battle featured significant engagements at locations like Little Round Top and Pickett's Charge. This 1863 battle was the conflict with the largest number of casualties in the U.S. Known as the turning point of the Civil War, it concluded with President Abraham Lincoln's famous address, which redefined the purpose of the war. Located in a small town in Pennsylvania, this battle marked a decisive defeat for the Confederacy. What is the name of this historic battle?",
+            "answers": ["Battle of Gettysburg", "Gettysburg"],
+            "used": "TRUE"
+        },
+        {
+            "category": "Arts & Literature",
+            "question": "This 20th century Colombian author is known for his seminal works in the magical realism genre. He was awarded the Nobel Prize in Literature in 1982 for his novels and short stories that combine the fantastic with the realistic in a richly composed world of imagination. His novel \"One Hundred Years of Solitude\" is acclaimed globally, weaving intricate family sagas with fantastical elements to reflect the political and social realities of Latin America. What is the name of this influential literary figure?",
+            "answers": ["Gabriel Garc\u00eda M\u00e1rquez"],
+            "used": "TRUE"
+        },
+        {
+            "category": "Science",
+            "question": "This scientific theory describes the large-scale motions of Earth's lithosphere, which is divided into several plates that glide over the mantle. Proposed in the early 20th century and gaining wide acceptance by the 1960s, this theory explains many aspects of geological phenomena, including earthquakes, volcanic activity, and continental drift. It also helps scientists understand the formation of mountain ranges and ocean trenches. What is the name of this fundamental theory that explains the dynamic nature of Earth's surface?",
+            "answers": ["Plate Tectonics", "tectonics"],
+            "used": "TRUE"
+        },
+        {
+            "category": "World History",
+            "question": "The first of these conflicts between China and Britain ended in 1842 with the Treaty of Nanking, and resulted in Hong Kong's cession to Britain and the opening of several Chinese ports to foreign merchants. The second war, from 1856 to 1860 and involving France alongside Britain, further expanded port access and led to significant treaty concessions. Central to the conflicts was the controversial trade of a narcotic substance. What is the collective term for these conflicts, named after the substance at their heart?",
+            "answers": ["Opium Wars"],
+            "used": "TRUE"
+        },
+        {
+            "category": "Geography",
+            "question": "Historically, this desert has been the habitat for nomadic Bedouin tribes, adapting to life in these challenging conditions. Covering much of the Arabian Peninsula, this desert is one of the largest continuous sand deserts in the world. It features a harsh, arid climate with sand dunes that can reach significant heights. The area is known for its extreme temperatures, which can plummet at night after soaring during the day. What is the name of this expansive desert region?",
+            "answers": ["The Arabian Desert", "Arabian"],
+            "used": "TRUE"
+        }
+    ],
+    [
+        {
+            "category": "Science",
+            "question": "Discovered and isolated by Scottish physician Daniel Rutherford in 1772, this diatomic gas constitutes about 78% of the Earth's atmosphere and is essential for all living organisms, being a primary component of amino acids in proteins. It is also utilized in various industrial processes, such as ammonia production and as a coolant for sensitive equipment. What is the name of this colorless, odorless element that is the most abundant in our atmosphere?",
+            "answers": ["Nitrogen"],
+            "used": "TRUE"
+        },
+        {
+            "category": "Current Events",
+            "question": "This surprise double album broke Spotify's single-day streaming record upon release. It explores its author's psyche and personal experiences, and features collaborations with Jack Antonoff and Aaron Dessner. It is the eleventh studio album by an acclaimed singer-songwriter who recently embarked on her Eras Tour. This album was released on April 19, 2024 and contains 31 songs across two volumes. What is the title of this record-breaking release by Taylor Swift?",
+            "answers": [
+                "The Tortured Poets Department",
+                "dead poets department"
+            ],
+            "used": "TRUE"
+        },
+        {
+            "category": "Geography",
+            "question": "Forming the northern boundary of the Pacific Ring of Fire, this chain of islands is noted for its active volcanoes and rugged terrain. The archipelago has historical significance due to battles fought on its soil during World War II\u2014the only such battles on U.S. soil against Japan. Additionally, these islands play a crucial role in the migratory paths of various marine animals and host a unique blend of wildlife. Stretching from the Alaskan Peninsula to Russia, what is the name of this island chain?",
+            "answers": ["The Aleutian Islands", "Aleutian Islands"],
+            "used": "TRUE"
+        },
+        {
+            "category": "US History",
+            "question": "This island was the site of a prominent Native American protest from 1969 to 1971, highlighting Indigenous rights. Before that in 1934, it was converted into a federal prison designed to detain the most troublesome inmates, including notable figures like Al Capone and the \"Birdman\" Robert Stroud.  Managed by the National Park Service, this island attracts over a million visitors each year and is known for its historic lighthouse and military prison facilities. What is this island, often referred to as \"The Rock,\" located in San Francisco Bay?",
+            "answers": ["Alcatraz"],
+            "used": "TRUE"
+        },
+        {
+            "category": "World History",
+            "question": "This battle is famously depicted in the Bayeux Tapestry, which chronicles the events leading up to and including this historical clash. In 1066, this decisive battle changed the course of English history when William the Conqueror, the Duke of Normandy, defeated King Harold II. This victory led to the Norman conquest of England, significantly influencing the English language, culture, and legal system. What is the name of this pivotal battle that established Norman rule in England?",
+            "answers": ["Battle of Hastings"],
+            "used": "TRUE"
+        },
+        {
+            "category": "Sports",
+            "question": "This Serbian tennis player has made a significant impact on the sport, consistently ranking among the world's top players since turning professional in 2003. Known for his exceptional athleticism and mental toughness, he has won numerous Grand Slam titles, holding records for the most Australian Open wins. His rivalry with contemporaries like Roger Federer and Rafael Nadal has been a defining feature of his career, contributing to what many consider the golden era of tennis. What is the name of this elite tennis player known for dominating the modern era of tennis?",
+            "answers": ["Novak Djokovic"],
+            "used": "TRUE"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This 2019 blockbuster is the culmination of over a decade of Marvel Cinematic Universe films, bringing together a vast array of characters to face the formidable villain Thanos in a final showdown. It follows the dramatic events of \"Avengers: Infinity War,\" where many heroes vanished due to Thanos' actions. Known for its epic battles and time-traveling narrative, it became the highest-grossing film of all time until 2021. What is the title of this Marvel Studios movie that serves as a grand finale to its first saga of films?",
+            "answers": ["Avengers: Endgame", "endgame"],
+            "used": "TRUE"
+        },
+        {
+            "category": "Arts & Literature",
+            "question": "Composed in Iceland during the 13th century by the historian, poet, and politician Snorri Sturluson, this collection of Old Norse poems and tales is a primary source for modern knowledge of Norse mythology. It serves not only as a manual for aspiring poets, describing the poetic meter of the time, but also details the mythology and stories that were foundational to Norse culture, including the creation of the world and the tales of gods like Odin and Thor. What is the name of this crucial text that preserves much of what we know about Norse mythology and medieval Scandinavian literature?",
+            "answers": ["The Prose Edda"],
+            "used": "TRUE"
+        }
+    ],
+    [
+        {
+            "category": "US History",
+            "question": "Coined by Mark Twain, this term describes a period in U.S. history from the 1870s to about 1900, marked by rapid industrialization and economic growth, alongside stark income inequality and political corruption. Notable figures like John D. Rockefeller and Andrew Carnegie amassed fortunes, while the railroads, steel, and oil industries boomed. Despite its prosperous facade, the era was rife with underlying social issues. What is the name of this period in American history?",
+            "answers": ["Gilded Age"],
+            "used": "TRUE"
+        },
+        {
+            "category": "World History",
+            "question": "This rebellion was initiated by a secret society known for practicing martial arts, and the movement aimed to oust imperialist foreigners and restore Chinese sovereignty. The rebellion resulted in the Eight-Nation Alliance invading Beijing to suppress the uprising and relieve besieged foreign embassies. The aftermath included harsh reparations imposed on China, exacerbating the decline of the Qing Dynasty. What is the name this violent anti-foreign and anti-Christian uprising which occurred in China between 1899 and 1901?",
+            "answers": [
+                "Boxer Rebellion",
+                "Boxer Uprising",
+                "Boxer Insurrection",
+                "Yihetuan Movement"
+            ],
+            "used": "TRUE"
+        },
+        {
+            "category": "Science",
+            "question": "Discovered first in 1940 by chemists Glenn T. Seaborg, Edwin McMillan, Joseph W. Kennedy, and Arthur Wahl, these synthetic elements are produced artificially in nuclear reactors or particle accelerators. With atomic numbers greater than 92, which is that of uranium, they are not found naturally. This group includes well-known elements such as neptunium and plutonium. What is the collective term for these artificially created elements?",
+            "answers": ["Transuranium Elements", "Transuranium"],
+            "used": "TRUE"
+        },
+        {
+            "category": "Sports",
+            "question": "Known for his remarkable longevity and performance in the NFL, this quarterback has won seven Super Bowl titles, more than any other player in league history. He spent the first 20 seasons of his career with the New England Patriots, where he became synonymous with the team's dynasty, before moving to the Tampa Bay Buccaneers and securing another championship. Renowned for his precision passing and clutch performances in critical moments, he has secured multiple MVP awards and numerous Super Bowl MVP titles. What is the name of this iconic football player?",
+            "answers": ["Tom Brady"],
+            "used": "TRUE"
+        },
+        {
+            "category": "Current Events",
+            "question": "Founded in 2003, this American company is named after a Serbian-American inventor and is known for its innovative electric vehicles and renewable energy products. Under the leadership of its prominent CEO, it became the first electric car manufacturer to produce a fully electric luxury sedan, the Model S, which has received numerous awards for safety and performance. This company introduced the \"Cybertruck\" and hopes to one day have autonomous taxis. Name this company led by Elon Musk.",
+            "answers": ["Tesla"],
+            "used": "TRUE"
+        },
+        {
+            "category": "Geography",
+            "question": "Known for its modern skyline dominated by the iconic Petronas Twin Towers, once the tallest buildings in the world, this city is a cultural melting pot with a diverse culinary scene and vibrant neighborhoods like Chinatown and Little India. It's also a major global tourism and retail hub, featuring numerous shopping districts and hosting an iconic Fashion Week. Serving as the capital of Malaysia, what is the name of this bustling metropolis in Southeast Asia?",
+            "answers": ["Kuala Lumpur"],
+            "used": "TRUE"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This iconic television series, which first aired in 1989, became famous for its scenes of lifeguards patrolling the sunny beaches of California. Known for its red swimsuits and slow-motion running shots, the show focused on the personal and professional lives of a team of lifeguards led by the character Mitch Buchannon. It gained international fame, becoming one of the most watched TV shows globally during the 1990s. What is the name of this series that became synonymous with beach lifeguard drama?",
+            "answers": ["Baywatch"],
+            "used": "TRUE"
+        },
+        {
+            "category": "Arts & Literature",
+            "question": "Emerging in the late 16th century in Italy and spreading across Europe, this architectural style is characterized by its dramatic use of light and shadow, expansive ornate structures, and a focus on motion and emotion. Notable for its intricate details and grandeur, it often features large-scale ceiling frescoes, twisted columns, and extensive use of gold. Key examples include the Palace of Versailles in France and St. Peter's Basilica in Rome. What is the name of this exuberant style that dominated European architecture and art through the 17th and early 18th centuries?",
+            "answers": ["Baroque"],
+            "used": "TRUE"
+        }
+    ],
+    [
+        {
+            "category": "Entertainment",
+            "question": "This iconic American singer, songwriter, and dancer first gained fame as a member of the Jackson 5 and then soared to unprecedented heights with his solo career. His 1982 album featured hits like \"Billie Jean\" and \"Beat It.\" He won numerous Grammy Awards throughout his career, including a record-breaking eight Grammys in one night for \"Thriller.\" What is the name of this legendary entertainer often referred to as the \"King of Pop\"?",
+            "answers": ["Michael Jackson"],
+            "used": "TRUE"
+        },
+        {
+            "category": "Arts & Literature",
+            "question": "This British writer and scholar, born in 1898, was a noted Christian apologist and a member of the Inklings, a literary discussion group at Oxford, alongside J.R.R. Tolkien. He used his academic background in literature to explore and defend his faith through works like \"Mere Christianity.\" He is best known for creating \"The Chronicles of Narnia,\" a series of seven beloved fantasy novels. What is the name of this influential author and theologian?",
+            "answers": ["C.S. Lewis", " CS Lewis"],
+            "used": "TRUE"
+        },
+        {
+            "category": "Current Events",
+            "question": "This Jewish holiday commemorates the Biblical story of Exodus, where Hebrew slaves were freed from bondage in Egypt. According to the narrative, the Israelites were instructed to mark the doorposts of their homes with the blood of a slaughtered spring lamb so that the spirit of the Lord knew to pass over these homes, hence the name of the holiday. Traditionally observed for eight days by many Jewish communities, it involves rituals such as the Seder meal, which includes reading from the Haggadah, eating matzah, and other symbolic foods. What is the name of this holiday that begins on the 15th of the Hebrew month of Nissan?",
+            "answers": ["Passover"],
+            "used": "TRUE"
+        },
+        {
+            "category": "Geography",
+            "question": "Spanning several countries in southern Africa, this vast semi-arid sandy savanna is known for its red sand, sparse vegetation, and diverse wildlife, including meerkats and the famous black-maned lions. Despite its dry conditions, it supports more animal and plant life than a true desert. The region is also home to the indigenous San people, who have adapted traditional techniques to survive its harsh environment. What is the name of this desert that stretches across Botswana, parts of Namibia, and South Africa?",
+            "answers": ["The Kalahari Desert", "Kalahari"],
+            "used": "TRUE"
+        },
+        {
+            "category": "Sports",
+            "question": "This Belgian former professional cyclist, often hailed as the most accomplished rider in the history of the sport, won the Tour de France five times during his career in the late 1960s and early 1970s. His dominance extended beyond France into the Giro d'Italia, which he also won five times, and he achieved a record 34 stage wins in the Tour de France. Known for his nickname \"The Cannibal\" due to his relentless competitive drive, what is the name of this legendary cyclist?",
+            "answers": ["Eddy Merckx"],
+            "used": "TRUE"
+        },
+        {
+            "category": "World History",
+            "question": "Initiated by the Latin Church in the medieval period, these campaigns aimed to reclaim Jerusalem and other holy lands from Muslim control, beginning in the late 11th century and lasting until the late 13th century. Over time, the objectives expanded to encompass various political, economic, and territorial motives. Significantly shaping Christian and Muslim relations, these events had a profound impact on the geography and politics of the Middle East. What is the general term for these historical campaigns?",
+            "answers": ["The Crusades", "Crusades"],
+            "used": "TRUE"
+        },
+        {
+            "category": "Science",
+            "question": "Triggered by various events such as undersea earthquakes, volcanic eruptions, underwater landslides, or meteorite impacts, these high-energy sea waves can cause catastrophic damage when they reach coastal areas. Notably, the 2004 Indian Ocean event highlighted the critical need for early warning systems to prevent disasters. What is the term used to describe these powerful series of ocean waves?",
+            "answers": ["Tsunami"],
+            "used": "TRUE"
+        },
+        {
+            "category": "US History",
+            "question": "This project was initiated in response to fears that Nazi Germany would develop nuclear weapons first. It began in 1942 and involved some of the greatest scientific minds of the time, including Robert Oppenheimer and Enrico Fermi. It led to the development and testing of the first nuclear weapons in Los Alamos, New Mexico. The culmination of this project was the dropping of atomic bombs on Hiroshima and Nagasaki in 1945, significantly impacting the conclusion of World War II. What is the name of this pivotal scientific and military project?",
+            "answers": ["Manhattan project"],
+            "used": "TRUE"
+        }
+    ]
+]
