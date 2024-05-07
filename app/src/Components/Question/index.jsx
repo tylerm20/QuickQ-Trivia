@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from "react";
+import React, { useState, useEffect, useRef } from "react";
 import "./style.css";
 import { getEmojiForCategory } from "../../utils";
 import { CATEGORY_COLOR_MAP } from "../../constants";
@@ -10,9 +10,12 @@ const Question = ({
     question,
     questionNumber,
     showWholeQuestion,
+    shouldShowCorrectOrIncorrectAnimation,
+    userAnswerCorrect,
 }) => {
     const [displayedQuestion, setDisplayedQuestion] = useState("");
     const [charactersShowing, setCharactersShowing] = useState(0);
+    const correctOrIncorrectAnimationRef = useRef(null);
 
     useEffect(() => {
         // Reset displayed question when the question or showWholeQuestion changes
@@ -62,6 +65,16 @@ const Question = ({
                     {category}
                 </span>{" "}
                 {getEmojiForCategory(category)}
+            </div>
+            <div
+                ref={correctOrIncorrectAnimationRef}
+                className={`CorrectOrIncorrectAnimation ${shouldShowCorrectOrIncorrectAnimation ? "visible" : ""}`}
+            >
+                {userAnswerCorrect ? (
+                    <span className="CorrectAnimation">Correct</span>
+                ) : (
+                    <span className="IncorrectAnimation">Incorrect</span>
+                )}
             </div>
             <div className="QuestionText">
                 {showWholeQuestion ? question : displayedQuestion}

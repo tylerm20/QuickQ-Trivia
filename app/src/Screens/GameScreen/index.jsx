@@ -34,6 +34,8 @@ const GameScreen = ({
         useState(BUZZ_SECONDS);
     const [questionTime, setQuestionTime] = useState(0);
     const [showSettingsModal, setShowSettingsModal] = useState(false);
+    const [showCorrectOrIncorrect, setShowCorrectOrIncorrect] = useState(false);
+    const [userAnswerCorrect, setUserAnswerCorrect] = useState(false);
 
     const finishGame = () => {
         setScreenShowing(screens.finish);
@@ -195,13 +197,15 @@ const GameScreen = ({
         let localScore = score;
         setUserAnswer(userAnswer);
         questionResult["userAnswer"] = userAnswer;
-        if (checkAnswer(userAnswer)) {
+        const isCorrect = checkAnswer(userAnswer);
+        if (isCorrect) {
             localScore += 1;
             setScore(localScore);
-            questionResult["isCorrect"] = true;
+            questionResult["isCorrect"] = isCorrect;
         } else {
-            questionResult["isCorrect"] = false;
+            questionResult["isCorrect"] = isCorrect;
         }
+        showCorrectOrIncorrectAnimation(isCorrect);
         questionResult["skipped"] = userSkipped;
         questionResult["time"] = questionTime;
         questionResult["category"] = getQuestionCategory();
@@ -212,6 +216,16 @@ const GameScreen = ({
         setBuzzSecondsRemaining(BUZZ_SECONDS);
         questionResults.push(questionResult);
         updateCurrentResults(localScore);
+    };
+
+    const showCorrectOrIncorrectAnimation = (isCorrect) => {
+        setUserAnswerCorrect(isCorrect);
+        setShowCorrectOrIncorrect(true);
+
+        // Fade out after a delay
+        setTimeout(() => {
+            setShowCorrectOrIncorrect(false);
+        }, 1000);
     };
 
     useEffect(() => {
@@ -285,6 +299,10 @@ const GameScreen = ({
                     question={getQuestionText()}
                     questionNumber={currentQuestionIndex + 1}
                     showWholeQuestion={showWholeQuestion}
+                    shouldShowCorrectOrIncorrectAnimation={
+                        showCorrectOrIncorrect
+                    }
+                    userAnswerCorrect={userAnswerCorrect}
                 />
             </div>
             <div className="BottomRow">{getBottomRowContent()}</div>

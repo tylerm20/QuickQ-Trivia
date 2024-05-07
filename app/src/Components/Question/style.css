@@ -17,3 +17,31 @@
 .Category {
     color: var(--dark-purple);
 }
+
+.CorrectOrIncorrectAnimation {
+    position: fixed; /* Ensures the element stays in place even when scrolling */
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 10;
+    transition: opacity 0.3s ease; /* Adjust transition duration as needed */
+    opacity: 0;
+    font-size: 40px;
+    background-color: rgb(238, 238, 238, 0.5);
+    padding: 10px;
+    border-radius: 10px;
+    font-weight: bold;
+    font-family: futura;
+}
+
+.CorrectOrIncorrectAnimation.visible {
+    opacity: 1;
+}
+
+.CorrectAnimation {
+    color: var(--green);
+}
+
+.IncorrectAnimation {
+    color: var(--red);
+}
