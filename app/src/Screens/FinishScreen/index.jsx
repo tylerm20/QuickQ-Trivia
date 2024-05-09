@@ -46,6 +46,11 @@ const FinishScreen = ({
                               ? NEXT_TRACK_EMOJI_HTML
                               : RED_X_EMOJI_HTML}
                     </div>
+                    {!result.isCorrect && (
+                        <div>
+                            Answer: <b>{questions[i - 1].answers[0]}</b>
+                        </div>
+                    )}
                     <div>
                         {CLOCK_EMOJI_HTML} {result.time} sec
                     </div>
