@@ -1414,6 +1414,529 @@
     ],
     [
         {
+            "category": "World History",
+            "question": "This medieval ruler, known as the \"Father of Europe,\" was king of the Franks and later crowned Emperor of the Romans, a title that revitalized the concept of a united Western Europe since the fall of the Roman Empire. His reign, beginning in the late 8th century, was marked by numerous military campaigns that expanded his kingdom to cover much of Western and Central Europe. He was a patron of the arts and education, initiating what would later be called the Carolingian Renaissance, a period of cultural and intellectual revival. What is the name of this emperor who significantly shaped European history and laid the foundations for modern European states?",
+            "answers": ["Charlemagne"],
+            "used": "TRUE"
+        },
+        {
+            "category": "Sports",
+            "question": "Founded in 1899, this esteemed football club from Spain, is celebrated for its rich history, distinctive blue and garnet striped jerseys, and a philosophy deeply rooted in attractive, attacking football. Known for their motto \"M\u00e9s que un club\" (More than a club), they are a symbol of Catalan pride and culture. The club has achieved immense success both domestically and internationally, including 27 La Liga titles and 5 UEFA Champions League trophies. Their storied rivalry with Real Madrid in \"El Clasico\" is watched by millions around the world. What is the name of this iconic football club, famous for its youth academy, La Masia, which has produced many top-class players including Lionel Messi?",
+            "answers": ["FC Barcelona", "Barcelona"],
+            "used": "TRUE"
+        },
+        {
+            "category": "US History",
+            "question": "Known for his reassuring statement during America's Great Depression, \"The only thing we have to fear is fear itself,\" this influential American politician served as the 32nd President of the United States from 1933 until his death in 1945. He introduced the New Deal to combat the economic crisis and led the country through most of World War II, famously collaborating with Britain and the Soviet Union as part of the Allies. Holding office longer than any other U.S. president, he was also renowned for his fireside chats that bolstered national morale. What is the name of this president?",
+            "answers": [
+                "Franklin Delano Roosevelt",
+                "FDR",
+                "Franklin Roosevelt"
+            ],
+            "used": "TRUE"
+        },
+        {
+            "category": "Current Events",
+            "question": "This platform was originally named A.me but now goes by the name Douyin in China. It was released outside of China in September 2017 and merged with the app Musical.ly in 2018. The app now has over a billion users. It is owned by the Chinese company ByteDance and has come under scrutiny for connections with China's Communist Party. This trend-setting app allows users to share short form video content. Name this app which is the subject of legislation saying it must be sold to a U.S. based company or face a national ban.",
+            "answers": ["TikTok"],
+            "used": "TRUE"
+        },
+        {
+            "category": "Arts & Literature",
+            "question": "This surrealist painting is famed for its striking and bizarre images of soft, melting pocket watches. It depicts a dream-like scene in which time appears fluid and warped, reflecting the artist's interpretation of the relativity of space and time. The setting includes a desolate landscape that enhances the ethereal and surreal quality of the work. Created by Salvador Dal\u00ed in 1931, it is often seen as a symbol of the irrationality of the human mind, this painting is one of the most recognizable pieces of surrealist art. What is the name of this influential painting by Dal\u00ed, known for its unique interpretation of time?",
+            "answers": ["Persistence of Memory"],
+            "used": "TRUE"
+        },
+        {
+            "category": "Geography",
+            "question": "Known as the \"Land of 10,000 Lakes,\" this U.S. state is famous for its multitude of lakes and the scenic wilderness of its northern regions, including the Boundary Waters Canoe Area Wilderness. It is also home to the Mall of America, one of the largest shopping malls in the country, located in Bloomington. The state's vibrant cultural life is highlighted by the twin cities of Minneapolis and St. Paul, the latter serving as the state capital. What is the name of this northern state?",
+            "answers": ["Minnesota"],
+            "used": "TRUE"
+        },
+        {
+            "category": "Science",
+            "question": "Discovered in 1868 during a solar eclipse, this element is the second lightest and second most abundant in the observable universe, primarily formed from the nuclear fusion of hydrogen in stars. It is colorless, odorless, and inert, making it useful in cryogenics, particularly in the cooling of superconducting magnets, with applications in MRI scanners and NMR spectrometers. Unlike other gases, it does not solidify at standard atmospheric pressure, remaining a liquid down to absolute zero under normal conditions. What is the name of this noble gas, known for causing balloons to float when filled with it?",
+            "answers": ["Helium"],
+            "used": "TRUE"
+        },
+        {
+            "category": "Entertainment",
+            "question": "Released in 1967, this groundbreaking album by the British band The Beatles is often hailed as one of the greatest albums of all time. Known for its innovative production, complex music arrangements, and an eclectic mixture of musical styles, it marked a significant departure from the band's earlier pop sound. The album's cover, featuring the Beatles in colorful military-style costumes amid a collage of famous faces, has become iconic. It includes hits such as \"Lucy in the Sky with Diamonds\" and \"A Day in the Life.\" What is the name of this influential Beatles album that is celebrated for its pioneering approach to studio recording?",
+            "answers": [
+                "Sgt. Pepper's Lonely Hearts Club Band",
+                "sergeant pepper",
+                "sergeant pepper's lonely hearts club band",
+                "st pepper"
+            ],
+            "used": "TRUE"
+        }
+    ],
+    [
+        {
+            "category": "Current Events",
+            "question": "Held annually on the first Monday of May, this prestigious event is a major fundraising gala for the Costume Institute at the Metropolitan Museum of Art in New York City. Known for its exclusive guest list, extravagant outfits, and often provocative themes, it marks the opening of the Costume Institute's annual fashion exhibit. Each year, celebrities and designers collaborate to create elaborate fashion statements that align with the theme of the exhibit, making it one of the most notable nights in fashion. What is the name of this glamorous event, often dubbed as \"fashion's biggest night out\"?",
+            "answers": ["Met Gala"],
+            "used": "TRUE"
+        },
+        {
+            "category": "US History",
+            "question": "This influential U.S. president is known for his call to action, \"Ask not what your country can do for you\u2014ask what you can do for your country\"? He was instrumental in pivotal events such as the Cuban Missile Crisis, the advancement of the Civil Rights Movement, and the initiation of the Apollo space program. This man served as the 35th President of the United States from 1961 until his assassination in 1963. Name this President whose term was tragically cut short in Dallas, Texas. ",
+            "answers": ["John F Kennedy", "JFK", "J.F.K."],
+            "used": "TRUE"
+        },
+        {
+            "category": "Science",
+            "question": "This spiral galaxy, named after the constellation in which it resides, is the nearest major galaxy to the Milky Way and the largest galaxy in our local group. Approximately 2.5 million light-years away from Earth, it is on a collision course with our galaxy, with an expected merger occurring in about 4.5 billion years. Known for its bright appearance and visible to the naked eye under dark skies, this galaxy offers a glimpse into the dynamics of galaxy formation and evolution. What is the name of this galaxy, often studied for its proximity and similarities to our own Milky Way?",
+            "answers": ["Andromeda", "andromena"],
+            "used": "TRUE"
+        },
+        {
+            "category": "Arts & Literature",
+            "question": "First published in 1866, this seminal Russian novel delves into the moral dilemmas of Rodion Raskolnikov, a former student living in St. Petersburg who commits a murder under the pretense of a philosophical theory. The narrative explores his psychological turmoil and the ensuing consequences of his actions, addressing deep questions about morality, guilt, and redemption. Set against the backdrop of a grim 19th-century Russia, this work is celebrated for its psychological depth and its profound exploration of existential despair. What is the title of this classic novel written by Fyodor Dostoevsky that challenges the notion of moral justifiability of crime?",
+            "answers": ["Crime and Punishment"],
+            "used": "TRUE"
+        },
+        {
+            "category": "Entertainment",
+            "question": "Premiering in 2002, this critically acclaimed television series created by David Simon offers a gritty, realistic exploration of life in Baltimore, Maryland. The show extends over five seasons, each focusing on a different facet of the city from the drug trade and the port system to the city government and schools. The show featured characters called Omar and Stringer played by Michael Kenneth Williams and Idris Elba respectively. What is the name of this TV show renowned for its in-depth look at the interconnectedness of society\u2019s different layers?",
+            "answers": ["The Wire"],
+            "used": "TRUE"
+        },
+        {
+            "category": "World History",
+            "question": "This Russian tsar, known for his extensive reforms aimed at modernizing Russia, ruled from the late 17th century into the early 18th century. His efforts to transform Russian society included the introduction of Western technologies and industries, the reorganization of the Russian military, and the establishment of a new capital, St. Petersburg, which was intended to serve as a \"window to the West.\" What is the name of this towering figure in Russian history, celebrated for his drive to establish Russia as a major European power?",
+            "answers": ["Peter the Great"],
+            "used": "TRUE"
+        },
+        {
+            "category": "Sports",
+            "question": "This professional ice hockey team joined the NHL in 1967 as part of the league's expansion. Known for their black and gold colors, they have won 5 Stanley Cup championships, largely due to the contributions of legendary players like Mario Lemieux and Sidney Crosby. The team has a passionate fan base and plays its home games at PPG Paints Arena. Their successful periods in the early 1990s and late 2000s to early 2010s have cemented their status as a dominant force in the NHL. What is the name of this NHL franchise based in Pittsburgh, Pennsylvania, renowned for its resilience and championship pedigree?",
+            "answers": ["Pittsburgh Penguins", "Penguins"],
+            "used": "TRUE"
+        },
+        {
+            "category": "Geography",
+            "question": "This U.S. state, one of the original Thirteen Colonies, is located in the northeastern region known as New England. It has a significant place in early American history, often referred to by its nickname \"The Constitution State,\" due to its Fundamental Orders of 1638-1639, considered by some as the first written constitution that created a government. Known for its blend of coastal cities and rural areas dotted with small towns, it has a strong maritime tradition and is a leader in industries such as finance and insurance. What is the name of this state, home to the prestigious Yale University and recognized for its high standard of living?",
+            "answers": ["Connecticut"],
+            "used": "TRUE"
+        }
+    ],
+    [
+        {
+            "category": "Arts & Literature",
+            "question": "Created by Norwegian artist Edvard Munch in 1893, this expressionist painting is known for its intense and emotional depiction of a figure against a blood-red sky. The central figure is portrayed in a moment of existential angst and despair, with an agonized expression that has become iconic. The background of a tumultuous sky over a blue-black fjord adds to the drama of the scene. This artwork is widely recognized as a symbol of human anxiety. What is the name of this powerful painting that captures a profound sense of dread and perception of the modern world?",
+            "answers": ["The Scream"],
+            "used": "TRUE"
+        },
+        {
+            "category": "US History",
+            "question": "In 1804, these two explorers embarked on a historic expedition commissioned by President Thomas Jefferson following the Louisiana Purchase. Their journey aimed to map the newly acquired territories, establish trade with Native American tribes, and find a practical route across the western half of the continent to the Pacific Ocean. Assisted significantly by Sacagawea, a Lemhi Shoshone woman, they provided valuable geographical and scientific data that contributed to the expansion of the United States. What is the collective name of this duo known for their pioneering expedition to the western United States?",
+            "answers": [
+                "Lewis & Clark",
+                "Lewis and Clark",
+                "Lewis and Clark expedition",
+                "Corps of Discovery Expedition"
+            ],
+            "used": "TRUE"
+        },
+        {
+            "category": "Sports",
+            "question": "During this player's illustrious NHL career, which spanned from 1979 to 1999, he set records that still stand, including most points in a season and most career goals, assists, and points. He won four Stanley Cups with the Edmonton Oilers in the 1980s and earned the Hart Trophy as the league's most valuable player an unprecedented nine times. His number, 99, has been retired across the NHL in his honor. Known as \"The Great One,\" this Canadian athlete is widely considered the greatest hockey player of all time. What is the name of this legendary ice hockey player whose exceptional skill and sportsmanship elevated the entire sport?",
+            "answers": ["Wayne Gretsky"],
+            "used": "TRUE"
+        },
+        {
+            "category": "Current Events",
+            "question": "This organization was founded by Ahmed Yassin in 1987 after the outbreak of the First Intifada against the Israeli occupation. The group was designated as a terrorist organisation in 1995 by the United States. In 2006 the group won the Palestinian legislative election and has governed the Israeli-occupied Gaza Strip since 2007. The group made headlines in 2023 for carrying out terrorist attacks and kidnapping individuals in Israel on October 7. Name this organization whose attack started a hot war between this organization and the Israeli government.",
+            "answers": ["Hamas"],
+            "used": "TRUE"
+        },
+        {
+            "category": "Geography",
+            "question": "This U.S. state, one of the original Thirteen Colonies, played a significant role in the American Revolution and was the first state to secede from the Union in the lead-up to the Civil War. Known for its subtropical beaches and marshlike sea islands, it is also home to historic cities like Charleston, famous for its well-preserved architecture and rich history as a major slave trading port. The state's economy historically relied on agriculture, but has diversified into manufacturing and tourism. What is the name of this state, also noted for being the site of the first shots fired in the Civil War at Fort Sumter?",
+            "answers": ["South Carolina"],
+            "used": "TRUE"
+        },
+        {
+            "category": "Entertainment",
+            "question": "Debuting in 1989, this animated sitcom created by Matt Groening is set in the fictional town of Springfield and follows the lives of a family. Known for its satirical take on American culture, society, television, and many aspects of the human condition, it has become one of the longest-running shows in television history. The series is celebrated for its colorful array of characters and clever humor. What is the name of this iconic TV show that features the characters Homer, Marge, Bart, Lisa, and Maggie?",
+            "answers": ["The Simpsons"],
+            "used": "TRUE"
+        },
+        {
+            "category": "World History",
+            "question": "This Macedonian king, born in 356 BC, was one of history\u2019s most successful military commanders. By the age of 30, he had created one of the largest empires of the ancient world, stretching from Greece to northwestern India. He was never defeated in battle, leveraging his formidable tactical abilities and the military innovations of the Macedonian phalanx. His legacy includes the spread of Greek culture and language across the territories he conquered, significantly influencing subsequent cultural and historical developments. What is the name of this legendary conqueror known for founding over twenty cities that bore his name, the most famous being Alexandria in Egypt?",
+            "answers": [
+                "Alexander The Great",
+                "Alexander",
+                "Alexander III of Macedon"
+            ],
+            "used": "TRUE"
+        },
+        {
+            "category": "Science",
+            "question": "This prominent star, known for its distinct reddish hue, is one of the largest and brightest in the night sky, forming the shoulder of the constellation Orion. Classified as a red supergiant, it is nearing the end of its life cycle, with astronomers predicting that it will eventually explode in a supernova. Located approximately 642 light-years from Earth, it is one of the best examples of a star in the late stages of stellar evolution, providing valuable insights into the life cycles of massive stars. What is the name of this star, famous for its size, brightness, and position in one of the most recognizable constellations?",
+            "answers": ["Betelgeuse", "beatlejuice", "beetle juice"],
+            "used": "TRUE"
+        }
+    ],
+    [
+        {
+            "category": "Entertainment",
+            "question": "Released in 1994 and based on Stephen King's novella, this film follows Andy Dufresne, a banker wrongfully imprisoned for murder in Shawshank State Penitentiary. Over decades, he forms a significant friendship with fellow inmate, Ellis \"Red\" Redding, as they endure the hardships of incarceration. Directed by Frank Darabont, the movie explores profound themes of hope and redemption and has become one of the most revered films in cinema history. What is the title of this film, celebrated for its enduring message that \"hope is a good thing, maybe the best of things, and no good thing ever dies\"?",
+            "answers": ["The Shawshank Redemption"],
+            "used": "TRUE"
+        },
+        {
+            "category": "Science",
+            "question": "Discovered in 1789 by German chemist Martin Heinrich Klaproth, who named it after a planet, this element is notable for its radioactive properties and heavy atomic weight. It plays a crucial role in nuclear power generation and as the primary material for nuclear weapons. This element's most common isotope, numbered 238, has a half-life of about 4.5 billion years, making it useful in dating the age of the Earth. It is also dense enough to be used in military armor and high-density projectiles. What is the name of this radioactive element named after Uranus that has had significant implications for both energy production and weaponry?",
+            "answers": ["Uranium"],
+            "used": "TRUE"
+        },
+        {
+            "category": "Arts & Literature",
+            "question": "Commissioned in 1632 by the Mughal emperor Shah Jahan to house the tomb of his favorite wife this iconic mausoleum stands as a symbol of eternal love and is one of the most recognized buildings in the world. Located in Agra, India, it is renowned for its stunning white marble architecture and intricate craftsmanship involving inlaid semiprecious stones and carvings. This UNESCO World Heritage site attracts millions of visitors annually and is celebrated for its majestic presence and aesthetic beauty. What is the name of this famous structure, often described as \"a teardrop on the cheek of time\"?",
+            "answers": ["Taj Mahal"],
+            "used": "TRUE"
+        },
+        {
+            "category": "World History",
+            "question": "This Roman general and statesman played a crucial role in the events that led to the demise of the Roman Republic and the rise of the Roman Empire. Known for his pivotal part in the Gallic Wars, he subsequently became a dictator in perpetuity, a title he held until his assassination in 44 BC. His death on the Ides of March marked a turning point that led to the rise of his adopted heir, Augustus, and the establishment of the Roman Empire. What is the name of this historical figure, famous for his declaration \"Veni, Vidi, Vici\" after a swift victory at the Battle of Zela?",
+            "answers": ["Julius Caesar"],
+            "used": "TRUE"
+        },
+        {
+            "category": "Sports",
+            "question": "This NBA team gained international fame in the 1990s due to its extraordinary success, including winning six NBA championships between 1991 and 1998. This era of dominance was largely driven by the presence of Michael Jordan, one of basketball's all-time greats, along with key figures like Scottie Pippen and coach Phil Jackson. Known for their iconic red, black, and white uniforms, the team's legacy includes setting an NBA record for most wins in a regular season, a record they held until 2016. What is the name of Chicago's NBA franchise, synonymous with 1990s basketball dominance?",
+            "answers": ["Chicago Bulls", "Bulls"],
+            "used": "TRUE"
+        },
+        {
+            "category": "US History",
+            "question": "This prominent American patriot was the President of the Continental Congress. A wealthy merchant and smuggler prior to the American Revolution, he used his resources to support the colonial cause and later served as the governor of Massachusetts. His prominent and stylish autograph became so iconic that his name is now synonymous with the word \"signature.\" What is the name of this influential figure whose signature is one of the most recognized in American history?",
+            "answers": ["John Hancock"],
+            "used": "TRUE"
+        },
+        {
+            "category": "Current Events",
+            "question": "First held in 1929, this annual event honors outstanding achievements in the film industry, making it the most prominent and prestigious awards ceremony in Hollywood. Organized by the Academy of Motion Picture Arts and Sciences, it celebrates excellence in cinematic achievements as assessed by the Academy's voting membership. Known for its red carpet and the iconic golden statuette, the event brings together the biggest names in entertainment. What is the name of this ceremony that serves as the pinnacle of recognition for film achievements?",
+            "answers": ["Oscars", "Academy Awards"],
+            "used": "TRUE"
+        },
+        {
+            "category": "Geography",
+            "question": "This southern nation has 11 official languages, reflecting its multicultural heritage. The nation's rich history includes significant archaeological sites like the Cradle of Humankind, where some of the oldest hominid fossils have been found. The country is also famed for its wildlife and conservation areas such as the Kruger National Park. It transitioned from a system of apartheid to a democracy in the 1990s under the leadership of Nelson Mandela, its first black president. What is the name of this country, characterized by its complex history and natural beauty?",
+            "answers": ["South Africa"],
+            "used": "TRUE"
+        }
+    ],
+    [
+        {
+            "category": "Entertainment",
+            "question": "Premiering in 1951, this iconic American television sitcom stars Lucille Ball and her real-life husband, Desi Arnaz. The show follows the comedic antics of a housewife with dreams of stardom, and her bandleader husband, Ricky, as they navigate life in New York City. Known for its pioneering use of the three-camera setup and live audience format, it became famous for its timeless humor and is credited with setting the standard for sitcoms that followed. What is the name of this groundbreaking series, celebrated for episodes like \"Lucy Does a TV Commercial\"?",
+            "answers": ["I Love Lucy"],
+            "used": "TRUE"
+        },
+        {
+            "category": "Sports",
+            "question": "This Portuguese footballer is renowned for his exceptional skill and athleticism on the pitch, making him one of the most celebrated players in the sport's history. Known for his prolific goal-scoring abilities, he has won multiple FIFA Ballon d'Or awards and has played for top European clubs including Sporting Lisbon, Manchester United, Real Madrid, and Juventus. His remarkable career is also highlighted by numerous UEFA Champions League titles and a significant impact in international play, leading Portugal to victory in the 2016 UEFA European Championship. What is the name of this iconic forward, often considered one of the greatest footballers of all time?",
+            "answers": ["Cristiano Ronaldo", "Ronaldo"],
+            "used": "TRUE"
+        },
+        {
+            "category": "US History",
+            "question": "Constructed during the Great Depression between 1931 and 1936, this massive concrete arch-gravity dam is located on the border between Arizona and Nevada in the Black Canyon of the Colorado River. Originally known as the Boulder Dam, it was later renamed to honor the man who was the President when the construction started. Today, it is also a major tourist attraction, known for its impressive engineering and historical significance. What is the name of this dam?",
+            "answers": ["Hoover Dam"],
+            "used": "TRUE"
+        },
+        {
+            "category": "Geography",
+            "question": "Located in Central America, this country is known for its rich Mayan heritage, evident in the famous ruins of Tikal, and a diverse landscape that includes rainforests, volcanoes, and mountainous regions. It was once the heart of the Maya civilization, which flourished until the early 16th century. After centuries as a Spanish colony, it gained independence in 1821. Today, it is celebrated for its vibrant indigenous cultures, colorful textile crafts, and a cuisine that blends Spanish and Mayan influences. What is the name of this nation, bordered by Mexico to the north and west, Belize to the northeast, and Honduras and El Salvador to the southeast?",
+            "answers": ["Guatemala"],
+            "used": "TRUE"
+        },
+        {
+            "category": "Current Events",
+            "question": "Known as \"The Most Exciting Two Minutes in Sports,\" this prestigious horse race is held annually on the first Saturday in May. Established in 1875, it is the longest-running sporting event in the United States. The race is the first leg of the American Triple Crown, followed by the Preakness Stakes and the Belmont Stakes. It's celebrated with a festival that includes mint juleps, big hats, and the singing of \"My Old Kentucky Home.\" What is the name of this famous race that takes place at Churchill Downs and is a pinnacle of thoroughbred horse racing?",
+            "answers": ["Kentucky Derby"],
+            "used": "TRUE"
+        },
+        {
+            "category": "World History",
+            "question": "This English monarch, reigning in the early 16th century, is perhaps best known for his six marriages and the drastic measures he took to secure a male heir, which included breaking away from the Roman Catholic Church to establish the Church of England. His split from the Vatican led to the English Reformation, a series of events that significantly altered the religious landscape of England. His reign also saw the dissolution of the monasteries, which redistributed wealth and land from the church to the Crown and nobles. What is the name of this king whose personal and political decisions had a profound impact on English history?",
+            "answers": ["Henry VIII"],
+            "used": "TRUE"
+        },
+        {
+            "category": "Arts & Literature",
+            "question": "Woven with intricate detail and extensive lore, this seminal high-fantasy series by J.R.R. Tolkien features the quest to destroy a powerful artifact that epitomizes the potential for both good and evil. The narrative unfolds across a vast, fictional realm known as Middle-earth, where diverse races and languages enrich the complex history of its world. Lauded for its deep exploration of themes such as sacrifice, courage, and the persistent battle against malevolence, the trilogy includes the novels \"The Fellowship of the Ring,\" \"The Two Towers,\" and \"The Return of the King.\" What is the title of this epic literary work that has profoundly influenced the fantasy genre?",
+            "answers": ["Lord of the Rings"],
+            "used": "TRUE"
+        },
+        {
+            "category": "Science",
+            "question": "Developed by Albert Einstein in 1905, this theory revolutionized physics by introducing new concepts about time and space. It posits that the laws of physics are the same for all non-accelerating observers and that the speed of light within a vacuum is the same no matter the speed at which an observer travels. A key implication of this theory is that time can dilate, or slow down, and lengths can contract depending on the relative speed of objects in motion. What is the name of this groundbreaking theory that fundamentally altered our understanding of how the universe operates?",
+            "answers": ["Special Relativity", "Relativity"],
+            "used": "TRUE"
+        }
+    ],
+    [
+        {
+            "category": "Science",
+            "question": "Discovered in 1898 by Scottish chemist William Ramsay and English chemist Morris Travers in the residue left over from evaporating components of liquid air, this element is a colorless, dense, odorless noble gas used in a variety of applications. It is employed in flash lamps and arc lamps for photography, and its isotopes are used in the medical field for imaging and anesthesia. Additionally, it is used in ion propulsion systems for spacecraft. Known for its rarity and heavy atomic weight among the noble gases, what is the name of this element that also features prominently in high-performance light-emitting devices and medical imaging?",
+            "answers": ["Xenon"],
+            "used": "TRUE"
+        },
+        {
+            "category": "World History",
+            "question": "This queen of Castile and Le\u00f3n, reigning in the late 15th century alongside her husband Ferdinand of Aragon, is best known for her role in the Reconquista, the completion of which was marked by the conquest of Granada in 1492. Her reign significantly advanced the unification of Spain and the Spanish Inquisition, which aimed to consolidate Catholic orthodoxy within her kingdoms. She also famously sponsored Christopher Columbus's 1492 voyage, which led to the European discovery of the New World. What is the name of this influential monarch?",
+            "answers": [
+                "Isabella of Spain",
+                "Isabella the Catholic",
+                "Queen Isabella",
+                "Isabella"
+            ],
+            "used": "TRUE"
+        },
+        {
+            "category": "Entertainment",
+            "question": "Released in 1941, this landmark American film, directed by and starring Orson Welles, is frequently lauded as one of the greatest movies of all time. Known for its innovative use of deep focus cinematography, narrative structure, and special effects, the film tells the complex story of a wealthy newspaper magnate inspired by the life of William Randolph Hearst. Its narrative unfolds through a series of flashbacks following a reporter's quest to decipher the meaning behind the magnate's mysterious last word, \"Rosebud.\" What is the title of this influential film that revolutionized the techniques of filmmaking and narrative construction in cinema?",
+            "answers": ["Citizen Kane"],
+            "used": "TRUE"
+        },
+        {
+            "category": "Arts & Literature",
+            "question": "Renowned as one of the greatest American architects of the 20th century, this visionary created designs that harmonized with humanity and its environment, a philosophy he called organic architecture. Notable for his innovative work, he designed over 1,000 structures during his career, which emphasized simplicity and natural beauty, fundamentally changing how we think about spaces. His most famous works include Fallingwater in Pennsylvania and the Guggenheim Museum in New York. What is the name of this architect known for his unique approach to building design, which seamlessly integrates the elements of human habitation with the natural surroundings?",
+            "answers": ["Frank Lloyd Wright"],
+            "used": "TRUE"
+        },
+        {
+            "category": "Current Events",
+            "question": "This professional football player was selected by the Kansas City Chiefs in the third round of the 2013 NFL Draft out of University of Cincinnati. He recently signed a contract making him the highest paid tight end in the NFL after winning Super Bowl LVIII. He is a cohost of the New Heights podcast with his brother Jason. Name this player who who made headlines for being in a relationship with the pop star Taylor Swift during the last NFL season.",
+            "answers": ["Travis Kelce"],
+            "used": "TRUE"
+        },
+        {
+            "category": "Sports",
+            "question": "First held in 1911, this iconic automobile race is known as \"The Greatest Spectacle in Racing.\" The race is traditionally run over the Memorial Day weekend and is famous for its 200 laps around a 2.5-mile oval track, totaling 500 miles. It is one of the three events that make up the Triple Crown of Motorsport, which also includes the Monaco Grand Prix and the 24 Hours of Le Mans. What is the name of this renowned race held annually at the Indianapolis Motor Speedway and celebrated for its high speeds and challenging conditions?",
+            "answers": ["Indianapolis 500"],
+            "used": "TRUE"
+        },
+        {
+            "category": "Geography",
+            "question": "This U.S. state, known for its vast wilderness and sparse population, was purchased from Russia in 1867 in a deal often referred to as \"Seward's Folly.\"  Rich in natural resources, it is a major hub for energy production, particularly oil and natural gas. The state's stunning landscapes, including Denali National Park and the Inside Passage, are major attractions, as well as its abundant wildlife. It is the largest state in the U.S. by area but one of the least densely populated. What is the name of this state, famous for phenomena like the Northern Lights and the Iditarod Trail Sled Dog Race?",
+            "answers": ["Alaska"],
+            "used": "TRUE"
+        },
+        {
+            "category": "US History",
+            "question": "Launched in the 1930s in response to the Great Depression, this series of economic and social reforms included the creation of agencies like the Works Progress Administration (WPA) and the Civilian Conservation Corps (CCC), which provided employment through public works projects. It also introduced significant financial reforms and established the Social Security system to aid the elderly and unemployed. Initiated by President Franklin D. Roosevelt, this initiative aimed to restore prosperity and dignity to Americans during a time of economic crisis. What is the name of this pivotal economic recovery initiative?",
+            "answers": ["New Deal"],
+            "used": "TRUE"
+        }
+    ],
+    [
+        {
+            "category": "Geography",
+            "question": "This U.S. state, admitted to the Union in 1896 as the 45th state, is known for its diverse landscapes ranging from arid deserts with sand dunes to thriving pine forests in mountain valleys. It is renowned for its natural beauty, including national parks like Zion, Arches, and Bryce Canyon, which offer spectacular red rock formations. The state is also a center for outdoor recreational activities, including skiing, which was prominently featured during the 2002 Winter Olympics held near its capital. What is the name of this state, also known for its significant Mormon community?",
+            "answers": ["Utah"],
+            "used": "TRUE"
+        },
+        {
+            "category": "Current Events",
+            "question": "Before entering politics, this individual gained fame as a comedian and actor, notably starring in a television show where he played the role of the President of Ukraine. Mirroring his on-screen persona, he ran for the actual presidency and was elected in 2019 with a campaign that promised to tackle corruption and bring peace to the eastern regions of Ukraine, where conflict with separatists had been ongoing. Since then, he has become a prominent figure internationally, especially noted for his leadership during Ukraine's war with Russia. What is the name of this Ukrainian president known for his role as the head of the warring nation?",
+            "answers": ["Volodomyr Zelensky"],
+            "used": "TRUE"
+        },
+        {
+            "category": "World History",
+            "question": "This figure was the first emperor of Rome, marking the transition from the Roman Republic to the Roman Empire following the tumultuous period of civil wars that ensued after Julius Caesar's assassination. Known originally as Octavian, he was Caesar's adopted son and heir. He reigned from 27 BC until his death in AD 14, establishing a period of relative peace known as the Pax Romana that lasted over two centuries. What is the name of this emperor, celebrated for founding the Roman Empire and inaugurating an era of relative peace and prosperity?",
+            "answers": ["Augustus", "Octavius Caesar", "Octavius"],
+            "used": "TRUE"
+        },
+        {
+            "category": "Science",
+            "question": "This radioactive metallic element was first produced and isolated in 1940 by a team led by Glenn T. Seaborg and Edwin McMillan at the University of California, Berkeley, by bombarding uranium with deuterons. It is used primarily in nuclear reactors and nuclear weapons, notably in the \"Fat Man\" type bombs dropped on Nagasaki in 1945. Highly reactive, it has several isotopes, the most significant being numbered 239, known for its ability to sustain a nuclear chain reaction. What is the name of this element, named after the dwarf planet Pluto, critical to the development of atomic energy and weaponry?",
+            "answers": ["Plutonium"],
+            "used": "TRUE"
+        },
+        {
+            "category": "US History",
+            "question": "This American Founding Father is known for his diplomatic efforts during the Revolutionary War when he helped negotiate the Treaty of Paris, which officially ended the war. Additionally, his correspondence with his wife, Abigail, provides an invaluable insight into the era's political and social dynamics. Name this man who was a key figure in drafting The Declaration of Independence, served as the first Vice President of the United States, and later served as the second President.",
+            "answers": ["John Adams"],
+            "used": "TRUE"
+        },
+        {
+            "category": "Arts & Literature",
+            "question": "This iconic artwork was completed in 1908 during the high point of the artist's \"Golden Phase.\" It depicts a couple embraced in an ornate, golden swirl of robes, blending elements of Art Nouveau and the Byzantine influence that the Austrian Symbolist painter Gustav Klimt admired. The painting is celebrated for its luxurious use of gold leaf and its sensual portrayal of intimacy and love. Displayed in the \u00d6sterreichische Galerie Belvedere museum in Vienna, it remains one of Klimt's most famous and adored works. What is the title of this masterpiece known for its lavish and emotive representation of a couple's embrace?",
+            "answers": ["The Kiss"],
+            "used": "TRUE"
+        },
+        {
+            "category": "Entertainment",
+            "question": "Debuting in 1999, this groundbreaking television series is credited with initiating the era of prestige TV, featuring complex characters, intricate plots, and psychological depth rarely seen before in the medium. It centers on a New Jersey mob boss as he struggles to manage the dual responsibilities of his criminal organization and his family life, often discussing these challenges with his therapist. The show blends dark humor with dramatic elements and has been lauded for its deep exploration of issues such as mental health, family dynamics, and the American dream. What is the name of this critically acclaimed series that many consider to be one of the greatest TV shows of all time?",
+            "answers": ["The Sopranos"],
+            "used": "TRUE"
+        },
+        {
+            "category": "Sports",
+            "question": "This American gymnast, celebrated for revolutionizing her sport, has won a record-breaking 25 World Championship medals and 7 Olympic medals. Known for her extraordinary skill and athleticism, she dominated the gymnastics scene, securing individual all-around, vault, and floor exercise titles multiple times. She has also contributed several unique skills to the sport, with moves named after her in three apparatuses, showcasing her innovative techniques. Beyond her competitive achievements, she has become a vocal advocate for athletes' mental health. What is the name of this iconic gymnast, known for setting new records and standards in gymnastics?",
+            "answers": ["Simone Biles"],
+            "used": "TRUE"
+        }
+    ],
+    [
+        {
+            "category": "Sports",
+            "question": "This American Football team is known for their dynastic run in the early 21st century, when they claimed multiple Super Bowl titles, largely under the leadership of head coach Bill Belichick and quarterback Tom Brady. Based in Foxborough, Massachusetts, this team has become one of the most successful franchises in NFL history with 6 Super Bowl titles. What is the name of this NFL team, noted for its distinctive navy blue, red, and silver uniforms and a strong legacy of championships?",
+            "answers": ["New England Patriots", "Patriots"],
+            "used": "TRUE"
+        },
+        {
+            "category": "Science",
+            "question": "This red dwarf star is part of the Alpha Centauri star system, located in the constellation of Centaurus. Discovered in 1915 by Scottish astronomer Robert Innes, it is situated approximately 4.24 light-years away from Earth making it the closest known star to the Sun. Despite its proximity, it is too faint to be seen with the naked eye. Notably, in 2016, astronomers discovered an Earth-sized exoplanet in its habitable zone, raising questions about potential life. What is the name of this star, the nearest known neighbor to our solar system?",
+            "answers": ["Proxima Centauri", "Alpha Centauri C"],
+            "used": "TRUE"
+        },
+        {
+            "category": "Geography",
+            "question": "Founded in the early 19th century as a colony for freed American and Caribbean slaves, this West African nation declared its independence in 1847, making it the first democratic republic in African history to gain its independence without a revolution. Its capital, Monrovia, is named after James Monroe, a U.S. President who supported the colonization process. The country has faced significant challenges in recent decades, including two civil wars and the Ebola outbreak, but has been working towards reconciliation and development. What is the name of this country, unique for its historical ties to the United States?",
+            "answers": ["Liberia"],
+            "used": "TRUE"
+        },
+        {
+            "category": "Entertainment",
+            "question": "Released in 1939 and based on L. Frank Baum's novel, this beloved musical film follows Dorothy Gale, a young girl from Kansas who is swept away by a tornado to the magical land of Oz. There, she embarks on a journey to see the Wizard in hopes of returning home, accompanied by her dog Toto and new friends\u2014the Scarecrow, the Tin Man, and the Cowardly Lion. Known for its iconic songs, Technicolor cinematography, and memorable characters, the film has become a cornerstone of American pop culture. What is the title of this classic movie that famously features the song \"Somewhere Over the Rainbow\"?",
+            "answers": ["The Wizard of Oz"],
+            "used": "TRUE"
+        },
+        {
+            "category": "Arts & Literature",
+            "question": "Created by the Italian artist Sandro Botticelli in the mid-1480s, this renowned Renaissance painting depicts the goddess Venus emerging from the sea as a fully grown woman, according to classical mythology. The work is celebrated for its grace and beauty, illustrating the idealized human form in harmony with nature. It features Venus standing on a giant shell, being blown towards shore by the winds, personified by Zephyr. Displayed in the Uffizi Gallery in Florence, this artwork remains a quintessential example of Renaissance art's fascination with classical mythology. What is the name of this famous painting that captures the mythological birth of the goddess of love and beauty?",
+            "answers": ["The Birth of Venus"],
+            "used": "TRUE"
+        },
+        {
+            "category": "US History",
+            "question": "This American statesman and writer became the 26th President of the United States, known for his exuberant personality and range of interests. Coming to office after the assassination of President William McKinley in 1901, he promoted progressive policies that emphasized anti-trust actions and conservation efforts, founding numerous national parks and forests. He was also a key figure in negotiating the end of the Russo-Japanese War, for which he was awarded the Nobel Peace Prize. Notably, he is one of the four presidents featured on Mount Rushmore. What is the name of this dynamic leader who championed the \"Square Deal\"?",
+            "answers": ["Theodore Roosvelt", "Teddy Roosevelt"],
+            "used": "TRUE"
+        },
+        {
+            "category": "World History",
+            "question": "This king, reigning in the early 5th century, is noted for founding the Merovingian dynasty, which would rule the Frankish kingdom for nearly 300 years. His conversion to Christianity\u2014specifically to the Roman Catholic creed\u2014was a pivotal event, influencing many of his Frankish warriors to follow suit, thus strengthening alliances with Roman Christian churches. This decision had profound implications for the religious landscape of medieval Europe, helping to solidify Catholicism in the region. What is the name of this king, credited with uniting various Frankish tribes under one rule and shaping the future religious and political structure of Western Europe?",
+            "answers": ["Clovis", "clovis I"],
+            "used": "TRUE"
+        },
+        {
+            "category": "Current Events",
+            "question": "This militant group, originating in the early 1990s in Afghanistan, emerged from the chaos following the Soviet-Afghan War, drawing members largely from Afghan refugees educated in religious schools in Pakistan. They took control of Afghanistan in 1996 and imposed strict interpretations of Islamic law, leading to widespread human rights criticisms, especially regarding the treatment of women. After being ousted from power in 2001 by U.S.-led forces, they waged an insurgency and regained control in 2021 following the withdrawal of foreign troops. What is the name of this group, known for its fundamentalist policies and governance of Afghanistan?",
+            "answers": ["Taliban"],
+            "used": "TRUE"
+        }
+    ],
+    [
+        {
+            "category": "World History",
+            "question": "This monarch, known as the \"Sun King,\" reigned over France for 72 years, making his tenure one of the longest in European history. Ascending to the throne in the mid-17th century, he is best known for his autocratic regime that firmly established the absolute power of the monarchy. His reign saw the construction of the Palace of Versailles, a symbol of royal extravagance and absolutism. He also fostered a flourishing of arts and culture that made France the center of intellectual and artistic life in Europe. What is the name of this French king, under whose rule France became the leading European power?",
+            "answers": ["Louis XIV"],
+            "used": "TRUE"
+        },
+        {
+            "category": "Sports",
+            "question": "First held in 1903, this annual championship series is often referred to as the \"Fall Classic\". It is one of the most watched sporting events in the U.S., known for creating legends and memorable moments in baseball history. The series has seen numerous iconic teams, including the New York Yankees, who hold the record for the most titles. It is the culmination of the Major League Baseball season in the United States, featuring a best-of-seven playoff between the champions of the National League and the American League. What is the name of this prestigious event in baseball?",
+            "answers": ["World Series"],
+            "used": "TRUE"
+        },
+        {
+            "category": "Entertainment",
+            "question": "Released in 1974, this film is both a sequel and a prequel to its predecessor, expanding on the saga of the Corleone family by depicting the early life and career of Vito Corleone in 1920s New York and his son Michael's expansion and tightening grip on the family crime syndicate during the 1950s. Directed by Francis Ford Coppola, it is noted for its rich storytelling and complex portrayal of the transformation of its characters, particularly Michael Corleone's descent into corruption and moral decay. The movie received critical acclaim and multiple Academy Awards, including Best Picture. What is the title of this acclaimed sequel that explores themes of power, family, and betrayal in the American Mafia?",
+            "answers": ["The Godfather Part II", "The Godfather 2"],
+            "used": "TRUE"
+        },
+        {
+            "category": "Geography",
+            "question": "This U.S. state, located in the Western region, is best known for its expansive deserts and as the leading silver producer in the country, which earned it the nickname \"The Silver State.\" The state also features significant natural beauty, such as the Sierra Nevada mountains and Great Basin National Park. It is also famed for its liberal laws on gambling and entertainment, with Las Vegas, known as the entertainment capital of the world, drawing millions of tourists annually. What is the name of this state, which became the 36th state to join the Union in 1864 and is known for its vibrant nightlife and historic mining towns?",
+            "answers": ["Nevada"],
+            "used": "TRUE"
+        },
+        {
+            "category": "US History",
+            "question": "This President is known for his ambitious domestic policies including the \"Great Society\" program, which aimed to eliminate poverty and racial injustice. His administration significantly expanded civil rights, public broadcasting, Medicare, Medicaid, aid to education, and the arts. However, his presidency was also marked by the escalation of the Vietnam War, which overshadowed his substantial legislative achievements. What is the name of this U.S. president who became the 36th President of the United States following the assassination of President John F. Kennedy in 1963?",
+            "answers": ["Lyndon B Johnson", "LBJ", "L.B.J"],
+            "used": "TRUE"
+        },
+        {
+            "category": "Science",
+            "question": "This is the brightest star in the constellation Ursa Minor and has been used for navigation and orientation for centuries, including by sailors and explorers to determine latitude. This star, also known as the North Star, holds a crucial position almost directly above the North Pole, making it an excellent fixed point for navigation in the Northern Hemisphere.  It is actually a triple star system, consisting of the main supergiant star and two smaller companions. What is the name of this star that is famous for its steadfast position in the sky, guiding travelers throughout history?",
+            "answers": ["Polaris"],
+            "used": "TRUE"
+        },
+        {
+            "category": "Current Events",
+            "question": "This executive became CEO of The Walt Disney Company in 2005, overseeing a significant expansion of its global entertainment operations. Under his leadership, the company acquired Pixar, Marvel, Lucasfilm, and 21st Century Fox, significantly broadening its film and television content. He also spearheaded the launch of Disney+, a direct-to-consumer streaming service that competes with other major platforms. Known for his strategic vision and leadership, he played a key role in making Disney a dominant force in the entertainment industry. What is the name of this influential business leader who helped shape the modern landscape of media and entertainment?",
+            "answers": ["Bob Iger"],
+            "used": "TRUE"
+        },
+        {
+            "category": "Arts & Literature",
+            "question": "This iconic bronze sculpture depicts a life-sized figure deep in thought. Originally part of a larger work called \"The Gates of Hell,\" it represents Dante pondering his great poem, \"The Divine Comedy.\" Over time, the figure has come to symbolize philosophical thinking and introspection more broadly. Versions of this famous work originally created by the French artist Auguste Rodin in 1904, can be found in numerous museums around the world, making it one of the most recognized sculptures in modern art. What is the name of this renowned sculpture, celebrated for its portrayal of contemplation and intellectual engagement?",
+            "answers": ["The Thinker"],
+            "used": "TRUE"
+        }
+    ],
+    [
+        {
+            "category": "Current Events",
+            "question": "This American technology entrepreneur co-founded a major social media platform while attending Harvard University in 2004. The platform quickly exploded in popularity, redefining global communication and eventually attracting billions of users worldwide, influencing various aspects of society, from business to politics. Known for his role in the development and expansion of social networking, he has also faced significant scrutiny and controversy over privacy issues and the platform's role in disseminating information. What is the name of this influential figure, the CEO of Facebook, who became one of the world's youngest billionaires?",
+            "answers": ["Mark Zuckerberg"],
+            "used": "TRUE"
+        },
+        {
+            "category": "Sports",
+            "question": "This NBA franchise, established in 1946, is one of the league's most storied teams. The team has a fierce rivalry with the Los Angeles Lakers, contributing to several epic matchups in NBA Finals history. The team's legacy includes a record-setting number of NBA Championships and a host of Hall of Fame players such as Bill Russell, Larry Bird, and Paul Pierce. Known for their distinctive green and white uniforms, they are a symbol of basketball excellence and tradition. What is the name of Boston's NBA team, famous for its historical success and contributions to basketball lore?",
+            "answers": ["Boston Celtics", "Celtics"],
+            "used": "TRUE"
+        },
+        {
+            "category": "Geography",
+            "question": "This U.S. state, known as the \"Land of Enchantment,\" joined the Union in 1912 as the 47th state. It is renowned for its diverse landscape, which includes desert, mesa, and mountain territories, and a rich blend of Native American and Hispanic cultures, reflected in its art, architecture, and cuisine. The state has a strong scientific community, evidenced by institutions like Los Alamos National Laboratory, where the atomic bomb was developed. It is also famous for hosting the largest hot air balloon festival in the world. What is the name of this state, distinguished by its significant contributions to both nuclear research and cultural heritage?",
+            "answers": ["New Mexico"],
+            "used": "TRUE"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This film was released in 1994 and directed by Quentin Tarantino. The narrative intertwines the lives of two mob hitmen, ta boxer, a gangster's wife, and a pair of diner bandits, exploring themes of redemption and violence in a stylized manner. The movie's structure is a pastiche of various genres, making it a defining example of postmodern cinema. It was a major critical and commercial success, revitalizing the careers of several of its stars, including John Travolta. What is the title of this influential film that features the iconic dance scene between Travolta and Uma Thurman?",
+            "answers": ["Pulp Fiction"],
+            "used": "TRUE"
+        },
+        {
+            "category": "Science",
+            "question": "This critical biological process involves the conversion of atmospheric nitrogen gas into a form that is usable by living organisms, primarily ammonia. It is carried out by certain types of bacteria, some of which live in a symbiotic relationship with the root nodules of leguminous plants. This natural conversion is essential for building amino acids and proteins, thereby playing a key role in the nitrogen cycle that supports the growth of many forms of life on Earth. What is the term for this process that allows nitrogen, an element vital for life, to be absorbed by plants and enter the food chain?",
+            "answers": ["Nitrogen fixation"],
+            "used": "TRUE"
+        },
+        {
+            "category": "Arts & Literature",
+            "question": "This famous painting was created by Dutch artist Johannes Vermeer around 1665. Known for its subtle use of light and shadow, this work is often referred to as the \"Mona Lisa of the North\" due to its enigmatic expression and the mysterious allure of its subject. The artwork belongs to the collection of the Mauritshuis museum in The Hague and continues to intrigue art lovers with its simple yet profound beauty. What is the name of this celebrated painting that portrays a young girl looking over her shoulder, adorned with a striking pearl earring?",
+            "answers": ["Girl with a Pearl Earring"],
+            "used": "TRUE"
+        },
+        {
+            "category": "World History",
+            "question": "This 18th-century Prussian king is celebrated for his military prowess and enlightened domestic policies. Ascending to the throne in 1740, he expanded Prussian territories through his adept handling of the military during the Silesian Wars and the larger conflict of the Seven Years' War, establishing Prussia as a significant European power. Known for his patronage of the arts and philosophy, he also promoted reforms that made his kingdom a cultural beacon in the Age of Enlightenment. What is the name of this ruler, often referred to as an archetype of the enlightened despot?",
+            "answers": ["Frederick the Great", " Frederick II", "Frederick"],
+            "used": "TRUE"
+        },
+        {
+            "category": "US History",
+            "question": "This American polymath and  Founding Fathers was instrumental in drafting the Declaration of Independence and the U.S. Constitution. A noted inventor, he created the lightning rod and bifocal glasses. His experiments with electricity were groundbreaking, contributing significantly to the scientific understanding of the time. Also a diplomat, he played a crucial role in securing French support during the American Revolution. What is the name of this influential figure, who also established Philadelphia\u2019s first fire department and library?",
+            "answers": ["Benjamin Franklin", "Ben Franklin"],
+            "used": "TRUE"
+        }
+    ],
+    [
+        {
             "category": "Science",
             "question": "Discovered and isolated by Scottish physician Daniel Rutherford in 1772, this diatomic gas constitutes about 78% of the Earth's atmosphere and is essential for all living organisms, being a primary component of amino acids in proteins. It is also utilized in various industrial processes, such as ammonia production and as a coolant for sensitive equipment. What is the name of this colorless, odorless element that is the most abundant in our atmosphere?",
             "answers": ["Nitrogen"],

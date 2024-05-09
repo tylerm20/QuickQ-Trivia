@@ -33,8 +33,11 @@ def get_data_from_sheet(json_filepath):
                 category_to_questions_unused[category].append(row)
         random.shuffle(category_to_questions_unused[category])
 
+    # print(category_to_questions_unused)
+
     multiple_days_qs = []
     fewest_unused_questions = min(len(values) for values in category_to_questions_unused.values())
+    print(fewest_unused_questions)
     for i in range(fewest_unused_questions):
         daily_qs = []
         for category, questions in category_to_questions_unused.items():
@@ -46,5 +49,5 @@ def get_data_from_sheet(json_filepath):
         json.dump(multiple_days_qs, json_file, indent=4)
 
 # Example usage
-json_filepath = '/Users/mheavey/personal/minquiz/questions/categories/ordered_qs/qq_qs_5_3_24.json'
+json_filepath = '/Users/mheavey/personal/minquiz/questions/categories/ordered_qs/qq_qs_5_8_24.json'
 get_data_from_sheet(json_filepath)
