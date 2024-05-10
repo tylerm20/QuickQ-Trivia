@@ -1378,7 +1378,7 @@
         {
             "category": "Current Events",
             "question": "Founded in 2006, this American social media platform is known for its microblogging service where users post and interact with messages. It has played a significant role in social movements and public discourse worldwide. In 2022 Elon Musk purchased this company and has since renamed it to \"X\". What is the name of this influential social media company which previously featured a blue bird in its logo?",
-            "answers": ["X", "Twitter"],
+            "answers": ["Twitter", "X", "Twitter"],
             "used": "TRUE"
         },
         {
