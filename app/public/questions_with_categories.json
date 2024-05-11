@@ -1396,7 +1396,7 @@
         {
             "category": "Science",
             "question": "This scientific theory describes the large-scale motions of Earth's lithosphere, which is divided into several plates that glide over the mantle. Proposed in the early 20th century and gaining wide acceptance by the 1960s, this theory explains many aspects of geological phenomena, including earthquakes, volcanic activity, and continental drift. It also helps scientists understand the formation of mountain ranges and ocean trenches. What is the name of this fundamental theory that explains the dynamic nature of Earth's surface?",
-            "answers": ["Plate Tectonics", "tectonics"],
+            "answers": ["Plate Tectonics", "tectonics", "tectonic plates"],
             "used": "TRUE"
         },
         {
