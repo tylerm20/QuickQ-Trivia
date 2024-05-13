@@ -13,13 +13,32 @@ function App() {
     const [totalTime, setTotalTime] = useState(0);
     const [questions, setQuestions] = useState(null);
     const [streak, setStreak] = useState(0);
-    const [timeUntilNextDay, setTimeUntilNextDay] = useState(
-        calculateTimeUntilNextDay()
+    const [timeRemaining, setTimeRemaining] = useState(
+        calculateTimeRemaining()
     );
+    const [today, setToday] = useState(new Date());
     const [hasStartedTodaysGame, setHasStartedTodaysGame] = useState(false);
-    const [hasFinishedTodaysGame, setHasFinishedTodaysGame] = useState(false);
 
-    function calculateTimeUntilNextDay() {
+    useEffect(() => {
+        const timer = setInterval(() => {
+            setTimeRemaining(calculateTimeRemaining());
+        }, 1000); // Update every second
+
+        return () => clearInterval(timer); // Cleanup on unmount
+    }, []);
+
+    // TODO: this isn't working to tell the user there is a new game
+    useEffect(() => {
+        if (
+            timeRemaining.hours < 1 &&
+            timeRemaining.minutes < 1 &&
+            timeRemaining.seconds < 1
+        ) {
+            setToday(new Date());
+        }
+    }, [timeRemaining]);
+
+    function calculateTimeRemaining() {
         const now = new Date();
         const tomorrow = new Date(now);
         tomorrow.setDate(tomorrow.getDate() + 1);
@@ -37,34 +56,14 @@ function App() {
     }
 
     useEffect(() => {
-        const timer = setInterval(() => {
-            setTimeUntilNextDay(calculateTimeUntilNextDay());
-        }, 1000); // Update every second
+        setHasStartedTodaysGame(!!localStorage.getItem(today.toDateString()));
+        console.log("here");
+    }, [today]);
 
-        return () => clearInterval(timer); // Cleanup on unmount
-    }, [calculateTimeUntilNextDay]);
-
-    useEffect(() => {
-        if (
-            timeUntilNextDay.hours < 8 &&
-            timeUntilNextDay.minutes < 51 &&
-            timeUntilNextDay.seconds < 1
-        ) {
-            setHasStartedTodaysGame(false);
-            setHasFinishedTodaysGame(false);
-        }
-    }, [timeUntilNextDay]);
-
-    useEffect(() => {
-        setHasStartedTodaysGame(
-            !!localStorage.getItem(new Date().toDateString())
-        );
-    }, []);
-
-    useEffect(() => {
-        const results = localStorage.getItem(new Date().toDateString());
-        setHasFinishedTodaysGame(results && JSON.parse(results)["isFinished"]);
-    }, []);
+    const hasFinishedTodaysGame = () => {
+        const results = localStorage.getItem(today.toDateString());
+        return results && JSON.parse(results)["isFinished"];
+    };
 
     const calculateStreak = () => {
         let dateToCheck = new Date();
@@ -92,7 +91,7 @@ function App() {
         const referenceDate = new Date(2024, 3, 14); // Months are zero-indexed (January = 0)
 
         // Calculate the difference in milliseconds
-        const timeDifference = new Date().getTime() - referenceDate.getTime();
+        const timeDifference = today.getTime() - referenceDate.getTime();
 
         // Convert the difference from milliseconds to days
         const daysPast = Math.floor(timeDifference / (1000 * 60 * 60 * 24));
@@ -106,10 +105,10 @@ function App() {
                 return (
                     <StartScreen
                         setScreenShowing={setScreenShowing}
-                        today={new Date()}
-                        hasFinishedTodaysGame={hasFinishedTodaysGame}
+                        today={today}
+                        hasFinishedTodaysGame={hasFinishedTodaysGame()}
                         hasStartedTodaysGame={hasStartedTodaysGame}
-                        timeUntilNextGame={timeUntilNextDay}
+                        timeUntilNextGame={timeRemaining}
                     />
                 );
             case screens.game:
@@ -159,13 +158,13 @@ function App() {
         };
 
         readQuestionsFromFile();
-        if (hasFinishedTodaysGame) {
+        if (hasFinishedTodaysGame()) {
             const results = JSON.parse(
-                localStorage.getItem(new Date().toDateString())
+                localStorage.getItem(today.toDateString())
             );
             setPlayerResults(results);
         }
-    }, [hasFinishedTodaysGame]);
+    }, []);
 
     useEffect(() => {
         if (screenShowing === screens.finish) {
