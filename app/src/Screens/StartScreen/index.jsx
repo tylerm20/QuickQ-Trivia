@@ -11,7 +11,6 @@ const StartScreen = ({
     today,
     hasFinishedTodaysGame,
     hasStartedTodaysGame,
-    timeUntilNextGame,
 }) => {
     const [showSettingsModal, setShowSettingsModal] = useState(false);
     const [categoryScores, setCategoryScores] = useState({});
@@ -20,10 +19,6 @@ const StartScreen = ({
         () => setCategoryScores(calculateCategoryScores()),
         [calculateCategoryScores]
     );
-
-    function formatTimeComponent(timeComponent) {
-        return timeComponent < 10 ? `0${timeComponent}` : timeComponent;
-    }
 
     return (
         <div className="StartScreen">
@@ -46,13 +41,8 @@ const StartScreen = ({
             )}
             {hasFinishedTodaysGame ? (
                 <div className="AlreadyPlayed">
-                    <div className="ComeBack">Come back for a new Quiz in </div>
                     <div className="ComeBack">
-                        <b>
-                            {formatTimeComponent(timeUntilNextGame.hours)}:
-                            {formatTimeComponent(timeUntilNextGame.minutes)}:
-                            {formatTimeComponent(timeUntilNextGame.seconds)}
-                        </b>
+                        Come back for a new Quiz tomorrow!
                     </div>
                     <BasicButton
                         onClick={() => setScreenShowing(screens.finish)}
