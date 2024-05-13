@@ -47,10 +47,12 @@ const StartScreen = ({
             {hasFinishedTodaysGame ? (
                 <div className="AlreadyPlayed">
                     <div className="ComeBack">Come back for a new Quiz in </div>
-                    <div className="CountdownUntilNextDay">
-                        {formatTimeComponent(timeUntilNextGame.hours)}:
-                        {formatTimeComponent(timeUntilNextGame.minutes)}:
-                        {formatTimeComponent(timeUntilNextGame.seconds)}
+                    <div className="ComeBack">
+                        <b>
+                            {formatTimeComponent(timeUntilNextGame.hours)}:
+                            {formatTimeComponent(timeUntilNextGame.minutes)}:
+                            {formatTimeComponent(timeUntilNextGame.seconds)}
+                        </b>
                     </div>
                     <BasicButton
                         onClick={() => setScreenShowing(screens.finish)}
