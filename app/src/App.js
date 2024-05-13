@@ -64,7 +64,7 @@ function App() {
     useEffect(() => {
         const results = localStorage.getItem(new Date().toDateString());
         setHasFinishedTodaysGame(results && JSON.parse(results)["isFinished"]);
-    }, []);
+    }, [screenShowing]);
 
     const calculateStreak = () => {
         let dateToCheck = new Date();
