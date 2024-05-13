@@ -46,8 +46,8 @@ function App() {
 
     useEffect(() => {
         if (
-            timeUntilNextDay.hours < 1 &&
-            timeUntilNextDay.minutes < 1 &&
+            timeUntilNextDay.hours < 8 &&
+            timeUntilNextDay.minutes < 51 &&
             timeUntilNextDay.seconds < 1
         ) {
             setHasStartedTodaysGame(false);
