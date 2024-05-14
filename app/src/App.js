@@ -6,8 +6,6 @@ import GameScreen from "./Screens/GameScreen";
 import { screens } from "./constants";
 import "./App.css";
 
-const today = new Date();
-
 function App() {
     const [screenShowing, setScreenShowing] = useState(screens.start);
     const [playerResults, setPlayerResults] = useState(null);
@@ -15,10 +13,52 @@ function App() {
     const [totalTime, setTotalTime] = useState(0);
     const [questions, setQuestions] = useState(null);
     const [streak, setStreak] = useState(0);
+    const [timeRemaining, setTimeRemaining] = useState(
+        calculateTimeRemaining()
+    );
+    const [today, setToday] = useState(new Date());
+    const [hasStartedTodaysGame, setHasStartedTodaysGame] = useState(false);
 
-    const hasStartedTodaysGame = () => {
-        return !!localStorage.getItem(today.toDateString());
-    };
+    useEffect(() => {
+        const timer = setInterval(() => {
+            setTimeRemaining(calculateTimeRemaining());
+        }, 1000); // Update every second
+
+        return () => clearInterval(timer); // Cleanup on unmount
+    }, []);
+
+    // TODO: this isn't working to tell the user there is a new game
+    useEffect(() => {
+        if (
+            timeRemaining.hours < 1 &&
+            timeRemaining.minutes < 1 &&
+            timeRemaining.seconds < 1
+        ) {
+            setToday(new Date());
+        }
+    }, [timeRemaining]);
+
+    function calculateTimeRemaining() {
+        const now = new Date();
+        const tomorrow = new Date(now);
+        tomorrow.setDate(tomorrow.getDate() + 1);
+        tomorrow.setHours(0, 0, 0, 0); // Start of the next day
+        const difference = tomorrow - now;
+
+        const seconds = Math.max(Math.floor((difference / 1000) % 60), 0);
+        const minutes = Math.max(Math.floor((difference / 1000 / 60) % 60), 0);
+        const hours = Math.max(
+            Math.floor((difference / (1000 * 60 * 60)) % 24),
+            0
+        );
+
+        return { hours, minutes, seconds };
+    }
+
+    useEffect(() => {
+        setHasStartedTodaysGame(!!localStorage.getItem(today.toDateString()));
+        console.log("here");
+    }, [today]);
 
     const hasFinishedTodaysGame = () => {
         const results = localStorage.getItem(today.toDateString());
@@ -67,7 +107,8 @@ function App() {
                         setScreenShowing={setScreenShowing}
                         today={today}
                         hasFinishedTodaysGame={hasFinishedTodaysGame()}
-                        hasStartedTodaysGame={hasStartedTodaysGame()}
+                        hasStartedTodaysGame={hasStartedTodaysGame}
+                        timeUntilNextGame={timeRemaining}
                     />
                 );
             case screens.game:
@@ -80,7 +121,7 @@ function App() {
                             setScore={setScore}
                             setTotalTime={setTotalTime}
                             questions={questions}
-                            hasStartedTodaysGame={hasStartedTodaysGame()}
+                            hasStartedTodaysGame={hasStartedTodaysGame}
                         />
                     )
                 );
