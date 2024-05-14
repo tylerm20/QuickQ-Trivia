@@ -10,9 +10,8 @@ import { BUZZ_SECONDS, GAME_SECONDS, screens } from "../../constants";
 import "./style.css";
 import SettingsScreen from "../SettingsScreen";
 
-const playerResults = {};
+let playerResults = {};
 let questionResults = [];
-const today = new Date();
 
 const GameScreen = ({
     setScreenShowing,
@@ -168,7 +167,7 @@ const GameScreen = ({
         setPlayerResults({ ...playerResults });
         setTotalTime(totalTime);
         localStorage.setItem(
-            today.toDateString(),
+            new Date().toDateString(),
             JSON.stringify(playerResults)
         );
     };
@@ -231,7 +230,7 @@ const GameScreen = ({
     useEffect(() => {
         // if we are resuming a game
         if (hasStartedTodaysGame && !isBetweenQuestions) {
-            const results = localStorage.getItem(today.toDateString());
+            const results = localStorage.getItem(new Date().toDateString());
             if (results) {
                 const jsonResults = JSON.parse(results);
                 questionResults = [...jsonResults["questionResults"]];
@@ -270,6 +269,19 @@ const GameScreen = ({
             finishQuestion({ userAnswer: "", userSkipped: false });
         }
     }, [buzzSecondsRemaining]);
+
+    useEffect(() => {
+        if (!hasStartedTodaysGame) {
+            setCurrentQuestionIndex(0);
+            setShowWholeQuestion(false);
+            setIsBetweenQuestions(false);
+            setGameSecondsRemaining(GAME_SECONDS);
+            setShowCorrectOrIncorrect(false);
+            setScore(0);
+            playerResults = {};
+            questionResults = [];
+        }
+    }, [hasStartedTodaysGame]);
 
     return (
         <div className="GameScreen">
