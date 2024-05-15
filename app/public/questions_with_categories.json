@@ -1620,7 +1620,7 @@
         {
             "category": "Current Events",
             "question": "First held in 1929, this annual event honors outstanding achievements in the film industry, making it the most prominent and prestigious awards ceremony in Hollywood. Organized by the Academy of Motion Picture Arts and Sciences, it celebrates excellence in cinematic achievements as assessed by the Academy's voting membership. Known for its red carpet and the iconic golden statuette, the event brings together the biggest names in entertainment. What is the name of this ceremony that serves as the pinnacle of recognition for film achievements?",
-            "answers": ["Oscars", "Academy Awards"],
+            "answers": ["Oscars", "Academy Awards", "the oscars"],
             "used": "TRUE"
         },
         {
@@ -1664,7 +1664,7 @@
         {
             "category": "World History",
             "question": "This English monarch, reigning in the early 16th century, is perhaps best known for his six marriages and the drastic measures he took to secure a male heir, which included breaking away from the Roman Catholic Church to establish the Church of England. His split from the Vatican led to the English Reformation, a series of events that significantly altered the religious landscape of England. His reign also saw the dissolution of the monasteries, which redistributed wealth and land from the church to the Crown and nobles. What is the name of this king whose personal and political decisions had a profound impact on English history?",
-            "answers": ["Henry VIII"],
+            "answers": ["Henry VIII", "Henry the eighth"],
             "used": "TRUE"
         },
         {
