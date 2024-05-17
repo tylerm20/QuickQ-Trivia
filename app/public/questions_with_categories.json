@@ -1751,7 +1751,13 @@
         {
             "category": "World History",
             "question": "This figure was the first emperor of Rome, marking the transition from the Roman Republic to the Roman Empire following the tumultuous period of civil wars that ensued after Julius Caesar's assassination. Known originally as Octavian, he was Caesar's adopted son and heir. He reigned from 27 BC until his death in AD 14, establishing a period of relative peace known as the Pax Romana that lasted over two centuries. What is the name of this emperor, celebrated for founding the Roman Empire and inaugurating an era of relative peace and prosperity?",
-            "answers": ["Augustus", "Octavius Caesar", "Octavius"],
+            "answers": [
+                "Augustus",
+                "Octavius Caesar",
+                "Octavius",
+                "Gaius Octavius",
+                "Octavian"
+            ],
             "used": "TRUE"
         },
         {
