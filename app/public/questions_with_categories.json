@@ -1719,7 +1719,7 @@
         {
             "category": "Sports",
             "question": "First held in 1911, this iconic automobile race is known as \"The Greatest Spectacle in Racing.\" The race is traditionally run over the Memorial Day weekend and is famous for its 200 laps around a 2.5-mile oval track, totaling 500 miles. It is one of the three events that make up the Triple Crown of Motorsport, which also includes the Monaco Grand Prix and the 24 Hours of Le Mans. What is the name of this renowned race held annually at the Indianapolis Motor Speedway and celebrated for its high speeds and challenging conditions?",
-            "answers": ["Indianapolis 500"],
+            "answers": ["Indianapolis 500", "Indie 500", "indy 500"],
             "used": "TRUE"
         },
         {
