@@ -1837,7 +1837,7 @@
         {
             "category": "Current Events",
             "question": "This militant group, originating in the early 1990s in Afghanistan, emerged from the chaos following the Soviet-Afghan War, drawing members largely from Afghan refugees educated in religious schools in Pakistan. They took control of Afghanistan in 1996 and imposed strict interpretations of Islamic law, leading to widespread human rights criticisms, especially regarding the treatment of women. After being ousted from power in 2001 by U.S.-led forces, they waged an insurgency and regained control in 2021 following the withdrawal of foreign troops. What is the name of this group, known for its fundamentalist policies and governance of Afghanistan?",
-            "answers": ["Taliban"],
+            "answers": ["Taliban", "The Taliban"],
             "used": "TRUE"
         }
     ],
@@ -1845,19 +1845,23 @@
         {
             "category": "World History",
             "question": "This monarch, known as the \"Sun King,\" reigned over France for 72 years, making his tenure one of the longest in European history. Ascending to the throne in the mid-17th century, he is best known for his autocratic regime that firmly established the absolute power of the monarchy. His reign saw the construction of the Palace of Versailles, a symbol of royal extravagance and absolutism. He also fostered a flourishing of arts and culture that made France the center of intellectual and artistic life in Europe. What is the name of this French king, under whose rule France became the leading European power?",
-            "answers": ["Louis XIV"],
+            "answers": ["Louis XIV", "Louis the fourteenth", "King Louis"],
             "used": "TRUE"
         },
         {
             "category": "Sports",
             "question": "First held in 1903, this annual championship series is often referred to as the \"Fall Classic\". It is one of the most watched sporting events in the U.S., known for creating legends and memorable moments in baseball history. The series has seen numerous iconic teams, including the New York Yankees, who hold the record for the most titles. It is the culmination of the Major League Baseball season in the United States, featuring a best-of-seven playoff between the champions of the National League and the American League. What is the name of this prestigious event in baseball?",
-            "answers": ["World Series"],
+            "answers": ["World Series", "The World Series"],
             "used": "TRUE"
         },
         {
             "category": "Entertainment",
             "question": "Released in 1974, this film is both a sequel and a prequel to its predecessor, expanding on the saga of the Corleone family by depicting the early life and career of Vito Corleone in 1920s New York and his son Michael's expansion and tightening grip on the family crime syndicate during the 1950s. Directed by Francis Ford Coppola, it is noted for its rich storytelling and complex portrayal of the transformation of its characters, particularly Michael Corleone's descent into corruption and moral decay. The movie received critical acclaim and multiple Academy Awards, including Best Picture. What is the title of this acclaimed sequel that explores themes of power, family, and betrayal in the American Mafia?",
-            "answers": ["The Godfather Part II", "The Godfather 2"],
+            "answers": [
+                "The Godfather Part II",
+                "The Godfather 2",
+                "Godfather II"
+            ],
             "used": "TRUE"
         },
         {
@@ -1881,7 +1885,7 @@
         {
             "category": "Current Events",
             "question": "This executive became CEO of The Walt Disney Company in 2005, overseeing a significant expansion of its global entertainment operations. Under his leadership, the company acquired Pixar, Marvel, Lucasfilm, and 21st Century Fox, significantly broadening its film and television content. He also spearheaded the launch of Disney+, a direct-to-consumer streaming service that competes with other major platforms. Known for his strategic vision and leadership, he played a key role in making Disney a dominant force in the entertainment industry. What is the name of this influential business leader who helped shape the modern landscape of media and entertainment?",
-            "answers": ["Bob Iger"],
+            "answers": ["Bob Iger", "Iger"],
             "used": "TRUE"
         },
         {
@@ -1990,7 +1994,7 @@
         {
             "category": "Arts & Literature",
             "question": "Composed in Iceland during the 13th century by the historian, poet, and politician Snorri Sturluson, this collection of Old Norse poems and tales is a primary source for modern knowledge of Norse mythology. It serves not only as a manual for aspiring poets, describing the poetic meter of the time, but also details the mythology and stories that were foundational to Norse culture, including the creation of the world and the tales of gods like Odin and Thor. What is the name of this crucial text that preserves much of what we know about Norse mythology and medieval Scandinavian literature?",
-            "answers": ["The Prose Edda"],
+            "answers": ["The Prose Edda", "prose edda"],
             "used": "TRUE"
         }
     ],
@@ -2033,7 +2037,7 @@
         {
             "category": "Geography",
             "question": "Known for its modern skyline dominated by the iconic Petronas Twin Towers, once the tallest buildings in the world, this city is a cultural melting pot with a diverse culinary scene and vibrant neighborhoods like Chinatown and Little India. It's also a major global tourism and retail hub, featuring numerous shopping districts and hosting an iconic Fashion Week. Serving as the capital of Malaysia, what is the name of this bustling metropolis in Southeast Asia?",
-            "answers": ["Kuala Lumpur"],
+            "answers": ["Kuala Lumpur", "KL"],
             "used": "TRUE"
         },
         {
@@ -2096,6 +2100,311 @@
             "category": "US History",
             "question": "This project was initiated in response to fears that Nazi Germany would develop nuclear weapons first. It began in 1942 and involved some of the greatest scientific minds of the time, including Robert Oppenheimer and Enrico Fermi. It led to the development and testing of the first nuclear weapons in Los Alamos, New Mexico. The culmination of this project was the dropping of atomic bombs on Hiroshima and Nagasaki in 1945, significantly impacting the conclusion of World War II. What is the name of this pivotal scientific and military project?",
             "answers": ["Manhattan project"],
+            "used": "TRUE"
+        }
+    ],
+    [
+        {
+            "category": "Arts & Literature",
+            "question": "This Nobel laureate, who adopted a pen name to avoid conflict with his father, became a senator for the Chilean Communist Party. Renowned for his passionate love poems and odes to ordinary objects, his most famous collection, \"Twenty Love Poems and a Song of Despair,\" was published in his youth. He later served as a diplomat in various countries, writing the poem \"I Explain a Few Things\" during the Spanish Civil War.",
+            "answers": ["Pablo Neruda"],
+            "used": "TRUE"
+        },
+        {
+            "category": "Sports",
+            "question": "At the age of 14, this Romanian gymnast made history at the 1976 Montreal Olympics by becoming the first gymnast to score a perfect 10.0 in an Olympic event, a feat she achieved not once, but seven times throughout the competition. Her flawless routines on the uneven bars and balance beam earned her three gold medals, including the prestigious all-around title. Name this gymnast who added two more gold medals in the 1980 Olympics.",
+            "answers": ["Nadia Comaneci"],
+            "used": "TRUE"
+        },
+        {
+            "category": "Current Events",
+            "question": "This U.S. Senator and his wife, Nadine, are currently facing trial for bribery charges over alleged gifts from Egyptian and Qatari nationals in exchange for favorable treatment. In 2015 this same Senator was charged in a separate corruption case which eventually ended when the charges were dropped in 2018. This Democrat is the senior Senator from New Jersey, serving since 2006. Name this politician who chaired the Committee on Foreign relations from 2013-2015 and 2021-2023.",
+            "answers": ["Bob Menendez", " Robert Menendez"],
+            "used": "TRUE"
+        },
+        {
+            "category": "Geography",
+            "question": "This transcontinental city straddles the Bosphorus Strait, a natural waterway that serves as a boundary between two continents. Its strategic location has made it a coveted prize throughout history, leading to its role as the capital of both the Byzantine and Ottoman Empires. Historically known as Byzantium and Constantinople, a blend of Eastern and Western influences is evident in its architecture, cuisine, and culture. Which city, the largest in Turkey, is the only metropolis in the world situated on two continents?",
+            "answers": ["Istanbul"],
+            "used": "TRUE"
+        },
+        {
+            "category": "US History",
+            "question": "This American president had a centrist political philosophy which became known as the \"Third Way\". He was the first president born in the Baby Boomer generation and participated in the Camp David Summit to advance the Israeli\u2013Palestinian peace process. He was twice elected governor of Arkansas and defeated George H.W. Bush and Bob Dole as he was elected President twice. Name this 42nd President who married Hillary Rodham.",
+            "answers": ["Bill Clinton"],
+            "used": "TRUE"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This science fiction franchise, despite initial cancellation after three seasons, gained a cult following through syndicated reruns and spawned a media empire. It premiered in 1966 with a multiracial crew led by Captain James T. Kirk aboard the USS Enterprise. Its creator, Gene Roddenberry, envisioned a future where humanity united to explore the galaxy. The show's original mission was \"to explore strange new worlds, to seek out new life and new civilizations, to boldly go where no man has gone before.\"",
+            "answers": ["Star Trek"],
+            "used": "TRUE"
+        },
+        {
+            "category": "World History",
+            "question": "This British politician and writer served as First Lord of the Admiralty during World War I but was demoted after the disastrous Gallipoli Campaign. He is most known for his wartime leadership during World War II, where he delivered powerful speeches, including \"We shall fight on the beaches.\" He earned a Nobel Prize in Literature in 1953 for books he wrote about his WWII experiences. Name this British statesman who served two terms as Prime Minister of the United Kingdom and who coined the phrase \"Iron Curtain\" in a famous speech.",
+            "answers": ["Winston Churchill"],
+            "used": "TRUE"
+        },
+        {
+            "category": "Science",
+            "question": "This international scientific research project was declared essentially complete in 2003, with 92% of human DNA sequenced. A working draft was announced in 2000, a significant milestone in the project's timeline. Led by an international consortium of scientists, it involved mapping and deciphering the 3 billion base pairs that make up human DNA. This ambitious endeavor sought to map and understand all the genes of human beings. What was the name of this project, which has since revolutionized fields from medicine to forensics?",
+            "answers": ["Human Genome Project", "Genome", "Human Genome"],
+            "used": "TRUE"
+        }
+    ],
+    [
+        {
+            "category": "World History",
+            "question": "This Prussian statesman, born into the Junker nobility, orchestrated the unification of Germany in 1871 through a series of strategic wars, including victories over Austria and France. This man served as the first Chancellor of the German Empire from 1871 to 1890, and became known as the \"Iron Chancellor\". Who is this leader known for his strong leadership and Realpolitik approach to politics?",
+            "answers": ["Otto Von Bismark"],
+            "used": "TRUE"
+        },
+        {
+            "category": "US History",
+            "question": "Constructed on an artificial island at the entrance of Charleston Harbor in South Carolina, this masonry fort was named for a Revolutionary War hero  It was designed to protect the harbor from naval attacks and became a focal point of tension between the Union and the Confederacy in the lead-up to the Civil War. Following South Carolina's secession from the Union in December 1860, the fort's commander, Major Robert Anderson, refused to surrender it to Confederate authorities, leading to a bombardment that marked the official beginning of the Civil War in April 1861.",
+            "answers": ["Fort Sumter"],
+            "used": "TRUE"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This British actress and fashion icon, known for her roles in classic films during Hollywood's Golden Age, epitomized elegance and charm with her performances in \"Breakfast at Tiffany's,\" \"Roman Holiday,\" for which she won an Academy Award, and \"My Fair Lady.\" Beyond her film career, she was also celebrated for her humanitarian work with UNICEF. Her style and grace left a lasting impression on the fashion and film industries. What is the name of this beloved actress and philanthropist, renowned for both her distinctive cinematic roles and her dedication to charity?",
+            "answers": ["Audrey Hepburn"],
+            "used": "TRUE"
+        },
+        {
+            "category": "Science",
+            "question": "This single-stranded molecule, essential for protein synthesis, comes in three main types: messenger, transfer, and ribosomal. It carries genetic code from DNA, delivers amino acids to the ribosome, and forms a key component of ribosomes. Which molecule, found in all living cells and some viruses, serves as a vital link between genetic information and protein production, making it indispensable for life?",
+            "answers": ["RNA", "Ribonucleic Acid"],
+            "used": "TRUE"
+        },
+        {
+            "category": "Current Events",
+            "question": "This athlete was the first player in NCAA history to lead the nation in both points and assists in a single season. She was named the consensus National Player of the Year in 2023, winning the Naismith Trophy, the Wade Trophy, and the Wooden Award. She led her team to the NCAA championship game in 2023, where they lost to LSU. Name this Iowa Hawkeyes star who was selected as the first overall pick in the 2024 WNBA draft by the Indiana Fever.",
+            "answers": ["Caitlin Clark"],
+            "used": "TRUE"
+        },
+        {
+            "category": "Arts & Literature",
+            "question": "This playwright, who married Marilyn Monroe in 1956, was once blacklisted by the House Un-American Activities Committee for refusing to name suspected communists. He is celebrated for his powerful portrayals of American life and social injustice, particularly in plays exploring themes of guilt, responsibility, and the American Dream. Two of his most notable works include \"The Crucible,\" a drama about the Salem witch trials that serves as an allegory for McCarthyism, and \"Death of a Salesman,\" a tragedy about a struggling salesman who grapples with disillusionment and failure.",
+            "answers": ["Arthur Miller"],
+            "used": "TRUE"
+        },
+        {
+            "category": "Geography",
+            "question": "This historic city, located in the \u00cele-de-France region, lies within a basin on the Seine River, approximately 233 miles from its mouth on the English Channel. Its urban landscape is characterized by wide boulevards and a harmonious blend of Haussmannian architecture and iconic landmarks like the Eiffel Tower and Arc de Triomphe. The city is divided into 20 arrondissements, spiraling outward from the historic center on the \u00cele de la Cit\u00e9. Which city, renowned for its art, fashion, and cuisine, serves as the capital of France and a global center of culture?",
+            "answers": ["Paris", "Paris, France"],
+            "used": "TRUE"
+        },
+        {
+            "category": "Sports",
+            "question": "This Spanish football club is one of the most successful and popular sports teams globally. Founded in 1902, it has won numerous domestic league titles and holds the record for the most UEFA Champions League victories. Known for their iconic white kits, the club has a storied history featuring legendary players such as Alfredo Di Stefano, Cristiano Ronaldo, and Zinedine Zidane. Their intense rivalry with FC Barcelona, known as \"El Clasico,\" is one of the most famous in sports. What is the name of this football club, renowned for its rich history and success in both national and international competitions?",
+            "answers": ["Real Madrid"],
+            "used": "TRUE"
+        }
+    ],
+    [
+        {
+            "category": "Current Events",
+            "question": "The series finale of this coming-of-age sitcom aired on May 16, 2024 on CBS after seven seasons. This show, filmed in front of a live studio audience, follows the life of a child prodigy in East Texas. The show was gained a surprising new fan base when it was released on Netflix in Fall 2021. Name this CBS sitcom that is narrated by Jim Parsons and follows the early life of Parsons's character previously featured in the hit show \"The Big Bang Theory.\"",
+            "answers": ["Young Sheldon"],
+            "used": "TRUE"
+        },
+        {
+            "category": "World History",
+            "question": "This revolutionary, born Ioseb Besarionis dze Jughashvili, adopted a pseudonym meaning \"man of steel.\" He orchestrated the Great Purge, a period of political repression and executions. His Five-Year Plans aimed to rapidly industrialize the Soviet Union. As General Secretary of the Communist Party, he led the Soviet Union during World War II and the beginning of the Cold War. Name this Soviet leader.",
+            "answers": ["Victor Stalin", "Stalin"],
+            "used": "TRUE"
+        },
+        {
+            "category": "Sports",
+            "question": "An engineering student at Oregon State University, this athlete struggled to master the straddle and western roll high jump techniques. After experimenting with unconventional methods, he developed a revolutionary back-first technique that he unveiled at the 1968 Mexico City Olympics. Despite initial skepticism, this technique propelled him to a gold medal and quickly became the dominant style in high jump, which now bears his name followed by an alliterative \"Flop.\"",
+            "answers": ["Dick Fosbury"],
+            "used": "TRUE"
+        },
+        {
+            "category": "Science",
+            "question": "This cellular structure, a network of interconnected membranous sacs and tubules, plays a crucial role in protein and lipid synthesis. It is divided into two distinct regions: rough, studded with ribosomes and involved in protein production and folding, and smooth, lacking ribosomes and responsible for lipid metabolism and detoxification. Found in all eukaryotic cells, its expansive surface area facilitates its diverse functions. What is the name of this organelle, often referred to as the \"highway\" of the cell due to its role in transporting molecules?",
+            "answers": ["Endoplastmic Reticulum", "E.R.", "ER"],
+            "used": "TRUE"
+        },
+        {
+            "category": "Arts & Literature",
+            "question": "Emerging in neutral Switzerland during World War I as a reaction against the war's violence and nationalism, this artistic and literary movement embraced chaos, irrationality, and nonsense. It challenged traditional notions of art and aesthetics, employing techniques like collage, photomontage, and readymades. The name of this movement, possibly chosen at random from a dictionary, is often associated with anti-establishment sentiments. What is the name of this movement whose prominent figures included Tristan Tzara, Marcel Duchamp, and Hugo Ball?",
+            "answers": ["Dadaism", "Dada"],
+            "used": "TRUE"
+        },
+        {
+            "category": "US History",
+            "question": "A staunch advocate for democracy, this U.S. president was the first to hold a Ph.D. and taught political science at Princeton University before entering politics. He led the nation through World War I, coining the phrase \"The world must be made safe for democracy.\" However, his dream of establishing the League of Nations faced opposition in Congress, and his health suffered a severe blow when he experienced a debilitating stroke in 1919. Who was this 28th President of the United States who envisioned a new world order after the Great War?",
+            "answers": ["Woodrow Wilson"],
+            "used": "TRUE"
+        },
+        {
+            "category": "Geography",
+            "question": "This island city-state, located at the southern tip of the Malay Peninsula, consists of one main island and 62 smaller islets. It is separated from Malaysia by the Johor Strait and from Indonesia by a strait which shares its name. Despite its small size of approximately 734 square kilometers, it is a global financial hub and a major shipping center, boasting the world's busiest transshipment port. Its diverse population comprises predominantly Chinese, Malay, and Indian ethnic groups. Which city-state, known for its cleanliness, efficiency, and strict laws, is a popular destination for both business and leisure travelers?",
+            "answers": ["Singapore"],
+            "used": "TRUE"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This popular sitcom, filmed in black and white for its first five seasons, was a spin-off of \"The Danny Thomas Show.\" Set in the fictional town of Mayberry, North Carolina, it followed the life of a widowed sheriff, his son, and his bumbling deputy. The show's gentle humor, heartwarming storylines, and memorable characters like Aunt Bee, Gomer Pyle, and Floyd the Barber made it a beloved classic, ranking among the most-watched shows from 1960-1968. Name this iconic comedy series starring Andy Griffith, Ron Howard, and Don Knotts.",
+            "answers": ["The Andy Griffith Show", "Andy Griffith"],
+            "used": "TRUE"
+        }
+    ],
+    [
+        {
+            "category": "Sports",
+            "question": "Born James Cleveland in Oakville, Alabama, this athlete moved to Cleveland, Ohio at age nine. He won four gold medals at the 1936 Berlin Olympics in the 100 meters, 200 meters, long jump, and 4x100 meter relay. His victories challenged Adolf Hitler's propaganda about Aryan racial superiority, as he set Olympic records in the long jump and 200 meters and equaled the world record in the 100 meters. Name this American Olympic icon.",
+            "answers": ["Jesse Owens"],
+            "used": "TRUE"
+        },
+        {
+            "category": "Science",
+            "question": "In the 1960s, Canadian scientists Ernest A. McCulloch and James E. Till made a groundbreaking discovery of these cells in mouse bone marrow. Classified into two main types, embryonic and adult, they offer vast potential in regenerative medicine, but also raise ethical concerns, especially with embryonic sources. Their unique ability to differentiate into specialized cells has led to promising research in treating diseases like Parkinson's and diabetes. What are these cells, hailed as a potential breakthrough in medicine yet also the subject of ongoing ethical discussions?",
+            "answers": ["Stem Cells"],
+            "used": "TRUE"
+        },
+        {
+            "category": "World History",
+            "question": "This European nation established a colony in 1908 which encompassed a vast territory in Central Africa rich in natural resources such as rubber, ivory, and minerals. It gained notoriety for the harsh treatment of the indigenous population under the rule of King Leopold II, leading to international condemnation and a humanitarian crisis. The colonial region ultimately achieved independence in from this nation in 1960, adopting the name Republic of the Congo before later changing it. Name the European nation which held colonial control over the Congo for over five decades.",
+            "answers": ["Belgium"],
+            "used": "TRUE"
+        },
+        {
+            "category": "US History",
+            "question": "This American president graduated from Eureka College in Illinois and began his career as a sportcaster in Iowa in 1932. He later served as the President of the Screen Actor's Guild then governor of California. John Hinckley attempted to assassinate this man in during his first term, thinking it would impress the actress Jodie Foster. Name this 40th US President who defeated Jimmy Carter and Walter Mondale.",
+            "answers": ["Ronald Reagan"],
+            "used": "TRUE"
+        },
+        {
+            "category": "Entertainment",
+            "question": "Debuting in 1975, this iconic American television show is known for its live sketch comedy and variety performances. Created by Lorne Michaels, it has launched the careers of many comedians and actors, becoming a staple of weekend television. The show is renowned for its topical humor, parodies of political figures, and musical performances, making it a significant part of American pop culture. It has also won numerous Emmy Awards over the decades. What is the name of this long-running program that features a different celebrity host and musical guest each week?",
+            "answers": ["Saturday Night Live"],
+            "used": "TRUE"
+        },
+        {
+            "category": "Arts & Literature",
+            "question": "This Harlem Renaissance poet, who once worked as a busboy, is celebrated for his vibrant depictions of African American life and culture, often incorporating elements of jazz and blues into his writing. Two of his most famous poems include \"I, Too,\" a defiant declaration of racial equality, and \"Harlem,\" a poignant exploration of deferred dreams. He is considered a pioneer of jazz poetry, and his works continue to inspire and resonate with readers today.",
+            "answers": ["Langston Hughes"],
+            "used": "TRUE"
+        },
+        {
+            "category": "Geography",
+            "question": "This vibrant city, nestled between lush mountains and the Atlantic Ocean, is famous for its dramatic landscape, featuring iconic landmarks such as Sugarloaf Mountain and the Christ the Redeemer statue. Its world-renowned Carnival celebrations, filled with music, dance, and elaborate costumes, attract millions of visitors each year. The city's Guanabara Bay, one of the world's largest natural harbors, is dotted with picturesque islands and surrounded by stunning beaches like Copacabana and Ipanema. Which city, the second most populous in Brazil, served as the nation's capital from 1763 to 1960?",
+            "answers": ["Rio de Janeiro"],
+            "used": "TRUE"
+        },
+        {
+            "category": "Current Events",
+            "question": "This television show concluded its 25th season on May 16, 2024, extending it's record as the longest-running primetime action series. It airs on NBC and was created by Dick Wolf as a spin off of a classic procedural crime drama. This series focused on two detectives as they investigate and prosecute sexually based crimes in New York City. Name this TV show which stars Mariska Hargitay and Christopher Meloni which was the first spin off from Law and Order. ",
+            "answers": [
+                "Law and Order: SVU",
+                "SVU",
+                "special victims unit",
+                "law and order: special victims unit"
+            ],
+            "used": "TRUE"
+        }
+    ],
+    [
+        {
+            "category": "Science",
+            "question": "This organelle, named after its Italian discoverer in 1897, is often referred to as the cell's \"post office\" due to its role in modifying, sorting, and packaging proteins and lipids. It consists of a series of flattened, stacked pouches called cisternae, and plays a crucial role in the secretory pathway. What is the name of this organelle, essential for cellular transport and processing?",
+            "answers": ["Golgi Apparatus"],
+            "used": "TRUE"
+        },
+        {
+            "category": "US History",
+            "question": "Orphaned as a teenager and captured by the British during the Revolutionary War, this future president survived an assassination attempt in 1835 when his would-be killer's pistols misfired. Nicknamed \"Old Hickory\" for his toughness, he rose from humble beginnings to become a lawyer, planter, and military leader. This seventh U.S. president is remembered for his controversial policies towards Native Americans, including the Indian Removal Act and the Trail of Tears. Who is this prominent figure in American history?",
+            "answers": ["Andrew Jackson"],
+            "used": "TRUE"
+        },
+        {
+            "category": "Geography",
+            "question": "This historic city, built on seven hills, straddles the Tiber River in the Lazio region of central Italy. Its strategic location on the river, approximately 15 miles inland from the Tyrrhenian Sea, contributed to its rise as a powerful empire. The city's iconic landmarks, including the Colosseum, the Pantheon, and the Forum, are testaments to its rich history and cultural significance. Which city, often called the \"Eternal City,\" serves as the capital of Italy and the spiritual center of the Catholic Church, with Vatican City located entirely within its boundaries?",
+            "answers": ["Rome"],
+            "used": "TRUE"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This iconic American actress, model, and singer, born Norma Jeane Mortenson in 1926, became one of the most popular sex symbols of the 1950s and early 1960s. Renowned for her comedic \"blonde bombshell\" roles, she starred in several successful films, including \"Some Like It Hot\" and \"The Seven Year Itch,\" the latter featuring the famous scene of her standing over a subway grate as her white dress is blown upwards. Her life, marked by glamour and personal struggles, ended tragically in 1962. What is the name of this legendary film star known for her beauty and tragic life story?",
+            "answers": ["Marilyn Monroe"],
+            "used": "TRUE"
+        },
+        {
+            "category": "Current Events",
+            "question": "This region, notorious for its rugged terrain and dense rainforests, poses a significant challenge to travelers and remains a missing link in the Pan-American Highway. It's a biodiversity hotspot, home to a wide array of flora and fauna, including jaguars, harpy eagles, and poisonous dart frogs. Indigenous groups like the Embera and Wounaan have inhabited the area for centuries. In recent years, it has become an increasingly perilous route for migrants fleeing economic and political instability, seeking passage between South and Central America. What is the name of this 66-mile stretch of undeveloped wilderness between Panama and Colombia?",
+            "answers": ["Darien Gap"],
+            "used": "TRUE"
+        },
+        {
+            "category": "World History",
+            "question": "This Austrian-born corporal and failed artist served in the Bavarian Army during World War I. He rose to power as the charismatic leader of the National Socialist German Workers' Party, becoming Chancellor of Germany in 1933. His hateful ideology, outlined in his book Mein Kampf, led to the persecution and genocide of Jews and other minorities in the Holocaust. His aggressive expansionist policies, including the annexation of Austria and invasion of Poland, plunged the world into the devastating conflict of World War II. Who is this infamous dictator who committed suicide in a Berlin bunker in 1945?",
+            "answers": ["Adolf Hitler"],
+            "used": "TRUE"
+        },
+        {
+            "category": "Sports",
+            "question": "Nicknamed \"Big Red,\" this chestnut racehorse with three white stockings won the Triple Crown in 1973, setting records in all three races that still stand today. His Belmont Stakes victory, a 31-length triumph, is considered one of the greatest performances in horse racing history. Upon his death, his heart was found to be more than twice the size of an average horse's heart, a possible explanation for his exceptional speed and endurance. Name this legendary racehorse.",
+            "answers": ["Secretariat"],
+            "used": "TRUE"
+        },
+        {
+            "category": "Arts & Literature",
+            "question": "This openly gay American poet, known for his raw and confessional style, wrote a controversial poem which led to a landmark trial for freedom of speech in 1957. A leading figure of the Beat Generation, he was expelled from Columbia University for writing obscene graffiti and befriended other Beat icons like Jack Kerouac and William S. Burroughs. His works often explored themes of sexuality, spirituality, and the American experience, with notable poems including \"Howl\", \"Kaddish\", and \"America.\"",
+            "answers": ["Allen Ginsberg"],
+            "used": "TRUE"
+        }
+    ],
+    [
+        {
+            "category": "US History",
+            "question": "Born in Texas and raised in Kansas, this five-star general served as Supreme Commander of the Allied Forces in Europe during World War II, overseeing the D-Day invasion of Normandy. A gifted strategist and charismatic leader, he later became president of Columbia University before returning to public service. Known for his \"Atoms for Peace\" speech and his farewell address warning of the \"military-industrial complex,\" he championed infrastructure development with the Interstate Highway System during his two terms in office. Who is this military hero and 34th President of the United States?",
+            "answers": ["Dwight D Eisenhower"],
+            "used": "TRUE"
+        },
+        {
+            "category": "Current Events",
+            "question": "This politician is being investigated by the FBI for possible campaign violations related to illegal fundraising from Turkish nationals. Before he was a politician, this man served as a New York police office for more than 20 years. He went on to become the first Black President of Brooklyn Borough in New York in 2013. In 2021, this man was elected Mayor of New York over Curtis Silwa.",
+            "answers": ["Eric Adams"],
+            "used": "TRUE"
+        },
+        {
+            "category": "World History",
+            "question": "This exiled revolutionary adopted a pseudonym derived from the Lena River. This man published the \"April Theses\" which led to the October Revolution, in which his Bolsheviks overthrew the Russian regime. An offshoot ideology of Marxism bares his name. Name this man who was the first leader of the Soviet Union from 1922-1924.",
+            "answers": ["Vladimir Lenin", "Vladimir Ilyich Ulyanov", "Lenin"],
+            "used": "TRUE"
+        },
+        {
+            "category": "Geography",
+            "question": "This sprawling metropolis, the third most populous in Africa, traces its roots back to a Roman fortress established in the 1st century AD. Its name, derived from the Arabic word \"Al-Qahirah\" meaning \"the victorious,\" reflects its historical significance as a center of power and culture. Located near the apex of the Nile Delta, it boasts iconic landmarks such as the Citadel of Salah al-Din and the Mosque of Muhammad Ali. Which city, a modern-day megacity with a population exceeding 20 million, is home to the renowned Museum of Egyptian Antiquities, housing a vast collection of ancient artifacts, including the treasures of Tutankhamun?",
+            "answers": ["Cairo"],
+            "used": "TRUE"
+        },
+        {
+            "category": "Sports",
+            "question": "Overcoming polio as a child, this athlete became the first American woman to win three gold medals in track and field at a single Olympic Games. Competing at the 1960 Rome Olympics, she dominated the 100-meter and 200-meter sprints, as well as the 4x100-meter relay, solidifying her place as one of the greatest female athletes of all time. Name this athlete who retired from competition at the peak of her athletic career in 1962 and went on to graduate from Tennessee State University and become an educator and coach.",
+            "answers": ["Wilma Rudolph"],
+            "used": "TRUE"
+        },
+        {
+            "category": "Science",
+            "question": "This German astronomer, mathematician, and author was born in Weil der Stadt in 1571. Despite suffering from smallpox as a child, he worked as an assistant to Tycho Brahe and later succeeded him as the imperial mathematician. He has been described as the \"father of science fiction\" for his novel Somnium. He is most known for his three laws of planetary motion, which revolutionized our understanding of the solar system and paved the way for Isaac Newton's law of universal gravitation. Who was this key figure in the scientific revolution?",
+            "answers": ["Johannes Kepler"],
+            "used": "TRUE"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This popular Christmas character, created by Robert L. May for a Montgomery Ward promotional booklet, was initially rejected by the company's executives for his unusual physical trait. Voiced by Billie Mae Richards in the 1964 stop-motion animated television special, this character is ostracized for his unusual nose but eventually becomes a hero when his unique attribute proves essential for guiding Santa's sleigh through a blizzard. The character's story has been adapted into numerous songs, movies, and television shows, and has become a beloved symbol of acceptance and embracing differences.",
+            "answers": ["Rudolph the Red-Nosed Reindeer", "rudolph", "rudolf"],
+            "used": "TRUE"
+        },
+        {
+            "category": "Arts & Literature",
+            "question": "Originally written in French during World War II, this allegorical novella tells the story of a young prince who travels from his asteroid to Earth, encountering various characters like a vain rose, a conceited king, and a drunkard. The book is beloved for its simple yet profound message about the importance of childlike wonder and imagination, and it has been translated into over 500 languages, making it the second most translated book of all time after The Bible. What is the name of this book which has sold over 140 million copies?",
+            "answers": ["The Little Prince"],
             "used": "TRUE"
         }
     ]

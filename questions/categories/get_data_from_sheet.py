@@ -3,7 +3,7 @@ import json
 import random
 
 def get_data_from_sheet(json_filepath):
-    gc = gspread.oauth()
+    gc = gspread.service_account()
 
     sh = gc.open("Quiz Questions")
 
