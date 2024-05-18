@@ -2398,7 +2398,12 @@
         {
             "category": "Entertainment",
             "question": "This popular Christmas character, created by Robert L. May for a Montgomery Ward promotional booklet, was initially rejected by the company's executives for his unusual physical trait. Voiced by Billie Mae Richards in the 1964 stop-motion animated television special, this character is ostracized for his unusual nose but eventually becomes a hero when his unique attribute proves essential for guiding Santa's sleigh through a blizzard. The character's story has been adapted into numerous songs, movies, and television shows, and has become a beloved symbol of acceptance and embracing differences.",
-            "answers": ["Rudolph the Red-Nosed Reindeer", "rudolph", "rudolf"],
+            "answers": [
+                "Rudolph the Red-Nosed Reindeer",
+                "rudolph",
+                "rudolf",
+                "rudolph the reindeer"
+            ],
             "used": "TRUE"
         },
         {
