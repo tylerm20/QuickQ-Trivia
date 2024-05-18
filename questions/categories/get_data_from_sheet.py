@@ -3,7 +3,7 @@ import json
 import random
 
 def get_data_from_sheet(json_filepath):
-    gc = gspread.oauth()
+    gc = gspread.service_account()
 
     sh = gc.open("Quiz Questions")
 
@@ -49,5 +49,5 @@ def get_data_from_sheet(json_filepath):
         json.dump(multiple_days_qs, json_file, indent=4)
 
 # Example usage
-json_filepath = '/Users/mheavey/personal/minquiz/questions/categories/ordered_qs/qq_qs_5_8_24.json'
+json_filepath = '/Users/mheavey/personal/minquiz/questions/categories/ordered_qs/qq_qs_5_16_24.json'
 get_data_from_sheet(json_filepath)
