@@ -1916,7 +1916,7 @@
         },
         {
             "category": "Entertainment",
-            "question": "This film was released in 1994 and directed by Quentin Tarantino. The narrative intertwines the lives of two mob hitmen, ta boxer, a gangster's wife, and a pair of diner bandits, exploring themes of redemption and violence in a stylized manner. The movie's structure is a pastiche of various genres, making it a defining example of postmodern cinema. It was a major critical and commercial success, revitalizing the careers of several of its stars, including John Travolta. What is the title of this influential film that features the iconic dance scene between Travolta and Uma Thurman?",
+            "question": "This film was released in 1994 and directed by Quentin Tarantino. The narrative intertwines the lives of two mob hitmen, a boxer, a gangster's wife, and a pair of diner bandits, exploring themes of redemption and violence in a stylized manner. The movie's structure is a pastiche of various genres, making it a defining example of postmodern cinema. It was a major critical and commercial success, revitalizing the careers of several of its stars, including John Travolta. What is the title of this influential film that features the iconic dance scene between Travolta and Uma Thurman?",
             "answers": ["Pulp Fiction"],
             "used": "TRUE"
         },
