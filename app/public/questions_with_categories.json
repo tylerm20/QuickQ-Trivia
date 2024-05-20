@@ -1940,7 +1940,7 @@
         },
         {
             "category": "US History",
-            "question": "This American polymath and  Founding Fathers was instrumental in drafting the Declaration of Independence and the U.S. Constitution. A noted inventor, he created the lightning rod and bifocal glasses. His experiments with electricity were groundbreaking, contributing significantly to the scientific understanding of the time. Also a diplomat, he played a crucial role in securing French support during the American Revolution. What is the name of this influential figure, who also established Philadelphia\u2019s first fire department and library?",
+            "question": "This American polymath and  Founding Father was instrumental in drafting the Declaration of Independence and the U.S. Constitution. A noted inventor, he created the lightning rod and bifocal glasses. His experiments with electricity were groundbreaking, contributing significantly to the scientific understanding of the time. Also a diplomat, he played a crucial role in securing French support during the American Revolution. What is the name of this influential figure, who also established Philadelphia\u2019s first fire department and library?",
             "answers": ["Benjamin Franklin", "Ben Franklin"],
             "used": "TRUE"
         }
