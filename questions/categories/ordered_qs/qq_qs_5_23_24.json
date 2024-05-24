@@ -1,0 +1,529 @@
+[
+    [
+        {
+            "category": "US History",
+            "question": "This party was founded by several ex-Whigs. Past leaders of this party include Newt Gingrich, the creator of the Contract with America, and Teddy Roosevelt. One member of this party made a campaign pledge of \"no new taxes,\" and Libertarians traditionally run under this major party's banner. It is currently chaired by Michael Whatley. Name this major party also called the \"Grand Old Party.\"",
+            "answers": ["Republican Party", "Republican"],
+            "used": "FALSE"
+        },
+        {
+            "category": "Geography",
+            "question": "This American city, built on three islands - Manhattan, Staten Island, and part of Long Island - is home to five boroughs, each with its own distinct character. The city is also home to Central Park, an 843-acre oasis in the heart of Manhattan, and the Statue of Liberty, a symbol of freedom and democracy. What is the name of this bustling metropolis, known for its skyscrapers, Broadway theaters, and diverse population?",
+            "answers": ["New York City", "New York", "NYC"],
+            "used": "FALSE"
+        },
+        {
+            "category": "Sports",
+            "question": "This NFL team, established in 1919, is the only community-owned franchise in the league. It boasts a passionate fanbase known as \"Cheeseheads,\" who often wear foam cheese-shaped hats to games. The team's colors are green and gold, and their logo features a white oval with a green \"G\" inside. They have won four Super Bowl championships, including the first two Super Bowls. What is the name of this team, whose home stadium is Lambeau Field in Wisconsin?",
+            "answers": ["Green Bay Packers", "Packers"],
+            "used": "FALSE"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This restaurateur and television personality is known for his distinctive blonde spiky hair and goatee. He studied abroad as an exchange student in Chantilly, France, which expanded his culinary horizons. He gained widespread recognition by winning the second season of The Next Food Network Star in 2006. Who is this celebrity chef, known for his catchphrase \"Flavortown\" and hosting shows like \"Diners, Drive-Ins and Dives\"? ",
+            "answers": ["Guy Fieri"],
+            "used": "FALSE"
+        },
+        {
+            "category": "Arts & Literature",
+            "question": "This man described a trip around America with his poodle in Travels with Charley. In a novella by this man, George shoots Lennie to prevent him from being lynched. This man also wrote about the Joad family's attempt to escape the Depression by moving to California from Oklahoma. Identify this American author of Of Mice and Men and The Grapes of Wrath.",
+            "answers": ["John Steinbeck", "Steinbeck", "John Ernst Steinbeck"],
+            "used": "FALSE"
+        },
+        {
+            "category": "World History",
+            "question": "Despite being heavily guarded, this structure was successfully breached over 5,000 times by individuals using creative methods like hot air balloons, tunnels, and even tightropes. Its construction led to the displacement of over 100,000 people, and its existence became a focal point for Cold War tensions and a symbol of oppression. The first victim of this barrier was Ida Siekmann, who died while attempting to jump from her apartment window in East Berlin. What is the name of this infamous structure, which divided a city and a nation for 28 years? ",
+            "answers": ["Berlin Wall"],
+            "used": "FALSE"
+        },
+        {
+            "category": "Current Events",
+            "question": "Robert Fico, the Prime Minister for this nation was shot in an assassination attempt on May 15, 2024. The Central European country, known for its medieval castles and picturesque mountain ranges, is home to the High Tatras, the smallest high mountain range in the world. Its capital, Bratislava, is the only capital city that borders two other countries, Austria and Hungary. What is the name of this country, whose national dish is bryndzov\u00e9 halu\u0161ky, potato dumplings with sheep cheese and bacon?",
+            "answers": ["Slovakia"],
+            "used": "FALSE"
+        },
+        {
+            "category": "Science",
+            "question": "This constellation is often interpreted as fighting Taurus with his dogs Canis Minor and Canis Major. Stars within this constellation include the \"amazon star\" Bellatrix, the red giant Betelgeuse, and Rigel. It is most easily recognizable by the three stars making up the belt of the figure in this constellation. Name this constellation also known as \"the Hunter.\"",
+            "answers": ["Orion"],
+            "used": "FALSE"
+        }
+    ],
+    [
+        {
+            "category": "Current Events",
+            "question": "On May 19, 2024, this nation's President died in a helicopter crash while flying back from neighboring Azerbaijan. Although they have a president the country is led by Supreme Leader Ali Khamenei, the longest serving head of state in the Middle East. The United States and its allies agreed to the Joint Comprehensive Plan on Action to end economic sanctions on this nation in exchange for a restriction on producing enriched uranium for nuclear weapons. The United States pulled out of this deal during the Trump Administration. Name this nation formerly known as Persia.",
+            "answers": ["Iran"],
+            "used": "FALSE"
+        },
+        {
+            "category": "Entertainment",
+            "question": "Formed in London in 1962, this band is known for their iconic tongue and lips logo, their blues-inspired sound, and their rebellious image. Their 1969 album \"Let It Bleed\" included hits like \"Gimme Shelter\" and \"You Can't Always Get What You Want.\" Who is this legendary band, fronted by Mick Jagger and Keith Richards?",
+            "answers": ["The Rolling Stones"],
+            "used": "FALSE"
+        },
+        {
+            "category": "World History",
+            "question": "This five-week battle in 1945 was immortalized by Joe Rosenthal's Pulitzer Prize-winning photograph of six US Marines raising the American flag atop Mount Suribachi. The iconic black sand beaches of this island were the site of the initial landings, and the battle saw some of the fiercest fighting of the Pacific War. What is the name of this battle, which ultimately resulted in an American victory, but with heavy casualties on both sides?",
+            "answers": ["Battle of Iwo Jima"],
+            "used": "FALSE"
+        },
+        {
+            "category": "Sports",
+            "question": "This NFL team, established in 1959 as the Titans, is the only team in NFL history to win its lone Super Bowl appearance, defeating the heavily favored Baltimore Colts in Super Bowl III. Their victory was led by quarterback Joe Namath, who famously guaranteed a win before the game. The team's colors are green and white. What is the name of this team, whose home stadium is MetLife Stadium in East Rutherford, New Jersey?",
+            "answers": ["New York Jets", "Jets", "NY Jets"],
+            "used": "FALSE"
+        },
+        {
+            "category": "Arts & Literature",
+            "question": "This man wrote about an animal who steals from the farmers Boggis, Bunce and Bean in The Fantastic Mister Fox. He also wrote about a girl with psychic powers who reads every book in the library and then loses her powers in Miss Honey's class in his book Matilda. A better known book by this man sees its title fruit get stuck on top of the Empire State Building. Name this author of James and the Giant Peach.",
+            "answers": ["Roald Dahl", "Dahl"],
+            "used": "FALSE"
+        },
+        {
+            "category": "Science",
+            "question": "The law of these objects states that the torque on one side is equal to the torque on the other side. These objects can be classified as first class, second class, or third class depending on the location of the fulcrum. Name these simple machines, familiar examples of which include a wheelbarrow and see-saw.",
+            "answers": ["levers"],
+            "used": "FALSE"
+        },
+        {
+            "category": "Geography",
+            "question": "Landmarks on this island include the El Yunque rainforest and Fort San Felipe del Moro. Humacao, Caguas, Bayamon, and Ponce are some of its municipalities. The largest municipality shares the name given to the island by Columbus, San Juan. Identify this island, a United States commonwealth in the Caribbean.",
+            "answers": ["Puerto Rico"],
+            "used": "FALSE"
+        },
+        {
+            "category": "US History",
+            "question": "After having much of his legislation overturned by the Supreme Court, this leader proposed his court packing plan. The Tennessee Valley Authority was one piece of New Deal legislation that was not overturned by the Court. Although he led his country for most of World War II, he did not make the decision to drop the atomic bombs on Japan. He succeeded Herbert Hoover. Who is the only President of the United States to be elected to more than two terms in office?",
+            "answers": [
+                "Franklin Delano Roosevelt",
+                "FDR",
+                "Franklin Roosevelt"
+            ],
+            "used": "FALSE"
+        }
+    ],
+    [
+        {
+            "category": "Arts & Literature",
+            "question": "This artist's statues of a dying slave and a horned Moses were to adorn the tomb of Julius II. His only signed work is one in which Mary holds the dead body of Jesus, entitled Piet\u00e0. One of his works depicts a nude giant killer holding a sling. This man depicted several scenes from Genesis in The Last Judgement. Name this Italian Renaissance painter of the Sistine Chapel ceiling.",
+            "answers": ["Michelangelo", "Buonarroti"],
+            "used": "FALSE"
+        },
+        {
+            "category": "Science",
+            "question": "One theory of this entity's creation states that a Mars-sized body named Theia collided with its parent planet. This object exhibits synchronous rotation with its parent planet, and that rotation results in the namesake \"dark side\" of this object. The Sea of Tranquility lies on what astronomical body responsible for the Earth's tides, its largest natural satellite?",
+            "answers": ["The Moon", "Luna", "moon"],
+            "used": "FALSE"
+        },
+        {
+            "category": "Sports",
+            "question": "This left fielder for the Chicago White Sox, known for his exceptional hitting ability and illiterate background, allegedly participated in the infamous Black Sox Scandal of 1919. Despite being acquitted in court, he was banned from baseball for life by Commissioner Kenesaw Mountain Landis. His lifetime batting average of .356 remains the fourth-highest in Major League Baseball history. Who is this player, nicknamed \"Shoeless Joe\" for once playing a game without his cleats due to blisters?",
+            "answers": ["Joe Jackson"],
+            "used": "FALSE"
+        },
+        {
+            "category": "Geography",
+            "question": "Located on the Yangtze River Delta in East China, this city is home to the world's busiest container port and is divided into two sections by the Huangpu River. It is a major financial hub and home to the third tallest building in the world. Its unique cityscape features a mix of traditional Chinese architecture and modern skyscrapers. What is the name of this city, known for its historic Bund waterfront and vibrant nightlife?",
+            "answers": ["Shanghai"],
+            "used": "FALSE"
+        },
+        {
+            "category": "Current Events",
+            "question": "The sale of this iconic Memphis property was recently stalled by a Tennessee judge. This mansion, located on Elvis Presley Boulevard, was purchased in 1957 for just over $100,000 from a woman named Ruth Moore, whose family had built the home two decades earlier. It's famous for its Jungle Room, a Polynesian-inspired den complete with a 15-foot waterfall. The property includes a Meditation Garden, the final resting place of the King of Rock and Roll and several of his family members. What is this iconic Memphis landmark, a pilgrimage site for Elvis fans worldwide?",
+            "answers": ["Graceland"],
+            "used": "FALSE"
+        },
+        {
+            "category": "World History",
+            "question": "This philosopher's method of questioning, known as \"elenchus,\" involved a series of inquiries aimed at exposing contradictions and inconsistencies in a person's beliefs. He never wrote down his ideas, but his student Plato recorded his teachings in dialogues like \"The Republic\" and \"Apology.\" This philosopher was sentenced to death by hemlock for \"corrupting the youth of Athens.\" Name this ancient Greek thinker, considered the father of Western philosophy.",
+            "answers": ["Socrates"],
+            "used": "FALSE"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This British rock band's 1985 Live Aid performance is regarded as one of the greatest live performances in history. The band, known for their flamboyant stage presence and operatic harmonies, was founded in London in 1970 by Freddie Mercury, Brian May, Roger Taylor, and John Deacon. Their 1975 single stayed at the top of the UK charts for nine weeks and is considered one of the greatest rock songs of all time. Who is this iconic band, whose music has sold over 300 million records worldwide?",
+            "answers": ["Queen"],
+            "used": "FALSE"
+        },
+        {
+            "category": "US History",
+            "question": "This 1876 battle, a major turning point in the Great Sioux War, saw Lakota, Northern Cheyenne, and Arapaho warriors led by Sitting Bull and Crazy Horse defeat the U.S. 7th Cavalry Regiment. It took place near a river in Montana Territory, and is often romanticized as \"Custer's Last Stand.\" This victory for Indigenous forces was short-lived, as the U.S. Army eventually prevailed in the war. Name this battle, which has been the subject of numerous films and books.",
+            "answers": ["Battle of Little Bighorn", "Custers Last Stand"],
+            "used": "FALSE"
+        }
+    ],
+    [
+        {
+            "category": "World History",
+            "question": "One variety of this faith is outlined in the Pali Canon. Another variety venerates those who become enlightened but remain in samsara, called bodhisattvas. Those varieties are Theravada and Mahayana.  Adherents to another variety of this faith meditate on koans such as \"What is the sound of one hand clapping?\". Name this Asian faith that venerates Siddhartha Gautama.",
+            "answers": ["Buddhism"],
+            "used": "FALSE"
+        },
+        {
+            "category": "Science",
+            "question": "Responsible for the formation of salts like table salt, this chemical bond results from the transfer of electrons between atoms, creating oppositely charged ions that attract each other. It is typically formed between metals and nonmetals, and its strength is determined by the magnitude of the charges and the distance between the ions. What is this type of bond called?",
+            "answers": ["ionic bond"],
+            "used": "FALSE"
+        },
+        {
+            "category": "Geography",
+            "question": "This Canadian city, situated on the northwestern shore of Lake Ontario, is actually built on a glacial plain. It is home to a group of 15 islands which were formed by sediment deposits and erosion. The city's Don River Valley, carved by the last ice age, is a popular natural area for hiking and biking. What is the name of this city, the largest in Canada and the fourth largest in North America? ",
+            "answers": ["Toronto"],
+            "used": "FALSE"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This British filmmaker began his career designing title cards for silent films. His 1929 film, Blackmail, was the first British \"talkie.\" He was knighted by Queen Elizabeth II in 1980, just a few months before his death. He directed suspenseful thrillers such as \"Psycho,\" \"Vertigo,\" and \"North by Northwest,\" earning him the nickname the \"Master of Suspense.\" Who is this iconic director, known for his cameo appearances in his own films? ",
+            "answers": ["Alfred Hitchcock"],
+            "used": "FALSE"
+        },
+        {
+            "category": "US History",
+            "question": "Policies during this war included the \"strategic hamlet\" program and the use of Agent Orange as a defoliant. The Battle of Khe Sanh was fought during this war, which ended with the fall of Saigon, a city that was renamed after the victorious side's leader, Ho Chi Minh. A memorial wall in Washington, DC lists the American casualties of what conflict in Southeast Asia?",
+            "answers": ["Vietnam War"],
+            "used": "FALSE"
+        },
+        {
+            "category": "Current Events",
+            "question": "This British Prime Minister surprisingly called for a snap election to be held on July 4, 2024. Before becoming Prime Minister, he served as the Chancellor of the Exchequer beginning the 2020 under Boris Johnson. He was born in Southampton and received an MBA from Stanford University and a Fulbright Scholar. Name this man who has led the United Kingdom's Conservative Party since 2022 when he became the first British Asian Prime Minister. ",
+            "answers": ["Rishi Sunak"],
+            "used": "FALSE"
+        },
+        {
+            "category": "Sports",
+            "question": "This two-time Olympic gold medalist and two-time FIFA Women's World Cup champion was the youngest woman to ever play for the U.S. national soccer team at the age of 15. She held the record for most international goals scored until 2013 and still ranks third in the history of the U.S. team for international caps and first for career assists. She is married to former MLB shortstop Nomar Garciaparra. Who is this legendary soccer player, often considered one of the greatest female athletes of all time?",
+            "answers": ["Mia Hamm"],
+            "used": "FALSE"
+        },
+        {
+            "category": "Arts & Literature",
+            "question": "This play's opening brawl is started by Gregory and Samson. Later in this play, Friar John fails to deliver a letter written by Friar Lawrence. Mercutio is killed by Tybalt in Act III of this play. This play features the feud between the Montagues and the Capulets. Name this Shakespeare tragedy, depicting a doomed romance between the two title \"star-crossed lovers.\"",
+            "answers": ["Romeo and Juliet"],
+            "used": "FALSE"
+        }
+    ],
+    [
+        {
+            "category": "US History",
+            "question": "This landmark Supreme Court case centered on a Texas state law that criminalized abortion in most instances. The plaintiff, a pregnant woman seeking to terminate her pregnancy, challenged the law's constitutionality. The Court's 1973 decision established that a woman's right to have an abortion was protected by the constitutional right to privacy. Name this controversial case, which was later overturned in 2022 by Dobbs v. Jackson Women's Health Organization.",
+            "answers": ["Roe v. Wade", "Roe vs. Wade", "Roe"],
+            "used": "FALSE"
+        },
+        {
+            "category": "Geography",
+            "question": "Built on 43 hills and surrounded by the Pacific Ocean and a bay, this city is home to the infamous former prison on Alcatraz Island and a man-made island initially built for a World's Fair. Locals often refer to the city's frequent fog by the name \"Karl\". What is this city known for its steep streets, including the crooked Lombard Street?",
+            "answers": ["San Francisco"],
+            "used": "FALSE"
+        },
+        {
+            "category": "Entertainment",
+            "question": "Nicknamed the \"First Lady of Song\", this jazz vocalist was known for her scat singing and ability to imitate instruments with her voice. She won her first Grammy in 1958, becoming the first African-American woman to do so. Who is this iconic singer, known for her collaborations with Louis Armstrong and Duke Ellington?",
+            "answers": ["Ella Fitzgerald"],
+            "used": "FALSE"
+        },
+        {
+            "category": "Current Events",
+            "question": "This American transportation service experience an outage between New York and Philadelphia on May 21 and 22 causing major delays for commuters. The service was founded in 1971 as a quasi-public corporation and is headquartered in Union Station in Washington D.C. Nearly 87,000 passengers ride more than 300 of the service's trains daily and in 2022, they served 22.9 million passengers. Name this rail service with service in 46 U.S. States.",
+            "answers": ["Amtrak"],
+            "used": "FALSE"
+        },
+        {
+            "category": "World History",
+            "question": "This man fought against Ariovistus, a German leader, and Vercingetorix, a chieftain of the Arverni whose defeat is described in this man's book, Commentaries on the Gallic Wars. He led his troops across the Rubicon to start a civil war with Pompey, one of his partners in the First Triumvirate. Name this Roman leader who was assassinated by Brutus on the Ides of March.",
+            "answers": ["Julius Caesar", "Caesar"],
+            "used": "FALSE"
+        },
+        {
+            "category": "Sports",
+            "question": "This NBA team's home court, Madison Square Garden, is often referred to as \"The World's Most Famous Arena.\" The team's colors are orange, blue, and white. They have won two NBA championships, both in the early 1970s, with a team that included legends like Walt Frazier and Willis Reed. In 1994, they made it to the NBA Finals but lost to the Houston Rockets. What is the name of this team, located in New York City?",
+            "answers": ["New York Knicks", "Knicks"],
+            "used": "FALSE"
+        },
+        {
+            "category": "Science",
+            "question": "Two liquids are said to be immiscible if they cannot combine to form this type of mixture. In the most common form of this mixture, solid particles are small enough to completely dissolve in a liquid. Name this type of mixture that is not a colloid or suspension, an example of which is sugar dissolved in water.",
+            "answers": ["solution"],
+            "used": "FALSE"
+        },
+        {
+            "category": "Arts & Literature",
+            "question": "The most winning woman he ever knew was hanged for poisoning three little children for their insurance-money. Irene Adler, always THE woman to this man, outwitted him during his investigation of 'A Scandal in Bohemia.' This man returned in 'The Adventure of the Empty House' after battling Professor Moriarty to the death. Name this detective faithfully accompanied by John Watson.",
+            "answers": ["Sherlock Holmes"],
+            "used": "FALSE"
+        }
+    ],
+    [
+        {
+            "category": "US History",
+            "question": "This Supreme Court case centered around a Louisiana state law mandating racial segregation on trains. The plaintiff, a man of mixed race, deliberately violated this law to challenge its constitutionality. The Court's controversial ruling in 1896 established the doctrine of \"separate but equal,\" which upheld racial segregation in public facilities for decades. Name this landmark case, which had a profound impact on the civil rights movement in the United States.",
+            "answers": [
+                "Plessy vs Ferguson",
+                "Plessy",
+                "Ferguson",
+                "Plessy v. Ferguson"
+            ],
+            "used": "FALSE"
+        },
+        {
+            "category": "Current Events",
+            "question": "In the Spring of 2024, this rapper revitalized a feud with Drake by releasing the first in a series diss tracks, \"Euphoria\", in response to Drake's release of \"Push Ups\" and \"Taylor Made Freestyle\". This Pulitzer Prize-winning rapper released his debut studio album, \"Section.80,\" in 2011, which gained critical acclaim and established him as a rising star in hip hop. His subsequent albums, including \"Good Kid, M.A.A.D City,\" \"To Pimp a Butterfly,\" and \"DAMN.,\" explored themes of race, identity, and social justice, earning him numerous awards and accolades. Name this West Coast rapper who first released music under the name K.Dot in high school.",
+            "answers": ["Kendrick Lamar"],
+            "used": "FALSE"
+        },
+        {
+            "category": "World History",
+            "question": "Discovered in 1799 by French soldiers during Napoleon's Egyptian campaign, this black basalt slab contains a decree issued in Memphis, Egypt, in 196 BCE on behalf of King Ptolemy V Epiphanes. Its inscription is written in three scripts: hieroglyphics, Demotic script, and Ancient Greek. This allowed scholars to decipher hieroglyphics, unlocking the secrets of Ancient Egypt and revolutionizing our understanding of this ancient civilization. What is the name of this artifact, now housed in the British Museum in London?",
+            "answers": ["Rosetta Stone"],
+            "used": "FALSE"
+        },
+        {
+            "category": "Science",
+            "question": "The Euler line passes through the orthocenter, circumcenter, and centroid in this figure. The area of this polygon can be found by halving the product of two sides and the sine of the angle opposite of the third side or by simply using Heron's formula. It is the only polygon that cannot be concave, because its angles must add to 180 degrees. Name this polygon with three sides.",
+            "answers": ["triangle"],
+            "used": "FALSE"
+        },
+        {
+            "category": "Entertainment",
+            "question": "At one point in this musical, Dr. Dillamond sings \"Something Bad.\" At another point, Madame Morrible announces that the main character is now an enemy of the town, and that character then sings \"Defying Gravity.\" The two heroines in it were originally played by Kristin Chenoweth and Idina Menzel. The relationship between Elphaba and Glinda is documented in what musical based on The Wizard of Oz?",
+            "answers": ["Wicked"],
+            "used": "FALSE"
+        },
+        {
+            "category": "Arts & Literature",
+            "question": "In this novel, a town is fooled by two men who pull off the Royal Nonesuch, and those men go on to steal the property of the late Peter Wilkes. The Widow Douglas wants to \"sivilize\" the title character, who misses a turn at Cairo and keeps floating south. Name this novel that sees Jim and the title friend of Tom Sawyer travel down the Mississippi River, a work by Mark Twain.",
+            "answers": [
+                "The Adventures of Huckleberry Finn",
+                "Huckleberry Finn"
+            ],
+            "used": "FALSE"
+        },
+        {
+            "category": "Sports",
+            "question": "This NBA team's colors are navy blue, gold, and cool gray. They have won three championships, all in the ABA, and have a fierce rivalry with the Detroit Pistons. Reggie Miller, one of their most famous players, is known for his clutch three-pointers and trash-talking. What is the name of this team currently coached by Rick Carlisle, based in Indianapolis, Indiana?",
+            "answers": ["Indiana Pacers", "Pacers"],
+            "used": "FALSE"
+        },
+        {
+            "category": "Geography",
+            "question": "The Andean type of these entities occurs beneath a continental plate, and it is at these sites that about 20% of Earth's crust has been consumed. This antithesis of the mid-oceanic ridge is usually typified by lines of volcanoes running parallel near an oceanic trench. Identify this region where tectonic plates collide, and one goes underneath the other.",
+            "answers": ["subduction zone"],
+            "used": "FALSE"
+        }
+    ],
+    [
+        {
+            "category": "Entertainment",
+            "question": "This character was named after the wife of King Leontes in The Winter's Tale. This character forms an organization called S.P.E.W., and purchases a half-cat, half-kneazle known as Crookshanks. Though she is called a 'mudblood' because of her dentist parents, she is smart enough to have memorized \"Hogwarts: A History.\" Name this female companion to Harry and Ron in the \"Harry Potter\" series.",
+            "answers": ["Hermione Granger", "Hermione", "Granger"],
+            "used": "FALSE"
+        },
+        {
+            "category": "Current Events",
+            "question": "In Spring 2024, Kenya committed 1,000 police officers to help diminish gang violence in this nation in a U.N. sanctioned mission which is being financed by the United States. On July 7, 2021 the president of this nation was assassinated and no replacement has been chosen. The country has a recent history of devastating earthquakes leading to increased poverty. Name this Caribbean nation, once a French colony known as Saint-Domingue, is where the Vodou religion originated.",
+            "answers": ["Haiti"],
+            "used": "FALSE"
+        },
+        {
+            "category": "World History",
+            "question": "The title character in the movie \"V for Vendetta\" wears a mask depicting this man. In 1605, this devout Catholic attempted to assassinate King James I of England by blowing up the House of Lords during the State Opening of Parliament. He was discovered in the cellar beneath Parliament and was subsequently tortured and executed. His actions are commemorated annually on November 5th in the United Kingdom, with fireworks displays. Who is this historical figure, whose name has become synonymous with rebellion and conspiracy?",
+            "answers": ["Guy Fawkes"],
+            "used": "FALSE"
+        },
+        {
+            "category": "US History",
+            "question": "This Union general's \"Special Field Order No. 15\" promised freed slaves \"forty acres and a mule,\" though it was later revoked. His capture of Atlanta in 1864 boosted Union morale and helped re-elect President Lincoln. He is known for his \"March to the Sea,\" a destructive campaign through Georgia designed to demoralize the Confederacy. Name this general, infamous for his embrace of \"total war\" tactics during the American Civil War.",
+            "answers": [
+                "William Tecumseh Sherman",
+                "General Sherman",
+                "General William Tecumseh Sherman",
+                "Tecumseh Sherman"
+            ],
+            "used": "FALSE"
+        },
+        {
+            "category": "Arts & Literature",
+            "question": "While travelling back to his hometown, this man solves a riddle with the answer of 'man.' He kills his own father over the right-of-way at a crossroads. This man fathers his daughter Antigone by his own mother Jocasta, fulfilling a prophecy made at his birth. Name this title character of plays by Sophocles, including one in which he is at Colonus and one in which he is Rex, or The King.",
+            "answers": ["Oedipus"],
+            "used": "FALSE"
+        },
+        {
+            "category": "Sports",
+            "question": "This American tennis player, known for her powerful serve and volley game, won 39 Grand Slam titles throughout her career. She co-founded the Women's Tennis Association and the World TeamTennis league, advocating for gender equality in sports. In 1973, she defeated Bobby Riggs in the highly publicized \"Battle of the Sexes\" tennis match. Who is this influential athlete, the first prominent female athlete to come out as gay?",
+            "answers": ["Billy Jean King"],
+            "used": "FALSE"
+        },
+        {
+            "category": "Science",
+            "question": "A pressure associated with this process is a colligative property proportional to mass and temperature, and is defined as the hydrostatic pressure necessary to counteract this process. A 'reverse' form of this process is sometimes used to purify water. Name this movement of water across a semi-permeable membrane from an area of high concentration to an area of low concentration.",
+            "answers": ["osmosis", "diffusion"],
+            "used": "FALSE"
+        },
+        {
+            "category": "Geography",
+            "question": "One piece of evidence that supports its existence is that the Caledonian mountains of Northern Europe are a continuation of the Appalachian Mountains. This entity broke up into Laurasia and Gondwanaland. Alfred Wegener coined its name during a lecture in which he discussed his theory of continental drift. Name this supercontinent theorized to have existed 250 million years ago.",
+            "answers": ["Pangea"],
+            "used": "FALSE"
+        }
+    ],
+    [
+        {
+            "category": "Science",
+            "question": "The size of these objects is given by the Schwarzschild radius. According to quantum mechanics, these objects emit Hawking radiation. One of them, Sagittarius A Star, sits at the center of our galaxy and has four million times the mass of our sun. Name these objects in outer space from which supposedly nothing, not even light, can escape?",
+            "answers": ["black hole"],
+            "used": "FALSE"
+        },
+        {
+            "category": "World History",
+            "question": "This man's wife Jiang Qing was a member of the Gang of Four. He escaped a Kuomintang offensive led by Chiang Kai-shek and went on the Long March in 1934. After he took power in 1949, his government adopted such policies as the Great Leap Forward and the Cultural Revolution. The Little Red Book was written by what Chairman of China's Communist Party?",
+            "answers": ["Mao Zedong", "Mao"],
+            "used": "FALSE"
+        },
+        {
+            "category": "US History",
+            "question": "The oldest person to hold this position was Roger Taney. This office serves as Chancellor of the Smithsonian, and also presides over Presidential impeachment trials. It was held by Charles Evans Hughes, John Marshall, and Earl Warren, the latter of whom wrote an opinion that mandated the so-called 'Miranda Rights'. Name this position currently held by John Roberts Jr., the head of the federal judiciary.",
+            "answers": [
+                "Chief Justice of the Supreme Court",
+                "chief justice",
+                "chief justice of the us supreme court",
+                "chief justice of the united states supreme court"
+            ],
+            "used": "FALSE"
+        },
+        {
+            "category": "Current Events",
+            "question": "The kicker of this NFL team has recently come under fire for his graduation speech at Benedictine College in Kansas. In the speech, delivered by Harrison Butker, he derided pride month, university diversity initiatives, and suggested that women may not achieve the same fulfillment in careers and they would from homemaking. This team won the Super Bowl in 2023 and 2024 quarterbacked by Patrick Mahomes. Name this NFL team which plays in Kansas City. ",
+            "answers": ["Kansas City Chiefs", " Chiefs"],
+            "used": "FALSE"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This British actor, writer, and director, born in London in 1889, became a global icon for his character \"The Tramp,\" a bumbling yet endearing figure with a bowler hat, cane, and oversized shoes. He was a pioneer in the silent film era, writing, directing, and starring in \"The Kid,\" \"The Gold Rush,\" and \"City Lights.\" He was satirized Adolf Hitler in his 1940 film \"The Great Dictator.\" Who is this legendary figure of early cinema, known for his physical comedy and heartwarming stories?",
+            "answers": ["Charlie Chaplin"],
+            "used": "FALSE"
+        },
+        {
+            "category": "Sports",
+            "question": "This NHL team, with their iconic winged wheel logo, has a rich history dating back to 1926, when they were known as the Cougars. They are one of the \"Original Six\" teams in the NHL and have won 11 Stanley Cup championships, the most of any American team. They are known for their passionate fanbase and the tradition of throwing octopi on the ice during playoff games. What is the name of this team, based in Detroit, Michigan, whose home arena is Little Caesars Arena?",
+            "answers": ["Detroit Red Wings", "Red Wings"],
+            "used": "FALSE"
+        },
+        {
+            "category": "Geography",
+            "question": "This Australian city, the capital of New South Wales, is home to the world's largest natural harbor, Port Jackson. It's home to Iconic landmarks like the Harbour Bridge, and it is bordered by national parks, including the Royal National Park to the south and the Blue Mountains National Park to the west. The city's most famous landmark, designed by Danish architect J\u00f8rn Utzon, has a distinctive sail-like design. What is the name of this bustling metropolis, renowned for its beaches?",
+            "answers": ["Sydney"],
+            "used": "FALSE"
+        },
+        {
+            "category": "Arts & Literature",
+            "question": "Three square windows can be seen in the back of this painting, and the back of a chair takes up its lower center portion. The central figure is wearing red and blue with his hands on a table; to his right is an effeminate figure believed to be the Apostle John. Judas clutches a bag of silver in what Leonardo da Vinci painting that depicts Christ's final meal with his disciples?",
+            "answers": ["The Last Supper"],
+            "used": "FALSE"
+        }
+    ],
+    [
+        {
+            "category": "World History",
+            "question": "During his execution, this figure was pierced by the Lance of Longinus. In addition to yelling at a fig tree for not bearing fruit, this figure healed a pig-eating man from Gerasa possessed by a horde of devils named Legion. This man was put to death by Pontius Pilate, and drops of his blood fell into the Holy Grail. Name this Messiah and only son of God according to Christianity.",
+            "answers": ["Jesus", "Jesus Christ"],
+            "used": "FALSE"
+        },
+        {
+            "category": "Science",
+            "question": "This type of chemical bond, formed by the sharing of electron pairs between atoms, is responsible for the stability of many molecules, including water and carbon dioxide. Its strength is determined by the number of shared electron pairs, with double and triple bonds being stronger than single bonds. It is prevalent in organic compounds, forming the backbone of complex molecules like DNA and proteins. What is the name of this bond, which plays a crucial role in the chemistry of life?",
+            "answers": ["Covalent bond"],
+            "used": "FALSE"
+        },
+        {
+            "category": "US History",
+            "question": "In the buildup to this battle, the losing commander set up a fortification at Gloucester shortly after retreating from Williamsburg. A key turning point in this battle was the arrival of reinforcements under Count Rochambeau. British naval forces under Thomas Graves failed to break through the French blockade. Name this final Revolutionary War battle, after which Lord Cornwallis surrendered.",
+            "answers": ["Battle of Yorktown", "Yorktown"],
+            "used": "FALSE"
+        },
+        {
+            "category": "Arts & Literature",
+            "question": "He fulfilled a prophecy by accidentally killing his grandfather Acrisius with a discus. Acrisius had imprisoned his mother, Danae, but Zeus visited her as a golden shower. This man borrowed the invisibility cap of Hades, the reflective shield of Athena, and the winged sandals of Hermes. He slew a sea monster that was about to consume Andromeda, whom he made his wife. Name this figure who beheaded Medusa.",
+            "answers": ["Perseus"],
+            "used": "FALSE"
+        },
+        {
+            "category": "Geography",
+            "question": "The island of Bornholm is in this body of water, which is connected by the Kiel Canal to the North Sea. One arm of this sea is the Gulf of Bothnia, and the large island of Saaremaa guards its Gulf of Riga. Five national capitals lie on this body of water, including Tallinn, the capital of Estonia, and Stockholm. Name this sea south of Scandinavia.",
+            "answers": ["Baltic Sea"],
+            "used": "FALSE"
+        },
+        {
+            "category": "Current Events",
+            "question": "The International Criminal Court issued an arrest warrant for this international leader in March 2024. This man has served as prime minister of his home nation three separate times making him the nation's longest serving prime minister. Chair of the Likud Party, he was raised in West Jerusalem and the United States. Name this prime minister of Israel who has come under fire from the ICC due to Israel's military operations in Gaza.",
+            "answers": ["Benjamin Netanyahu", "Bibi Netanyahu", "netanyahu"],
+            "used": "FALSE"
+        },
+        {
+            "category": "Sports",
+            "question": "This athlete of Native American heritage won gold medals in both the pentathlon and decathlon at the 1912 Stockholm Olympics, only to have them stripped due to a technicality regarding his amateur status.  He later played professional football, baseball, and basketball, becoming the first president of the American Professional Football Association (later the NFL). In 1950, an Associated Press poll named him the greatest athlete of the first half of the 20th century.  Who is this remarkable multi-sport athlete, whose Olympic medals were posthumously restored in 1983? ",
+            "answers": ["Jim Thorpe"],
+            "used": "FALSE"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This Spanish-American chef, known for his innovative tapas, trained under Ferran Adri\u00e0 at elBulli in Spain. He later moved to the United States, where he opened a series of successful restaurants, including Jaleo, Zaytinya, and minibar. He also founded World Central Kitchen, a non-profit organization providing meals to communities affected by disasters. Who is this culinary icon, named one of Time's 100 Most Influential People in both 2012 and 2018?",
+            "answers": ["Jose Andres"],
+            "used": "FALSE"
+        }
+    ],
+    [
+        {
+            "category": "Science",
+            "question": "The DNA in this organelle is inherited only from the mother. The inner membrane of this organelle contains folds known as cristae and encloses its matrix. This organelle is the site of oxidative phosphorylation, which occurs at the end of the electron transport chain. Name this organelle responsible for cellular respiration, which produces ATP and thus provides energy for the cell.",
+            "answers": ["mitochondria", "mitochondrion"],
+            "used": "FALSE"
+        },
+        {
+            "category": "Entertainment",
+            "question": "Born Robert Allen Zimmerman in Duluth, Minnesota, this singer-songwriter's early career was marked by his folk music and protest songs like \"Blowin' in the Wind\" and \"The Times They Are a-Changin'.\" He later transitioned to electric guitar and rock music, a move that caused controversy among his folk fanbase. His poetic lyrics and distinctive voice earned him a Nobel Prize in Literature in 2016. Name this musician who released his first album in 1962.",
+            "answers": ["Bob Dylan"],
+            "used": "FALSE"
+        },
+        {
+            "category": "Arts & Literature",
+            "question": "This man composed a ballet called The Creatures of Prometheus, and Leonato is a major character in his opera Fidelio. His third symphony was originally written to honor Napoleon and was called Eroica. A later symphony by this man borrows from Schiller's \"Ode to Joy\" for its choral final movement. Name this composer whose fifth symphony begins with a fate knocking at the door theme and who went deaf.",
+            "answers": ["Ludwig von Beethoven", "beethoven"],
+            "used": "FALSE"
+        },
+        {
+            "category": "Sports",
+            "question": "This NFL team, established in 1965, has appeared in two Super Bowls, Super Bowl XXXIII and Super Bowl LI, losing both times. The team's iconic \"Dirty Bird\" dance, popularized by running back Jamal Anderson in the late 1990s, became a symbol of their success during that era.  They currently play their home games at Mercedes-Benz Stadium. What is the name of this team, based in Atlanta, Georgia, whose colors are red, black, silver, and white?",
+            "answers": ["Atlanta Falcons", "Falcons"],
+            "used": "FALSE"
+        },
+        {
+            "category": "Current Events",
+            "question": "This man won the right to appeal his extradition to the United States for violating the Espionage Act on May 22, 2024. He is currently serving prison time in the United Kingdom for violating the Bail Act due to the fact he dodged a European arrest warrant by taking asylum in the Ecuadorian embassy in London from 2012-2019.",
+            "answers": ["Julian Assange"],
+            "used": "FALSE"
+        },
+        {
+            "category": "World History",
+            "question": "Born in Nepal during the 6th century BCE, he renounced his royal life at the age of 29 to seek enlightenment and understand the nature of suffering. After meditating under a bodhi tree for 49 days, he attained enlightenment and became known as the \"Awakened One.\" He then dedicated his life to teaching others the path to liberation from suffering, establishing a religion that has profoundly influenced the world for over 2,500 years. Who is this spiritual leader and religious founder?\n",
+            "answers": ["Buddha", "Siddhartha Gautama"],
+            "used": "FALSE"
+        },
+        {
+            "category": "US History",
+            "question": "This landmark Supreme Court case challenged the \"separate but equal\" doctrine established in Plessy v. Ferguson. The case involved several African American students who were denied admission to public schools attended by white children. The Court's unanimous decision in 1954 declared that racial segregation in public education violated the Equal Protection Clause of the Fourteenth Amendment, effectively overturning Plessy v. Ferguson. Name this case, which marked a major victory for the civil rights movement in the United States.",
+            "answers": [
+                "Brown vs Board of Education",
+                "Brown",
+                "Brown v. Board",
+                "Brown v. Board of Education"
+            ],
+            "used": "FALSE"
+        },
+        {
+            "category": "Geography",
+            "question": "This European capital city, built on the River Thames, is divided into 32 boroughs. It is home to the Prime Meridian of the World, which passes through the Royal Observatory in Greenwich. The city is also known for its many parks and green spaces, including Hyde Park, Regent's Park, and Greenwich Park. What is the name of this city, famous for its red double-decker buses and black cabs?",
+            "answers": ["London"],
+            "used": "FALSE"
+        }
+    ]
+]
