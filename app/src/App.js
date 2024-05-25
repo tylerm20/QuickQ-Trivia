@@ -59,7 +59,7 @@ function App() {
         setHasStartedTodaysGame(
             !!localStorage.getItem(new Date().toDateString())
         );
-    }, []);
+    }, [screenShowing]);
 
     useEffect(() => {
         const results = localStorage.getItem(new Date().toDateString());
