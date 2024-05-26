@@ -2219,7 +2219,7 @@
         {
             "category": "Sports",
             "question": "An engineering student at Oregon State University, this athlete struggled to master the straddle and western roll high jump techniques. After experimenting with unconventional methods, he developed a revolutionary back-first technique that he unveiled at the 1968 Mexico City Olympics. Despite initial skepticism, this technique propelled him to a gold medal and quickly became the dominant style in high jump, which now bears his name followed by an alliterative \"Flop.\"",
-            "answers": ["Dick Fosbury"],
+            "answers": ["Dick Fosbury", "Fosbury"],
             "used": "TRUE"
         },
         {
@@ -2362,7 +2362,7 @@
         {
             "category": "US History",
             "question": "Born in Texas and raised in Kansas, this five-star general served as Supreme Commander of the Allied Forces in Europe during World War II, overseeing the D-Day invasion of Normandy. A gifted strategist and charismatic leader, he later became president of Columbia University before returning to public service. Known for his \"Atoms for Peace\" speech and his farewell address warning of the \"military-industrial complex,\" he championed infrastructure development with the Interstate Highway System during his two terms in office. Who is this military hero and 34th President of the United States?",
-            "answers": ["Dwight D Eisenhower"],
+            "answers": ["Dwight D Eisenhower", "Eisenhower"],
             "used": "TRUE"
         },
         {
