@@ -2281,7 +2281,7 @@
         {
             "category": "Entertainment",
             "question": "Debuting in 1975, this iconic American television show is known for its live sketch comedy and variety performances. Created by Lorne Michaels, it has launched the careers of many comedians and actors, becoming a staple of weekend television. The show is renowned for its topical humor, parodies of political figures, and musical performances, making it a significant part of American pop culture. It has also won numerous Emmy Awards over the decades. What is the name of this long-running program that features a different celebrity host and musical guest each week?",
-            "answers": ["Saturday Night Live"],
+            "answers": ["Saturday Night Live", "SNL"],
             "used": "TRUE"
         },
         {
