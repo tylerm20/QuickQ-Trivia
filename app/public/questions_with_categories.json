@@ -2361,7 +2361,7 @@
     [
         {
             "category": "US History",
-            "question": "Born in Texas and raised in Kansas, this five-star general served as Supreme Commander of the Allied Forces in Europe during World War II, overseeing the D-Day invasion of Normandy. A gifted strategist and charismatic leader, he later became president of Columbia University before returning to public service. Known for his \"Atoms for Peace\" speech and his farewell address warning of the \"military-industrial complex,\" he championed infrastructure development with the Interstate Highway System during his two terms in office. Who is this military hero and 34th President of the United States?",
+            "question": "Born in Texas and raised in Kansas, this five-star general served as Supreme Commander of the Allied Forces in Europe during World War II, overseeing the D-Day invasion of Normandy. A gifted strategist and charismatic leader, he later became president of Columbia University before being elected President of the United States. Known for his \"Atoms for Peace\" speech and his farewell address warning of the \"military-industrial complex,\" he championed infrastructure development with the Interstate Highway System during his two terms in office. Who is this military hero and 34th President of the United States?",
             "answers": ["Dwight D Eisenhower", "Eisenhower"],
             "used": "TRUE"
         },
