@@ -2466,7 +2466,7 @@
     [
         {
             "category": "Current Events",
-            "question": "On May 19, 2024, this nation's President died in a helicopter crash while flying back from neighboring Azerbaijan. Although they have a president the country is led by Supreme Leader Ali Khamenei, the longest serving head of state in the Middle East. The United States and its allies agreed to the Joint Comprehensive Plan on Action to end economic sanctions on this nation in exchange for a restriction on producing enriched uranium for nuclear weapons. The United States pulled out of this deal during the Trump Administration. Name this nation formerly known as Persia.",
+            "question": "On May 19, 2024, this nation's President died in a helicopter crash while flying back from neighboring Azerbaijan. Although they have a president, the country is led by Supreme Leader Ali Khamenei, the longest serving head of state in the Middle East. The United States and its allies agreed to the Joint Comprehensive Plan on Action to end economic sanctions on this nation in exchange for a restriction on producing enriched uranium for nuclear weapons. The United States pulled out of this deal during the Trump Administration. Name this nation formerly known as Persia.",
             "answers": ["Iran"],
             "used": "TRUE"
         },
@@ -2512,7 +2512,8 @@
             "answers": [
                 "Franklin Delano Roosevelt",
                 "FDR",
-                "Franklin Roosevelt"
+                "Franklin Roosevelt",
+                "F.D.R."
             ],
             "used": "TRUE"
         }
