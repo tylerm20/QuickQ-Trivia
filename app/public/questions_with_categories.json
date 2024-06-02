@@ -2639,7 +2639,7 @@
         },
         {
             "category": "Current Events",
-            "question": "This American transportation service experience an outage between New York and Philadelphia on May 21 and 22 causing major delays for commuters. The service was founded in 1971 as a quasi-public corporation and is headquartered in Union Station in Washington D.C. Nearly 87,000 passengers ride more than 300 of the service's trains daily and in 2022, they served 22.9 million passengers. Name this rail service with service in 46 U.S. States.",
+            "question": "This American transportation service experienced an outage between New York and Philadelphia on May 21 and 22 causing major delays for commuters. The service was founded in 1971 as a quasi-public corporation and is headquartered in Union Station in Washington D.C. Nearly 87,000 passengers ride more than 300 of the service's trains daily. In 2022, they served 22.9 million passengers. Name this rail service with service in 46 U.S. States.",
             "answers": ["Amtrak"],
             "used": "TRUE"
         },
