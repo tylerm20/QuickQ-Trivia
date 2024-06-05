@@ -8,3 +8,30 @@
 .CloseButton {
     align-self: flex-end;
 }
+
+.CommunityFooter {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    font-size: 20px;
+}
+
+.JoinTheCommunity {
+    align-self: flex-start;
+}
+
+.Logos {
+    display: flex;
+    justify-content: space-between;
+}
+
+.Logo {
+    max-height: 20px;
+}
+
+.CloseIcon {
+    max-height: 20px;
+    align-self: flex-end;
+    margin-bottom: 10px;
+}
