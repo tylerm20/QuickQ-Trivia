@@ -5,6 +5,11 @@ const SettingsScreen = ({ showModal, setShowModal }) => {
     return (
         <Modal showModal>
             <div className="Settings">
+                <img
+                    src="close_button_icon.png"
+                    className="CloseIcon"
+                    onClick={() => setShowModal(false)}
+                />
                 <div>
                     QuickQ is a 90 second daily trivia quiz. Once you start the
                     game, a timer starts counting down. During the game, a
@@ -33,10 +38,20 @@ const SettingsScreen = ({ showModal, setShowModal }) => {
                 </div>
                 <br />
                 <div>
-                    Send your feedback to{" "}
+                    Send your feedback or question suggestions to{" "}
                     <a href="mailto:QuickQTrivia@gmail.com">
                         QuickQTrivia@gmail.com
                     </a>
+                </div>
+                <br />
+                <div className="CommunityFooter">
+                    <div className="JoinTheCommunity">Join the Community:</div>
+                    <br />
+                    <div className="Logos">
+                        {/* TODO: add links */}
+                        <img className="Logo" src="x_logo_black.png" />
+                        <img src="discord_logo_black.png" className="Logo" />
+                    </div>
                 </div>
                 <br />
                 <button
