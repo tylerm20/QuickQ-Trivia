@@ -40,7 +40,7 @@ const StartScreen = ({
 
             {Object.keys(localStorage).length === 0 ? (
                 /* if we have no games in local storage */
-                <img className="Logo" src="QQ2.png" />
+                <img className="QQLogo" src="QQ2.png" />
             ) : (
                 <CategoriesChart categoryScores={categoryScores} />
             )}
@@ -52,11 +52,19 @@ const StartScreen = ({
                         {formatTimeComponent(timeUntilNextGame.minutes)}:
                         {formatTimeComponent(timeUntilNextGame.seconds)}
                     </div>
-                    <BasicButton
-                        onClick={() => setScreenShowing(screens.finish)}
-                    >
-                        See Results
-                    </BasicButton>
+                    <div className="Buttons">
+                        <BasicButton
+                            className="HowToPlayButton"
+                            onClick={() => setShowSettingsModal(true)}
+                        >
+                            Info
+                        </BasicButton>
+                        <BasicButton
+                            onClick={() => setScreenShowing(screens.finish)}
+                        >
+                            See Results
+                        </BasicButton>
+                    </div>
                 </div>
             ) : (
                 <div className="Buttons">
