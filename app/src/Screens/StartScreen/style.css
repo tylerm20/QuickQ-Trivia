@@ -29,7 +29,7 @@
     min-width: 120px;
 }
 
-.Logo {
+.QQLogo {
     max-width: 80vw;
     align-self: center;
 }
@@ -37,6 +37,7 @@
 .Buttons {
     display: flex;
     justify-content: space-around;
+    width: 100%;
 }
 
 .AlreadyPlayed {

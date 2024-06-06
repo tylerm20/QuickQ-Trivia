@@ -51,12 +51,15 @@ const SettingsScreen = ({ showModal, setShowModal }) => {
                             href="https://twitter.com/QuickQTrivia"
                             target="_blank"
                         >
-                            <img className="Logo" src="x_logo_black.png" />
+                            <img
+                                className="SocialLogo"
+                                src="x_logo_black.png"
+                            />
                         </a>
                         <a href="https://discord.gg/Jw5r8eMjFw" target="_blank">
                             <img
                                 src="discord_logo_black.png"
-                                className="Logo"
+                                className="SocialLogo"
                             />
                         </a>
                     </div>
