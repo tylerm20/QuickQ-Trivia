@@ -46,11 +46,19 @@ const SettingsScreen = ({ showModal, setShowModal }) => {
                 <br />
                 <div className="CommunityFooter">
                     <div className="JoinTheCommunity">Join the Community:</div>
-                    <br />
                     <div className="Logos">
-                        {/* TODO: add links */}
-                        <img className="Logo" src="x_logo_black.png" />
-                        <img src="discord_logo_black.png" className="Logo" />
+                        <a
+                            href="https://twitter.com/QuickQTrivia"
+                            target="_blank"
+                        >
+                            <img className="Logo" src="x_logo_black.png" />
+                        </a>
+                        <a href="https://discord.gg/Jw5r8eMjFw" target="_blank">
+                            <img
+                                src="discord_logo_black.png"
+                                className="Logo"
+                            />
+                        </a>
                     </div>
                 </div>
                 <br />
