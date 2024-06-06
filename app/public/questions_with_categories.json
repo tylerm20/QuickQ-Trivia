@@ -2871,7 +2871,12 @@
         {
             "category": "Current Events",
             "question": "The International Criminal Court issued an arrest warrant for this international leader in March 2024. This man has served as prime minister of his home nation three separate times making him the nation's longest serving prime minister. Chair of the Likud Party, he was raised in West Jerusalem and the United States. Name this prime minister of Israel who has come under fire from the ICC due to Israel's military operations in Gaza.",
-            "answers": ["Benjamin Netanyahu", "Bibi Netanyahu", "netanyahu"],
+            "answers": [
+                "Benjamin Netanyahu",
+                "Bibi Netanyahu",
+                "netanyahu",
+                "bibi"
+            ],
             "used": "TRUE"
         },
         {
