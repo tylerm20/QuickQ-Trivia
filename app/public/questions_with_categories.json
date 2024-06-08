@@ -2981,13 +2981,13 @@
         },
         {
             "category": "Current Events",
-            "question": "In May 2024, the ANC Party in this nation did not win a majority in national elections for the first time in 30 years. The current president of this nation which was is Cyril Ramaphosa who represents the African National Congress Party. The most spoken language in this country is Zulu, and the population is 80% Black but is home to the largest number of White people in Africa. What is this nation where the ANC won the first election after ending apartheid and chose Nelson Mandela as its president in 1994?",
+            "question": "In May 2024, the ANC Party in this nation did not win a majority in national elections for the first time in 30 years. The current president of this nation is Cyril Ramaphosa who represents the African National Congress Party. The most spoken language in this country is Zulu, and the population is 80% Black but is home to the largest number of white people in Africa. What is this nation where the ANC won the first election after ending apartheid and chose Nelson Mandela as its president in 1994?",
             "answers": ["South Africa"],
             "used": "TRUE"
         },
         {
             "category": "Entertainment",
-            "question": "Woodie Flowers co-founded a competition involving these things which encourages \"gracious professionalism\". Czech author Karl \u010capek coined the word for these things in his play R. U. R.. These things \"may not injure a human being\" according to the first of three laws for them written by Isaac Asimov. What machines are exemplified by HAL 9000, Bender from Futurama, and droids in Star Wars?",
+            "question": "Woodie Flowers co-founded a competition involving these things which encourages \"gracious professionalism\". Czech author Karl \u010capek coined the word for these things in his play R. U. R. These things \"may not injure a human being\" according to the first of three laws for them written by Isaac Asimov. What machines are exemplified by HAL 9000, Bender from Futurama, and droids in Star Wars?",
             "answers": ["robots"],
             "used": "TRUE"
         },
@@ -3057,7 +3057,7 @@
     [
         {
             "category": "US History",
-            "question": "This conflict began in response to the Iraqi invasion of Kuwait in August 1990. It involved a massive U.S.-led coalition of 35 nations. The conflict consisted of two main phases: Operation Desert Shield, the buildup of troops and defense of Saudi Arabia, and this similarly named operation, a 42-day air campaign followed by a 100-hour ground offensive that liberated Kuwait. Name this conflict that took place in the Persian Gulf in 1991.",
+            "question": "This conflict began in response to the Iraqi invasion of Kuwait in August 1990. It involved a massive U.S.-led coalition of 35 nations. The conflict consisted of two main phases: Operation Desert Shield, the buildup of troops and defense of Saudi Arabia, and a similarly named operation, a 42-day air campaign followed by a 100-hour ground offensive that liberated Kuwait. Name this conflict that took place in the Persian Gulf in 1991.",
             "answers": [
                 "The Gulf War",
                 "Operation Desert Storm",
@@ -3098,7 +3098,7 @@
         },
         {
             "category": "Current Events",
-            "question": "At the end of 2023 this company announced a lawsuit against OpenAI for copyright infringement. In 2022, Sarah Palin lost a case against this company after it linked her to the shooting of Gabby Giffords. This newspaper won a landmark 1964 court case against L. B. Sullivan, and along with the Washington Post, Daniel Ellsberg gave this newspaper the \u201cPentagon Papers.\u201d Nicknamed \u201cThe Old Gray Lady,\u201d Name this newspaper with the motto \u201cAll the News That's Fit to Print,\u201d headquartered in Manhattan",
+            "question": "At the end of 2023 this company announced a lawsuit against OpenAI for copyright infringement. In 2022, Sarah Palin lost a case against this company after it linked her to the shooting of Gabby Giffords. This newspaper won a landmark 1964 court case against L. B. Sullivan, and along with the Washington Post, Daniel Ellsberg gave this newspaper the \u201cPentagon Papers.\u201d Nicknamed \u201cThe Old Gray Lady,\u201d Name this newspaper with the motto \u201cAll the News That's Fit to Print,\u201d headquartered in Manhattan.",
             "answers": ["New York Times", "NYT"],
             "used": "TRUE"
         },
