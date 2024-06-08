@@ -2907,7 +2907,7 @@
         },
         {
             "category": "Arts & Literature",
-            "question": "This man composed a ballet called The Creatures of Prometheus, and Leonato is a major character in his opera Fidelio. His third symphony was originally written to honor Napoleon and was called Eroica. A later symphony by this man borrows from Schiller's \"Ode to Joy\" for its choral final movement. Name this composer whose fifth symphony begins with a fate knocking at the door theme and who went deaf.",
+            "question": "This man composed a ballet called The Creatures of Prometheus, and Leonato is a major character in his opera Fidelio. His third symphony was originally written to honor Napoleon and was called Eroica. A later symphony by this man borrows from Schiller's \"Ode to Joy\" for its choral final movement. Name this composer whose fifth symphony begins with a fate knocking at the door theme and who went deaf before his death in 1827.",
             "answers": ["Ludwig von Beethoven", "beethoven"],
             "used": "TRUE"
         },
@@ -2919,8 +2919,8 @@
         },
         {
             "category": "Current Events",
-            "question": "This man won the right to appeal his extradition to the United States for violating the Espionage Act on May 22, 2024. He is currently serving prison time in the United Kingdom for violating the Bail Act due to the fact he dodged a European arrest warrant by taking asylum in the Ecuadorian embassy in London from 2012-2019.",
-            "answers": ["Julian Assange"],
+            "question": "This man won the right to appeal his extradition to the United States for violating the Espionage Act on May 22, 2024. He is currently serving prison time in the United Kingdom for violating the Bail Act due to the fact he dodged a European arrest warrant by taking asylum in the Ecuadorian embassy in London from 2012-2019. Name this Australian founder of WikiLeaks",
+            "answers": ["Julian Assange", "Assange"],
             "used": "TRUE"
         },
         {
@@ -2943,7 +2943,7 @@
         {
             "category": "Geography",
             "question": "This European capital city, built on the River Thames, is divided into 32 boroughs. It is home to the Prime Meridian of the World, which passes through the Royal Observatory in Greenwich. The city is also known for its many parks and green spaces, including Hyde Park, Regent's Park, and Greenwich Park. What is the name of this city, famous for its red double-decker buses and black cabs?",
-            "answers": ["London"],
+            "answers": ["London", "London, England"],
             "used": "TRUE"
         }
     ],
