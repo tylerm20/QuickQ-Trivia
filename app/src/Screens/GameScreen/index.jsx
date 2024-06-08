@@ -258,6 +258,24 @@ const GameScreen = ({
         return () => document.removeEventListener("keydown", buzzOnSpace);
     }, [isBuzzing, isBetweenQuestions]);
 
+    // useEffect(() => {
+    //     const nextQuestionOnN = (event) => {
+    //         console.log("between", isBetweenQuestions);
+    //         if (event.key === "n" && isBetweenQuestions) {
+    //             console.log("moveToNextQuestion");
+    //             moveToNextQuestion();
+    //             event.preventDefault();
+    //         }
+    //     };
+
+    //     document.addEventListener("keydown", nextQuestionOnN);
+
+    //     // Clean up the event listener when the component unmounts
+    //     return () => {
+    //         document.addEventListener("keydown", nextQuestionOnN);
+    //     };
+    // }, [moveToNextQuestion, isBetweenQuestions])
+
     useEffect(() => {
         if (gameSecondsRemaining < 1) {
             finishQuestion({ userAnswer: "", userSkipped: false });
