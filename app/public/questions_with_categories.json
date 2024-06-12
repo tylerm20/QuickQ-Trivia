@@ -3142,14 +3142,14 @@
         },
         {
             "category": "Current Events",
-            "question": "This man is currently facing federal charges related to firearm possesion. This man's laptop was a major right-wing story during the 2020 election. He published a memoir titled Beautiful Things. When he was two years old, his mother and his one year old sister died in a car accident. Name this son of President Joe Biden who has struggled with drug abuse especially after the death of his older brother, Beau.",
-            "answers": ["Hunter Biden"],
+            "question": "This man was found guilty on June 11, 2024 on federal charges related to firearm possesion. This man's laptop was a major right-wing story during the 2020 election. He published a memoir titled Beautiful Things. When he was two years old, his mother and his one year old sister died in a car accident. Name this son of President Joe Biden who has struggled with drug abuse especially after the death of his older brother, Beau.",
+            "answers": ["Hunter Biden", "Hunter", "Biden"],
             "used": "TRUE"
         },
         {
             "category": "Arts & Literature",
-            "question": "One form of this god, Kurma, was a turtle who supported Mt. Meru during the Churning of the Ocean. This god is the chief deity of the Vaishnavist tradition. This god is often depicted resting on the serpent Anantashesha, often alongside his consort Lakshmi. The Dashvatara are the ten most famous avatars of this Hindu god. What Hindu preserver god's avatars include Rama and Krishna?",
-            "answers": ["Vishnu"],
+            "question": "One form of this Hindu god, Kurma, was a turtle who supported Mt. Meru during the Churning of the Ocean. This god is the chief deity of the Vaishnavist tradition. This god is often depicted resting on the serpent Anantashesha, often alongside his consort Lakshmi. The Dashvatara are the ten most famous avatars of this Hindu god. Which Hindu god known as The Preserver has avatars including Rama and Krishna?",
+            "answers": ["Vishnu", "Narayana", "Hari"],
             "used": "TRUE"
         },
         {
