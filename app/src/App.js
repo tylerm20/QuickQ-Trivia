@@ -142,48 +142,29 @@ function App() {
         }
     };
 
-    // useEffect(() => {
-    //     const readQuestionsFromFile = () => {
-    //         fetch("questions_with_categories.json")
-    //             .then((response) => {
-    //                 return response.json(); // Parse directly as JSON
-    //             })
-    //             .then((data) => {
-    //                 const questionSetToUse = daysPastApril142024();
-    //                 console.log("question set being used: " + questionSetToUse);
-    //                 setQuestions(data[questionSetToUse]);
-    //             })
-    //             .catch((error) => {
-    //                 console.error("Error fetching or parsing JSON:", error);
-    //             });
-    //     };
-
-    //     readQuestionsFromFile();
-    //     if (hasFinishedTodaysGame) {
-    //         const results = JSON.parse(
-    //             localStorage.getItem(new Date().toDateString())
-    //         );
-    //         setPlayerResults(results);
-    //     }
-    // }, [hasFinishedTodaysGame]);
-
     useEffect(() => {
-        const fetchQuestionsFromServer = () => {
-            const today = new Date().toDateString();
-            const isoDateString = new Date(today).toISOString().split("T")[0]; // Get only the date part (YYYY-MM-DD)
-            // TODO: update this to a prod URL
-            fetch(`http://127.0.0.1:5000/api/questions/${isoDateString}`)
-                .then(async (response) => {
-                    const responseJson = await response.json();
-                    return setQuestions(responseJson);
+        const readQuestionsFromFile = () => {
+            fetch("questions_with_categories.json")
+                .then((response) => {
+                    return response.json(); // Parse directly as JSON
+                })
+                .then((data) => {
+                    const questionSetToUse = daysPastApril142024();
+                    console.log("question set being used: " + questionSetToUse);
+                    setQuestions(data[questionSetToUse]);
                 })
                 .catch((error) => {
                     console.error("Error fetching or parsing JSON:", error);
                 });
         };
 
-        fetchQuestionsFromServer();
-        // TODO: is this the right time to refetch the questions?
+        readQuestionsFromFile();
+        if (hasFinishedTodaysGame) {
+            const results = JSON.parse(
+                localStorage.getItem(new Date().toDateString())
+            );
+            setPlayerResults(results);
+        }
     }, [hasFinishedTodaysGame]);
 
     useEffect(() => {
