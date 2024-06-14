@@ -3231,7 +3231,7 @@
     [
         {
             "category": "Current Events",
-            "question": "This Louisiana native was born Stephanie A. Gregory in 1979. She was a key witness in the trial which led to the first criminal conviction of the US President. In the trial the prosecution argued that Michael Cohen paid this person $130,000 to deny she had an affair a decade earlier with Donald Trump. Name this pornstar whose affair with Donald Trump led to his conviction on 34 counts of falsifying business records.",
+            "question": "This Louisiana native was born Stephanie A. Gregory in 1979. She was a key witness in the trial which led to the first criminal conviction of a US President. In the trial the prosecution argued that Michael Cohen paid this person $130,000 to deny she had an affair a decade earlier with Donald Trump. Name this pornstar whose affair with Donald Trump led to his conviction on 34 counts of falsifying business records.",
             "answers": ["Stormy Daniels", "Stormy", "Daniels"],
             "used": "TRUE"
         },
@@ -3249,7 +3249,7 @@
         {
             "category": "Geography",
             "question": "The \"Six Arrows\" represent the ideology of this country's founder, who introduced the Latin alphabet to it and banned the wearing of fezzes. This country contains the largest population of Kurds in its southeast, and its first president was Mustafa Kemal Atat\u00fcrk. In 1922, the Ottoman Empire was replaced by what country which contains the transcontinental city of Istanbul?",
-            "answers": ["Turkey"],
+            "answers": ["Turkey", "Republic of Türkiye", "Türkiye"],
             "used": "TRUE"
         },
         {
