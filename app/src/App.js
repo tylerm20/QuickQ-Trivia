@@ -87,19 +87,6 @@ function App() {
         setStreak(streak);
     };
 
-    function daysPastApril142024() {
-        // Create a Date object for April 14, 2024
-        const referenceDate = new Date(2024, 3, 14); // Months are zero-indexed (January = 0)
-
-        // Calculate the difference in milliseconds
-        const timeDifference = new Date().getTime() - referenceDate.getTime();
-
-        // Convert the difference from milliseconds to days
-        const daysPast = Math.floor(timeDifference / (1000 * 60 * 60 * 24));
-
-        return daysPast;
-    }
-
     const getScreenToShow = () => {
         switch (screenShowing) {
             case screens.start:
@@ -143,22 +130,28 @@ function App() {
     };
 
     useEffect(() => {
-        const readQuestionsFromFile = () => {
-            fetch("questions_with_categories.json")
-                .then((response) => {
-                    return response.json(); // Parse directly as JSON
-                })
-                .then((data) => {
-                    const questionSetToUse = daysPastApril142024();
-                    console.log("question set being used: " + questionSetToUse);
-                    setQuestions(data[questionSetToUse]);
+        const fetchQuestionsFromServer = () => {
+            const today = new Date().toDateString();
+            const isoDateString = new Date(today).toISOString().split("T")[0]; // Get only the date part (YYYY-MM-DD)
+            console.log(process.env.REACT_APP_API_URL);
+            fetch(
+                `${process.env.REACT_APP_API_URL}/questions/${isoDateString}`,
+                {
+                    headers: {
+                        Authorization: `Bearer ${process.env.REACT_APP_API_KEY}`,
+                    },
+                }
+            )
+                .then(async (response) => {
+                    const responseJson = await response.json();
+                    return setQuestions(responseJson);
                 })
                 .catch((error) => {
                     console.error("Error fetching or parsing JSON:", error);
                 });
         };
 
-        readQuestionsFromFile();
+        fetchQuestionsFromServer();
         if (hasFinishedTodaysGame) {
             const results = JSON.parse(
                 localStorage.getItem(new Date().toDateString())
