@@ -3588,7 +3588,7 @@
         },
         {
             "category": "Current Events",
-            "question": "This city was home to the Francis Scott Key Bridge which collapsed on March 26, 2024 after a cargo ship named Dali collided with the bridge. The city is located on the Patapsco River in Maryland, was a major shipbuilding center during World War II and is home to Fort McHenry, where \"The Star-Spangled Banner\" was written during the War of 1812. It is also known for its distinct neighborhoods, such as Fells Point and Federal Hill, and its unique culinary traditions, including a famous crab cake. Name this city, nicknamed \"Charm City,\" that is the largest city in Maryland.",
+            "question": "This city was home to the Francis Scott Key Bridge which collapsed on March 26, 2024 after a cargo ship named Dali collided with the bridge. The city, located on the Patapsco River in Maryland, was a major shipbuilding center during World War II and is home to Fort McHenry, where \"The Star-Spangled Banner\" was written during the War of 1812. It is also known for its distinct neighborhoods, such as Fells Point and Federal Hill, and its unique culinary traditions, including a famous crab cake. Name this city, nicknamed \"Charm City,\" that is the largest city in Maryland.",
             "answers": ["Baltimore"],
             "used": "FALSE"
         },
@@ -3607,7 +3607,7 @@
         {
             "category": "Science",
             "question": "Orbital resonance with Jupiter causes certain points called Kirkwood gaps in one region to be devoid of these objects. Some of these objects that share sections of Jupiter's orbit are called trojans. Vesta and Ceres are the largest of these objects, one of which hit Earth and caused the K-T extinction. What rocky bodies are found most commonly between Mars and Jupiter in a namesake \"belt\"?",
-            "answers": ["perfect squares", "squares"],
+            "answers": ["asteroids", "asteroid"],
             "used": "FALSE"
         }
     ],
