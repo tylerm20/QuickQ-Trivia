@@ -1,4 +1,5 @@
 import React, { useState, useEffect } from "react";
+import ReactGA from "react-ga4";
 import StartScreen from "./Screens/StartScreen";
 import FinishScreen from "./Screens/FinishScreen";
 import GameScreen from "./Screens/GameScreen";
@@ -18,6 +19,8 @@ function App() {
     );
     const [hasStartedTodaysGame, setHasStartedTodaysGame] = useState(false);
     const [hasFinishedTodaysGame, setHasFinishedTodaysGame] = useState(false);
+
+    ReactGA.initialize("G-VFCGD245RZ");
 
     function calculateTimeUntilNextDay() {
         const now = new Date();
@@ -152,12 +155,6 @@ function App() {
         };
 
         fetchQuestionsFromServer();
-        if (hasFinishedTodaysGame) {
-            const results = JSON.parse(
-                localStorage.getItem(new Date().toDateString())
-            );
-            setPlayerResults(results);
-        }
     }, [hasFinishedTodaysGame]);
 
     useEffect(() => {

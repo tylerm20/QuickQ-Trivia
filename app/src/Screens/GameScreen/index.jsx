@@ -1,4 +1,5 @@
 import React, { useState, useEffect, useCallback } from "react";
+import ReactGA from "react-ga4";
 import Fuse from "fuse.js";
 import Timer from "../../Components/Timer";
 import Score from "../../Components/Score";
@@ -38,6 +39,12 @@ const GameScreen = ({
 
     const finishGame = () => {
         setScreenShowing(screens.finish);
+        ReactGA.event({
+            category: "game",
+            action: "finish",
+            label: "score",
+            value: score,
+        });
     };
 
     const decrementGameSecondsTimer = () => {
