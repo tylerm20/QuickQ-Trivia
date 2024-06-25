@@ -1,3 +1,6 @@
 [submodule "backend"]
 	path = backend
 	url = https://github.com/mheavey18/QuickQ-backend
+
+[submodule]
+    recurse = false
