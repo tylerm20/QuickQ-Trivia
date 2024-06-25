@@ -50,6 +50,7 @@ const SettingsScreen = ({ showModal, setShowModal }) => {
                         <a
                             href="https://twitter.com/QuickQTrivia"
                             target="_blank"
+                            rel="noreferrer"
                         >
                             <img
                                 className="SocialLogo"
@@ -60,6 +61,7 @@ const SettingsScreen = ({ showModal, setShowModal }) => {
                             <img
                                 src="discord_logo_black.png"
                                 className="SocialLogo"
+                                rel="noreferrer"
                             />
                         </a>
                     </div>
