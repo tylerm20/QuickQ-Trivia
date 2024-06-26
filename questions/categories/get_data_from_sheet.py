@@ -1,6 +1,7 @@
 import gspread
 import json
 import random
+from datetime import date
 
 def get_data_from_sheet(json_filepath):
     gc = gspread.service_account()
@@ -48,6 +49,6 @@ def get_data_from_sheet(json_filepath):
     with open(json_filepath, 'w', encoding='utf-8') as json_file:
         json.dump(multiple_days_qs, json_file, indent=4)
 
-# Example usage
-json_filepath = '/Users/mheavey/personal/minquiz/questions/categories/ordered_qs/qq_qs_6_25_24.json'
+today_str = date.today().strftime("%m_%d_%Y")
+json_filepath = '/Users/mheavey/personal/minquiz/questions/categories/ordered_qs/qq_qs_{}.json'.format(today_str)
 get_data_from_sheet(json_filepath)
