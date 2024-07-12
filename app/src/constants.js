@@ -59,4 +59,11 @@ export const CATEGORY_COLOR_MAP = {
     Entertainment: "#FF66C4", // pink
 };
 
+export const GAME_MODE_STORAGE_KEY = "game_mode";
+
+export const GameModes = {
+    FREE_RESPONSE: "free_response",
+    MULTIPLE_CHOICE: "multiple_choice",
+};
+
 export default screens;
