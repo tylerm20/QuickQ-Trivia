@@ -230,6 +230,9 @@ const GameScreen = ({
                 return false;
             }
             const currentQuestionAnswers = getCurrentQuestionObj()["answers"];
+            if (gameMode === GameModes.MULTIPLE_CHOICE) {
+                return userAnswer === currentQuestionAnswers[0];
+            }
             const fuse = new Fuse(currentQuestionAnswers, {
                 includeScore: true,
                 threshold: 0.35,
