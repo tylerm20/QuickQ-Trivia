@@ -19,6 +19,26 @@
     flex-grow: 1;
 }
 
+.MultipleChoiceBottomRow {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    flex-grow: 1;
+}
+
+.MultipleChoiceOption {
+    border-radius: 20px;
+    background-color: lightgray;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 80px;
+    color: black;
+    width: 100%;
+    margin: 10px;
+    font-size: 18px;
+}
+
 .BetweenQuestionsBottomRow {
     display: flex;
     align-items: flex-end;

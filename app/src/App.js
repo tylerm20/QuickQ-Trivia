@@ -4,7 +4,7 @@ import StartScreen from "./Screens/StartScreen";
 import FinishScreen from "./Screens/FinishScreen";
 import GameScreen from "./Screens/GameScreen";
 
-import { screens } from "./constants";
+import { screens, GameModes, GAME_MODE_STORAGE_KEY } from "./constants";
 import "./App.css";
 
 function App() {
@@ -19,6 +19,7 @@ function App() {
     );
     const [hasStartedTodaysGame, setHasStartedTodaysGame] = useState(false);
     const [hasFinishedTodaysGame, setHasFinishedTodaysGame] = useState(false);
+    const [gameMode, setGameMode] = useState(GameModes.FREE_RESPONSE);
 
     ReactGA.initialize("G-VFCGD245RZ");
 
@@ -69,6 +70,13 @@ function App() {
         setHasFinishedTodaysGame(results && JSON.parse(results)["isFinished"]);
     }, [screenShowing]);
 
+    useEffect(() => {
+        const gameMode = localStorage.getItem(GAME_MODE_STORAGE_KEY);
+        if (gameMode) {
+            setGameMode(gameMode);
+        }
+    }, [hasFinishedTodaysGame]);
+
     const calculateStreak = () => {
         let dateToCheck = new Date();
         let streak = 0;
@@ -100,6 +108,8 @@ function App() {
                         hasFinishedTodaysGame={hasFinishedTodaysGame}
                         hasStartedTodaysGame={hasStartedTodaysGame}
                         timeUntilNextGame={timeUntilNextDay}
+                        gameMode={gameMode}
+                        setGameMode={setGameMode}
                     />
                 );
             case screens.game:
@@ -113,6 +123,7 @@ function App() {
                             setTotalTime={setTotalTime}
                             questions={questions}
                             hasStartedTodaysGame={hasStartedTodaysGame}
+                            gameMode={gameMode}
                         />
                     )
                 );

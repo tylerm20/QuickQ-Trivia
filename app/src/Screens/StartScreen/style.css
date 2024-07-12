@@ -56,3 +56,10 @@
     margin-bottom: 10px;
     color: var(--dark-purple);
 }
+
+.ModeSelector {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    margin-bottom: 20px;
+}

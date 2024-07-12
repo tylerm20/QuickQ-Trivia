@@ -1,4 +1,4 @@
-import React, { useState, useEffect, useCallback } from "react";
+import React, { useState, useEffect, useCallback, useMemo } from "react";
 import ReactGA from "react-ga4";
 import Fuse from "fuse.js";
 import Timer from "../../Components/Timer";
@@ -7,7 +7,13 @@ import SettingsButton from "../../Components/SettingsButton";
 import BasicButton from "../../Components/BasicButton";
 import Question from "../../Components/Question";
 import AnswerModal from "../../Components/AnswerModal";
-import { BUZZ_SECONDS, GAME_SECONDS, screens } from "../../constants";
+import {
+    BUZZ_SECONDS,
+    GAME_SECONDS,
+    screens,
+    GameModes,
+} from "../../constants";
+import { shuffleArray } from "../../utils";
 import "./style.css";
 import SettingsScreen from "../SettingsScreen";
 
@@ -22,6 +28,7 @@ const GameScreen = ({
     setTotalTime,
     questions,
     hasStartedTodaysGame,
+    gameMode,
 }) => {
     const [currentQuestionIndex, setCurrentQuestionIndex] = useState(0);
     const [isBuzzing, setIsBuzzing] = useState(false);
@@ -127,6 +134,12 @@ const GameScreen = ({
                     </BasicButton>
                 </div>
             );
+        } else if (gameMode === GameModes.MULTIPLE_CHOICE) {
+            return (
+                <div className="MultipleChoiceBottomRow">
+                    {multipleChoiceOptions}
+                </div>
+            );
         } else {
             return (
                 <div className="BuzzBottomRow">
@@ -153,6 +166,14 @@ const GameScreen = ({
         () => getCurrentQuestionObj()["answers"][0],
         [getCurrentQuestionObj]
     );
+    const getIncorrectAnswerChoices = useCallback(
+        () => [
+            getCurrentQuestionObj()["incorrect1"],
+            getCurrentQuestionObj()["incorrect2"],
+            getCurrentQuestionObj()["incorrect3"],
+        ],
+        [getCurrentQuestionObj]
+    );
     const getQuestionCategory = useCallback(() => {
         try {
             return getCurrentQuestionObj()["category"];
@@ -161,6 +182,30 @@ const GameScreen = ({
             return "Miscellaneous";
         }
     }, [getCurrentQuestionObj]);
+
+    const multipleChoiceOptions = useMemo(() => {
+        const correctAnswer = getQuestionAnswerText();
+        const incorrectAnswers = getIncorrectAnswerChoices();
+        const answerOptions = shuffleArray([
+            correctAnswer,
+            ...incorrectAnswers,
+        ]);
+        return answerOptions.map((answerText) => (
+            <div
+                className="MultipleChoiceOption"
+                key={answerText}
+                role="button"
+                onClick={() =>
+                    finishQuestion({
+                        userAnswer: answerText,
+                        userSkipped: false,
+                    })
+                }
+            >
+                {answerText}
+            </div>
+        ));
+    }, [questions, currentQuestionIndex]);
 
     const updateCurrentResults = (localScore) => {
         const totalTime = GAME_SECONDS - gameSecondsRemaining;
