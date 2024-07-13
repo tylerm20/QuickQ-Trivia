@@ -1,4 +1,4 @@
-import { CATEGORY_EMOJI_MAP, CATEGORIES_SET } from "./constants";
+import { CATEGORY_EMOJI_MAP, CATEGORIES_SET, GameModes } from "./constants";
 
 export const convertNumberToEmoji = (number) => {
     // Map digits to corresponding emoji using a lookup object
@@ -60,4 +60,8 @@ export const calculateCategoryScores = () => {
 export const shuffleArray = (array) => {
     array.sort(() => Math.random() - 0.5);
     return array;
+};
+
+export const isMultipleChoiceMode = (gameMode) => {
+    return gameMode === GameModes.MULTIPLE_CHOICE;
 };

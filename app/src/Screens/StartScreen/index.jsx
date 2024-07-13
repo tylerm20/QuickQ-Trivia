@@ -4,7 +4,7 @@ import SettingsScreen from "../../Screens/SettingsScreen";
 import BasicButton from "../../Components/BasicButton";
 import CategoriesChart from "../../Components/CategoriesChart";
 import Switch from "../../Components/Switch";
-import { calculateCategoryScores } from "../../utils";
+import { calculateCategoryScores, isMultipleChoiceMode } from "../../utils";
 import { GameModes, GAME_MODE_STORAGE_KEY } from "../../constants";
 import "./style.css";
 
@@ -31,11 +31,9 @@ const StartScreen = ({
     }
 
     const changeGameMode = () => {
-        console.log("here");
-        const newGameMode =
-            gameMode === GameModes.FREE_RESPONSE
-                ? GameModes.MULTIPLE_CHOICE
-                : GameModes.FREE_RESPONSE;
+        const newGameMode = isMultipleChoiceMode(gameMode)
+            ? GameModes.FREE_RESPONSE
+            : GameModes.MULTIPLE_CHOICE;
         setGameMode(newGameMode);
         localStorage.setItem(GAME_MODE_STORAGE_KEY, newGameMode);
     };
@@ -96,13 +94,11 @@ const StartScreen = ({
                         <div className="ModeSelector">
                             Game Mode:
                             <Switch
-                                isEnabled={
-                                    gameMode === GameModes.MULTIPLE_CHOICE
-                                }
+                                isEnabled={isMultipleChoiceMode(gameMode)}
                                 onIsEnabledChanged={(e) => changeGameMode()}
                             />
                             <div className="GameModeLabel">
-                                {gameMode === GameModes.MULTIPLE_CHOICE
+                                {isMultipleChoiceMode(gameMode)
                                     ? "Multiple Choice"
                                     : "Free Response"}
                             </div>
