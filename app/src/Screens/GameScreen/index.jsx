@@ -137,7 +137,7 @@ const GameScreen = ({
         } else if (gameMode === GameModes.MULTIPLE_CHOICE) {
             return (
                 <div className="MultipleChoiceBottomRow">
-                    {multipleChoiceOptions}
+                    {getMultipleChoiceRows(multipleChoiceOptions)}
                 </div>
             );
         } else {
@@ -186,11 +186,11 @@ const GameScreen = ({
     const multipleChoiceOptions = useMemo(() => {
         const correctAnswer = getQuestionAnswerText();
         const incorrectAnswers = getIncorrectAnswerChoices();
-        const answerOptions = shuffleArray([
-            correctAnswer,
-            ...incorrectAnswers,
-        ]);
-        return answerOptions.map((answerText) => (
+        return shuffleArray([correctAnswer, ...incorrectAnswers]);
+    }, [questions, currentQuestionIndex]);
+
+    const getMultipleChoiceRows = (multipleChoiceOptions) => {
+        return multipleChoiceOptions.map((answerText) => (
             <div
                 className="MultipleChoiceOption"
                 key={answerText}
@@ -205,7 +205,7 @@ const GameScreen = ({
                 {answerText}
             </div>
         ));
-    }, [questions, currentQuestionIndex]);
+    };
 
     const updateCurrentResults = (localScore) => {
         const totalTime = GAME_SECONDS - gameSecondsRemaining;
