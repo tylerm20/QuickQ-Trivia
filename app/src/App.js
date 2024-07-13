@@ -136,6 +136,7 @@ function App() {
                         totalTime={totalTime}
                         questions={questions}
                         streak={streak}
+                        gameMode={gameMode}
                     />
                 );
             default:
