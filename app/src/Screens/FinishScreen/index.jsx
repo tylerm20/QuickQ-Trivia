@@ -9,7 +9,11 @@ import screens, {
     GAME_SECONDS,
     GameModes,
 } from "../../constants";
-import { convertNumberToEmoji, getEmojiForCategory } from "../../utils";
+import {
+    convertNumberToEmoji,
+    getEmojiForCategory,
+    isMultipleChoiceMode,
+} from "../../utils";
 
 const FinishScreen = ({
     setScreenShowing,
@@ -81,11 +85,11 @@ const FinishScreen = ({
     const getResultsStr = () => {
         const sharableResultsArr = [
             `QuickQ: ${new Date().toLocaleDateString()}`,
-            `Score: ${finalScore}`,
+            `Score: ${finalScore}${isMultipleChoiceMode(gameMode) ? "*" : ""}`,
             `Time: ${finalTime}s`,
         ];
-        if (gameMode === GameModes.MULTIPLE_CHOICE) {
-            sharableResultsArr.splice(1, 0, "Mode: 🔠");
+        if (isMultipleChoiceMode(gameMode)) {
+            sharableResultsArr.splice(2, 0, "*Mode: 🔠");
         }
         let i = 1;
         for (const result of playerResults.questionResults) {
@@ -117,7 +121,7 @@ const FinishScreen = ({
                     ? "You ran out of time"
                     : "You answered all of today's questions"}
             </h3>
-            {gameMode === GameModes.MULTIPLE_CHOICE && (
+            {isMultipleChoiceMode(gameMode) && (
                 <h3 className="MultipleChoiceMode">Multiple Choice Mode</h3>
             )}
             <h3>
