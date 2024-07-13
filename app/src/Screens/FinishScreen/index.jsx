@@ -7,6 +7,7 @@ import screens, {
     RED_X_EMOJI_HTML,
     CLOCK_EMOJI_HTML,
     GAME_SECONDS,
+    GameModes,
 } from "../../constants";
 import { convertNumberToEmoji, getEmojiForCategory } from "../../utils";
 
@@ -17,6 +18,7 @@ const FinishScreen = ({
     totalTime,
     questions,
     streak,
+    gameMode,
 }) => {
     const finalScore = score || playerResults.score;
     const finalTime = totalTime || playerResults.totalTime;
@@ -79,6 +81,7 @@ const FinishScreen = ({
     const getResultsStr = () => {
         const sharableResultsArr = [
             `QuickQ: ${new Date().toLocaleDateString()}`,
+            `${gameMode === GameModes.MULTIPLE_CHOICE ? "Mode: 🔠" : ""}`,
             `Score: ${finalScore}`,
             `Time: ${finalTime}s`,
         ];
@@ -112,6 +115,9 @@ const FinishScreen = ({
                     ? "You ran out of time"
                     : "You answered all of today's questions"}
             </h3>
+            {gameMode === GameModes.MULTIPLE_CHOICE && (
+                <h3 className="MultipleChoiceMode">Multiple Choice Mode</h3>
+            )}
             <h3>
                 Score: <span className="FinalScore">{finalScore}</span>
             </h3>
