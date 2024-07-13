@@ -81,10 +81,12 @@ const FinishScreen = ({
     const getResultsStr = () => {
         const sharableResultsArr = [
             `QuickQ: ${new Date().toLocaleDateString()}`,
-            `${gameMode === GameModes.MULTIPLE_CHOICE ? "Mode: 🔠" : ""}`,
             `Score: ${finalScore}`,
             `Time: ${finalTime}s`,
         ];
+        if (gameMode === GameModes.MULTIPLE_CHOICE) {
+            sharableResultsArr.splice(1, 0, "Mode: 🔠");
+        }
         let i = 1;
         for (const result of playerResults.questionResults) {
             const rowArr = [
