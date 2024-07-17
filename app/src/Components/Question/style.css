@@ -34,6 +34,7 @@
     border-radius: 50px;
     font-weight: bold;
     font-family: futura;
+    white-space: nowrap;
 }
 
 .CorrectOrIncorrectAnimation.visible {

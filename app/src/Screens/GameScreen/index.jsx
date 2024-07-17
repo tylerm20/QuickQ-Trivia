@@ -43,6 +43,7 @@ const GameScreen = ({
     const [showSettingsModal, setShowSettingsModal] = useState(false);
     const [showCorrectOrIncorrect, setShowCorrectOrIncorrect] = useState(false);
     const [userAnswerCorrect, setUserAnswerCorrect] = useState(false);
+    const [userOutOfTime, setUserOutOfTime] = useState(false);
 
     const finishGame = () => {
         setScreenShowing(screens.finish);
@@ -73,7 +74,7 @@ const GameScreen = ({
     };
 
     const skipQuestion = () => {
-        finishQuestion({ userAnswer: "", userSkipped: true });
+        finishQuestion({ userAnswer: "", userSkipped: true, outOfTime: false });
     };
 
     const buzz = () => {
@@ -199,6 +200,7 @@ const GameScreen = ({
                     finishQuestion({
                         userAnswer: answerText,
                         userSkipped: false,
+                        outOfTime: false,
                     })
                 }
             >
@@ -244,7 +246,7 @@ const GameScreen = ({
         [getCurrentQuestionObj]
     );
 
-    const finishQuestion = ({ userAnswer, userSkipped }) => {
+    const finishQuestion = ({ userAnswer, userSkipped, outOfTime }) => {
         const questionResult = {};
         // because we are updating the score in state in this function
         // we can't rely on it to be up to date, so we have a local copy
@@ -259,7 +261,7 @@ const GameScreen = ({
         } else {
             questionResult["isCorrect"] = isCorrect;
         }
-        showCorrectOrIncorrectAnimation(isCorrect);
+        showCorrectOrIncorrectAnimation(isCorrect, outOfTime);
         questionResult["skipped"] = userSkipped;
         questionResult["time"] = questionTime;
         questionResult["category"] = getQuestionCategory();
@@ -272,8 +274,12 @@ const GameScreen = ({
         updateCurrentResults(localScore);
     };
 
-    const showCorrectOrIncorrectAnimation = (isCorrect) => {
-        setUserAnswerCorrect(isCorrect);
+    const showCorrectOrIncorrectAnimation = (isCorrect, outOfTime) => {
+        if (outOfTime) {
+            setUserOutOfTime(true);
+        } else {
+            setUserAnswerCorrect(isCorrect);
+        }
         setShowCorrectOrIncorrect(true);
 
         // Fade out after a delay
@@ -281,6 +287,12 @@ const GameScreen = ({
             setShowCorrectOrIncorrect(false);
         }, 1000);
     };
+
+    // reset the popup
+    useEffect(() => {
+        setUserOutOfTime(false);
+        setUserAnswerCorrect(false);
+    }, [currentQuestionIndex]);
 
     useEffect(() => {
         // if we are resuming a game
@@ -331,13 +343,21 @@ const GameScreen = ({
 
     useEffect(() => {
         if (gameSecondsRemaining < 1) {
-            finishQuestion({ userAnswer: "", userSkipped: false });
+            finishQuestion({
+                userAnswer: "",
+                userSkipped: false,
+                outOfTime: true,
+            });
         }
     }, [gameSecondsRemaining]);
 
     useEffect(() => {
         if (buzzSecondsRemaining < 1) {
-            finishQuestion({ userAnswer: "", userSkipped: false });
+            finishQuestion({
+                userAnswer: "",
+                userSkipped: false,
+                outOfTime: true,
+            });
         }
     }, [buzzSecondsRemaining]);
 
@@ -386,6 +406,7 @@ const GameScreen = ({
                         showCorrectOrIncorrect
                     }
                     userAnswerCorrect={userAnswerCorrect}
+                    userOutOfTime={userOutOfTime}
                 />
             </div>
             <div className="BottomRow">{getBottomRowContent()}</div>

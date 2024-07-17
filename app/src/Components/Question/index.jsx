@@ -12,6 +12,7 @@ const Question = ({
     showWholeQuestion,
     shouldShowCorrectOrIncorrectAnimation,
     userAnswerCorrect,
+    userOutOfTime,
 }) => {
     const [displayedQuestion, setDisplayedQuestion] = useState("");
     const [charactersShowing, setCharactersShowing] = useState(0);
@@ -70,7 +71,9 @@ const Question = ({
                 ref={correctOrIncorrectAnimationRef}
                 className={`CorrectOrIncorrectAnimation ${shouldShowCorrectOrIncorrectAnimation ? "visible" : ""}`}
             >
-                {userAnswerCorrect ? (
+                {userOutOfTime ? (
+                    <span className="IncorrectAnimation">Time's up</span>
+                ) : userAnswerCorrect ? (
                     <span className="CorrectAnimation">Correct</span>
                 ) : (
                     <span className="IncorrectAnimation">Incorrect</span>
