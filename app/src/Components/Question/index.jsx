@@ -87,6 +87,10 @@ const Question = ({
                         ? {
                               overflow: "scroll",
                               maxHeight: "calc(100vh - 300px)",
+                              fallbacks: [
+                                  { maxHeight: "-moz-calc(100vh - 300px)" },
+                                  { maxHeight: "-webkit-calc(100vh - 300px)" },
+                              ],
                           }
                         : {}
                 }
