@@ -1,6 +1,6 @@
 import React, { useState, useEffect, useRef } from "react";
 import "./style.css";
-import { getEmojiForCategory } from "../../utils";
+import { getEmojiForCategory, isMultipleChoiceMode } from "../../utils";
 import { CATEGORY_COLOR_MAP } from "../../constants";
 
 const Question = ({
@@ -13,6 +13,7 @@ const Question = ({
     shouldShowCorrectOrIncorrectAnimation,
     userAnswerCorrect,
     userOutOfTime,
+    gameMode,
 }) => {
     const [displayedQuestion, setDisplayedQuestion] = useState("");
     const [charactersShowing, setCharactersShowing] = useState(0);
@@ -79,7 +80,17 @@ const Question = ({
                     <span className="IncorrectAnimation">Incorrect</span>
                 )}
             </div>
-            <div className="QuestionText">
+            <div
+                className="QuestionText"
+                style={
+                    isMultipleChoiceMode(gameMode)
+                        ? {
+                              overflow: "scroll",
+                              maxHeight: "calc(100vh - 300px)",
+                          }
+                        : {}
+                }
+            >
                 {showWholeQuestion ? question : displayedQuestion}
             </div>
         </div>
