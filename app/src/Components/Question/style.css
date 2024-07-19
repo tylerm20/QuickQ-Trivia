@@ -7,6 +7,8 @@
     font-size: 30px;
     font-weight: bold;
     padding-top: 10px;
+    max-height: 39.5px;
+    overflow: hidden;
 }
 
 .QuestionText {
