@@ -81,15 +81,7 @@ const Question = ({
                 )}
             </div>
             <div
-                className="QuestionText"
-                style={
-                    isMultipleChoiceMode(gameMode) && !showWholeQuestion
-                        ? {
-                              overflow: "scroll",
-                              maxHeight: "calc(100vh - 300px)",
-                          }
-                        : {}
-                }
+                className={`QuestionText ${isMultipleChoiceMode(gameMode) && !showWholeQuestion ? "QuestionTextMultipleChoiceMode" : ""}`}
             >
                 {showWholeQuestion ? question : displayedQuestion}
             </div>
