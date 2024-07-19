@@ -28,6 +28,14 @@
     position: fixed;
     bottom: 0;
     width: 100%;
+    justify-content: center;
+    gap: 10px;
+    margin-bottom: 5px;
+    max-width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    left: 0;
+    right: 0;
 }
 
 .MultipleChoiceOption {
@@ -38,8 +46,7 @@
     justify-content: center;
     min-height: 50px;
     color: black;
-    width: 40%;
-    margin: 5px;
+    width: 45%;
     font-size: 16px;
 }
 

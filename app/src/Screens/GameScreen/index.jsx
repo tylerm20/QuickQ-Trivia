@@ -407,6 +407,7 @@ const GameScreen = ({
                     }
                     userAnswerCorrect={userAnswerCorrect}
                     userOutOfTime={userOutOfTime}
+                    gameMode={gameMode}
                 />
             </div>
             <div className="BottomRow">{getBottomRowContent()}</div>
