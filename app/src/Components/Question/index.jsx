@@ -83,7 +83,7 @@ const Question = ({
             <div
                 className="QuestionText"
                 style={
-                    isMultipleChoiceMode(gameMode)
+                    isMultipleChoiceMode(gameMode) && !showWholeQuestion
                         ? {
                               overflow: "scroll",
                               maxHeight: "calc(100vh - 300px)",
