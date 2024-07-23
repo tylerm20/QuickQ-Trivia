@@ -18,6 +18,10 @@ const Question = ({
     const [displayedQuestion, setDisplayedQuestion] = useState("");
     const [charactersShowing, setCharactersShowing] = useState(0);
     const correctOrIncorrectAnimationRef = useRef(null);
+    const isChromeIos =
+        navigator &&
+        navigator.userAgent &&
+        navigator.userAgent.indexOf("CriOS") > -1;
 
     useEffect(() => {
         // Reset displayed question when the question or showWholeQuestion changes
@@ -81,7 +85,9 @@ const Question = ({
                 )}
             </div>
             <div
-                className={`QuestionText ${isMultipleChoiceMode(gameMode) && !showWholeQuestion ? "QuestionTextMultipleChoiceMode" : ""}`}
+                className={`QuestionText
+                    ${isMultipleChoiceMode(gameMode) && !showWholeQuestion ? "QuestionTextMultipleChoiceMode" : ""}
+                    ${isMultipleChoiceMode(gameMode) && !showWholeQuestion && isChromeIos ? "Chrome" : ""}`}
             >
                 {showWholeQuestion ? question : displayedQuestion}
             </div>
