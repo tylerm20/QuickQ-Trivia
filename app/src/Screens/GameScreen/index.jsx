@@ -290,6 +290,7 @@ const GameScreen = ({
 
     // reset the popup
     useEffect(() => {
+        setShowCorrectOrIncorrect(false);
         setUserOutOfTime(false);
         setUserAnswerCorrect(false);
     }, [currentQuestionIndex]);
