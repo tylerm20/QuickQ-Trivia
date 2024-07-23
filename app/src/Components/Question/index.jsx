@@ -18,6 +18,10 @@ const Question = ({
     const [displayedQuestion, setDisplayedQuestion] = useState("");
     const [charactersShowing, setCharactersShowing] = useState(0);
     const correctOrIncorrectAnimationRef = useRef(null);
+    const isChromeIos =
+        navigator &&
+        navigator.userAgent &&
+        navigator.userAgent.indexOf("CriOS") > -1;
 
     useEffect(() => {
         // Reset displayed question when the question or showWholeQuestion changes
@@ -81,19 +85,9 @@ const Question = ({
                 )}
             </div>
             <div
-                className="QuestionText"
-                style={
-                    isMultipleChoiceMode(gameMode) && !showWholeQuestion
-                        ? {
-                              overflow: "scroll",
-                              maxHeight: "calc(100vh - 300px)",
-                              fallbacks: [
-                                  { maxHeight: "-moz-calc(100vh - 300px)" },
-                                  { maxHeight: "-webkit-calc(100vh - 300px)" },
-                              ],
-                          }
-                        : {}
-                }
+                className={`QuestionText
+                    ${isMultipleChoiceMode(gameMode) && !showWholeQuestion ? "QuestionTextMultipleChoiceMode" : ""}
+                    ${isMultipleChoiceMode(gameMode) && !showWholeQuestion && isChromeIos ? "Chrome" : ""}`}
             >
                 {showWholeQuestion ? question : displayedQuestion}
             </div>
