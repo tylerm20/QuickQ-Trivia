@@ -27,11 +27,11 @@
 }
 
 .SocialLogo {
-    max-height: 20px;
+    height: 20px;
 }
 
 .CloseIcon {
-    max-height: 20px;
+    height: 20px;
     align-self: flex-end;
     margin: -5px;
 }

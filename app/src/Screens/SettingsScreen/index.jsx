@@ -1,12 +1,18 @@
 import Modal from "../../Components/Modal";
 import "./style.css";
 
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+import { faX } from "@fortawesome/free-solid-svg-icons";
+import { faXTwitter } from "@fortawesome/free-brands-svg-icons";
+import { faDiscord } from "@fortawesome/free-brands-svg-icons";
+import { faFacebook } from "@fortawesome/free-brands-svg-icons";
+
 const SettingsScreen = ({ showModal, setShowModal }) => {
     return (
         <Modal showModal>
             <div className="Settings">
-                <img
-                    src="close_button_icon.png"
+                <FontAwesomeIcon
+                    icon={faX}
                     className="CloseIcon"
                     onClick={() => setShowModal(false)}
                 />
@@ -48,20 +54,28 @@ const SettingsScreen = ({ showModal, setShowModal }) => {
                     <div className="JoinTheCommunity">Join the Community:</div>
                     <div className="Logos">
                         <a
+                            href="https://www.facebook.com/profile.php?id=61562298087777"
+                            target="_blank"
+                        >
+                            <FontAwesomeIcon
+                                icon={faFacebook}
+                                className="SocialLogo"
+                            />
+                        </a>
+                        <a
                             href="https://twitter.com/QuickQTrivia"
                             target="_blank"
                             rel="noreferrer"
                         >
-                            <img
+                            <FontAwesomeIcon
+                                icon={faXTwitter}
                                 className="SocialLogo"
-                                src="x_logo_black.png"
                             />
                         </a>
                         <a href="https://discord.gg/Jw5r8eMjFw" target="_blank">
-                            <img
-                                src="discord_logo_black.png"
+                            <FontAwesomeIcon
+                                icon={faDiscord}
                                 className="SocialLogo"
-                                rel="noreferrer"
                             />
                         </a>
                     </div>
