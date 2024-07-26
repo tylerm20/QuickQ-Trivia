@@ -51,6 +51,10 @@
     text-align: center;
 }
 
+.MultipleChoiceOption:active {
+    background-color: gray;
+}
+
 .BetweenQuestionsBottomRow {
     display: flex;
     align-items: flex-end;
@@ -79,6 +83,10 @@
     background-color: red;
     font-size: large;
     color: black;
+}
+
+.BuzzButton:active {
+    background-color: darkred;
 }
 
 .SkipButton {

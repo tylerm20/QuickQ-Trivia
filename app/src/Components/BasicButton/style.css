@@ -6,3 +6,7 @@ button {
     border: none;
     width: 120px;
 }
+
+button:active {
+    background-color: rgb(183, 183, 183);
+}

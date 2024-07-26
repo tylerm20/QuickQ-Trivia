@@ -29,6 +29,10 @@
     min-width: 120px;
 }
 
+.StartButton:active {
+    background-color: darkgreen;
+}
+
 .QQLogo {
     max-width: 80vw;
     align-self: center;
