@@ -52,6 +52,7 @@ const GameScreen = ({
             action: "finish",
             label: "score",
             value: score,
+            category: gameMode,
         });
     };
 
