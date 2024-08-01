@@ -184,6 +184,14 @@ const GameScreen = ({
             return "Miscellaneous";
         }
     }, [getCurrentQuestionObj]);
+    const getQuestionSource = useCallback(() => {
+        try {
+            return getCurrentQuestionObj()["source"];
+        } catch (e) {
+            console.log(e);
+            return "N/A";
+        }
+    }, [getCurrentQuestionObj]);
 
     const multipleChoiceOptions = useMemo(() => {
         const correctAnswer = getQuestionAnswerText();
@@ -411,6 +419,9 @@ const GameScreen = ({
                     userOutOfTime={userOutOfTime}
                     gameMode={gameMode}
                 />
+                {isBetweenQuestions && (
+                    <div className="Source">Source: {getQuestionSource()}</div>
+                )}
             </div>
             <div className="BottomRow">{getBottomRowContent()}</div>
         </div>

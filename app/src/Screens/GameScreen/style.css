@@ -124,3 +124,9 @@
     flex-grow: 1;
     margin-bottom: 20px;
 }
+
+.Source {
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 5px;
+}
