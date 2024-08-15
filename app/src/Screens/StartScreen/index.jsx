@@ -91,16 +91,31 @@ const StartScreen = ({
             ) : (
                 <div>
                     {!hasStartedTodaysGame && (
-                        <div className="ModeSelector">
-                            Game Mode:
-                            <Switch
-                                isEnabled={isMultipleChoiceMode(gameMode)}
-                                onIsEnabledChanged={(e) => changeGameMode()}
-                            />
-                            <div className="GameModeLabel">
-                                {isMultipleChoiceMode(gameMode)
-                                    ? "Multiple Choice"
-                                    : "Free Response"}
+                        <div className="GameMode">
+                            <div className="GameModeTitle">Game Mode:</div>
+                            <div className="ModeSelector">
+                                <span
+                                    className={
+                                        isMultipleChoiceMode(gameMode)
+                                            ? ""
+                                            : "Bold"
+                                    }
+                                >
+                                    Free Response
+                                </span>
+                                <Switch
+                                    isEnabled={isMultipleChoiceMode(gameMode)}
+                                    onIsEnabledChanged={(e) => changeGameMode()}
+                                />
+                                <span
+                                    className={
+                                        isMultipleChoiceMode(gameMode)
+                                            ? "Bold"
+                                            : ""
+                                    }
+                                >
+                                    Multiple Choice
+                                </span>
                             </div>
                         </div>
                     )}

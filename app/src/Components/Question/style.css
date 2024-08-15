@@ -26,7 +26,7 @@
 @supports (-webkit-touch-callout: none) {
     .QuestionTextMultipleChoiceMode {
         /* for ios safari 15, safe-area-inset-bottom is 0, so a special fix apply here */
-        max-height: calc(100vh - 380px);
+        max-height: calc(100vh - 400px);
     }
     .Chrome {
         max-height: calc(100vh - 400px);
