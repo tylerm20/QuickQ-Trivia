@@ -1,0 +1,82 @@
+[
+    {
+        "category": "Current Events",
+        "question": "In August 2024, a US federal court ruled that this tech giant illegally maintained a monopoly and engaged in anti-competitive practices to suppress rivals. The case was brought by the Department of Justice, which argued that the company's dominance stifled innovation and harmed consumers. The case involved this company's rumored mutl-billion dollar payments to Apple and other tech companies to be the default search engine on their devices/platforms. Which tech giant is this?",
+        "answers": ["Google"],
+        "incorrect1": "Microsoft",
+        "incorrect2": "DuckDuckGo",
+        "incorrect3": "Apple",
+        "used": "FALSE",
+        "source": "Marty Heavey"
+    },
+    {
+        "category": "Current Events",
+        "question": "In August 2024, a sudden strengthening of this currency, coupled with concerns about a potential recession in the United States, sent shockwaves through global markets. The surge in its value triggered a massive sell-off in Japanese stocks, leading to the Nikkei 225 index suffering its largest single-day point drop in history. This chain reaction ultimately impacted markets across the globe, with major indices like the Dow Jones and S&P 500 experiencing significant declines. What is the name of this currency, whose volatility highlighted the interconnectedness of global financial markets?",
+        "answers": ["Yen", "Japanese Yen"],
+        "incorrect1": "",
+        "incorrect2": "",
+        "incorrect3": "",
+        "used": "FALSE",
+        "source": "Marty Heavey"
+    },
+    {
+        "category": "Current Events",
+        "question": "This aerospace giant's CST-100 Starliner spacecraft, intended to transport astronauts to and from the International Space Station, encountered multiple technical problems during its June 2024 test flight, including propellant leaks and thruster failures. These issues left two NASA astronauts stranded on the ISS, potentially delaying their return to Earth until late 2024 or early 2025. What is this company that is best known for their airplanes?",
+        "answers": ["Boeing"],
+        "incorrect1": "",
+        "incorrect2": "",
+        "incorrect3": "",
+        "used": "FALSE",
+        "source": "Marty Heavey"
+    },
+    {
+        "category": "Current Events",
+        "question": "Prime Minister Sheikh Hasina of this nation resigned and fled the country after huge student protests over the nation's quota system. The protests resulted in hundreds of deaths, the resignation of the prime minister, and the dissolution of her government. The 2006 Nobel Prize winner, Muhammad Yunus, was selected to form an interim government until elections can be held. What is this nation which is one of the most densely populated in the world and has an official language of Bengali?",
+        "answers": ["Bangladesh"],
+        "incorrect1": "",
+        "incorrect2": "",
+        "incorrect3": "",
+        "used": "FALSE",
+        "source": "Marty Heavey"
+    },
+    {
+        "category": "Current Events",
+        "question": "A town in this nation became the focus of national attention in July 2024 following a tragic stabbing spree that sparked a wave of protests and unrest across the country. The incident occurred during a children's dance class, resulting in the deaths of three young girls and injuries to several others. The subsequent spread of misinformation and exploitation of the event by far-right groups fueled anti-immigrant demonstrations and violence. Southport known for its beaches and Victorian architecture, is a part of which country? ",
+        "answers": ["England", "United Kingdom"],
+        "incorrect1": "",
+        "incorrect2": "",
+        "incorrect3": "",
+        "used": "FALSE",
+        "source": "Marty Heavey"
+    },
+    {
+        "category": "Current Events",
+        "question": "This European city was set to host three sold-out concerts by a global pop star in August 2024, but the shows were abruptly cancelled due to security concerns. The cancellation came after Austrian authorities arrested two individuals suspected of planning a terrorist attack targeting the concert venue. This city is the fifth most populous in the European Union and is Austria's primate city. Which city, known for its rich musical heritage and iconic concert halls, was this?",
+        "answers": ["Vienna"],
+        "incorrect1": "",
+        "incorrect2": "",
+        "incorrect3": "",
+        "used": "FALSE",
+        "source": "Marty Heavey"
+    },
+    {
+        "category": "Current Events",
+        "question": "This man was named the Vice Presidential candidate for Kamala Harris's presidential ticket. Before he was a poltician this man served in the Army National Guard and worked as an educator and football coach. He was elected 5 times to the House of Representatives in Minnesota before he was elected the state's governor in 2018. Name this politician who recently gained recognition for calling Donald Trump \"weird.\"",
+        "answers": ["Tim Walz"],
+        "incorrect1": "",
+        "incorrect2": "",
+        "incorrect3": "",
+        "used": "FALSE",
+        "source": "Marty Heavey"
+    },
+    {
+        "category": "Current Events",
+        "question": "This track and field athlete won the gold medal in 100 meters at the 2024 Olympics. He sparked controversy by questioning the use of the term \"world champion\" for NBA title winners, leading to public exchanges with prominent figures like Kevin Durant and Drake. He then won a bronze medal in the 200 meter race after claiming to have tested positive for COVID two days prior. Who is this outspoken sprinter known for his charismatic personality and impressive speed? ",
+        "answers": ["Noah Lyles"],
+        "incorrect1": "",
+        "incorrect2": "",
+        "incorrect3": "",
+        "used": "FALSE",
+        "source": "Marty Heavey"
+    }
+]
