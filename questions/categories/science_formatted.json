@@ -1,50 +1,31 @@
 [
     {
         "category": "Science",
-        "source": "2014 SCOP Novice 5",
-        "question": "In AC circuits, this quantity's namesake right triangle can be used to find its \"apparent\" form. Intensity is equal to this quantity over area. In an electrical circuit, this quantity can be expressed as voltage squared over resistance, though it is more commonly denoted as current squared time resistance or current times voltage. Name this physical quantity, the amount of work done per unit time, measured in Watts.",
-        "answers": ["power", "electric power", "mechanical power"],
-        "incorrect1": "strength",
-        "incorrect2": "force",
-        "incorrect3": "authority",
-        "used": "FALSE"
-    },
-    {
-        "category": "Science",
-        "source": "2015 SCOP Novice 6",
-        "question": "If a function is differentiable at a point, one of these geometric figures can serve as a first-order approximation of the function at that point. These mathematical entities are defined by Euclid's second axiom, or by their gradient and a point. One of these called the directrix helps define a parabola, and two of these that intersect define a plane. The formula \"y equals m x plus b\" describes what degree-one polynomials with constant slope and no endpoints?",
-        "answers": [
-            "lines (accept linear equation or function; accept degree-one polynomials or equivalents such as first degree polynomials before \"degree-one\" is read; do not accept \"line segment\" or \"ray\")"
-        ],
-        "used": "FALSE"
-    },
-    {
-        "category": "Science",
         "source": "2021 CERES",
         "question": "Barry Marshall won a Nobel Prize for his research on this organ, in which he drank a bacteria called H. pylori and discovering that it caused ulcers to form in it. This organ creates chyme out of molecules that arrive from the esophagus to it. A layer of mucus helps protect this organ from the hydrochloric acid that breaks apart proteins before they enter the intestines. Name this digestive organ that breaks down food.",
         "answers": ["stomach"],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",
         "source": "2017 SCOP MS 7",
         "question": "In Amonton's Laws, the effect of this force is independent of surface area. This force's magnitude is equal to a namesake coefficient, symbolized mu, times the normal force. One type of this force prevents resting objects from sliding and can be overcome with lubricants. For ten points, name this force that opposes motion between bodies in contact.",
         "answers": ["friction"],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",
         "source": "2019 SCOP Novice 10",
         "question": "An underactive parathyroid gland will cause a low blood level of this substance. The sarcoplasmic reticulum stores ions of this mineral, which is needed for muscle contraction. Vitamin D assists the absorption of both phosphate and this element in the gut. Seniors may take a supplement of this element to prevent osteoporosis, and children often get their intake by drinking milk. Name this element needed to build strong bones and teeth.",
         "answers": ["calcium (accept Ca)"],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",
         "source": "2010 Fall Kickoff Tournament (FKT)",
         "question": "This object reduces transaction costs in an economy by eliminating the requirement for a double conincidence of wants. Gresham's law states that the bad variety of this will drive out the good variety. The Federal Reserve of the United States conducts open market operations in order to change the supply of this object. The rate at which this changes hands is referred to as the velocity of circulation. In the U.S., it became fiat in 1971 under Richard Nixon, and inflation is the devaluation of this. Identify this method of payment whose various forms include traveller's cheques, checkable deposits, and currency in circulation.",
         "answers": ["money [prompt on \"currency\"]"],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",
@@ -53,14 +34,14 @@
         "answers": [
             "surface waves (accept ocean waves; accept descriptions like waves on the surface of water)"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",
         "source": "2013 Collaborative Middle School Tournament #4",
         "question": "Schedar is the brightest of its five stars. The Perseid meteor shower originates between Perseus and this constellation, which is visible year-round in the northern hemisphere. Its W shape represents a seated mythological queen. Identify this constellation named for the mother of Andromeda.",
         "answers": ["Cassiopeia"],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",

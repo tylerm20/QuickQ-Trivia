@@ -1,34 +1,24 @@
 [
     {
         "category": "US History",
-        "source": "2012 Collaborative Middle School Tournament #3",
-        "question": "The would-be assassin of this person clashed with his attorney, Judy Clarke, when told his target survived. She received a standing ovation from Congress when she appeared to cast a vote in August 2011. Less than 7 months earlier, she was fighting for her life, after being shot in the head by Jared Loughner in a Safeway parking lot. Name this Arizona congresswoman who resigned her office in January 2012.",
-        "answers": ["Gabrielle Giffords", "Gabby Giffords", "Giffords"],
-        "incorrect1": "Hillary Clinton",
-        "incorrect2": "Nancy Pelosi",
-        "incorrect3": "Alexandria Ocasio-Cortez",
-        "used": "FALSE"
-    },
-    {
-        "category": "US History",
         "source": "2010 SCOP Novice",
         "question": "As a British colony, this state was the only one to ban the importing of slaves. John Marshall ruled in a case filed by Samuel Worcester against this state that the Cherokee could not be expelled by state governments, a ruling ignored by Andrew Jackson. This state was founded as a buffer between the British colonies and Spanish territory to the south. Name this state, a debtor's colony founded by James Oglethorpe, who chose its first capital, Savannah.",
         "answers": ["Georgia"],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "US History",
         "source": "2011 SCOP Novice 2",
         "question": "Moses Rose is legendarily considered the \"coward\" of this battle. William Travis was left in sole command because the volunteer leader was bedridden, and Susanna Dickinson was spared to warn others of the defeat. Ending on March 6, 1836 with the deaths of James Bowie, Davy Crockett, and roughly 200 others in a San Antonio mission name this disastrous battle of the Texas Revolution.",
         "answers": ["Battle of the Alamo"],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "US History",
         "source": "2010 Collaborative Middle School Tournament",
         "question": "This man's secretary, Orville Babcock, and vice president, Schuyler (\"SKOY-ler\") Colfax, were accused in the scandals of the Whiskey Ring and Credit Mobilier. He captured Fort Donelson and opened the Mississippi River at Vicksburg before he was promoted to command all the Union armies and accepted the surrender of Robert E. Lee at Appomattox. Name this Union general and eighteenth President.",
         "answers": ["Ulysses Simpson Grant"],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "US History",
@@ -37,35 +27,28 @@
         "answers": [
             "two,Second Amendment,Article Two of the United States Constitution"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "US History",
         "source": "2020 SCOP MS 10",
         "question": "Tennessee politician Harry Burn cast the deciding vote for this amendment. The Silent Sentinels, including Lucy Burns and Alice Paul, protested in favor of this amendment in front of the White House and were tortured by police in 1917. Carrie Chapman Catt led the National American Woman Suffrage Association, which advocated for what Constitutional amendment that guaranteed women the right to vote?",
         "answers": ["Nineteenth (19th) Amendment to the US Constitution"],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "US History",
         "source": "2013 Collaborative Middle School Tournament #4",
         "question": "This man used powers granted by the Taft-Hartley Act during a confrontation with air traffic controllers, and his Defense Secretary resigned after violations of the Boland Amendment were revealed. Before those events during his presidency, he served as Governor of California from 1967 until 1975. Prior to entering politics, this man was a famous Hollywood actor. Name this Republican president from 1981 to 1989.",
         "answers": ["Ronald (Wilson) Reagan"],
-        "used": "FALSE"
-    },
-    {
-        "category": "US History",
-        "source": "2009 Fall Novice Tournament",
-        "question": "This conflict's leader wrote up a declaration in which he accused the governor of monopolizing the beaver trade. That leader also was a proponent of unlimited territorial expansion and an aggressive policy with respect to Indians. This conflict began when the Occaneechees were fired upon by colonists and, in its aftermath, Charles II recalled William Berkeley to England. Jamestown was set alight at its height, and its namesake at one point controlled most of Virginia. Identify this 1676 colonial uprising.",
-        "answers": ["Bacon's Rebellion"],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "US History",
         "source": "2020 MOQBA Novice",
         "question": "Erich Von Daniken claimed the sarcophagus of a king of these people depicts an astronaut riding a rocket. These people built the early observatory of El Caracol, and made human sacrifices in cenotes. King Pacal of these people was born on 9.8.9.13.0 in this people's \"Long Count\" calendar. These people were the first to develop the idea of zero, and they wrote in a hieroglyphic language found at Palenque. Chichen Itza was built by what pre-Columbian civilization of the Yucatan Peninsula and Guatemala?",
         "answers": ["Mayans [or the Maya]"],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "US History",

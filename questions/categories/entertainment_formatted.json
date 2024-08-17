@@ -1,0 +1,92 @@
+[
+    {
+        "category": "Entertainment",
+        "question": "This television series' final season was met with mixed reviews and a petition signed by over a million viewers demanding a remake. The show's opening credits feature a 3D map of the fictional continents where the story takes place, Westeros and Essos. Based on George R. R. Martin's book series \"A Song of Ice and Fire,\" this fantasy drama is known for its complex characters, intricate plotlines, and shocking twists. What is the name of this popular HBO series?",
+        "answers": ["Game of Thrones"],
+        "incorrect1": "",
+        "incorrect2": "",
+        "incorrect3": "",
+        "used": "TRUE",
+        "source": "Marty Heavey"
+    },
+    {
+        "category": "Entertainment",
+        "question": "This musician's real name is Richard Starkey, and he was born in Liverpool, England, in 1940. His solo career has spanned decades, and he has released numerous albums and singles, including hits like \"Photograph\" and \"It Don't Come Easy.\" He is also an accomplished actor and voice actor, known for his roles in films like \"Caveman\" and \"Thomas & Friends.\" He joined the Beatles in 1962, replacing their original drummer, Pete Best. Who is this iconic drummer and multi-talented performer?",
+        "answers": ["Ringo Starr"],
+        "incorrect1": "",
+        "incorrect2": "",
+        "incorrect3": "",
+        "used": "TRUE",
+        "source": "Marty Heavey"
+    },
+    {
+        "category": "Entertainment",
+        "question": "This artist's final album, released just days before his tragic death, included the Grammy-winning hit \"Sexual Healing\". He started his musical journey singing in a church choir led by his father, a Pentecostal minister. Known for his smooth vocals and socially conscious lyrics, he recorded timeless classics like \"What's Going On\" and \"Let's Get It On\".  Who is this iconic soul singer, whose life was cut short by his own father in a domestic dispute?",
+        "answers": ["Marvin Gaye"],
+        "incorrect1": "",
+        "incorrect2": "",
+        "incorrect3": "",
+        "used": "TRUE",
+        "source": "Marty Heavey"
+    },
+    {
+        "category": "Entertainment",
+        "question": "This iconic sitcom, which aired for ten seasons from 1994 to 2004, initially titled \"Insomnia Cafe,\" followed the lives of six friends navigating their twenties and thirties in New York City.  It featured a memorable opening sequence filmed at the Warner Bros. Ranch in Burbank, California, and its theme song, \"I'll Be There for You\" by The Rembrandts, became an instant hit. The series finale, aired in 2004, remains one of the most-watched television episodes in history.  Which sitcom, known for its relatable characters and enduring humor, is this?",
+        "answers": ["Friends"],
+        "incorrect1": "",
+        "incorrect2": "",
+        "incorrect3": "",
+        "used": "TRUE",
+        "source": "Marty Heavey"
+    },
+    {
+        "category": "Entertainment",
+        "question": "This neo-western thriller, based on the 2005 novel of the same name by Cormac McCarthy, features Javier Bardem as Anton Chigurh, a ruthless hitman with a distinctive hairstyle and a captive bolt pistol. Set in the Texas desert in 1980, the story revolves around a hunter, Llewelyn Moss, who stumbles upon a drug deal gone wrong and takes the money. He soon finds himself pursued by Chigurh, leading to a cat-and-mouse chase across the desolate landscape. What is the title of this 2007 film directed by the Coen brothers? ",
+        "answers": ["No Country for Old Men"],
+        "incorrect1": "",
+        "incorrect2": "",
+        "incorrect3": "",
+        "used": "TRUE",
+        "source": "Marty Heavey"
+    },
+    {
+        "category": "Entertainment",
+        "question": "Despite being diagnosed with melanoma in 1977, this musician refused amputation due to his religious beliefs, ultimately succumbing to the disease in 1981. This musician's iconic song, \"One Love/People Get Ready,\" became an anthem of peace and unity, blending his original lyrics with those of a Curtis Mayfield song. He was a devout Rastafarian, whose dreadlocks and use of marijuana were central to his spiritual and artistic identity. Who was this legendary reggae musician?",
+        "answers": ["Bob Marley"],
+        "incorrect1": "",
+        "incorrect2": "",
+        "incorrect3": "",
+        "used": "TRUE",
+        "source": "Marty Heavey"
+    },
+    {
+        "category": "Entertainment",
+        "question": "This long-running animated sitcom features a talking baby bent on world domination and a dog who enjoys martinis and intellectual pursuits. Created by Seth MacFarlane, this show is set in the fictional town of Quahog, Rhode Island, and follows the misadventures of the Griffin family. It's known for its satirical humor, cutaway gags, and frequent pop culture references. Name this show that has been canceled and revived multiple times, and its controversial content has often sparked debate and criticism.",
+        "answers": ["Family Guy"],
+        "incorrect1": "",
+        "incorrect2": "",
+        "incorrect3": "",
+        "used": "FALSE",
+        "source": "Marty Heavey"
+    },
+    {
+        "category": "Entertainment",
+        "question": "This musician formed the band Wings after The Beatles disbanded, and their hit \"Mull of Kintyre\" became the first single to sell over two million copies in the UK. He co-wrote the song \"Yesterday,\" which holds the record for the most covered song in history.  Knighted in 1997 for his services to music, he's known for his iconic left-handed H\u00f6fner bass guitar. Who is this legendary songwriter and musician?",
+        "answers": ["Paul McCartney"],
+        "incorrect1": "",
+        "incorrect2": "",
+        "incorrect3": "",
+        "used": "FALSE",
+        "source": "Marty Heavey"
+    },
+    {
+        "category": "Entertainment",
+        "question": "This American mockumentary sitcom, based on a British series of the same name, follows the daily lives of employees at a paper company in Scranton, Pennsylvania.  The show's main character, Michael Scott, is the regional manager, known for his cringe-inducing humor and misguided attempts to be liked by his employees. What is the title of this show, which originally aired from 2005 to 2013 and gained even greater popularity through streaming services?",
+        "answers": ["The Office"],
+        "incorrect1": "",
+        "incorrect2": "",
+        "incorrect3": "",
+        "used": "FALSE",
+        "source": "Marty Heavey"
+    }
+]

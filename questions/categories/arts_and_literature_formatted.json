@@ -1,48 +1,38 @@
 [
     {
         "category": "Arts & Literature",
-        "source": "2016 PLATO",
-        "question": "One of these animals named Elsey tells Maureen that \"in Cyberland we only drink Diet Coke\" in the musical RENT. In an Irish myth, Cuchulainn is unable to prevent one of these animals from being stolen in a famous \"raid of Cooley.\" In Into the Woods, one of these named Milky White is Jack's only friend. A \"pox\" of these animals was the source of the first vaccines. Name this common bovine animal which chews its cud and produces milk.",
-        "answers": ["cows", "cattle", "bulls"],
-        "incorrect1": "horses",
-        "incorrect2": "sheep",
-        "incorrect3": "goats",
-        "used": "FALSE"
-    },
-    {
-        "category": "Arts & Literature",
         "source": "2011 Fall Kickoff Tournament (FKT)",
         "question": "In one excerpt from this book the protagonist is told of \"two witnesses\" who will \"prophesy for 1260 days\" before being killed and resurrected. In one scene from this work trumpets are given to seven angels, and it begins with the protagonist addressing the seven churches of Asia. In the sixth chapter of this book a lamb begins opening seven seals, the first four of which contain the horseman of the apocalypse. A description of New Jerusalem is given at the conclusion of this work, which consists primarily of a prophetic vision seen by John of Patmos. Name this final book of the Bible.",
         "answers": ["Book of Revelation"],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Arts & Literature",
         "source": "2020 SCOP A Round 5",
         "question": "This historical group worshipped the son of Coatlicue [koh-at-lee-kway], who was impregnated by a ball of feathers. These Nahuatl-speaking people worshipped a \"left-handed\" or \"southern\" hummingbird, Huitzilopochtli [hwee-tsil-oh-pokt-lee], and a rain god named Tlaloc [t-lah-lock] in a pair of temples perched on top of a pyramidal platform. Name these people who worshiped gods like Quetzalcoatl [ket-zal-koh-ah-tull] in the Templo Mayor in Tenochtitlan before they were conquered by Hernan Cortes.",
         "answers": ["Aztecs", "Aztec empire"],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Arts & Literature",
         "source": "2010 Fall Novice Tournament",
         "question": "Members of this faith form houses known as sosyete, and its holy men are sometimes called houngan. It believes in an ancestral homeland of Ginen, worships the supreme being Bondye, and originates in Yoruban myth. The Ogunye and Ezili are families of this religion's spirits, or loa, which include Papa Legba and Baron Samedi. Name this syncretic religion practiced in Louisiana and Haiti, whose rarer practices might involve zombies or pin-filled dolls.",
         "answers": ["Vodou [accept Voodoo or Vodun or Vaudou]"],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Arts & Literature",
         "source": "2020 SCOP A",
         "question": "In this novel, Pope Urban X's [the tenth's] daughter cuts off her buttock to serve to soldiers in a siege. Cacambo explores El Dorado with a man who says, \"we must cultivate our garden\" at the end of this novel. After an attack on Castle Thunder-ten-Tronckh, this novel's protagonist struggles to reunite with his lover, Cunegonde, and his teacher, Doctor Pangloss, who insists that \"all is for the best in this best of all possible worlds.\"Name this satirical French novel about a title \"Optimist,\" written by Voltaire.",
         "answers": ["Candide, or Optimism (accept Candide, ou l'Optimisme)"],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Arts & Literature",
         "source": "2013 SCOP Novice 4",
         "question": "This work's narrator commands his guests to \"tear up the planks\" when they fail to notice the crime scene around them. The narrator claims that his nervous \"disease\" has sharpened his senses, and he visits his sleeping victim for a week before smothering him with his bed. A sound like a watch in cotton drives the narrator to tell three policemen that he has killed and dismembered his vulture-eyed landlord in this short story by Poe.",
         "answers": ["The Tell-Tale Heart"],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Arts & Literature",
@@ -51,7 +41,7 @@
         "answers": [
             "World War I [or The Great War; or The War to End All Wars]"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Arts & Literature",
@@ -60,7 +50,7 @@
         "answers": [
             "self-portrait [accept Self-Portrait with Cropped Hair; Self-Portrait with Thorn Necklace and Hummingbird; Triple Self-Portrait; prompt on portrait]"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Arts & Literature",

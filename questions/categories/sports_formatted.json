@@ -1,0 +1,92 @@
+[
+    {
+        "category": "Sports",
+        "question": "This gymnast recently secured her eighth all-around title at the 2023 U.S. Gymnastics Championships, further cementing her status as the most decorated gymnast in U.S. history. She made a triumphant return to competitive gymnastics after a two-year hiatus, having withdrawn from several events during the 2020 Tokyo Olympics to prioritize her mental health. At the 2024 Paris Olympics, she became the oldest U.S. woman to win an individual Olympic medal in gymnastics since 1952. Who is this inspiring athlete, known for her groundbreaking skills and advocacy for mental health awareness?",
+        "answers": ["Simone Biles"],
+        "incorrect1": "",
+        "incorrect2": "",
+        "incorrect3": "",
+        "used": "TRUE",
+        "source": "Marty Heavey"
+    },
+    {
+        "category": "Sports",
+        "question": "This team's distinctive pirate logo, featuring a silver and black eye patch-wearing man, was designed by Allen \"Skip\" Davis in 1963. Originally based in Oakland, California, they relocated to Los Angeles in 1982 and then to Las Vegas in 2020. They have won three Super Bowl championships (XI, XV, and XVIII) and one AFL championship in 1967.  Which NFL team's motto, \"Just win, baby,\" was coined by longtime owner Al Davis?",
+        "answers": ["Las Vegas Raiders"],
+        "incorrect1": "",
+        "incorrect2": "",
+        "incorrect3": "",
+        "used": "TRUE",
+        "source": "Marty Heavey"
+    },
+    {
+        "category": "Sports",
+        "question": "This footballer's early career was marked by a growth hormone deficiency, which was treated by FC Barcelona after his family relocated to Spain. He is known for his exceptional dribbling skills, precise passing, and prolific goalscoring, earning him numerous awards and accolades, including a record seven Ballon d'Or titles. He recently made a high-profile move to Inter Miami CF in Major League Soccer, leaving Paris Saint-Germain after two seasons. Who is this Argentine forward, widely regarded as one of the greatest footballers of all time?",
+        "answers": ["Lionel Messi"],
+        "incorrect1": "",
+        "incorrect2": "",
+        "incorrect3": "",
+        "used": "TRUE",
+        "source": "Marty Heavey"
+    },
+    {
+        "category": "Sports",
+        "question": "This team's iconic ballpark, Camden Yards, opened in 1992 and is often credited with sparking a wave of retro-style stadium construction across Major League Baseball. Their mascot is named after the state bird of Maryland. Cal Ripken Jr., known for breaking Lou Gehrig's consecutive games played record, spent his entire 21-year career with this team. What is the name of this team, whose distinctive black and orange colors represent Baltimore's city flag? ",
+        "answers": ["Baltimore Orioles"],
+        "incorrect1": "",
+        "incorrect2": "",
+        "incorrect3": "",
+        "used": "TRUE",
+        "source": "Marty Heavey"
+    },
+    {
+        "category": "Sports",
+        "question": "This physical educator, often called the \"Father of Basketball,\" was a Canadian-American physician who invented the game in 1891 while working at the YMCA International Training School in Springfield, Massachusetts. He initially used peach baskets as goals, requiring a ladder to retrieve the ball after each score. He later served as the first basketball coach at the University of Kansas.  Who was this sports innovator, whose creation has become a beloved global pastime?",
+        "answers": ["James Naismith"],
+        "incorrect1": "",
+        "incorrect2": "",
+        "incorrect3": "",
+        "used": "TRUE",
+        "source": "Marty Heavey"
+    },
+    {
+        "category": "Sports",
+        "question": "This team, originally based in Chicago and known as the Packers, relocated to Baltimore in 1951 and became the Bullets.  After a move to the nation's capital in 1973, they changed their name to reflect the city's heritage. Their most successful era came in the 1970s when they won their only NBA championship in 1978 led by Wes Unseld and Elvin Hayes. What is the name of this team that plays in Capital One Arena?",
+        "answers": ["Washington Wizards"],
+        "incorrect1": "",
+        "incorrect2": "",
+        "incorrect3": "",
+        "used": "TRUE",
+        "source": "Marty Heavey"
+    },
+    {
+        "category": "Sports",
+        "question": "This swimmer's dominance in the 800-meter freestyle is unparalleled, having claimed victory at four consecutive Olympic Games from 2012 to 2024. She holds multiple world records in various freestyle events, including the 400m, 800m, and 1500m distances. A native of Bethesda, Maryland, she began swimming competitively at a young age and quickly rose to prominence, breaking numerous age-group records. Who is this athlete, often referred to as the greatest female swimmer of all time?",
+        "answers": ["Katie Ledecky"],
+        "incorrect1": "",
+        "incorrect2": "",
+        "incorrect3": "",
+        "used": "FALSE",
+        "source": "Marty Heavey"
+    },
+    {
+        "category": "Sports",
+        "question": "This track and field athlete's record-breaking long jump of 8.95 meters at the 1991 World Championships in Tokyo stood for over three decades. He won nine Olympic gold medals, including four consecutive golds in the long jump from 1984 to 1996. He also achieved the remarkable feat of winning four Olympic gold medals in a single Olympics, mirroring Jesse Owens' achievement in 1936. Who is this legendary athlete, considered one of the greatest track and field stars of all time?",
+        "answers": ["Carl Lewis"],
+        "incorrect1": "",
+        "incorrect2": "",
+        "incorrect3": "",
+        "used": "FALSE",
+        "source": "Marty Heavey"
+    },
+    {
+        "category": "Sports",
+        "question": "This iconic athlete's famous nickname, \"The Bambino,\" is an Italian term for \"baby.\" He initially started his career as a pitcher for the Boston Red Sox, winning three World Series titles before being controversially sold to the New York Yankees in 1919. This move sparked the so-called \"Curse of the Bambino,\" which supposedly plagued the Red Sox for 86 years until they finally won another World Series in 2004. Name this athlete that retired in 1935, but his record of 714 career home runs stood for nearly 40 years until it was broken by Hank Aaron in 1974.",
+        "answers": ["Babe Ruth"],
+        "incorrect1": "",
+        "incorrect2": "",
+        "incorrect3": "",
+        "used": "FALSE",
+        "source": "Marty Heavey"
+    }
+]
