@@ -53,9 +53,9 @@
     {
         "category": "US History",
         "source": "2019 SCOP Novice 10",
-        "question": "The attempted sale of this man's vacated Senate seat led to the resignation of governor Rod Blagojevich [blah-GOY-ah-vich]. Following negotiations with Ra\u00b4ul Castro, this president became the first to visit Cuba in eighty-eight years. This president, who nominated Merrick Garland, Elena Kagan, and Sonia Sotomayor to the Supreme Court, ended Operation Enduring Freedom in Afghanistan in 2014. Name this U.S. President, the namesake of the Affordable Care Act.",
-        "answers": ["Barack Obama (accept Barack Hussein Obama Jr.)"],
-        "used": "FALSE"
+        "question": "The attempted sale of this man's vacated Senate seat led to the resignation of governor Rod Blagojevich. Following negotiations with Ra\u00b4ul Castro, this president became the first to visit Cuba in eighty-eight years. This president, who nominated Merrick Garland, Elena Kagan, and Sonia Sotomayor to the Supreme Court, ended Operation Enduring Freedom in Afghanistan in 2014. Name this U.S. President, the namesake of the Affordable Care Act.",
+        "answers": ["Barack Obama", "Barack Hussein Obama Jr.", "Obama"],
+        "used": "TRUE"
     },
     {
         "category": "US History",

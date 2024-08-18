@@ -54,10 +54,10 @@
     },
     {
         "category": "Arts & Literature",
-        "source": "2016 SAGES",
-        "question": "One city in this country used to be ruled by the Medici [MED-uh-chee] family. Artists from this country such as Botticelli and Raphael were part of the Renaissance which started in this country. Name this country with historically important cities such as Florence and Rome.",
-        "answers": ["Italy"],
-        "used": "FALSE"
+        "source": "2020 ERIS",
+        "question": "In one story by this author, the homeless Soapy unsuccessfully tries to get himself arrested to avoid the cold. This author of \"The Cop and the Anthem\" also wrote about two men's kidnapping of Ebenezer Dorset, which fails when they have to pay his father to take his son back. \"The Ransom of Red Chief\" is by what American author of short stories such as \"The Gift of the Magi\"?",
+        "answers": ["O. Henry", "William Sydney Porter"],
+        "used": "TRUE"
     },
     {
         "category": "Arts & Literature",
@@ -66,13 +66,6 @@
         "answers": [
             "Mary [accept Mary Magdalene; accept Mary of Bethany; accept Mary, mother of Jesus and logical equivalents like Mary, mother of God]"
         ],
-        "used": "FALSE"
-    },
-    {
-        "category": "Arts & Literature",
-        "source": "2020 ERIS",
-        "question": "In one story by this author, the homeless Soapy unsuccessfully tries to get himself arrested to avoid the cold. This author of \"The Cop and the Anthem\" also wrote about two men's kidnapping of Ebenezer Dorset, which fails when they have to pay his father to take his son back. \"The Ransom of Red Chief\" is by what American author of short stories such as \"The Gift of the Magi\"?",
-        "answers": ["O. Henry [or William Sydney Porter]"],
         "used": "FALSE"
     },
     {

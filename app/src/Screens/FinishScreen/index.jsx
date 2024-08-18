@@ -73,6 +73,7 @@ const FinishScreen = ({
             navigator.share({
                 title: "Results",
                 text: sharableResults,
+                url: "https://QuickQTrivia.com",
             });
         } else {
             navigator.clipboard.writeText(sharableResults).then(() => {
@@ -108,8 +109,7 @@ const FinishScreen = ({
             sharableResultsArr.push(row);
             i += 1;
         }
-        // trailing space may help with URL encoding bug on iOS Safari > Share > Copy
-        sharableResultsArr.push("https://QuickQTrivia.com ");
+        // sharableResultsArr.push("quickqtrivia.com");
         return sharableResultsArr.join("\n");
     };
 
