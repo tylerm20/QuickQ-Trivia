@@ -41,9 +41,12 @@ const Question = ({
             !showWholeQuestion &&
             charactersShowing <= question.length
         ) {
-            const interval = setInterval(() => {
-                setCharactersShowing((c) => c + 1);
-            }, 50); // Reveal characters one by one
+            const interval = setInterval(
+                () => {
+                    setCharactersShowing((c) => c + 1);
+                },
+                isMultipleChoiceMode(gameMode) ? 60 : 50
+            ); // Reveal characters one by one
 
             return () => clearInterval(interval);
         }
