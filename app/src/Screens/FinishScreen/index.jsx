@@ -73,7 +73,6 @@ const FinishScreen = ({
             navigator.share({
                 title: "Results",
                 text: sharableResults,
-                url: "https://QuickQTrivia.com",
             });
         } else {
             navigator.clipboard.writeText(sharableResults).then(() => {
@@ -109,7 +108,7 @@ const FinishScreen = ({
             sharableResultsArr.push(row);
             i += 1;
         }
-        // sharableResultsArr.push("quickqtrivia.com");
+        sharableResultsArr.push("https://QuickQTrivia.com");
         return sharableResultsArr.join("\n");
     };
 
