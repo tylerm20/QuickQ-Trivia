@@ -1,4 +1,5 @@
 import React from "react";
+import ReactGA from "react-ga4";
 import "./style.css";
 import BasicButton from "../../Components/BasicButton";
 import screens, {
@@ -68,6 +69,12 @@ const FinishScreen = ({
     };
 
     const share = () => {
+        ReactGA.event({
+            category: gameMode,
+            action: "share",
+            label: "score",
+            value: score,
+        });
         const sharableResults = getResultsStr();
         if (navigator.canShare) {
             navigator.share({
