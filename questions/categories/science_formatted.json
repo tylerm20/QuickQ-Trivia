@@ -48,58 +48,56 @@
         "source": "2013 Fall Kickoff Tournament (FKT)",
         "question": "The London equations can be used to describe the magnetic fields of these objects. In a solid state, these materials come in LCO or YBCO forms. The London penetration depth, studied by John Schrieffer, is the depth a magnetic field penetrates these types of materials. According to BCS theory, below the Fermi level they form Cooper pairs through electron-phonon interactions. These objects expel their internal magnetic field by the Meissner effect. Name these objects which have no electrical resistance.",
         "answers": ["Superconductors"],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",
         "source": "2013 Collaborative Middle School Tournament #4",
         "question": "Opposite corners of this constellation are at the start Saiph and Bellatrix. Though called its beta, its brightest star is usually Rigel [RY-jul]. This constellation is visible only in the winter, and its alpha star, part of the Winter Triangle and at the center of the Winter Hexagon, is Betelgeuse [\"beetle juice\"]. A line across its center formed by Alnitak, Alnilam, and Mintaka is known as its \"belt\". Name this constellation known as the Hunter.",
         "answers": ["Orion [prompt on the \"Hunter\"]"],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",
         "source": "2018 MVS RAMS",
         "question": "This disease causes Brushfield spots on the iris, and sufferers of this disease are at risk for early-onset Alzheimer's. Symptoms of this disease include epicanthic eye folds and an enlarged, wrinkled tongue. This disease is caused by a trisomy on chromosome 21. This disease is more common in the offspring of mothers over 40. Name this syndrome, a genetic disorder that results in developmental delays.",
         "answers": ["Down syndrome [or trisomy 21 before mentioned]"],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",
         "source": "2010 Fall Novice Tournament",
         "question": "This mineral is at the bottom of Bowen's reaction series, and its piezoelectric properties make it useful as a component of crystal oscillators. Common varieties of this second most common mineral in Earth's crust include citrine, amethyst, and onyx. This mineral is the largest component of granite and is primarily composed of silicon dioxide. Name this mineral with a Mohs hardness of 7.",
         "answers": ["quartz"],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",
         "source": "2013 Fall Kickoff Tournament (FKT)",
         "question": "The Laguerre polynomial gives the radial part of the state vector for this element that has a namesake line that forms when it transitions between two ground level states, called its \"twenty-one centimeter line.\" All of its visible spectral lines are within the Balmer series, and it has an isotope with two more neutrons than normal that is called tritium. It also has a \"heavy\" form that is called deuterium. Name this lightest element, the most abundant in the universe, with chemical symbol H.",
         "answers": ["Hydrogen"],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",
         "source": "2012 Collaborative Middle School Tournament #3",
         "question": "One chytrid (KYE-trid) member of this group has been blamed for the worldwide decline in frog populations, and the Salem witch trials have been blamed on another species that infests rye with ergot. Lichens consist of algae and a member of this kingdom, whose species reproduce through spores and have hyphae bodies with chitin cell walls. Name this kingdom of important decomposers like molds, yeasts, and mushrooms.",
         "answers": ["Fungi [or fungus]"],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",
         "source": "2016 SAGES",
         "question": "During this activity, K-complexes and namesake spindles appear. Rapid eye movement occurs during this activity, and apnea occurs when people can't breathe while doing it. When people have trouble doing this activity it is called insomnia. Name this nighttime activity.",
         "answers": ["sleeping"],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",
         "source": "2020 SCOP A",
         "question": "This operation is applied to the number five in the golden ratio, and when this operation is applied to two, the result is an irrational number approximately equal to \"one point four one four.\" The length of the hypotenuse is found by applying this operation to both sides of the Pythagorean Theorem. Raising a value to the one-half exponent is equivalent to performing this operation. A radical sign indicates what operation that, when applied to twenty-five, gives five?",
-        "answers": [
-            "square root (accept radical before it is read; accept one-half exponent before it is read; do not accept or prompt on \"square\")"
-        ],
-        "used": "FALSE"
+        "answers": ["square root", "radical"],
+        "used": "TRUE"
     },
     {
         "category": "Science",

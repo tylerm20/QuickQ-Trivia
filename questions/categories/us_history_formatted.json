@@ -64,7 +64,7 @@
         "answers": [
             "national anthem (or national songs, national hymns; accept accurate descriptions; prompt on anthem or song)"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "US History",
@@ -73,21 +73,21 @@
         "answers": [
             "Secretary of State (prompt on \"State\" alone; prompt on descriptions of \"the leader of the US State Department\" or similar)"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "US History",
         "source": "2010 Collaborative Middle School Tournament",
         "question": "This state has the fewest members in its state legislature; it is also the only state with a unicameral one. It was the northern of two territories mentioned in an 1854 act introducing popular sovereignty. The western part of this state contains Chimney Rock. When it became a state in 1867 it renamed its capital after a recently assassinated president. Name this state whose largest city is Omaha.",
         "answers": ["Nebraska"],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "US History",
         "source": "2020 SCOP MS 10",
         "question": "This man lamented \"It is well that war is so terrible, or we should grow too fond of it\" during his victory over Ambrose Burnside at the Battle of Fredericksburg. This man, who led the militia that ended John Brown's raid, was victorious at the Second Battle of Bull Run. Name this general who, on April 9th, 1865, surrendered his Confederate army at Appomattox to Ulysses S. Grant.",
         "answers": ["Robert E. Lee (accept Robert Edward Lee)"],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "US History",
@@ -96,21 +96,21 @@
         "answers": [
             "George Walker Bush (accept Bush 43; accept descriptions like \"Bush the younger;\"prompt on \"Bush\" or \"George Bush;\" do not accept Bush 41; do not accept George Herbert Walker Bush)"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "US History",
         "source": "2020 SCOP A",
         "question": "This city is home to the Institute for Advanced Study, where Albert Einstein worked after moving to the US. Hugh Mercer was mortally wounded during a Revolutionary War battle over this city that took place a week after Washington surprised the Hessians by crossing the Delaware River. Since 1945, this college town has been its state's governor's residence, rather than the state capital of Trenton. Name this town that is home to New Jersey's only Ivy League university.",
         "answers": ["Princeton"],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "US History",
         "source": "2016 PLATO",
         "question": "This man's book A History of the English\u00adSpeaking Peoples helped to earn him a Nobel Prize in Literature. This man gave a speech in Fulton, Missouri, where he warned of an incoming \"Iron Curtain\" of Soviet influence. During World War II, this man was a leader of the Grand Alliance along with Joseph Stalin and Franklin Roosevelt. Name this Prime Minister of the United Kingdom during World War II.",
         "answers": ["Winston Churchill"],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "US History",

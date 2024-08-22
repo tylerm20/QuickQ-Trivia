@@ -1,8 +1,8 @@
 [
     {
         "category": "Current Events",
-        "question": "Prime Minister Sheikh Hasina of this nation resigned and fled the country after huge student protests over the nation's quota system. The protests resulted in hundreds of deaths, the resignation of the prime minister, and the dissolution of her government. The 2006 Nobel Prize winner, Muhammad Yunus, was selected to form an interim government until elections can be held. What is this nation which is one of the most densely populated in the world and has an official language of Bengali?",
-        "answers": ["Bangladesh"],
+        "question": "The prime minister of this nation announced he would step down in September 2024. The governing Liberal Democratic Party (LDP) will elect the leader to succeed Fumio Kishida as prime minister. This country's LDP has been in power for most of the postwar period, with brief interruptions. The national government features a bicameral parliament called the National Diet, consisting of the House of Representatives and the House of Councillors. Though a constitutional monarchy, its Emperor holds a largely ceremonial role. Which Asian country is this, known for its unique blend of tradition and modernity?",
+        "answers": ["Japan"],
         "incorrect1": "",
         "incorrect2": "",
         "incorrect3": "",
@@ -11,8 +11,8 @@
     },
     {
         "category": "Current Events",
-        "question": "A town in this nation became the focus of national attention in July 2024 following a tragic stabbing spree that sparked a wave of protests and unrest across the country. The incident occurred during a children's dance class, resulting in the deaths of three young girls and injuries to several others. The subsequent spread of misinformation and exploitation of the event by far-right groups fueled anti-immigrant demonstrations and violence. Southport known for its beaches and Victorian architecture, is a part of which country? ",
-        "answers": ["England", "United Kingdom", "UK"],
+        "question": "This country's parliament elected their youngest prime minister on August 16, 2024. Paetongtarn Shinawatra, a member of a prominent political family, still needs to be endorsed by King Maha Vajiralongkorn before she can officially take office. This nation's flag features two white stripes, a central blue stripe, and two red stripes. It is home to the world's largest solid gold Buddha statue, weighing 5.5 tons. Name this country that is famous for its cuisine including Tom Yung Goong and Pad Thai.",
+        "answers": ["Thailand"],
         "incorrect1": "",
         "incorrect2": "",
         "incorrect3": "",
@@ -21,8 +21,8 @@
     },
     {
         "category": "Current Events",
-        "question": "In August 2024, a sudden strengthening of this currency, coupled with concerns about a potential recession in the United States, sent shockwaves through global markets. The surge in its value triggered a massive sell-off in Japanese stocks, leading to the Nikkei 225 index suffering its largest single-day point drop in history. This chain reaction ultimately impacted markets across the globe, with major indices like the Dow Jones and S&P 500 experiencing significant declines. What is the name of this currency, whose volatility highlighted the interconnectedness of global financial markets?",
-        "answers": ["Yen", "Japanese Yen"],
+        "question": "This disease, once primarily associated with Central and West Africa, saw a global outbreak in 2022, leading the World Health Organization to declare it a Public Health Emergency of International Concern. It is transmitted through close contact with infected individuals, animals, or contaminated materials. Symptoms include fever, rash, and swollen lymph nodes. What is this disease, which seen increased infection levels in 2024, formerly known as monkeypox?",
+        "answers": ["Mpox", "monkeypox"],
         "incorrect1": "",
         "incorrect2": "",
         "incorrect3": "",
@@ -31,8 +31,8 @@
     },
     {
         "category": "Current Events",
-        "question": "This track and field athlete won the gold medal in 100 meters at the 2024 Olympics. He sparked controversy by questioning the use of the term \"world champion\" for NBA title winners, leading to public exchanges with prominent figures like Kevin Durant and Drake. He then won a bronze medal in the 200 meter race after claiming to have tested positive for COVID two days prior. Who is this outspoken sprinter known for his charismatic personality and impressive speed? ",
-        "answers": ["Noah Lyles"],
+        "question": "Individuals were recently arrested related to this man's death in October 2023.  He was nominated for a Primetime Emmy Award for his guest role on \"The West Wing.\" This actor's memoir, \"Friends, Lovers, and the Big Terrible Thing,\" candidly details his struggles with addiction and his journey to sobriety. He is most celebrated for his iconic role as the witty and sarcastic Chandler Bing in the beloved sitcom \"Friends.\" Who is this actor? ",
+        "answers": ["Matthew Perry"],
         "incorrect1": "",
         "incorrect2": "",
         "incorrect3": "",
@@ -41,8 +41,8 @@
     },
     {
         "category": "Current Events",
-        "question": "This aerospace giant's CST-100 Starliner spacecraft, intended to transport astronauts to and from the International Space Station, encountered multiple technical problems during its June 2024 test flight, including propellant leaks and thruster failures. These issues left two NASA astronauts stranded on the ISS, potentially delaying their return to Earth until late 2024 or early 2025. What is this company that is best known for their airplanes?",
-        "answers": ["Boeing"],
+        "question": "This annual end-of-summer event is governed by 10 principles, including radical self-reliance, gifting, and leaving no trace. Participants create a temporary city, Black Rock City in the Nevada desert, filled with art installations, theme camps, and interactive experiences. What is the name of this unique event that culminates in the burning of a large wooden effigy, symbolizing a ritual farewell to the past?",
+        "answers": ["Burning man"],
         "incorrect1": "",
         "incorrect2": "",
         "incorrect3": "",
@@ -51,8 +51,18 @@
     },
     {
         "category": "Current Events",
-        "question": "This European city was set to host three sold-out concerts by a global pop star in August 2024, but the shows were abruptly cancelled due to security concerns. The cancellation came after Austrian authorities arrested two individuals suspected of planning a terrorist attack targeting the concert venue. This city is the fifth most populous in the European Union and is Austria's primate city. Which city, known for its rich musical heritage and iconic concert halls, was this?",
-        "answers": ["Vienna"],
+        "question": "This US city played host to the 2024 Democratic National Convention. This city is home to the world's first skyscraper, the ten-story Home Insurance Building, built in 1885. It also boasts the iconic Cloud Gate sculpture, affectionately known as \"The Bean,\" in Millennium Park. The city's river is famously dyed green every St. Patrick's Day. Additionally, it is the birthplace of deep-dish pizza, a culinary delight loved by many. What is the name of this city, often called the \"Windy City\"?",
+        "answers": ["Chicago", "Chicago Illinois"],
+        "incorrect1": "",
+        "incorrect2": "",
+        "incorrect3": "",
+        "used": "TRUE",
+        "source": "Marty Heavey"
+    },
+    {
+        "category": "Current Events",
+        "question": "This man recently plead guilty to charges of wire fraud and identity theft. He was elected to the US House of Representatives in 2022 as a Republican from New York becoming the first openly gay Republican elected to Congress. Shortly after this man was elected, news broke that much of his biography was fabricated and he faced calls to resign. Name this man who resigned in disgrace from the House in December 2023.",
+        "answers": ["George Santos "],
         "incorrect1": "",
         "incorrect2": "",
         "incorrect3": "",

@@ -56,6 +56,7 @@ function App() {
         ) {
             setHasStartedTodaysGame(false);
             setHasFinishedTodaysGame(false);
+            // maybe fetch questions for new day here
         }
     }, [timeUntilNextDay]);
 
