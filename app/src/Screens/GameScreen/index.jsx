@@ -48,11 +48,10 @@ const GameScreen = ({
     const finishGame = () => {
         setScreenShowing(screens.finish);
         ReactGA.event({
-            category: "game",
+            category: gameMode,
             action: "finish",
             label: "score",
             value: score,
-            category: gameMode,
         });
     };
 
