@@ -16,6 +16,7 @@ const StartScreen = ({
     timeUntilNextGame,
     gameMode,
     setGameMode,
+    isFetchingQuestions,
 }) => {
     // TODO: this seems to be re-rendered constantly
     const [showSettingsModal, setShowSettingsModal] = useState(false);
@@ -128,7 +129,11 @@ const StartScreen = ({
                         </BasicButton>
                         <button
                             className="StartButton"
-                            onClick={() => setScreenShowing(screens.game)}
+                            onClick={() => {
+                                isFetchingQuestions
+                                    ? setScreenShowing(screens.loading)
+                                    : setScreenShowing(screens.game);
+                            }}
                         >
                             {hasStartedTodaysGame ? "Resume" : "Start"}
                         </button>

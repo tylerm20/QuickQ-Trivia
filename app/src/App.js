@@ -3,6 +3,7 @@ import ReactGA from "react-ga4";
 import StartScreen from "./Screens/StartScreen";
 import FinishScreen from "./Screens/FinishScreen";
 import GameScreen from "./Screens/GameScreen";
+import LoadingScreen from "./Screens/LoadingScreen";
 
 import { screens, GameModes, GAME_MODE_STORAGE_KEY } from "./constants";
 import "./App.css";
@@ -20,6 +21,7 @@ function App() {
     const [hasStartedTodaysGame, setHasStartedTodaysGame] = useState(false);
     const [hasFinishedTodaysGame, setHasFinishedTodaysGame] = useState(false);
     const [gameMode, setGameMode] = useState(GameModes.FREE_RESPONSE);
+    const [isFetchingQuestions, setIsFetchingQuestions] = useState(false);
 
     ReactGA.initialize("G-VFCGD245RZ");
 
@@ -111,6 +113,7 @@ function App() {
                         timeUntilNextGame={timeUntilNextDay}
                         gameMode={gameMode}
                         setGameMode={setGameMode}
+                        isFetchingQuestions={isFetchingQuestions}
                     />
                 );
             case screens.game:
@@ -140,6 +143,13 @@ function App() {
                         gameMode={gameMode}
                     />
                 );
+            case screens.loading:
+                return (
+                    <LoadingScreen
+                        isFinished={!isFetchingQuestions}
+                        callback={() => setScreenShowing(screens.game)}
+                    />
+                );
             default:
                 console.log("not sure what screen to show");
         }
@@ -147,6 +157,7 @@ function App() {
 
     useEffect(() => {
         const fetchQuestionsFromServer = () => {
+            setIsFetchingQuestions(true);
             const today = new Date().toDateString();
             const isoDateString = new Date(today).toISOString().split("T")[0]; // Get only the date part (YYYY-MM-DD)
             console.log(process.env.REACT_APP_API_URL);
@@ -160,14 +171,18 @@ function App() {
             )
                 .then(async (response) => {
                     const responseJson = await response.json();
+                    setIsFetchingQuestions(false);
                     return setQuestions(responseJson);
                 })
                 .catch((error) => {
                     console.error("Error fetching or parsing JSON:", error);
+                    setIsFetchingQuestions(false);
                 });
         };
 
-        fetchQuestionsFromServer();
+        if (!isFetchingQuestions) {
+            fetchQuestionsFromServer();
+        }
     }, [hasFinishedTodaysGame]);
 
     useEffect(() => {

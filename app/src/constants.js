@@ -3,6 +3,7 @@ export const screens = {
     game: "game",
     finish: "finish",
     settings: "settings",
+    loading: "loading",
 };
 
 export const BUZZ_SECONDS = 15;

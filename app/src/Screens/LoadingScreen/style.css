@@ -1,0 +1,21 @@
+.LoadingScreen {
+    display: flex;
+    flex-grow: 1;
+    justify-content: center;
+    align-items: center;
+}
+
+.SpinnerIcon {
+    animation: spin 2s linear infinite; /* Adjust duration and timing as needed */
+    color: var(--dark-purple);
+    height: 50px;
+}
+
+@keyframes spin {
+    0% {
+        transform: rotate(0deg);
+    }
+    100% {
+        transform: rotate(360deg);
+    }
+}
