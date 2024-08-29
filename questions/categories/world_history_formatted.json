@@ -102,7 +102,7 @@
         "source": "2020 SCOP MS 10",
         "question": "During this war, opposing generals James Wolfe and Louis-Joseph de Montcalm were each killed at the Battle of the Plains of Abraham in Quebec. Fort Necessity was led, and lost, by George Washington at the outset of this war. The 1763 Treaty of Paris gave Canada to the British and ended what war that pitted the British and their American colonies against two namesake allies?",
         "answers": ["French and Indian War (prompt on \"Seven Years' War\")"],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "World History",
@@ -111,54 +111,54 @@
         "answers": [
             "Henry [accept Henry IV of France or Henry of Navarre or Henry III of Navarre or Henry the Green Gallant or Good King Henry or Henry the Great or Henry VII of England or Henry Tudor or Henry VIII of England]"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "World History",
         "source": "2017 SCOP MS 7",
-        "question": "This leader ended an invasion shortly after the head of his brother, Hasdrubal, was thrown into his camp. This man ravaged the Italian countryside for over a decade but was defeated at Zama by Scipio Africanus, ending the Second Punic War. For ten points, name this Carthaginian general who led a military force, including elephants, over the Alps.",
-        "answers": ["Hannibal Barca"],
-        "used": "FALSE"
+        "question": "This leader ended an invasion shortly after the head of his brother, Hasdrubal, was thrown into his camp. This man ravaged the Italian countryside for over a decade but was defeated at Zama by Scipio Africanus, ending the Second Punic War. Name this Carthaginian general who led a military force, including elephants, over the Alps.",
+        "answers": ["Hannibal", "Hannibal Barca"],
+        "used": "TRUE"
     },
     {
         "category": "World History",
         "source": "2021 SCOP B",
         "question": "This city's men formed a council called the boule [boo-lay], whose makeup was adjusted by Solon. Cleisthenes [klay-iss-thuh-neez] reformed this city's constitution in 508 BCE, and may have introduced the process of ostracism to this city. Draco created a strict law code for this city, where trials were held on the Areopagus, in the shadow of the Acropolis. Name this city, often considered the birthplace of democracy, which was briefly ruled by thirty tyrants after it was conquered by its ancient rival, Sparta.",
         "answers": ["Athens (accept Athenai)"],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "World History",
         "source": "2009 Fall Novice Tournament",
         "question": "At the Battle of Vosges, this man defeated the Suebi forces led by Ariovistus. At the Battle of Alesia, he defeated Vercingetorix, as described in his Commentaries on the Gallic War, and, at the Battle of Pharsalus, he defeated Pompey the Great. This man also started the Roman Civil War by crossing the Rubicon. Name this Roman statesman who, with Crassus and Pompey, formed the First Triumvirate and was assassinated by Cassius and Brutus on the Ides of March.",
         "answers": ["Gaius Julius Caesar"],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "World History",
         "source": "2017 Darien DEFT",
         "question": "Evidence of an advanced writing system for this civilization was found on a Dholavira signboard containing 26 symbols. The Priest King and Dancing Girl statues were found in one city of this civilization, another of which was the port of Lothal. That city included the \"College of Priests\" and the \"Great Bath.\" An Aryan invasion is a theoretical cause for the destruction of this civilization that included the cities of Harappa and Mohenjo-Daro. Name this Bronze Age civilization centered around a namesake south Asian river.",
         "answers": ["Indus Valley Civilization"],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "World History",
         "source": "2021 CERES",
         "question": "Rulers of this country used turtle shells as prophetic \"oracle bones\" to learn of their future. The \"tribute system\" involved foreign messengers bowing to the ruler of this modern-day country, who was justified by the \"Mandate of Heaven.\" A \"terracotta army\" protects the tomb of Shi (\"sure\") Huangdi, an ancient ruler of this country. The Shang and Qin dynasties ruled what country home to a massive \"Great Wall?\"",
         "answers": ["China [or Zhongguo]"],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "World History",
         "source": "2017 SCOP Novice 8",
-        "question": "This country's fate was decided in the Molotov-Ribbentrop Pact, which did not follow the historical Curzon Line. In this country, the Charge at Krojanty [kro-yan-tee] led to a myth that this country's army charged horses into tanks. An invasion of this country dissolved the Free City of Danzig and began on September 1st, 1939. Name this country whose invasion by Nazi forces officially started World War II a month before its capital, Warsaw, fell.",
+        "question": "This country's fate was decided in the Molotov-Ribbentrop Pact, which did not follow the historical Curzon Line. In this country, the Charge at Krojanty led to a myth that this country's army charged horses into tanks. An invasion of this country dissolved the Free City of Danzig and began on September 1st, 1939. Name this country whose invasion by Nazi forces officially started World War II a month before its capital, Warsaw, fell.",
         "answers": ["Poland"],
         "used": "FALSE"
     },
     {
         "category": "World History",
         "source": "2017 Darien DEFT",
-        "question": "Paul Rusesabagina [RUE-SE-SA-BA-GINA] hid over a thousand people in this country's Hotel des Milles Collines [Mille Colline] during one event. This country's RTLM radio station used the phrase \"cut the tall trees\" and referred to one group as \"cockroaches\" in an event led by the Interahamwe [IN-TER-A-HAWM-WE] militia. Romeo Dallaire led UNAMIR in this country where Juvenal Habyarimana [HAB-YAR-I-MANA] was assassinated during a civil war won by the RPF. Paul Kagame [KA-GA-ME] is the current President of what country where Tutsis were massacred by Hutus in a 1993 \"genocide?\"",
+        "question": "Paul Rusesabagina hid over a thousand people in this country's Hotel des Milles Collines [Mille Colline] during one event. This country's RTLM radio station used the phrase \"cut the tall trees\" and referred to one group as \"cockroaches\" in an event led by the Interahamwe [IN-TER-A-HAWM-WE] militia. Romeo Dallaire led UNAMIR in this country where Juvenal Habyarimana [HAB-YAR-I-MANA] was assassinated during a civil war won by the RPF. Paul Kagame [KA-GA-ME] is the current President of what country where Tutsis were massacred by Hutus in a 1993 \"genocide?\"",
         "answers": ["Republic of Rwanda"],
         "used": "FALSE"
     },
@@ -229,7 +229,7 @@
     {
         "category": "World History",
         "source": "2017 SCOP MS 7",
-        "question": "In one work, this man argues about holiness with Euthyphro but learns nothing to help him in his upcoming trial. Later, Crito tries to buy this man out of prison, but he refuses to escape his death penalty for corrupting the youth of Athens. For ten points, name this ancient Greek philosopher who was executed via a cup of poison hemlock.",
+        "question": "In one work, this man argues about holiness with Euthyphro but learns nothing to help him in his upcoming trial. Later, Crito tries to buy this man out of prison, but he refuses to escape his death penalty for corrupting the youth of Athens. Name this ancient Greek philosopher who was executed via a cup of poison hemlock.",
         "answers": ["Socrates"],
         "used": "FALSE"
     },
@@ -563,15 +563,6 @@
     },
     {
         "category": "World History",
-        "source": "2010 Fall Kickoff Tournament (FKT)",
-        "question": "This man ended the Kalmar War when the Danes could not conquer his capital, and his country denied Russia access to the Baltic with the Treaty of Stolbovo. His cavalry forces were trained to use artillery, as they did with captured enemy artillery at the First Battle of Breitenfeld. In his last battle, he led a cavalry charge into a dense smog of mist and gunpowder smoke, upon which he was separated from his army. Killed at the Battle of Lutzen in the Thirty Years' War identify this Scandinavian monarch who founded the Swedish Empire.",
-        "answers": [
-            "Gustavus Adolphus or Gustav II Adolf of Sweden [prompt on partial answer]"
-        ],
-        "used": "FALSE"
-    },
-    {
-        "category": "World History",
         "source": "2021 SCOP B",
         "question": "A congress named for this legislation created a Declaration of Rights and Grievances which was blocked from discussion in the House of Lords by the second Earl Dartmouth. After the repeal of this legislation, parliament passed the Declaratory Act to reassert their authority. This tax was intended to help pay for the French and Indian War by creating revenue from goods such as playing cards. Name this unpopular 1765 act that taxed most paper products in the American colonies.",
         "answers": ["Stamp Act of 1765"],
@@ -628,15 +619,6 @@
         "source": "2013 Fall Kickoff Tournament (FKT)",
         "question": "Anton Dexler founded this party as the DAP, sponsored by the Thule society. This party was opposed by the White Rose Movement, organized by students who distributed pamphlets against their ideals. Their official song was \"The Flag Up High,\" named in honor of Horst Wessel, a party member who died in a street fight against Communists. Leaders of this party led the purging of the SA and may have burned the Reichstag. The national symbol of this party was the swastika, and it had leaders including Hermann Goering and Heinrich Himmler. Name this German Workers' Party led by Adolf Hitler.",
         "answers": ["Nazi Party [or National Socialist German Workers' Party]"],
-        "used": "FALSE"
-    },
-    {
-        "category": "World History",
-        "source": "2018 MVS RAMS",
-        "question": "This event may have been exacerbated by a feud between the Putnam and Porter families, and Cotton Mather was influential in determining whether \"spectral evidence\" was admissible at these proceedings. Twenty people were executed as a result of this event, and Giles Corey, a 81-year-old man, was \"pressed to death\" by stones in an attempt to force him to enter a plea. Other victims of this event include Rebecca Nurse and John Proctor. Name these trials which took place in 17th-century Puritan Massachusetts.",
-        "answers": [
-            "Salem Witch Trials [accept anything mentioning Salem and legal proceedings involving witchcraft]"
-        ],
         "used": "FALSE"
     },
     {
@@ -953,7 +935,7 @@
         "category": "World History",
         "source": "2009 Fall Kickoff Tournament (FKT)",
         "question": "One of the many tangents of the discussions in this philosophical work is the order in which people should learn various geometry concepts. Its first five books involve a series of discussions about justice, starting out with what makes an individual just, and eventually what makes a city-state just, which eventually leads to the concept of the philosopher-king. In book seven, the example of people finally realizing that shadows are being cast by real objects is a portion of the introduction of the theory of forms in the allegory of the cave. Name this work by Plato which also discusses the ideals of many forms of government.",
-        "answers": ["The Republic or Politeia"],
+        "answers": ["The Republic", "Politeia"],
         "used": "FALSE"
     },
     {
@@ -962,15 +944,6 @@
         "question": "This war names a syndrome whose symptoms included cramps, headaches, and short-term memory loss. General Norman Schwarzkopf helped launch this war, which was sparked over allegations of illegal use of the Rumaila oil fields. The 1st Armored Division's destruction during this war led to a road becoming known as the \"Highway of Death.\" Name this war that included the American-led Operation Desert Storm against Saddam Hussein and Iraq.",
         "answers": [
             "Persian Gulf War (accept First Gulf War; accept Operation Desert Storm until it is read)"
-        ],
-        "used": "FALSE"
-    },
-    {
-        "category": "World History",
-        "source": "2010 Collaborative Middle School Tournament",
-        "question": "One group in this conflict is the SLM, led by Abdul Wahid (\"WAH-heed\") al Nur. The Arabic-speaking Janjaweed (\"JOHN-juh-weed\"), a major counter-insurgency force, has tried to stop refugees from reaching Chad. In February 2010, JEM signed a truce with Omar Al-Bashir, a major development in what conflict between Arab and non-Arabs in the western part of Sudan?",
-        "answers": [
-            "war in Darfur [accept equivalents involving violence in Darfur, such as genocide; prompt on war in Sudan]"
         ],
         "used": "FALSE"
     },
@@ -985,13 +958,6 @@
     },
     {
         "category": "World History",
-        "source": "2009 Fall Kickoff Tournament (FKT)",
-        "question": "The Portuguese first landed in a town named Elmina in this nation. This nation shares its name with an ancient empire that had its capital at Koumbi Saleh, although it was actually the who occupied its current location. In 1957, this nation became the first sub-Saharan country in Colonial Africa to gain its independence. Formerly known as the Gold Coast, this nation was led from 1957-1966 by Kwame Nkrumah before he was overthrown by a military coup. Name this African nation currently led by John Atta Mills from its capital of .",
-        "answers": [""],
-        "used": "FALSE"
-    },
-    {
-        "category": "World History",
         "source": "2020 MOQBA Novice",
         "question": "John Conroy developed the Kensington System to guide this leader's upbringing. This monarch was rumored to be secretly married to her servant John Brown. This last British monarch from the House of Hanover was succeeded by her son Edward VII. She was given the title Empress of India by Benjamin Disraeli. This monarch's popularity plummeted drastically after a self-imposed isolation after the death of her mother and her husband, Prince Albert. Name this Queen of England from 1837 to 1901.",
         "answers": ["Queen Alexandrina Victoria"],
@@ -1000,7 +966,7 @@
     {
         "category": "World History",
         "source": "2017 SCOP MS 7",
-        "question": "This event may have happened to make room for the Domus Aurea. This event was blamed on early Christians, leading to their 64 CE persecution. According to Tacitus, this event began near the Palatine Hill while the emperor was in Antium. For ten points, name this disaster that destroyed a prosperous Italian city, legendarily while Nero either played a lyre or fiddled.",
+        "question": "This event may have happened to make room for the Domus Aurea. This event was blamed on early Christians, leading to their 64 CE persecution. According to Tacitus, this event began near the Palatine Hill while the emperor was in Antium. Name this disaster that destroyed a prosperous Italian city, legendarily while Nero either played a lyre or fiddled.",
         "answers": [
             "Great Fire of Rome (accept descriptions like Rome burning)"
         ],
@@ -1405,7 +1371,7 @@
     {
         "category": "World History",
         "source": "2017 SCOP MS 7",
-        "question": "Monks in this country accidentally altered the dangerous confluence of three rivers when they built the Leshan Buddha. A tomb containing a mercury river and an army of Terracotta soldiers honors this country's emperor Qin Shi Huangdi, who began building this nation's defense against the Huns. For ten points, name this nation, home to a Great Wall.",
+        "question": "Monks in this country accidentally altered the dangerous confluence of three rivers when they built the Leshan Buddha. A tomb containing a mercury river and an army of Terracotta soldiers honors this country's emperor Qin Shi Huangdi, who began building this nation's defense against the Huns. Name this nation, home to a Great Wall.",
         "answers": [
             "People's Republic of China (accept Middle Kingdom; accept Zhongguo)"
         ],
@@ -2112,7 +2078,7 @@
     {
         "category": "World History",
         "source": "2017 SCOP MS 7",
-        "question": "Nedeljko Cabrinovic tried to accomplish this act with a bombing earlier in the day. The July Ultimatum was sent in response to this event, which was planned by the Black Hand, a pro-Serbian group. For ten points, name this June 28, 1914 event in which Gavrilo Princip killed an Austro-Hungarian royal, triggering World War I.",
+        "question": "Nedeljko Cabrinovic tried to accomplish this act with a bombing earlier in the day. The July Ultimatum was sent in response to this event, which was planned by the Black Hand, a pro-Serbian group. Name this June 28, 1914 event in which Gavrilo Princip killed an Austro-Hungarian royal, triggering World War I.",
         "answers": [
             "assassination of Archduke Franz Ferdinand (accept terms like \"killing\" or \"shooting\" instead of \"assassination;\" do not accept or prompt partial name)"
         ],
@@ -2195,7 +2161,7 @@
     {
         "category": "World History",
         "source": "2017 SCOP MS 7",
-        "question": "Protesters in this city marched from Vysehrad Cemetery toward Wenceslas Square during the Velvet Revolution. In 1968, Soviet tanks rolled into this city to put down Alexander Dubcek's liberalization efforts, ending an era known as this city's \"Spring.\" This city remained a capital after the 1993 breakup that made Bratislava the capital of Slovakia. For ten points, name this capital city of the Czech Republic.",
+        "question": "Protesters in this city marched from Vysehrad Cemetery toward Wenceslas Square during the Velvet Revolution. In 1968, Soviet tanks rolled into this city to put down Alexander Dubcek's liberalization efforts, ending an era known as this city's \"Spring.\" This city remained a capital after the 1993 breakup that made Bratislava the capital of Slovakia. Name this capital city of the Czech Republic.",
         "answers": ["Prague"],
         "used": "FALSE"
     },
@@ -2354,7 +2320,7 @@
     {
         "category": "World History",
         "source": "2017 SCOP MS 7",
-        "question": "This civilization's spiritual rituals were recorded in the Chilam Balam manuscripts and were based on a 260-day cycle that was extended by the Long Count system. A demon named Seven Macaw is defeated by Hunahpu and Xbalanque, the Hero Twins, as told by this culture's Popul Vuh. For ten points, name this Mesoamerican culture whose calendar did not actually predict a 2012 apocalypse and which built the Temple of Kukulcan at Chichen Itza.",
+        "question": "This civilization's spiritual rituals were recorded in the Chilam Balam manuscripts and were based on a 260-day cycle that was extended by the Long Count system. A demon named Seven Macaw is defeated by Hunahpu and Xbalanque, the Hero Twins, as told by this culture's Popul Vuh. Name this Mesoamerican culture whose calendar did not actually predict a 2012 apocalypse and which built the Temple of Kukulcan at Chichen Itza.",
         "answers": ["Mayan civilization (culture, etc.)"],
         "used": "FALSE"
     },
@@ -2467,7 +2433,7 @@
     {
         "category": "World History",
         "source": "2017 SCOP MS 7",
-        "question": "Giovanni Giustiniani died from wounds he received while defending this city. This city used a giant chain connected to the Old Galata Tower to prevent ships from accessing the Golden Horn. Orban designed the giant \"Basilica\" cannon to target this city's Theodosian Walls in a 1453 siege led by Mehmed II. For ten points, name this city, the capital of the Byzantine Empire, which was renamed to Istanbul in 1930.",
+        "question": "Giovanni Giustiniani died from wounds he received while defending this city. This city used a giant chain connected to the Old Galata Tower to prevent ships from accessing the Golden Horn. Orban designed the giant \"Basilica\" cannon to target this city's Theodosian Walls in a 1453 siege led by Mehmed II. Name this city, the capital of the Byzantine Empire, which was renamed to Istanbul in 1930.",
         "answers": ["Constantinople (do not accept Istanbul or Byzantium)"],
         "used": "FALSE"
     },
@@ -2553,7 +2519,7 @@
     {
         "category": "World History",
         "source": "2010 Fall Kickoff Tournament (FKT)",
-        "question": "In one of this author's works, the central character refuses to flee justice, stating that as a citizen, he is bound by the laws of his city. In another work, the same character denies charges of corrupting the youth. In addition to writing Crito and Apology, this philosopher describes his theory of Forms by telling a story of shadows dancing on the wall in the \"allegory of the cave,\" and his works are often written as a dialogue. for ten points, name the author of the \"allegory of the cave,\" found in his magnum opus, The Republic, a student of Socrates.",
+        "question": "In one of this author's works, the central character refuses to flee justice, stating that as a citizen, he is bound by the laws of his city. In another work, the same character denies charges of corrupting the youth. In addition to writing Crito and Apology, this philosopher describes his theory of Forms by telling a story of shadows dancing on the wall in the \"allegory of the cave,\" and his works are often written as a dialogue. Name the author of the \"allegory of the cave,\" found in his magnum opus, The Republic, a student of Socrates.",
         "answers": ["Plato"],
         "used": "FALSE"
     },
@@ -3368,7 +3334,7 @@
     {
         "category": "World History",
         "source": "2010 Fall Kickoff Tournament (FKT)",
-        "question": "This country was occupied by China for most of the first millennium CE until finally defeating the Chinese at the Battle of Bach Dang River. While it was briefly conquered by the Ming Dynasty, it stayed independent until being colonized by France in 1885. The Geneva Accords separated this country at the 17th parallel after it gained independence from France at the Battle of Dien Bien Phu. For ten points, name this country whose ensuing Second Indochinese War led to UN intervention after the Gulf of Tonkin indicent.",
+        "question": "This country was occupied by China for most of the first millennium CE until finally defeating the Chinese at the Battle of Bach Dang River. While it was briefly conquered by the Ming Dynasty, it stayed independent until being colonized by France in 1885. The Geneva Accords separated this country at the 17th parallel after it gained independence from France at the Battle of Dien Bien Phu. Name this country whose ensuing Second Indochinese War led to UN intervention after the Gulf of Tonkin indicent.",
         "answers": ["Vietnam"],
         "used": "FALSE"
     },
@@ -3672,7 +3638,7 @@
     {
         "category": "World History",
         "source": "2017 SCOP MS 7",
-        "question": "The first president of this country instituted \"Harambee,\" a community-building strategy. Dedan Kimathi led an uprising in the 1950s that sought to reclaim Kikuyu land from European colonists. The Mau Mau Rebellion challenged British rule of, for ten points, what African country with capital Nairobi, first led by Jomo Kenyatta?",
+        "question": "The first president of this country instituted \"Harambee,\" a community-building strategy. Dedan Kimathi led an uprising in the 1950s that sought to reclaim Kikuyu land from European colonists. The Mau Mau Rebellion challenged British rule of what African country with capital Nairobi, first led by Jomo Kenyatta?",
         "answers": ["Republic of Kenya"],
         "used": "FALSE"
     },
@@ -4876,7 +4842,7 @@
     {
         "category": "World History",
         "source": "2017 SCOP MS 7",
-        "question": "This statement, as first posed in Discourse on the Method, was explained as the unshakably true \"first principle\" of its author's philosophy. This concept denies the idea that nothing exists, since it's possible for its subject to question that statement. \"Cogito ergo sum\" is the Latin translation of, for ten points, what philosophicalstatement,madein1637byRene Descartes,notingthatthoughtisproofofone's existence?",
+        "question": "This statement, as first posed in Discourse on the Method, was explained as the unshakably true \"first principle\" of its author's philosophy. This concept denies the idea that nothing exists, since it's possible for its subject to question that statement. \"Cogito ergo sum\" is the Latin translation of what philosophicalstatement,madein1637byRene Descartes,notingthatthoughtisproofofone's existence?",
         "answers": [
             "I think, therefore I am (accept (ego) Cogito ergo sum before it is read; accept je pense, donc je suis)"
         ],
@@ -5083,7 +5049,7 @@
     {
         "category": "World History",
         "source": "2017 SCOP MS 7",
-        "question": "In 1892, revolutionaries in what is now this country named the exiled Jose Rizal its president. This country's first president, Emilio Aguinaldo, led revolts against Spanish rule and, after an 1898 war, American rule. George Dewey led the US Navy to a decisive victory against the Spanish fleet in this country. For ten points, name this Asian country with capital Manila.",
+        "question": "In 1892, revolutionaries in what is now this country named the exiled Jose Rizal its president. This country's first president, Emilio Aguinaldo, led revolts against Spanish rule and, after an 1898 war, American rule. George Dewey led the US Navy to a decisive victory against the Spanish fleet in this country. Name this Asian country with capital Manila.",
         "answers": [
             "Republic of the Philippines \ufffc\ufffc\ufffc\ufffc\ufffc\ufffc\ufffc\ufffc\ufffc\ufffc\ufffc\ufffc\ufffc\ufffc\ufffc\ufffc\ufffc\ufffc\ufffc\ufffc"
         ],
@@ -5598,7 +5564,7 @@
     {
         "category": "World History",
         "source": "2017 SCOP MS 7",
-        "question": "This family led the German Confederation until they lost the Seven Weeks War. A member of this family lost control of Silesia to Frederick the Great. Charles II of Spain had this inbred family's namesake jawline. Maria Theresa was a member of, for ten points, what Austrian family that controlled Spain and the Holy Roman Empire?",
+        "question": "This family led the German Confederation until they lost the Seven Weeks War. A member of this family lost control of Silesia to Frederick the Great. Charles II of Spain had this inbred family's namesake jawline. Maria Theresa was a member of what Austrian family that controlled Spain and the Holy Roman Empire?",
         "answers": ["Habsburg (accept Hapsburg; accept House of Lorraine)"],
         "used": "FALSE"
     },
@@ -5676,7 +5642,7 @@
     {
         "category": "World History",
         "source": "2017 SCOP MS 7",
-        "question": "This empire's history is recorded in the Mendoza Codex and Florentine Codex. Invaders of this empire fled its capital during La Noche Triste, shortly after they executed its leader, Montezuma. A triple alliance of the city-states Tlacopan, Texcoco, and Tenochtitlan grew into, for ten points, what empire that was based in modern-day Mexico until it was conquered in 1521 by Hernan Cortes?",
+        "question": "This empire's history is recorded in the Mendoza Codex and Florentine Codex. Invaders of this empire fled its capital during La Noche Triste, shortly after they executed its leader, Montezuma. A triple alliance of the city-states Tlacopan, Texcoco, and Tenochtitlan grew into what empire that was based in modern-day Mexico until it was conquered in 1521 by Hernan Cortes?",
         "answers": ["Aztec empire"],
         "used": "FALSE"
     },
@@ -5708,7 +5674,7 @@
     {
         "category": "World History",
         "source": "2016 Pennsylvania Novice",
-        "question": "It's not New York City, but this city's U\u00adStreet Corridor was once known as the \"Black Broadway\" and is found south of the historically black Howard University. The Anacostia River divides this city, which was partially built on a swamp, and its neighborhoods include Foggy Bottom and Georgetown. The Tidal Basin in this city abuts the Potomac River and is overlooked by the white marble dome of the Jefferson Memorial. For ten points, name this capital city of the United States.",
+        "question": "It's not New York City, but this city's U\u00adStreet Corridor was once known as the \"Black Broadway\" and is found south of the historically black Howard University. The Anacostia River divides this city, which was partially built on a swamp, and its neighborhoods include Foggy Bottom and Georgetown. The Tidal Basin in this city abuts the Potomac River and is overlooked by the white marble dome of the Jefferson Memorial. Name this capital city of the United States.",
         "answers": ["Washington , D.C . (Accept either underlined portion)"],
         "used": "FALSE"
     },
@@ -5837,7 +5803,7 @@
     {
         "category": "World History",
         "source": "2017 SCOP MS 7",
-        "question": "A group of texts found in these buildings at Saqqara describe a king hunting and eating the gods. Graduating sizes of mastabas were used by Imhotep to create Djoser's \"stepped\" one of these buildings, and three of these structures belonging to Menkaure, Khafre, and Khufu were built near Giza. For ten points, name these enormous structures used to bury Egyptian Pharaohs.",
+        "question": "A group of texts found in these buildings at Saqqara describe a king hunting and eating the gods. Graduating sizes of mastabas were used by Imhotep to create Djoser's \"stepped\" one of these buildings, and three of these structures belonging to Menkaure, Khafre, and Khufu were built near Giza. Name these enormous structures used to bury Egyptian Pharaohs.",
         "answers": ["Egyptian pyramids"],
         "used": "FALSE"
     },
@@ -5979,7 +5945,7 @@
     {
         "category": "World History",
         "source": "2017 SCOP MS 7",
-        "question": "In a 1943 uprising, these people were burned out of Warsaw by Jurgen Stroop's men. Over 900 of these people aboard the St. Louis were turned away from the United States and Canada. Millions of these people lived in shtetls in Eastern Europe until they were forced into ghettos by the Gestapo. For ten points, name this religious group, six million members of which were killed in the Holocaust.",
+        "question": "In a 1943 uprising, these people were burned out of Warsaw by Jurgen Stroop's men. Over 900 of these people aboard the St. Louis were turned away from the United States and Canada. Millions of these people lived in shtetls in Eastern Europe until they were forced into ghettos by the Gestapo. Name this religious group, six million members of which were killed in the Holocaust.",
         "answers": ["Jewish people (accept word forms like Jews)"],
         "used": "FALSE"
     },
@@ -6127,7 +6093,7 @@
     {
         "category": "World History",
         "source": "2017 SCOP MS 7",
-        "question": "In August 2016, the holder of this position suggested that, after two surgeries, his country's Parliament should amend the Imperial Household Act and allow him to retire. The 1946 Humanity Declaration denied the godhood of people with this title. For ten points, name this position held by Akihito since the 1989 death of his father, Hirohito, the leader of an east Asian nation.",
+        "question": "In August 2016, the holder of this position suggested that, after two surgeries, his country's Parliament should amend the Imperial Household Act and allow him to retire. The 1946 Humanity Declaration denied the godhood of people with this title. Name this position held by Akihito since the 1989 death of his father, Hirohito, the leader of an east Asian nation.",
         "answers": ["Emperor of Japan (accept Tenno)"],
         "used": "FALSE"
     },
@@ -6236,7 +6202,7 @@
     {
         "category": "World History",
         "source": "2017 SCOP MS 7",
-        "question": "Thomas Cromwell helped this man dissolve his country's monasteries, beginning two years after his 1534 Act of Supremacy made him the head of the Church of England. This man broke with Rome partially because Pope Clement VII refused to annul his marriage to Catherine of Aragon. For ten points, name this English king from the House of Tudor who married six women.",
+        "question": "Thomas Cromwell helped this man dissolve his country's monasteries, beginning two years after his 1534 Act of Supremacy made him the head of the Church of England. This man broke with Rome partially because Pope Clement VII refused to annul his marriage to Catherine of Aragon. Name this English king from the House of Tudor who married six women.",
         "answers": ["Henry VIII (prompt on \"Henry\")"],
         "used": "FALSE"
     },
@@ -6788,7 +6754,7 @@
     {
         "category": "World History",
         "source": "2017 SCOP MS 7",
-        "question": "Martin Bormann was the private secretary of this political party's leader. Paramilitary wings of this party included the SS and SA, and this party's propaganda was organized by Joseph Goebbels. The Beer Hall Putsch in Munich in 1923 tried to bring this party to power, and it ruled its country from 1933 to 1945. For ten points, name this socialist political party that ruled the Third Reich of Germany under Adolf Hitler.",
+        "question": "Martin Bormann was the private secretary of this political party's leader. Paramilitary wings of this party included the SS and SA, and this party's propaganda was organized by Joseph Goebbels. The Beer Hall Putsch in Munich in 1923 tried to bring this party to power, and it ruled its country from 1933 to 1945. Name this socialist political party that ruled the Third Reich of Germany under Adolf Hitler.",
         "answers": [
             "Nazi Party (accept National Socialist German Workers' Party or NS(DA)P; accept Nazi Germany; accept Adolf Hitler before \"this political party\" is read; do not accept \"Socialists\" alone; do not accept \"Fascists\")"
         ],
@@ -7043,7 +7009,7 @@
     {
         "category": "World History",
         "source": "2020 SCOP A",
-        "question": "The first ruler of this empire occupied the Colcampata palace in this empire's capital. This empire was legendarily founded by Manco Ca pac, whose body was moved to a temple near Lake Titicaca by this civilization's emperor Pachacuti. At the fall of this empire, it was the site of a civil war between Huas car and Atahualpa, and was invaded by Fransisco Pizarro. Machu Picchu in modern Peru was part of, for ten points, what South American empire governed from Cusco?",
+        "question": "The first ruler of this empire occupied the Colcampata palace in this empire's capital. This empire was legendarily founded by Manco Ca pac, whose body was moved to a temple near Lake Titicaca by this civilization's emperor Pachacuti. At the fall of this empire, it was the site of a civil war between Huas car and Atahualpa, and was invaded by Fransisco Pizarro. Machu Picchu in modern Peru was part of what South American empire governed from Cusco?",
         "answers": [
             "Incan Empire (accept word forms like Incans; accept Tawantinsuyu; accept Kingdom of Cusco until\"Pachacuti\" is read; prompt on \"Quechua\" or \"Quechua people(s);\" prompt on \"runa\" or \"runakuna\")"
         ],
@@ -7075,7 +7041,7 @@
     {
         "category": "World History",
         "source": "2017 SCOP MS 7",
-        "question": "The theory of special relativity uses reference frames to explain one of these statements involving an astronaut twin. These concepts often arise from thought experiments, such as a time traveler killing his own ancestor. The phrase \"this phrase is false\" is an example of these statements, because it cannot seem to be true or false. For ten points, name this type of confusing statement or argument, which logically contradicts itself.",
+        "question": "The theory of special relativity uses reference frames to explain one of these statements involving an astronaut twin. These concepts often arise from thought experiments, such as a time traveler killing his own ancestor. The phrase \"this phrase is false\" is an example of these statements, because it cannot seem to be true or false. Name this type of confusing statement or argument, which logically contradicts itself.",
         "answers": [
             "paradox (accept word forms, like paradoxical statement; prompt on descriptions, like self- contradiction, before said)"
         ],
@@ -7277,7 +7243,7 @@
     {
         "category": "World History",
         "source": "2017 SCOP MS 7",
-        "question": "In this city, a group of fascists led by Oswald Mosley clashed with police in the Battle of Cable Street. A photograph taken atop this city's Daily Mail building was titled \"St. Paul's Survives.\" A speaker in this city claimed \"we shall defend our Island, whatever the cost may be.\" Winston Churchill declared \"we shall fight on the beaches\" in, for ten points, what city's House of Commons, in the Parliament of the United Kingdom?",
+        "question": "In this city, a group of fascists led by Oswald Mosley clashed with police in the Battle of Cable Street. A photograph taken atop this city's Daily Mail building was titled \"St. Paul's Survives.\" A speaker in this city claimed \"we shall defend our Island, whatever the cost may be.\" Winston Churchill declared \"we shall fight on the beaches\" in what city's House of Commons, in the Parliament of the United Kingdom?",
         "answers": ["London, England"],
         "used": "FALSE"
     },
@@ -7844,7 +7810,7 @@
     {
         "category": "World History",
         "source": "2017 SCOP MS 7",
-        "question": "This civilization's thinkers developed a belief in material monism, the idea that all objects in the world are made of a single \"first element.\" One such thinker from this civilization, Anaximenes [ah-nax-ih-men-ees], believed that that element was air; another thinker, Thales [thay-lees], believed it was water. For ten points, name this civilization whose natural philosophers from Miletus inspired its later schools, such as the Lyceum of\r\nAristotle in Athens.",
+        "question": "This civilization's thinkers developed a belief in material monism, the idea that all objects in the world are made of a single \"first element.\" One such thinker from this civilization, Anaximenes [ah-nax-ih-men-ees], believed that that element was air; another thinker, Thales [thay-lees], believed it was water. Name this civilization whose natural philosophers from Miletus inspired its later schools, such as the Lyceum of\r\nAristotle in Athens.",
         "answers": [
             "ancient Greece (accept Miletus until it is read, but do not accept other specific Greek city-states)"
         ],
@@ -8372,7 +8338,7 @@
     {
         "category": "World History",
         "source": "2017 SCOP MS 7",
-        "question": "After a 1982 assassination attempt in Dujail, this man ordered the executions of over 140 Shiites believed to be involved. This leader, who was found in 2003 near Tikrit in a \"spider hole,\" was hanged for crimes against humanity in 2006. This dictator's 1991 invasion of Kuwait sparked the first Gulf War, and he was deposed by US forces in the second Gulf War. For ten points, name this former leader of Iraq.",
+        "question": "After a 1982 assassination attempt in Dujail, this man ordered the executions of over 140 Shiites believed to be involved. This leader, who was found in 2003 near Tikrit in a \"spider hole,\" was hanged for crimes against humanity in 2006. This dictator's 1991 invasion of Kuwait sparked the first Gulf War, and he was deposed by US forces in the second Gulf War. Name this former leader of Iraq.",
         "answers": ["Saddam Hussein (prompt on \"Saddam\" alone)"],
         "used": "FALSE"
     },
@@ -8874,7 +8840,7 @@
     {
         "category": "World History",
         "source": "2017 SCOP MS 7",
-        "question": "This country's first prime minister, Count Cavour, made a secret alliance with Napoleon. This modern country unified under King Victor Emmanuel II in the Risorgimento. The Redshirts under Giuseppe Garibaldi fought for, for ten points, what European country that includes land held by the former kingdoms of Sardinia, Naples, Sicily, and Rome?",
+        "question": "This country's first prime minister, Count Cavour, made a secret alliance with Napoleon. This modern country unified under King Victor Emmanuel II in the Risorgimento. The Redshirts under Giuseppe Garibaldi fought for what European country that includes land held by the former kingdoms of Sardinia, Naples, Sicily, and Rome?",
         "answers": ["Italy (accept Italia)"],
         "used": "FALSE"
     },
@@ -9045,7 +9011,7 @@
     {
         "category": "World History",
         "source": "2017 SCOP MS 7",
-        "question": "Workers in this industry were led by Arthur Scargill in a 1984 strike that was defeated by Margaret Thatcher, leading to a decline in this industry, which unofficially ceased in the UK in 2015. The production of this good and steel normalized competition for resources within Europe and inspired the creation of the European Union. For ten points, name this black sedimentary rock that is commonly mined as a fuel source.",
+        "question": "Workers in this industry were led by Arthur Scargill in a 1984 strike that was defeated by Margaret Thatcher, leading to a decline in this industry, which unofficially ceased in the UK in 2015. The production of this good and steel normalized competition for resources within Europe and inspired the creation of the European Union. Name this black sedimentary rock that is commonly mined as a fuel source.",
         "answers": [
             "coal (accept coal mining; accept European Coal and Steel Community; prompt on \"mining;\" prompt on \"ECSC\")"
         ],
@@ -9109,7 +9075,7 @@
     {
         "category": "World History",
         "source": "2017 SCOP MS 7",
-        "question": "This man's sons, Paralus and Xanthippus, died of a plague that killed him a few months later. In peaceful times, this leader hired Phidias to sculpt a statue of Athena for the Acropolis. This statesman delivered a funeral oration after the first year of the Peloponnesian War, in which his city-state opposed Sparta. For ten points, name this leader during the Golden Age of Athens.",
+        "question": "This man's sons, Paralus and Xanthippus, died of a plague that killed him a few months later. In peaceful times, this leader hired Phidias to sculpt a statue of Athena for the Acropolis. This statesman delivered a funeral oration after the first year of the Peloponnesian War, in which his city-state opposed Sparta. Name this leader during the Golden Age of Athens.",
         "answers": ["Pericles"],
         "used": "FALSE"
     },
@@ -9462,7 +9428,7 @@
     {
         "category": "World History",
         "source": "2014 SCOP Novice 5",
-        "question": "This man described a ruler who kept ten thousand white horses, whose milk was fermented to make koumiss. This man also described the efficient empire-wide postal system and the paper currency used by the Yuan dynasty. He was imprisoned by Genoa upon returning to his home city, and his stories were collected in the book Il Milione. For ten points, name this Venetian who met Kublai Khan during his travels on the Silk Road to China.",
+        "question": "This man described a ruler who kept ten thousand white horses, whose milk was fermented to make koumiss. This man also described the efficient empire-wide postal system and the paper currency used by the Yuan dynasty. He was imprisoned by Genoa upon returning to his home city, and his stories were collected in the book Il Milione. Name this Venetian who met Kublai Khan during his travels on the Silk Road to China.",
         "answers": ["Marco Polo"],
         "used": "FALSE"
     },
@@ -9585,7 +9551,7 @@
     {
         "category": "World History",
         "source": "2017 SCOP MS 7",
-        "question": "One of this country's monarchs, John the Good, negotiated the Treaty of Bretigny [breh-ti-nee] after being captured at Poitiers [pwa-ti-yay]. This country lost a battle on St. Crispin's Day to an army led by Henry V. Forces from this country rallied around the \"Maid of Orleans,\" who was burned at the stake. For ten points, name this country that was defended by Joan of Arc during its Hundred Years' War with England.",
+        "question": "One of this country's monarchs, John the Good, negotiated the Treaty of Bretigny [breh-ti-nee] after being captured at Poitiers [pwa-ti-yay]. This country lost a battle on St. Crispin's Day to an army led by Henry V. Forces from this country rallied around the \"Maid of Orleans,\" who was burned at the stake. Name this country that was defended by Joan of Arc during its Hundred Years' War with England.",
         "answers": ["Kingdom of France"],
         "used": "FALSE"
     },
@@ -9976,7 +9942,7 @@
     {
         "category": "World History",
         "source": "2017 SCOP MS 7",
-        "question": "This country fought France in the 1838 Pastry War, during which a general from this country lost his leg, then had it buried with military honors. That injury occurred during a failed raid on the occupied fort city of Veracruz in this country. For ten points, name this country which celebrates an 1865 victory against the French at Puebla on Cinco de Mayo, and which was often led in battle by Santa Anna.",
+        "question": "This country fought France in the 1838 Pastry War, during which a general from this country lost his leg, then had it buried with military honors. That injury occurred during a failed raid on the occupied fort city of Veracruz in this country. Name this country which celebrates an 1865 victory against the French at Puebla on Cinco de Mayo, and which was often led in battle by Santa Anna.",
         "answers": [
             "Mexico (accept United Mexican States or Estados Unidos Mexicanos)"
         ],

@@ -9,7 +9,7 @@
     {
         "category": "Science",
         "source": "2017 SCOP MS 7",
-        "question": "In Amonton's Laws, the effect of this force is independent of surface area. This force's magnitude is equal to a namesake coefficient, symbolized mu, times the normal force. One type of this force prevents resting objects from sliding and can be overcome with lubricants. For ten points, name this force that opposes motion between bodies in contact.",
+        "question": "In Amonton's Laws, the effect of this force is independent of surface area. This force's magnitude is equal to a namesake coefficient, symbolized mu, times the normal force. One type of this force prevents resting objects from sliding and can be overcome with lubricants. Name this force that opposes motion between bodies in contact.",
         "answers": ["friction"],
         "used": "TRUE"
     },
@@ -30,7 +30,7 @@
     {
         "category": "Science",
         "source": "2017 SCOP MS 7",
-        "question": "The size of these natural phenomena is determined by the \"fetch\" behind them. When these things \"break,\" they release kinetic energy as matter falls from its maximum amplitude. These phenomena may \"shoal\" in shallow water, and they do not occur when there is no wind. For ten points, name this physical phenomenon, a rippling motion on the surface of a body of water.",
+        "question": "The size of these natural phenomena is determined by the \"fetch\" behind them. When these things \"break,\" they release kinetic energy as matter falls from its maximum amplitude. These phenomena may \"shoal\" in shallow water, and they do not occur when there is no wind. Name this physical phenomenon, a rippling motion on the surface of a body of water.",
         "answers": [
             "surface waves (accept ocean waves; accept descriptions like waves on the surface of water)"
         ],
@@ -104,14 +104,14 @@
         "source": "2022 SANDS",
         "question": "Due to its low crystallization temperature, this mineral is at the bottom of Bowen's Reaction Series. This mineral generates an electric charge with applied stress, an effect called piezoelectricity, and it can be used in namesake clocks. This mineral has a value of seven on the Mohs Hardness Scale, and it can consist of silica or silicon dioxide. Name this mineral, the second most abundant in the Earth's crust behind feldspar.",
         "answers": ["quartz"],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",
         "source": "2022 MAKEMAKE",
         "question": "This element is found at the center of an orange solid which was the first human-synthesized metallocene. This element's oxide usually catalyzes the synthesis of ammonia in the Haber-Bosch process. This is the most abundant element found in the inner core of Earth, and exposing it to oxygen gas forms rust. Identify this most common metal on Earth, with atomic number 26 and symbol Fe.",
         "answers": ["iron [accept Fe before mention]"],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",
@@ -120,14 +120,7 @@
         "answers": [
             "gravity [or (universal) gravitation and other word forms]"
         ],
-        "used": "FALSE"
-    },
-    {
-        "category": "Science",
-        "source": "2013 SCOP Novice 4",
-        "question": "If a line with this property is tangent to a curve at point A, the curve is not differentiable at A. The tangent function's asymptotes are this type of line. If a line of this type passes through the graph of a relation twice, the relation is not a function, which is called the namesake \"test\" of this type of line. Give this term that describes lines like x=3, which have undefined slope and are perpendicular to horizontal lines.",
-        "answers": ["vertical line(s"],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",
@@ -136,7 +129,7 @@
         "answers": [
             "normal distribution (accept Gaussian distribution before read; prompt on \"bell curve\")"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",
@@ -145,7 +138,7 @@
         "answers": [
             "right triangles (prompt on \"triangles\" but do not accept any other specific types of triangles)"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",
@@ -154,50 +147,34 @@
         "answers": [
             "microscopy [accept word forms; accept more specific answers, like electron microscopy]"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",
         "source": "2014 SCOP Novice 5",
         "question": "This phenomenon is described by the code GR in the METAR system. The magnitude of this phenomenon can be predicted with Vertical Integrated Liquid Density, which measures both the moisture content of a cloud and the strength of its updrafts. This phenomenon is caused when water droplets are blown upward, where cold air freezes them, before falling to the ground. Name this type of precipitation consisting of balls of ice.",
         "answers": ["hail"],
-        "used": "FALSE"
-    },
-    {
-        "category": "Science",
-        "source": "2016 PLATO",
-        "question": "The magnitude of two vectors times this function of the angle between them is equal to their dot product. The law of this function uses two sides of a triangle and an angle to find the length of the third side and one divided by this function is equal to secant. Name this trigonometric function, along with sine and tangent, that yields the ratio of a right triangle's adjacent leg to its hypotenuse.",
-        "answers": ["cosine"],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",
         "source": "2015 SCOP Novice 6",
         "question": "In bacteria, operons regulate the synthesis of a polycistronic type of this molecule, while a different type oversees the removal of introns and splicing of exons during transcription. One type of this molecule is cloverleaf-shaped, and carries amino acids for translation. Instead of thymine, this molecule contains uracil. Name this single-stranded molecule, which comes in \"messenger\" and \"transfer\" types, as opposed to DNA.",
         "answers": ["RNA or ribonucleic acid"],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",
         "source": "2020 TAILS",
         "question": "BepiColombo is a mission that is set to send a satellite to this planet by 2025. This planet is tidally locked with the Sun in a 3:2 spin-orbit resonance and features the Caloris basin. This planet that was visited by the Messenger spacecraft is the second hottest planet in the solar system and, like the hottest planet Venus, it has no moons. This rocky planet is the smallest in the solar system. Name this closest planet to the sun.",
         "answers": ["Mercury"],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",
         "source": "2019 SCOP Novice 10",
         "question": "Elementary operations can be used to convert these mathematical objects into reduced row echelon form, helpful in solving systems of equations. The commutative property does not necessarily apply to multiplication of these objects. Coefficients are stored in these objects for use in Cramer's rule, which solves systems of equations by computing determinants of these objects. Give this term for an array of numbers organized into rows and columns.",
         "answers": ["matrix (or matrices)"],
-        "used": "FALSE"
-    },
-    {
-        "category": "Science",
-        "source": "2021 CERES",
-        "question": "Inverse functions are often notated by writing this number as a superscript following the name of the function. The complex numbers are created by adding the square root of this number to reals; this number's square root is the imaginary unit and is written i. Multiplying this number by x gives the additive inverse of x. This number is less than 0 and its square equals 1. What number equals 1 minus 2?",
-        "answers": [
-            "-1 (\"negative one\") [accept answers like minus 1; do not accept or prompt on \"1\"]"
-        ],
         "used": "FALSE"
     },
     {
@@ -272,13 +249,6 @@
     },
     {
         "category": "Science",
-        "source": "2022 SANDS",
-        "question": "This function's output is 1 minus theta squared over 2 in its small angle approximation. The reciprocal of this function is known as the secant function. This function's derivative is negative sine, and it represents the x-coordinate in the unit circle. Tangent equals sine over this function. Identify this function which, in a right triangle, is the ratio of the adjacent side to the hypotenuse.",
-        "answers": ["cosine"],
-        "used": "FALSE"
-    },
-    {
-        "category": "Science",
         "source": "2013 Collaborative Middle School Tournament #4",
         "question": "Rheumatic fever can damage the mitral region of this organ, which uses Purkinje fibers to coordinate activity with the SA node. A murmur results from valves leaking in this organ that is served by the coronary arteries and surrounded by the pericardium. This organ directly connects to the aorta and has two atria and two ventricles. Name this organ of the circulatory system that pumps blood through the body.",
         "answers": ["heart"],
@@ -309,7 +279,7 @@
         "category": "Science",
         "source": "2016 Pennsylvania Novice",
         "question": "Nylon fibers are very strong due to many of these interactions between each polymer molecule. Alpha helices and beta sheets in proteins are stabilized by these interactions. Two of them are found in a base pair between adenine and thymine on opposite strands of the double helix of DNA. Many instances of this interaction in water cause its abnormally high boiling point. Identify this intermolecular force between an atom of nitrogen, oxygen, or fluorine and an atom of the namesake lightest element.",
-        "answers": ["hydrogen bond s"],
+        "answers": ["hydrogen bonds"],
         "used": "FALSE"
     },
     {
@@ -342,13 +312,6 @@
         "answers": [
             "kinetic energy (accept KE; accept kinetic alone after \"energy\" is read; prompt on \"energy\")"
         ],
-        "used": "FALSE"
-    },
-    {
-        "category": "Science",
-        "source": "2009 Fall Novice Tournament",
-        "question": "Darley and Latane's study of this phenomenon involved the completion of surveys as a room filled with smoke. An example occurred on a New York street with the repeated stabbing of Kitty Genovese, and it is attributed to social influences and diffusion of responsibility as the number of people at a scene increases. Name this psychological effect which sees the presence of others discourage individuals from reacting to emergency situations.",
-        "answers": ["bystander effect Prompt on Kitty Genovese effect"],
         "used": "FALSE"
     },
     {
@@ -457,15 +420,6 @@
     },
     {
         "category": "Science",
-        "source": "2015 SCOP Novice 6",
-        "question": "This value is the real part of all known non-trivial zeroes of the Riemann zeta function. Expressed in octal as 0.4, this is the reduced result of dividing the radius of a circle by the diameter. When this is used as an exponent, it is equivalent to taking the square root. For ten points, name this fraction, which is multiplied by width and height in the formula for area of a triangle and is equal to 0.4999, with the nine repeating.",
-        "answers": [
-            "one-half (accept equivalents like point five or one over two)"
-        ],
-        "used": "FALSE"
-    },
-    {
-        "category": "Science",
         "source": "2011 Fall Kickoff Tournament (FKT)",
         "question": "These particles were used in the Davisson-Germer experiment to prove the de Broglie [duh BROI] hypothesis, and its namesake capture is the decay process of lighter isotopes of transition metals such as silver 105. A muon decays into a neutrino, an antineutrino, and this other lepton, and an inelastic collision between a photon and this particle is called Compton scattering. The Pauli Exclusion Principle causes them to occupy different orbitals in an atom, and its antiparticle is the positron. The final product of beta decay identify this elementary particle with a -1 charge.",
         "answers": ["electron"],
@@ -524,22 +478,6 @@
     },
     {
         "category": "Science",
-        "source": "2015 SAGES",
-        "question": "COMPUTATION: Carol has 32 oranges, and plans to keep one\u00ad-fourth of them for herself and give away the rest. She needs to find out how many oranges she will be giving away. She could multiply the total by her portion and subtract that amount to find, what number of oranges to give away?",
-        "answers": ["24 oranges"],
-        "used": "FALSE"
-    },
-    {
-        "category": "Science",
-        "source": "2017 SCOP Novice 8",
-        "question": "In three dimensions, this concept is maximized in the isoperimetric problem of minimum surface area. When differentiated with respect to the radius, this quantity's formula becomes 4 pi r squared, which not-coincidentally gives the surface area of the object. Name this mathematical quantity, calculated by the formula four-thirds times pi times the radius cubed, that can be imagined as the amount of air in a perfectly round balloon.",
-        "answers": [
-            "volume of a sphere (accept volume of a 3-ball; prompt on \"volume\"; prompt on \"size of a sphere\" or similar descriptions)"
-        ],
-        "used": "FALSE"
-    },
-    {
-        "category": "Science",
         "source": "2014 SCOP Novice 5",
         "question": "Competing populations of species in this phylum are used to measure climate change in Antarctica's dry valleys. The fungus Arthrobotrys [ar-throw-BAH-tris] grows nets to catch soil- dwelling members of this phylum, which also includes the model organism C. elegans and the parasite that causes heartworm infection in pets. Name this phylum, whose members have external cuticles and cylindrical bodies and which is commonly known as roundworms.",
         "answers": [
@@ -552,22 +490,6 @@
         "source": "2022 MAKEMAKE",
         "question": "A period of low observance of certain features on this body occurred during the Maunder Minimum and they follow an 11-year cycle. The radiative zone causes mass ejections that occur from the hottest layer of this body. The photosphere of this star forms dark areas in regions where certain \"spots\" form. NASA proposed a HelioSwarm mission to this star using nine probes. Name this closest star to Earth.",
         "answers": ["the Sun"],
-        "used": "FALSE"
-    },
-    {
-        "category": "Science",
-        "source": "2012 Collaborative Middle School Tournament #3",
-        "question": "The distribution of these items was outlawed in Mumbai, India after a 2005 flood was partly blamed on blocked drains throughout the city. In 2011, Italy was the first European nation to completely ban their distribution, though biodegradable ones are still legal. Identify these items banned in Seattle as of July 2012, though consumers will still be able to purchase paper ones, or use their own cloth ones.",
-        "answers": ["non-biodegradable plastic bags [prompt on bags]"],
-        "used": "FALSE"
-    },
-    {
-        "category": "Science",
-        "source": "2022 KICKOFF Novice",
-        "question": "This force is described by a gauge theory with symmetry group SU(3). Asymptotic freedom and color confinement are properties of this force, which is described by quantum chromodynamics. This fundamental force is mediated by the gluon, and holds together protons and neutrons in a nucleus. As its name suggests, this force has a higher strength than the gravitational, electromagnetic, and weak forces. Name this most powerful fundamental force.",
-        "answers": [
-            "strong force [accept strong interaction; accept strong nuclear force]"
-        ],
         "used": "FALSE"
     },
     {
@@ -589,7 +511,7 @@
     {
         "category": "Science",
         "source": "2017 SCOP MS 7",
-        "question": "A popular method for solving systems of linear equations works one of these objects into reduced \"row-echelon form.\" If one of these objects is square, its trace is simply the sum of values along a diagonal, and these mathematical arrangements have an inverse if and only if their determinant is not zero. For ten points, name these rectangular arrays of numbers, arranged in columns and rows.",
+        "question": "A popular method for solving systems of linear equations works one of these objects into reduced \"row-echelon form.\" If one of these objects is square, its trace is simply the sum of values along a diagonal, and these mathematical arrangements have an inverse if and only if their determinant is not zero. Name these rectangular arrays of numbers, arranged in columns and rows.",
         "answers": ["matrix (accept matrices)"],
         "used": "FALSE"
     },
@@ -720,13 +642,6 @@
     },
     {
         "category": "Science",
-        "source": "2016 PLATO",
-        "question": "This verb form can be used as an adjective and its \"present\" form can also be used in the progressive verb tense. Some examples featuring this verb form would be \"the working man\" and \"I am running.\" These parts of a verb can be past or present, but should never be left dangling as this often leads to great confusion. Name this part of a verb that can end in \u00aded or \u00ading.",
-        "answers": ["participle [accept present participle until \"past\"]"],
-        "used": "FALSE"
-    },
-    {
-        "category": "Science",
         "source": "2011 Collaborative Middle School Tournament #2",
         "question": "Ribosome subunits pass through pores in this structure's namesake envelope and are produced in one part of it. In one kind of cloning, this organelle is transferred into an egg that lacks one. The presence of this organelle distinguishes eukaryotes from prokaryotes. This organelle divides in two during mitosis because DNA is found here. Name this information processing area of the cell.",
         "answers": ["nucleus"],
@@ -851,7 +766,7 @@
         "category": "Science",
         "source": "2016 Pennsylvania Novice",
         "question": "Vitamin B12 deficiency causes these cells to become megaloblasts, which are unusually large immature versions of them. Pulse oximeters measure the absorbance of an important protein in these cells, which can bind extremely tightly to carbon monoxide. Erythropoietin controls the production of these cells in the bone marrow. These cells, which lack nuclei, are shaped incorrectly in sickle\u00adcell anemia. Name these cells that contain hemoglobin, which make up almost half of the cells in blood.",
-        "answers": [" red blood cells (or RBC s; or erythrocytes )"],
+        "answers": ["red blood cells (or RBC s; or erythrocytes )"],
         "used": "FALSE"
     },
     {
@@ -893,7 +808,7 @@
         "category": "Science",
         "source": "2016 PLATO",
         "question": "The Kreutz group of these objects are called sungrazers. Short\u00adperiod examples of these come from the Kuiper [kye\u00adper] belt, while long\u00adperiod ones are thought to originate in the Oort cloud. Due to the effects of solar radiation, these objects form a dusty atmosphere called a coma. Famous examples are Hale\u00adBopp and one named after Edmond Halley. Name these small, icy bodies that often have tails.",
-        "answers": ["comets \u00ad\u00ad\u00ad\u00ad"],
+        "answers": ["comets"],
         "used": "FALSE"
     },
     {
@@ -944,15 +859,6 @@
         "question": "This quantity is subtracted from a related quantity to find the Lagrangian; those quantities are added to find the Hamiltonian. One form of this quantity is proportional to the square of the displacement of a spring; that \"elastic\" type is given by one half k x squared, while the gravitational type is given by mgh. Denoted U name this energy a physical system has because of its configuration, contrasted with kinetic energy.",
         "answers": [
             "potential energy (prompt on potential; prompt on U before \"U\"; prompt on V)"
-        ],
-        "used": "FALSE"
-    },
-    {
-        "category": "Science",
-        "source": "2010 Fall Novice Tournament",
-        "question": "A molecule important in this process is formed when beta-oxidation breaks down fatty acids, and one step in it produces L-malate from fumarate. Beginning when oxaloacetate and acetyl CoA react, it sends succinate, FADH2, and NADH to the electron transport chain. Pyruvate from glycolysis starts this pathway that occurs in the matrix of the mitochondrion. Name this second stage of cellular respiration, often named for a German-born biologist.",
-        "answers": [
-            "Szent-Gyorgyi-Krebs cycle [or Krebs-Szent-Gyorgi cycle; accept citric acid cycle or citrate cycle; prompt on tricarboxylic acid cycle]"
         ],
         "used": "FALSE"
     },
@@ -1179,7 +1085,7 @@
     {
         "category": "Science",
         "source": "2017 SCOP MS 7",
-        "question": "Sierpinski's triangle is a fractal image created by shading this diagram's even numbers. Tthe calculation \"n choose k\" will find the kth number in its nth row, and this diagram's rows list the binomial coefficients. A French mathematician names, for ten points, what expanding mathematical image whose first few rows are \"1\", then \"1,1\", then \"1,2,1\"?",
+        "question": "Sierpinski's triangle is a fractal image created by shading this diagram's even numbers. Tthe calculation \"n choose k\" will find the kth number in its nth row, and this diagram's rows list the binomial coefficients. A French mathematician names what expanding mathematical image whose first few rows are \"1\", then \"1,1\", then \"1,2,1\"?",
         "answers": ["Pascal's triangle"],
         "used": "FALSE"
     },
@@ -1753,7 +1659,7 @@
     {
         "category": "Science",
         "source": "2017 SCOP MS 7",
-        "question": "Composition of these mathematical objects make the codomain of one of them the domain of the other. The vertical line test can easily determine whether a given graph describes one of these objects. In these relations, every input has exactly one possible output. For ten points, name these mathematical objects, often written in \"f of x\" form, often taught in algebra as \"machines\" that turn a number into a new number.",
+        "question": "Composition of these mathematical objects make the codomain of one of them the domain of the other. The vertical line test can easily determine whether a given graph describes one of these objects. In these relations, every input has exactly one possible output. Name these mathematical objects, often written in \"f of x\" form, often taught in algebra as \"machines\" that turn a number into a new number.",
         "answers": ["functions"],
         "used": "FALSE"
     },
@@ -1908,7 +1814,7 @@
     {
         "category": "Science",
         "source": "2017 SCOP MS 7",
-        "question": "Odd numbers are multiplied by this value then added to one in the Collatz conjecture's computation. This value is the smallest Mersenne prime and the second triangular number. An integer is divisible by this value if the sum of its digits is also divisible by this number. This value follows 1, 1, 2 in the Fibonacci sequence. For ten points, name this smallest odd prime number.",
+        "question": "Odd numbers are multiplied by this value then added to one in the Collatz conjecture's computation. This value is the smallest Mersenne prime and the second triangular number. An integer is divisible by this value if the sum of its digits is also divisible by this number. This value follows 1, 1, 2 in the Fibonacci sequence. Name this smallest odd prime number.",
         "answers": ["three"],
         "used": "FALSE"
     },
@@ -2158,7 +2064,7 @@
     {
         "category": "Science",
         "source": "2017 SCOP MS 7",
-        "question": "Because this quantity is conserved, perpetual motion machines of the first kind cannot exist. A capacitor stores this quantity in an electric field between its plates. The SI unit for this quantity describes the work done when a force of one newton moves an object one meter. For ten points, name this physical quantity that is measured in Joules and comes in kinetic and potential forms.",
+        "question": "Because this quantity is conserved, perpetual motion machines of the first kind cannot exist. A capacitor stores this quantity in an electric field between its plates. The SI unit for this quantity describes the work done when a force of one newton moves an object one meter. Name this physical quantity that is measured in Joules and comes in kinetic and potential forms.",
         "answers": ["energy"],
         "used": "FALSE"
     },
@@ -2338,7 +2244,7 @@
     {
         "category": "Science",
         "source": "2017 SCOP MS 7",
-        "question": "The majority of these animals are passerines, and have a backward-facing toe. These organisms evolved independently of mammals, but they are still endothermic vertebrates with four-chambered hearts. Unlike their ancestor Archaeopteryx, these animals lack teeth. Hard eggs and light skeletons are characteristics of, for ten points, what class of feathered animals that includes the flightless ostrich?",
+        "question": "The majority of these animals are passerines, and have a backward-facing toe. These organisms evolved independently of mammals, but they are still endothermic vertebrates with four-chambered hearts. Unlike their ancestor Archaeopteryx, these animals lack teeth. Hard eggs and light skeletons are characteristics of what class of feathered animals that includes the flightless ostrich?",
         "answers": ["birds (accept Aves)"],
         "used": "FALSE"
     },
@@ -2497,7 +2403,7 @@
     {
         "category": "Science",
         "source": "2017 SCOP MS 7",
-        "question": "While investigating this event, Luis Alvarez discovered that sediment from around the world displays a layer of iridium dating to this event. This event may have begun at Chicxulub on the Yucatan peninsula, and ended the Mesozoic Era. A meteor may have caused, for ten points, what devastating event 65 million years ago that wiped out thousands of species, including T. Rex?",
+        "question": "While investigating this event, Luis Alvarez discovered that sediment from around the world displays a layer of iridium dating to this event. This event may have begun at Chicxulub on the Yucatan peninsula, and ended the Mesozoic Era. A meteor may have caused what devastating event 65 million years ago that wiped out thousands of species, including T. Rex?",
         "answers": [
             "extinction of the dinosaurs (accept K-T extinction event or Cretaceous-Tertiary extinction event; accept K-Pg extinction or Cretaceous-Paleogene extinction)"
         ],
@@ -2527,7 +2433,7 @@
     {
         "category": "Science",
         "source": "2017 SCOP MS 7",
-        "question": "This biome is home to most members of the genus Phyllobates, which includes batrachotoxin-generating frogs. Most instances of this biome are tropical, and are home to scarlet macaws and many undiscovered species that live high in the canopy. For ten points, name this biome where numerous species of tall trees thrive due to abundant precipitation.",
+        "question": "This biome is home to most members of the genus Phyllobates, which includes batrachotoxin-generating frogs. Most instances of this biome are tropical, and are home to scarlet macaws and many undiscovered species that live high in the canopy. Name this biome where numerous species of tall trees thrive due to abundant precipitation.",
         "answers": ["(tropical) rainforest"],
         "used": "FALSE"
     },
@@ -2672,7 +2578,7 @@
     {
         "category": "Science",
         "source": "2017 SCOP MS 7",
-        "question": "These systems cannot be formed from immiscible fluids. In chemistry, these substances can become supersaturated under certain conditions, then shocked to make a precipitate. Water is considered a \"universal\" part of these substances, since it can combine evenly with many other chemicals. For ten points, give this term for a homogeneous mixture of a solute in a solvent.",
+        "question": "These systems cannot be formed from immiscible fluids. In chemistry, these substances can become supersaturated under certain conditions, then shocked to make a precipitate. Water is considered a \"universal\" part of these substances, since it can combine evenly with many other chemicals. Give this term for a homogeneous mixture of a solute in a solvent.",
         "answers": ["solutions"],
         "used": "FALSE"
     },
@@ -2709,7 +2615,7 @@
     {
         "category": "Science",
         "source": "2017 SCOP Novice 8",
-        "question": "A number is algebraic if it can be the solution to one of these functions with integer coefficients. Horner's method simplifies calculations of these functions, usually by employing synthetic division on them. Four to the x power is not one of these expressions because the variable is in the exponent. For ten points, give this term for mathematical expressions like x squared plus 3, a term that comes from the Greek for \"many named.\"",
+        "question": "A number is algebraic if it can be the solution to one of these functions with integer coefficients. Horner's method simplifies calculations of these functions, usually by employing synthetic division on them. Four to the x power is not one of these expressions because the variable is in the exponent. Give this term for mathematical expressions like x squared plus 3, a term that comes from the Greek for \"many named.\"",
         "answers": [
             "polynomials (accept polynomial equation, function, expression, etc.)"
         ],
@@ -3294,7 +3200,7 @@
     {
         "category": "Science",
         "source": "2017 SCOP MS 7",
-        "question": "Harlow Shapley argued that this entity was the entire Universe at a 1920 \"Great Debate,\" shortly before Edwin Hubble proved him wrong. Hubble then estimated the distance from this entity to its nearest neighbor, which was wrongly listed as a spiral nebula in the Messier catalog. The Orion Arm is part of this system, which is on a collision course with Andromeda. For ten points, name this Local Group galaxy that contains the Solar System.",
+        "question": "Harlow Shapley argued that this entity was the entire Universe at a 1920 \"Great Debate,\" shortly before Edwin Hubble proved him wrong. Hubble then estimated the distance from this entity to its nearest neighbor, which was wrongly listed as a spiral nebula in the Messier catalog. The Orion Arm is part of this system, which is on a collision course with Andromeda. Name this Local Group galaxy that contains the Solar System.",
         "answers": [
             "Milky Way (prompt on \"the galaxy\" before \"galaxy\" is read; do not accept or prompt on the solar system)"
         ],
@@ -3472,7 +3378,7 @@
     {
         "category": "Science",
         "source": "2017 SCOP MS 7",
-        "question": "These phenomena are used to observe diffraction patterns in the Advanced Photon Source. Rosalind Franklin scattered this type of radiation to take images of DNA. This type of radiation has energy output just less than that of gamma rays. For ten points, name this type of electromagnetic radiation commonly used in medical imaging to view teeth and bones.",
+        "question": "These phenomena are used to observe diffraction patterns in the Advanced Photon Source. Rosalind Franklin scattered this type of radiation to take images of DNA. This type of radiation has energy output just less than that of gamma rays. Name this type of electromagnetic radiation commonly used in medical imaging to view teeth and bones.",
         "answers": ["x-rays"],
         "used": "FALSE"
     },
@@ -3651,7 +3557,7 @@
     {
         "category": "Science",
         "source": "2017 SCOP MS 7",
-        "question": "In this type of motion, reference frames experience the fictitious Coriolis force. Precession is a change in the orientation of objects experiencing this type of motion. Forces that take effect when objects are moving in this way include torque and centrifugal force, which is experienced by gyroscopes. For ten points, name this type of movement in which an object spins around an axis.",
+        "question": "In this type of motion, reference frames experience the fictitious Coriolis force. Precession is a change in the orientation of objects experiencing this type of motion. Forces that take effect when objects are moving in this way include torque and centrifugal force, which is experienced by gyroscopes. Name this type of movement in which an object spins around an axis.",
         "answers": [
             "rotation (accept word forms like rotating; prompt on descriptions like \"spinning\" or \"turning\" before \"spins\" is read)"
         ],
@@ -3752,7 +3658,7 @@
     {
         "category": "Science",
         "source": "2017 SCOP Novice 8",
-        "question": "According to the Red Queen hypothesis, predators and prey force each other to develop these traits. By closely matching with local food sources, the beaks of Galapagos finches qualify as these traits. Opposable thumbs and a bipedal stance are among the most important of these in humans, leading to an increase in fitness by natural selection. For ten points, name this type of trait that develops to help an organism survive in its environment.",
+        "question": "According to the Red Queen hypothesis, predators and prey force each other to develop these traits. By closely matching with local food sources, the beaks of Galapagos finches qualify as these traits. Opposable thumbs and a bipedal stance are among the most important of these in humans, leading to an increase in fitness by natural selection. Name this type of trait that develops to help an organism survive in its environment.",
         "answers": [
             "adaptations (accept word forms like adaptive traits; prompt on less specific answers such as \"useful traits\" or \"helpful traits\")"
         ],
@@ -3840,7 +3746,7 @@
     {
         "category": "Science",
         "source": "2020 ERIS",
-        "question": "This quantity is equal to the square of momentum divided by double the mass. In addition to momentum, elastic collisions conserve this quantity. When an object falls, potential energy is converted into this kind of energy. One-half mass times velocity squared is equal to, for ten points, what type of energy associated with an object's movement?",
+        "question": "This quantity is equal to the square of momentum divided by double the mass. In addition to momentum, elastic collisions conserve this quantity. When an object falls, potential energy is converted into this kind of energy. One-half mass times velocity squared is equal to what type of energy associated with an object's movement?",
         "answers": ["kinetic energy [prompt on energy]"],
         "used": "FALSE"
     },
@@ -4353,7 +4259,7 @@
     {
         "category": "Science",
         "source": "2017 SCOP MS 7",
-        "question": "This economic quantity is increased in quantitative easing while the Federal Reserve lowers the yield of Treasury notes. On a graph of price vs. quantity, this quantity's curve slopes upward, because more good are produced at higher prices. For ten points, name this economic concept, the amount of a good that can be produced, often compared against a good's demand.",
+        "question": "This economic quantity is increased in quantitative easing while the Federal Reserve lowers the yield of Treasury notes. On a graph of price vs. quantity, this quantity's curve slopes upward, because more good are produced at higher prices. Name this economic concept, the amount of a good that can be produced, often compared against a good's demand.",
         "answers": [
             "supply (accept money supply; prompt on money until it is read)"
         ],
@@ -4362,7 +4268,7 @@
     {
         "category": "Science",
         "source": "2017 SCOP MS 7",
-        "question": "This element's four valence electrons allow it to form four bonds with other elements. This element's allotropes include diamond, graphite, and stable nanotubes, and an isotope of this element with an atomic mass of 14 is used in archaeology for radiometric dating. For ten points, name this element, the focus of organic chemistry, with atomic number 6 and atomic symbol C.",
+        "question": "This element's four valence electrons allow it to form four bonds with other elements. This element's allotropes include diamond, graphite, and stable nanotubes, and an isotope of this element with an atomic mass of 14 is used in archaeology for radiometric dating. Name this element, the focus of organic chemistry, with atomic number 6 and atomic symbol C.",
         "answers": ["carbon (accept C before it is read)"],
         "used": "FALSE"
     },
@@ -4420,7 +4326,7 @@
     {
         "category": "Science",
         "source": "2014 SCOP Novice 5",
-        "question": "Amounts of this substance are measured by the GOMOS instrument. This substance is created in the coronal discharge method, although ultraviolet generation methods are used for sanitation of swimming pools. The Montreal Protocol protects this substance by limiting production of CFCs. This substance in the stratosphere absorbs most solar UV radiation. For ten points, name this triatomic oxygen molecule found in a protective atmospheric layer.",
+        "question": "Amounts of this substance are measured by the GOMOS instrument. This substance is created in the coronal discharge method, although ultraviolet generation methods are used for sanitation of swimming pools. The Montreal Protocol protects this substance by limiting production of CFCs. This substance in the stratosphere absorbs most solar UV radiation. Name this triatomic oxygen molecule found in a protective atmospheric layer.",
         "answers": ["ozone (accept O3 before \"triatomic\" is read)"],
         "used": "FALSE"
     },
@@ -4961,7 +4867,7 @@
     {
         "category": "Science",
         "source": "2017 SCOP MS 7",
-        "question": "This integer is the square root of the largest perfect square in the Fibonacci sequence. A polyhedron with six vertices and eight faces will have this many edges. This value, represented in hexadecimal as \"C,\" is the number of edges on a cube and the number of faces on a dodecahedron. For ten points, name this smallest integer divisible by both 4 and 6, the number of items in a dozen.",
+        "question": "This integer is the square root of the largest perfect square in the Fibonacci sequence. A polyhedron with six vertices and eight faces will have this many edges. This value, represented in hexadecimal as \"C,\" is the number of edges on a cube and the number of faces on a dodecahedron. Name this smallest integer divisible by both 4 and 6, the number of items in a dozen.",
         "answers": ["twelve"],
         "used": "FALSE"
     },
@@ -5264,7 +5170,7 @@
     {
         "category": "Science",
         "source": "2017 SCOP MS 7",
-        "question": "Okazaki fragments help replicate this molecule's lagging strand with polymerase after the strand is unzipped by helicase. This molecule consists of nucleotides formed from thymine, adenine, guanine, and cytosine. James Watson and Francis Crick discovered the double helix structure of, for ten points, what biomolecule that codes genetic information within genes?",
+        "question": "Okazaki fragments help replicate this molecule's lagging strand with polymerase after the strand is unzipped by helicase. This molecule consists of nucleotides formed from thymine, adenine, guanine, and cytosine. James Watson and Francis Crick discovered the double helix structure of what biomolecule that codes genetic information within genes?",
         "answers": ["DNA (accept deoxyribonucleic acid)"],
         "used": "FALSE"
     },
@@ -5672,7 +5578,7 @@
     {
         "category": "Science",
         "source": "2017 SCOP MS 7",
-        "question": "A number is algebraic if it is the root of a polynomial with these numbers as coefficients. You can list these numbers, unlike a complement set that includes pi and the square root of two. 0.2 and 0.3, with the 3 repeating, are both examples of this type of number. For ten points, name this type of number whose decimal expansion either terminates or repeats and which can be written as a fraction.",
+        "question": "A number is algebraic if it is the root of a polynomial with these numbers as coefficients. You can list these numbers, unlike a complement set that includes pi and the square root of two. 0.2 and 0.3, with the 3 repeating, are both examples of this type of number. Name this type of number whose decimal expansion either terminates or repeats and which can be written as a fraction.",
         "answers": ["rational numbers"],
         "used": "FALSE"
     },
@@ -5751,7 +5657,7 @@
     {
         "category": "Science",
         "source": "2017 SCOP MS 7",
-        "question": "An ion of this element forms the hydrophilic \"heads\" of the molecules in the cell membrane's bilayer. One allotrope of this element will, on exposure to oxygen, faintly glow in the dark. Three atoms of this element are present in the end product of cellular respiration, ATP. For ten points, name this Group 15 chemical element, found just below nitrogen on the periodic table, with symbol P.",
+        "question": "An ion of this element forms the hydrophilic \"heads\" of the molecules in the cell membrane's bilayer. One allotrope of this element will, on exposure to oxygen, faintly glow in the dark. Three atoms of this element are present in the end product of cellular respiration, ATP. Name this Group 15 chemical element, found just below nitrogen on the periodic table, with symbol P.",
         "answers": ["phosphorus (accept P before it is read)"],
         "used": "FALSE"
     },
@@ -5968,7 +5874,7 @@
     {
         "category": "Science",
         "source": "2017 SCOP MS 7",
-        "question": "A storm on this planet, named Oval BA, formed from the merger of three small white storms in 2000. The solar-powered Juno probe began orbiting this planet in 2016. In 1994, Comet Shoemaker-Levy 9 collided with this planet, providing evidence for its role as the \"vacuum cleaner\" of the Solar System. A centuries-old storm called the \"Great Red Spot\" rages on, for ten points, what largest planet in the Solar System?",
+        "question": "A storm on this planet, named Oval BA, formed from the merger of three small white storms in 2000. The solar-powered Juno probe began orbiting this planet in 2016. In 1994, Comet Shoemaker-Levy 9 collided with this planet, providing evidence for its role as the \"vacuum cleaner\" of the Solar System. A centuries-old storm called the \"Great Red Spot\" rages on what largest planet in the Solar System?",
         "answers": ["Jupiter"],
         "used": "FALSE"
     },
@@ -6025,7 +5931,7 @@
     {
         "category": "Science",
         "source": "2017 SCOP MS 7",
-        "question": "During an experiment named for this material, Hans Geiger counted flashes of light on a zinc sulfide screen, generated after an alpha particle was shot at a foil of this metal; that experiment was overseen by Ernest Rutherford. This highly malleable metal dissolves in aqua regia and is used in electrical connectors to prevent corrosion. For ten points, name this precious metal whose purity is measured on a scale up to 24 karats.",
+        "question": "During an experiment named for this material, Hans Geiger counted flashes of light on a zinc sulfide screen, generated after an alpha particle was shot at a foil of this metal; that experiment was overseen by Ernest Rutherford. This highly malleable metal dissolves in aqua regia and is used in electrical connectors to prevent corrosion. Name this precious metal whose purity is measured on a scale up to 24 karats.",
         "answers": ["gold (accept Rutherford gold foil experiment)"],
         "used": "FALSE"
     },
@@ -7005,7 +6911,7 @@
     {
         "category": "Science",
         "source": "2017 SCOP MS 7",
-        "question": "An electrolyte dissolves into these chemical species in a solution, which can then collect at the anode and cathode. Carbonate is a polyatomic example of these particles. Plasma consists of these particles at high temperatures. Electrons are removed or added to a neutral atom or molecule to create, for ten points, what kind of charged particle?",
+        "question": "An electrolyte dissolves into these chemical species in a solution, which can then collect at the anode and cathode. Carbonate is a polyatomic example of these particles. Plasma consists of these particles at high temperatures. Electrons are removed or added to a neutral atom or molecule to create what kind of charged particle?",
         "answers": ["ions (accept anions and/or cations)"],
         "used": "FALSE"
     },
@@ -7185,7 +7091,7 @@
     {
         "category": "Science",
         "source": "2017 SCOP MS 7",
-        "question": "Vault complexes were discovered in this material in the 1980s and are still of unknown utility. Nutrients are delivered by the \"streaming\" of this material around plant cells. Glycolysis takes place in this material, in which ribosomes can float. For ten points, name this gel-like material within a cell that contains organelles and is surrounded by the cell membrane.",
+        "question": "Vault complexes were discovered in this material in the 1980s and are still of unknown utility. Nutrients are delivered by the \"streaming\" of this material around plant cells. Glycolysis takes place in this material, in which ribosomes can float. Name this gel-like material within a cell that contains organelles and is surrounded by the cell membrane.",
         "answers": [
             "cytoplasm (accept cytosol) \ufffc\ufffc\ufffc\ufffc\ufffc\ufffc\ufffc\ufffc\ufffc\ufffc\ufffc\ufffc\ufffc\ufffc\ufffc\ufffc\ufffc\ufffc\ufffc\ufffc"
         ],
@@ -7693,7 +7599,7 @@
     {
         "category": "Science",
         "source": "2017 SCOP MS 7",
-        "question": "George Gamow described this process via quantum tunneling. This behavior is exhibited by the first artificially-produced element, technetium. A sample undergoes this process over a timeframe called a half-life. A Geiger counter can detect, for ten points, what phenomenon exhibited by unstable elements like uranium, which emit alpha particles to become a different, more stable element?",
+        "question": "George Gamow described this process via quantum tunneling. This behavior is exhibited by the first artificially-produced element, technetium. A sample undergoes this process over a timeframe called a half-life. A Geiger counter can detect what phenomenon exhibited by unstable elements like uranium, which emit alpha particles to become a different, more stable element?",
         "answers": [
             "radioactivity (accept radioactive decay; accept word forms; accept alpha decay; prompt on \"decay\" before \"alpha\" is read, and accept \"decay\" after \"alpha\" is read)"
         ],
@@ -7787,7 +7693,7 @@
     {
         "category": "Science",
         "source": "2017 SCOP MS 7",
-        "question": "One of these compounds used to treat fats in soap-making is sodium hydroxide. According to the Bronsted-Lowry definition, these substances accept hydrogen ions, and according to the Lewis definition, they donate electron pairs. Litmus paper is turned blue by, for ten points, what type of bitter, slippery chemical compound that has a pH value greater than 7 and that can neutralize acids?",
+        "question": "One of these compounds used to treat fats in soap-making is sodium hydroxide. According to the Bronsted-Lowry definition, these substances accept hydrogen ions, and according to the Lewis definition, they donate electron pairs. Litmus paper is turned blue by what type of bitter, slippery chemical compound that has a pH value greater than 7 and that can neutralize acids?",
         "answers": ["bases (prompt on \"hydroxides\" before it is read)"],
         "used": "FALSE"
     },
@@ -7926,7 +7832,7 @@
     {
         "category": "Science",
         "source": "2017 SCOP MS 7",
-        "question": "One type of these structures forms between two dipoles and causes water's high melting point. Another type of these structures cannot twist, due to p-orbital overlap; that type exists in sp2 [\"s p 2\"] hybridized molecules as a \"double\" type. These structures can also be classified as covalent or ionic. For ten points, name these attractive structures that hold atoms together within molecules.",
+        "question": "One type of these structures forms between two dipoles and causes water's high melting point. Another type of these structures cannot twist, due to p-orbital overlap; that type exists in sp2 [\"s p 2\"] hybridized molecules as a \"double\" type. These structures can also be classified as covalent or ionic. Name these attractive structures that hold atoms together within molecules.",
         "answers": [
             "chemical bonds (accept hydrogen bond, double bond, single bond, covalent bond, ionic bond; prompt on intermolecular forces)"
         ],
@@ -7942,7 +7848,7 @@
     {
         "category": "Science",
         "source": "2010 Fall Kickoff Tournament (FKT)",
-        "question": "The slope of a regression equation is the correlation coefficient times the quotient of this value of the y variables over this value of the x variables. This value for adding or subtracting the values of two samples can be found by adding these values from the two samples in quadrature. A z-score for a finding the likelihood of people at least a certain distance away from the mean can be calculated by taking the distance from the mean over this value of the distribution. For ten points, name this measure of how separated the data are, the square root of the variance.",
+        "question": "The slope of a regression equation is the correlation coefficient times the quotient of this value of the y variables over this value of the x variables. This value for adding or subtracting the values of two samples can be found by adding these values from the two samples in quadrature. A z-score for a finding the likelihood of people at least a certain distance away from the mean can be calculated by taking the distance from the mean over this value of the distribution. Name this measure of how separated the data are, the square root of the variance.",
         "answers": ["standard deviation"],
         "used": "FALSE"
     },
@@ -8402,7 +8308,7 @@
     {
         "category": "Science",
         "source": "2017 SCOP MS 7",
-        "question": "The discovery of this concept was assisted by Galileo's ball-rolling experiment which, without friction, would have continued horizontally forever. One definition of this concept notes that, under zero net external force, an object will maintain constant velocity. Newton's first law defines, for ten points, what concept that describes an object's resistance to changes in its motion?",
+        "question": "The discovery of this concept was assisted by Galileo's ball-rolling experiment which, without friction, would have continued horizontally forever. One definition of this concept notes that, under zero net external force, an object will maintain constant velocity. Newton's first law defines what concept that describes an object's resistance to changes in its motion?",
         "answers": ["inertia"],
         "used": "FALSE"
     },
@@ -8933,7 +8839,7 @@
     {
         "category": "Science",
         "source": "2017 SCOP MS 7",
-        "question": "The production of this form of energy is governed by the Shockley-Queisser limit, and can be concentrated with parabolic dishes or generated by the photoelectric effect in photovoltaic \ufffc \ufffc \ufffc \ufffccells aligned in a large panel. For ten points, name this form of renewable energy that is harnessed from the light and heat radiated by the Sun.",
+        "question": "The production of this form of energy is governed by the Shockley-Queisser limit, and can be concentrated with parabolic dishes or generated by the photoelectric effect in photovoltaic \ufffc \ufffc \ufffc \ufffccells aligned in a large panel. Name this form of renewable energy that is harnessed from the light and heat radiated by the Sun.",
         "answers": [
             "solar energy (accept reasonable equivalents like solar power; do not accept or prompt on \"renewable energy\")"
         ],
@@ -8972,7 +8878,7 @@
     {
         "category": "Science",
         "source": "2017 SCOP MS 7",
-        "question": "A reference angle of this size in standard position on the unit circle terminates at the point (0,1) [zero after starting at (1,0). Two angles of this size add together to be a straight angle, and any two angles that sum to this size are called complementary. For ten points, name this value that describes one-fourth of a circular rotation or the size of a right angle.",
+        "question": "A reference angle of this size in standard position on the unit circle terminates at the point (0,1) [zero after starting at (1,0). Two angles of this size add together to be a straight angle, and any two angles that sum to this size are called complementary. Name this value that describes one-fourth of a circular rotation or the size of a right angle.",
         "answers": [
             "90 degrees (accept pi over 2 radians or 100 gradians; prompt on \"90\" or \"pi over 2\" by asking \"in what unit?\")"
         ],
@@ -8988,7 +8894,7 @@
     {
         "category": "Science",
         "source": "2017 SCOP MS 7",
-        "question": "Rocket scientists calculate the force needed for this quantity to rise high enough to escape a planet's gravitational pull. Objects in free fall accelerate until they reach the terminal type of this quantity. This quantity can change with either a change in direction or with acceleration or deceleration, because it is a vector quantity, not a scalar. For ten points, name this physical quantity that describes speed in a direction.",
+        "question": "Rocket scientists calculate the force needed for this quantity to rise high enough to escape a planet's gravitational pull. Objects in free fall accelerate until they reach the terminal type of this quantity. This quantity can change with either a change in direction or with acceleration or deceleration, because it is a vector quantity, not a scalar. Name this physical quantity that describes speed in a direction.",
         "answers": [
             "velocity (accept escape velocity or terminal velocity; prompt on speed before \"direction\" is read)"
         ],
@@ -9057,7 +8963,7 @@
     {
         "category": "Science",
         "source": "2017 SCOP MS 7",
-        "question": "Gluconeogenesis finishes in this organelle's lumen. This organelle is bound to the nuclear envelope, and like the Golgi body, it consists of flattened sacs or tubes called cisternae. This eukaryotic cell organelle transports proteins. For ten points, name this organelle that is classified as \"rough\" or \"smooth,\" depending on whether ribosomes are on its surface.",
+        "question": "Gluconeogenesis finishes in this organelle's lumen. This organelle is bound to the nuclear envelope, and like the Golgi body, it consists of flattened sacs or tubes called cisternae. This eukaryotic cell organelle transports proteins. Name this organelle that is classified as \"rough\" or \"smooth,\" depending on whether ribosomes are on its surface.",
         "answers": [
             "endoplasmic reticulum (accept ER; accept rough and/or smooth ER)"
         ],
@@ -9098,7 +9004,7 @@
     {
         "category": "Science",
         "source": "2017 SCOP MS 7",
-        "question": "Euclid's second postulate says that these mathematical objects can be created by extending another type of object, both of which he described as \"breadthless.\" In three-dimensional space, these objects are skew if they fail to intersect but don't lie in the same plane. For ten points, name this one-dimensional geometric figure that, unlike a ray or segment, extends infinitely in both directions.",
+        "question": "Euclid's second postulate says that these mathematical objects can be created by extending another type of object, both of which he described as \"breadthless.\" In three-dimensional space, these objects are skew if they fail to intersect but don't lie in the same plane. Name this one-dimensional geometric figure that, unlike a ray or segment, extends infinitely in both directions.",
         "answers": ["line (do not accept \"line segments\" or \"rays\")"],
         "used": "FALSE"
     },
@@ -10104,7 +10010,7 @@
     {
         "category": "Science",
         "source": "2017 SCOP MS 7",
-        "question": "The idea that this process is context-dependent suggests that you can do better on tests by listening to the same music while studying and taking the test. George Miller joked that most people can only hold seven or so ideas in the short-term type of this process. The inability to do this process is known as amnesia. For ten points, name this mental process of storing and retrieving information.",
+        "question": "The idea that this process is context-dependent suggests that you can do better on tests by listening to the same music while studying and taking the test. George Miller joked that most people can only hold seven or so ideas in the short-term type of this process. The inability to do this process is known as amnesia. Name this mental process of storing and retrieving information.",
         "answers": ["memory (accept word forms like remembering)"],
         "used": "FALSE"
     },
@@ -10293,7 +10199,7 @@
     {
         "category": "Science",
         "source": "2017 SCOP MS 7",
-        "question": "One of these devices with a length of 994 millimeters can be used to measure a second. The precession of one of these devices proved that the Earth rotates, according to Foucault. Christian Huygens used these devices to make more accurate grandfather clocks. For ten points, name this device consisting of a mass suspending from a pivot, from which it swings back and forth.",
+        "question": "One of these devices with a length of 994 millimeters can be used to measure a second. The precession of one of these devices proved that the Earth rotates, according to Foucault. Christian Huygens used these devices to make more accurate grandfather clocks. Name this device consisting of a mass suspending from a pivot, from which it swings back and forth.",
         "answers": [
             "pendulum (prompt on \"(simple) harmonic oscillator\" before \"simple harmonic\" is read)"
         ],
@@ -10688,7 +10594,7 @@
     {
         "category": "Science",
         "source": "2017 SCOP MS 7",
-        "question": "These values exist at a function's critical points when the function is concave down. The graph of y equals x squared has no global one of these points, but y equals negative x squared has one at the origin. A function has one of these points where it stops increasing and begins decreasing. For ten points, name these points, the highest point a graph reaches, contrasted with a function's minimum.",
+        "question": "These values exist at a function's critical points when the function is concave down. The graph of y equals x squared has no global one of these points, but y equals negative x squared has one at the origin. A function has one of these points where it stops increasing and begins decreasing. Name these points, the highest point a graph reaches, contrasted with a function's minimum.",
         "answers": ["maximum (accept supremum)"],
         "used": "FALSE"
     },
@@ -11242,7 +11148,7 @@
     {
         "category": "Science",
         "source": "2017 SCOP MS 7",
-        "question": "These organelles are plastids that replicate independently in the mesophyll of leaves. Within these double-membraned organelles, a fluid called stroma surrounds grana, stacks of thylakoids that carry out light-dependent reactions. For ten points, name these cell organelles that contain chlorophyll, a green pigment that helps conduct photosynthesis.",
+        "question": "These organelles are plastids that replicate independently in the mesophyll of leaves. Within these double-membraned organelles, a fluid called stroma surrounds grana, stacks of thylakoids that carry out light-dependent reactions. Name these cell organelles that contain chlorophyll, a green pigment that helps conduct photosynthesis.",
         "answers": ["chloroplasts"],
         "used": "FALSE"
     },
@@ -11488,7 +11394,7 @@
     {
         "category": "Science",
         "source": "2017 SCOP MS 7",
-        "question": "Within fluid dynamics, this adjective describes pressure when a fluid is not moving, as opposed to dynamic pressure within a moving fluid. This term also describes a type of friction, contrasted with kinetic, that applies to objects not already in motion. For ten points, give this adjective for non-changing situations, which also describes the electricity acquired by rubbing objects together, often discharged when you touch a metal object.",
+        "question": "Within fluid dynamics, this adjective describes pressure when a fluid is not moving, as opposed to dynamic pressure within a moving fluid. This term also describes a type of friction, contrasted with kinetic, that applies to objects not already in motion. Give this adjective for non-changing situations, which also describes the electricity acquired by rubbing objects together, often discharged when you touch a metal object.",
         "answers": [
             "static (accept static pressure, static friction, static electricity)"
         ],
@@ -11743,7 +11649,7 @@
     {
         "category": "Science",
         "source": "2017 SCOP MS 7",
-        "question": "The wirewound type of this device produces undesired inductance. The total effect of a system of these devices is found by summing of the reciprocals of their strengths if they are connected in parallel; the effect is additive instead if they are in series. The strength of these circuit elements is marked with colored bands. For ten points, name this circuit element that inhibits the flow of electrical current and whose strength is measured in Ohms.",
+        "question": "The wirewound type of this device produces undesired inductance. The total effect of a system of these devices is found by summing of the reciprocals of their strengths if they are connected in parallel; the effect is additive instead if they are in series. The strength of these circuit elements is marked with colored bands. Name this circuit element that inhibits the flow of electrical current and whose strength is measured in Ohms.",
         "answers": ["resistors"],
         "used": "FALSE"
     },
@@ -11882,7 +11788,7 @@
     {
         "category": "Science",
         "source": "2017 SCOP MS 7",
-        "question": "One of these devices, named for Chandrasekhar, detected X-rays from Sagittarius A* \ufffc in 2000 after being deployed by the Columbia shuttle. One of these devices, named for James Webb, will be launched into space in 2018. For ten points, name these astronomical instruments deployed in space and used for seeing long distances, such as the Hubble.",
+        "question": "One of these devices, named for Chandrasekhar, detected X-rays from Sagittarius A* \ufffc in 2000 after being deployed by the Columbia shuttle. One of these devices, named for James Webb, will be launched into space in 2018. Name these astronomical instruments deployed in space and used for seeing long distances, such as the Hubble.",
         "answers": [
             "space telescopes (accept space observatorys; accept descriptive answers, like telescopes in orbit or satellite telescopes) \ufffc\ufffc\ufffc\ufffc\ufffc\ufffc\ufffc\ufffc\ufffc\ufffc\ufffc\ufffc\ufffc\ufffc\ufffc\ufffc\ufffc\ufffc\ufffc\ufffc\ufffc\ufffc\ufffc\ufffc\ufffc\ufffc\ufffc[A- star] \ufffc\ufffc\ufffc\ufffc\ufffc\ufffc\ufffc\ufffc\ufffc\ufffc\ufffc\ufffc\ufffc\ufffc\ufffc\ufffc"
         ],
@@ -12287,7 +12193,7 @@
     {
         "category": "Science",
         "source": "2017 SCOP MS 7",
-        "question": "A series of reactions named for two of these objects describes the fusion of hydrogen into helium. This particle is the heavier product of beta-minus decay. This particle is made up of two up quarks and one down quark, and the number of these particles in an atom equals the atomic number of its element. For ten points, name this particle that is found in the nucleus with neutrons.",
+        "question": "A series of reactions named for two of these objects describes the fusion of hydrogen into helium. This particle is the heavier product of beta-minus decay. This particle is made up of two up quarks and one down quark, and the number of these particles in an atom equals the atomic number of its element. Name this particle that is found in the nucleus with neutrons.",
         "answers": ["proton"],
         "used": "FALSE"
     },
@@ -12860,7 +12766,7 @@
     {
         "category": "Science",
         "source": "2017 SCOP MS 7",
-        "question": "One of these events radiates from Eltanin and Rastaban. Another of these events appears to originate from the constellation Perseus, as seen from the ground, and occurs each year in August. The Draconids and Perseids are examples of these events, which arise from Earth passing through the debris path of a comet. For ten points, name these brilliant celestial displays in which hundreds of \"shooting stars\" appear.",
+        "question": "One of these events radiates from Eltanin and Rastaban. Another of these events appears to originate from the constellation Perseus, as seen from the ground, and occurs each year in August. The Draconids and Perseids are examples of these events, which arise from Earth passing through the debris path of a comet. Name these brilliant celestial displays in which hundreds of \"shooting stars\" appear.",
         "answers": ["meteor showers"],
         "used": "FALSE"
     },
@@ -12938,7 +12844,7 @@
     {
         "category": "Science",
         "source": "2017 SCOP MS 7",
-        "question": "These objects can be formed when the Tolman-Oppenheimer-Volkovv limit is exceeded, which can cause a gravitational collapse withing the Schwarzchild radius. Spaghettification can result from these objects' extreme gravitational pull, which prevent light from escaping from them. For ten points, name these extremely dark objects in space.",
+        "question": "These objects can be formed when the Tolman-Oppenheimer-Volkovv limit is exceeded, which can cause a gravitational collapse withing the Schwarzchild radius. Spaghettification can result from these objects' extreme gravitational pull, which prevent light from escaping from them. Name these extremely dark objects in space.",
         "answers": ["black holes"],
         "used": "FALSE"
     },
@@ -12980,7 +12886,7 @@
     {
         "category": "Science",
         "source": "2017 SCOP MS 7",
-        "question": "This organ's duct of Wirsung drains through the ampulla of Vater into the duodenum. Like the stomach and intestines, this organ can develop gastrinomas. Amylin and glucagon are produced by beta and alpha cells in this organ's Islets of Langerhans, which helps promote stability of blood glucose levels. Type I diabetes targets, for ten points, what organ's insulin-secreting cells?",
+        "question": "This organ's duct of Wirsung drains through the ampulla of Vater into the duodenum. Like the stomach and intestines, this organ can develop gastrinomas. Amylin and glucagon are produced by beta and alpha cells in this organ's Islets of Langerhans, which helps promote stability of blood glucose levels. Type I diabetes targets what organ's insulin-secreting cells?",
         "answers": ["pancreas"],
         "used": "FALSE"
     },
@@ -13221,7 +13127,7 @@
     {
         "category": "Science",
         "source": "2017 SCOP MS 7",
-        "question": "Jared Diamond explained how this process, as part of a general exploitation of resources, doomed the Rapa Nui on Easter Island. The Sumatran oranguatan has become endangered due to this process, which is common in Indonesia as palm oil consumption has increased. For ten points, name this ecologically-dangerous process in which a tree-heavy biome is cleared and converted to human use, a process that is currently endangering the Amazon.",
+        "question": "Jared Diamond explained how this process, as part of a general exploitation of resources, doomed the Rapa Nui on Easter Island. The Sumatran oranguatan has become endangered due to this process, which is common in Indonesia as palm oil consumption has increased. Name this ecologically-dangerous process in which a tree-heavy biome is cleared and converted to human use, a process that is currently endangering the Amazon.",
         "answers": [
             "deforestation (accept word forms and equivalents that describe any type of forest being cleared or otherwise artificially destroyed; prompt on clearing before \"cleared\" is read; do not accept or prompt on natural processes like wildfires that may have the same effect)"
         ],
@@ -13785,7 +13691,7 @@
     {
         "category": "Science",
         "source": "2017 SCOP MS 7",
-        "question": "One of these objects discovered by Wilhelm Tempel was visited by the Deep Impact mission. These bodies originate from the Oort cloud or the Kuiper \ufffc \ufffc \ufffc belt, depending on the length of their period. These objects have a coma, and leave a trail of gas and dust behind them as they travel through space. For ten points, name these objects, one of which has a regular 76-year orbit and is named for Edmond Halley.",
+        "question": "One of these objects discovered by Wilhelm Tempel was visited by the Deep Impact mission. These bodies originate from the Oort cloud or the Kuiper \ufffc \ufffc \ufffc belt, depending on the length of their period. These objects have a coma, and leave a trail of gas and dust behind them as they travel through space. Name these objects, one of which has a regular 76-year orbit and is named for Edmond Halley.",
         "answers": ["comets"],
         "used": "FALSE"
     },
@@ -14171,7 +14077,7 @@
     {
         "category": "Science",
         "source": "2017 SCOP MS 7",
-        "question": "In this field of mathematics, the unit circle can illustrate how the Pythagorean identities work. Functions used in this branch of mathematics often prefer inputs of radians, rather than degrees. For ten points, name this branch of mathematics, named from the Greek for its primary focus of measuring triangles, in which special functions like sine and cosine are used.",
+        "question": "In this field of mathematics, the unit circle can illustrate how the Pythagorean identities work. Functions used in this branch of mathematics often prefer inputs of radians, rather than degrees. Name this branch of mathematics, named from the Greek for its primary focus of measuring triangles, in which special functions like sine and cosine are used.",
         "answers": ["trigonometry"],
         "used": "FALSE"
     },
@@ -14628,14 +14534,14 @@
     {
         "category": "Science",
         "source": "2017 SCOP MS 7",
-        "question": "This force is related to an accelerating observer by the Equivalence Principle of general relativity. Spacecraft can speed up by using this force as a \"slingshot.\" Galileo used two balls of different masses to demonstrate that the pull of this force is constant, causing acceleration of 9.8 meters per second squared. For ten points, name this force that pulls objects toward large masses like the Earth.",
+        "question": "This force is related to an accelerating observer by the Equivalence Principle of general relativity. Spacecraft can speed up by using this force as a \"slingshot.\" Galileo used two balls of different masses to demonstrate that the pull of this force is constant, causing acceleration of 9.8 meters per second squared. Name this force that pulls objects toward large masses like the Earth.",
         "answers": ["gravity (accept gravitational force)"],
         "used": "FALSE"
     },
     {
         "category": "Science",
         "source": "2017 SCOP MS 7",
-        "question": "During the pachytene stage of this process, chiasmata are created where non-sister chromatids exchange material. The products of this process only have half the original number of chromosomes, but can fuse to form a diploid zygote. For ten points, name this form of cell division that produces four haploid gametes, contrasted with a process that produces two daughter cells, mitosis.",
+        "question": "During the pachytene stage of this process, chiasmata are created where non-sister chromatids exchange material. The products of this process only have half the original number of chromosomes, but can fuse to form a diploid zygote. Name this form of cell division that produces four haploid gametes, contrasted with a process that produces two daughter cells, mitosis.",
         "answers": ["meiosis (prompt on cell division before said)"],
         "used": "FALSE"
     },
@@ -14679,7 +14585,7 @@
     {
         "category": "Science",
         "source": "2015 SCOP Novice 6",
-        "question": "The wave nature of these particles was confirmed by the Davisson-Germer experiment. They are emitted in beta decay and the photoelectric effect, and these leptons drop to the lowest unoccupied energy state to produce spectral lines. Their movement produces current. For ten points, name these particles that orbit the nucleus and are attracted to protons because of their negative charge.",
+        "question": "The wave nature of these particles was confirmed by the Davisson-Germer experiment. They are emitted in beta decay and the photoelectric effect, and these leptons drop to the lowest unoccupied energy state to produce spectral lines. Their movement produces current. Name these particles that orbit the nucleus and are attracted to protons because of their negative charge.",
         "answers": ["electrons"],
         "used": "FALSE"
     },
@@ -14769,7 +14675,7 @@
     {
         "category": "Science",
         "source": "2017 SCOP MS 7",
-        "question": "A square with the same area as one of these shapes can't be drawn with compass and straightedge alone. You cannot draw one of these shapes through a non-square rhombus's four vertices; as a result, those rhombuses are not cyclic. An ellipse with both focuses at the same point is essentially, for ten points, what shape, defined as all points an equal distance away from a center, through which a diameter can be drawn?",
+        "question": "A square with the same area as one of these shapes can't be drawn with compass and straightedge alone. You cannot draw one of these shapes through a non-square rhombus's four vertices; as a result, those rhombuses are not cyclic. An ellipse with both focuses at the same point is essentially what shape, defined as all points an equal distance away from a center, through which a diameter can be drawn?",
         "answers": ["circle"],
         "used": "FALSE"
     },
@@ -14888,7 +14794,7 @@
     {
         "category": "Science",
         "source": "2014 SCOP Novice 5",
-        "question": "Two of this scientist's research subjects were the polio-stricken Mr. McGregor and David Graybeard. Important discoveries by this anthropologist was that her subjects ate meat, even hunting colobus monkeys, and used tools, such as using straws to pick up termites to eat. Goliath was the alpha male in her community at Gombe Stream National Park. For ten points, name this woman who spent over four decades in Tanzania studying chimpanzees.",
+        "question": "Two of this scientist's research subjects were the polio-stricken Mr. McGregor and David Graybeard. Important discoveries by this anthropologist was that her subjects ate meat, even hunting colobus monkeys, and used tools, such as using straws to pick up termites to eat. Goliath was the alpha male in her community at Gombe Stream National Park. Name this woman who spent over four decades in Tanzania studying chimpanzees.",
         "answers": ["Jane Morris Goodall"],
         "used": "FALSE"
     },
@@ -16012,7 +15918,7 @@
     {
         "category": "Science",
         "source": "2017 SCOP MS 7",
-        "question": "Thomas Midgley used this element to boost octane rating and stop engine knocking, but in the 1970s, the United States banned the use of this element as a fuel additive. Exposure to this element increases the risk of neurological problems, especially in children; a recent case of such exposure is ongoing in Flint, Michigan. For ten points, name this toxic element found in old paint and pipes, whose chemical symbol is Pb.",
+        "question": "Thomas Midgley used this element to boost octane rating and stop engine knocking, but in the 1970s, the United States banned the use of this element as a fuel additive. Exposure to this element increases the risk of neurological problems, especially in children; a recent case of such exposure is ongoing in Flint, Michigan. Name this toxic element found in old paint and pipes, whose chemical symbol is Pb.",
         "answers": ["lead (accept Pb before it is read)"],
         "used": "FALSE"
     },
@@ -16623,7 +16529,7 @@
     {
         "category": "Science",
         "source": "2017 SCOP MS 7",
-        "question": "Prions are examples of these molecules that have been misfolded into the wrong 3-D shape. Actin and myosin are muscle-based examples of these molecules, which are formed from long chains of amino acids. In nutrition, these molecules provide 4 Calories per gram, the same as carbohydrates and less than fats. For ten points, name this type of molecule, provided in foods like nuts, dairy, and meat.",
+        "question": "Prions are examples of these molecules that have been misfolded into the wrong 3-D shape. Actin and myosin are muscle-based examples of these molecules, which are formed from long chains of amino acids. In nutrition, these molecules provide 4 Calories per gram, the same as carbohydrates and less than fats. Name this type of molecule, provided in foods like nuts, dairy, and meat.",
         "answers": [
             "proteins (prompt on (poly)peptide) \ufffc\ufffc\ufffc [roos- \ufffc keh] \ufffc\ufffc\ufffc\ufffc\ufffc\ufffc\ufffc\ufffc\ufffc\ufffc\ufffc\ufffc\ufffc\ufffc\ufffc\ufffc"
         ],

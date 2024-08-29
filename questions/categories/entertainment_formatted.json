@@ -1,8 +1,10 @@
 [
     {
         "category": "Entertainment",
-        "question": "This long-running animated sitcom features a talking baby bent on world domination and a dog who enjoys martinis and intellectual pursuits. Created by Seth MacFarlane, this show is set in the fictional town of Quahog, Rhode Island, and follows the misadventures of the Griffin family. It's known for its satirical humor, cutaway gags, and frequent pop culture references. Name this show that has been canceled and revived multiple times, and its controversial content has often sparked debate and criticism.",
-        "answers": ["Family Guy"],
+        "question": "This musician had a long-standing songwriting partnership with Bernie Taupin, which produced numerous chart-topping hits. The artist holds the record for the biggest-selling single of all time with his 1997 tribute to Princess Diana. His flamboyant stage persona, often characterized by extravagant costumes and oversized glasses, became a defining part of his image. His iconic hits like \"Rocket Man,\" \"Tiny Dancer,\" and \"Your Song\" have resonated with audiences for decades. Who is this legendary musician and performer? ",
+        "answers": [
+            "Elton John"
+        ],
         "incorrect1": "",
         "incorrect2": "",
         "incorrect3": "",
@@ -11,8 +13,10 @@
     },
     {
         "category": "Entertainment",
-        "question": "This musician formed the band Wings after The Beatles disbanded, and their hit \"Mull of Kintyre\" became the first single to sell over two million copies in the UK. He co-wrote the song \"Yesterday,\" which holds the record for the most covered song in history.  Knighted in 1997 for his services to music, he's known for his iconic left-handed H\u00f6fner bass guitar. Who is this legendary songwriter and musician?",
-        "answers": ["Paul McCartney"],
+        "question": "This actor's refusal to accept his Academy Award for Best Actor in 1973, sending Sacheen Littlefeather in his place to protest the portrayal of Native Americans in Hollywood, remains a significant moment in Oscar history. He gained early recognition for his powerful performance as Stanley Kowalski in the 1951 film adaptation of \"A Streetcar Named Desire.\" His iconic portrayal of Vito Corleone in \"The Godfather\" solidified his status as a legendary actor.  He also delivered a memorable performance as Colonel Kurtz in the 1979 war epic \"Apocalypse Now.\" Who is this actor, known for his method acting? ",
+        "answers": [
+            "Marlon Brando"
+        ],
         "incorrect1": "",
         "incorrect2": "",
         "incorrect3": "",
@@ -21,8 +25,10 @@
     },
     {
         "category": "Entertainment",
-        "question": "This American mockumentary sitcom, based on a British series of the same name, follows the daily lives of employees at a paper company in Scranton, Pennsylvania.  The show's main character, Michael Scott, is the regional manager, known for his cringe-inducing humor and misguided attempts to be liked by his employees. What is the title of this show, which originally aired from 2005 to 2013 and gained even greater popularity through streaming services?",
-        "answers": ["The Office"],
+        "question": "This movie's memorable score includes the song \"The Power of Love\" by Huey Lewis and the News. Its sequels explore further adventures in time, including a trip to the futuristic year 2015 and a Wild West escapade in 1885. The film's central plot revolves around Marty McFly's accidental journey to 1955, where he inadvertently disrupts his parents' first meeting and must ensure they fall in love to preserve his own existence.  What is the name of this beloved trilogy featuring a time travelling DeLorean? ",
+        "answers": [
+            "Back to the Future"
+        ],
         "incorrect1": "",
         "incorrect2": "",
         "incorrect3": "",
@@ -31,8 +37,10 @@
     },
     {
         "category": "Entertainment",
-        "question": "This film swept the five major categories at the 64th Academy Awards, a rare feat in cinematic history. Its iconic line, \"A census taker once tried to test me...,\" is delivered by the brilliant but manipulative antagonist. The chilling scene of Buffalo Bill dancing to \"Goodbye Horses\" has become a haunting image in pop culture. Jodie Foster stars as Clarice Starling, a young FBI trainee tasked with interviewing Hannibal Lecter to gain insights into the mind of a serial killer. What is the title of this psychological thriller?",
-        "answers": ["The Silence of the Lambs"],
+        "question": "This actor's powerful performance in the 2016 film \"Fences,\" which he also directed, earned him an Academy Award nomination for Best Actor. He began his acting career in theater, gaining recognition for his role in the off-Broadway production of \"A Soldier's Play.\" His breakout film role came in 1989's \"Glory,\" where he portrayed a defiant Civil War soldier, earning him his first Oscar for Best Supporting Actor. Name this actor who also starred in iconic films like \"Malcolm X,\" \"Training Day,\" and \"American Gangster,\" further cementing his status as a Hollywood legend.",
+        "answers": [
+            "Denzel Washington"
+        ],
         "incorrect1": "",
         "incorrect2": "",
         "incorrect3": "",
@@ -41,8 +49,10 @@
     },
     {
         "category": "Entertainment",
-        "question": "This show originally airied on Fox, but it was revived on ABC in 2018. The phrase \"Seacrest out!\" became a catchphrase associated with its long-time host. The show's inaugural season saw Kelly Clarkson emerge victorious, defeating Justin Guarini in the finale. Its iconic trio of judges, Simon Cowell, Paula Abdul, and Randy Jackson, became synonymous with the show's early success. What is the name of this popular singing competition show?",
-        "answers": ["American Idol"],
+        "question": "This band's final studio album, \"In Utero,\" released in 1993, showcased a rawer and more experimental side of the band. Their breakthrough album, \"Nevermind,\" released in 1991, catapulted them to global fame, with the single \"Smells Like Teen Spirit\" becoming an anthem for a generation. Their iconic smiley face logo, designed by Kurt Cobain himself, has become a symbol of grunge culture. Which band is this, whose frontman, Kurt Cobain, tragically died in 1994, leaving behind a profound impact on the music world?",
+        "answers": [
+            "Nirvana"
+        ],
         "incorrect1": "",
         "incorrect2": "",
         "incorrect3": "",
@@ -51,8 +61,10 @@
     },
     {
         "category": "Entertainment",
-        "question": "This film series' iconic vehicles include the Interceptor, a modified Ford Falcon XB GT coupe, and the monstrous Gigahorse truck. The post-apocalyptic setting, characterized by a desert wasteland, is a franchise hallmark. The protagonist, Max Rockatansky, is a former police officer turned lone wanderer. Its groundbreaking practical stunts and visual effects have influenced countless action films. What is the name of this franchise, with a recent prequel, \"Furiosa\"?",
-        "answers": ["Mad Max", "Mad Max Fury Road", "Mad Max Furiosa"],
+        "question": "This film features a memorable scene where the protagonist accidentally inspires a new dance move during a televised ping pong match. It also includes the iconic line, \"Life is like a box of chocolates. You never know what you're gonna get,\" spoken by the title character. The film follows the life of a kind-hearted but slow-witted man from Alabama who unwittingly influences several historical events of the 20th century. Name this movie that won six Academy Awards, including Best Picture and Best Actor for Tom Hanks' portrayal of the title character.",
+        "answers": [
+            "Forrest Gump"
+        ],
         "incorrect1": "",
         "incorrect2": "",
         "incorrect3": "",
@@ -61,8 +73,10 @@
     },
     {
         "category": "Entertainment",
-        "question": "This artist holds the distinction of being the only person to win an Oscar, Emmy, Grammy, and Tony Award, as well as a Golden Globe, CableACE Award, and Peabody Award. She made her Broadway debut in the musical \"I Can Get It for You Wholesale\" in 1962. Her iconic roles in films like \"Funny Girl\" and \"The Way We Were\" cemented her status as a Hollywood legend. Beyond acting, she is also renowned for her powerful vocals, releasing numerous chart-topping albums throughout her career. Who is this multi-talented entertainer, often referred to by her initials, \"Babs\"?",
-        "answers": ["Barbra Streisand", "Streisand"],
+        "question": "This television series, set in the early 20th century, follows the lives of the aristocratic Crawley family and their servants in the fictional Yorkshire country estate. It garnered critical acclaim and numerous awards, including multiple Primetime Emmy Awards and Golden Globes. Its storylines explore themes of social change, class conflict, and the changing roles of women in British society during the Edwardian era and the First World War. What is the name of this popular British historical drama?",
+        "answers": [
+            "Downton Abbey"
+        ],
         "incorrect1": "",
         "incorrect2": "",
         "incorrect3": "",

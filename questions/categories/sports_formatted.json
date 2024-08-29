@@ -1,82 +1,95 @@
 [
     {
         "category": "Sports",
-        "question": "This team, originally based in Chicago and known as the Packers, relocated to Baltimore in 1951 and became the Bullets.  After a move to the nation's capital in 1973, they changed their name to reflect the city's heritage. Their most successful era came in the 1970s when they won their only NBA championship in 1978 led by Wes Unseld and Elvin Hayes. What is the name of this team that plays in Capital One Arena?",
-        "answers": ["Washington Wizards"],
-        "incorrect1": "",
-        "incorrect2": "",
-        "incorrect3": "",
-        "used": "TRUE",
-        "source": "Marty Heavey"
-    },
-    {
-        "category": "Sports",
-        "question": "This swimmer's dominance in the 800-meter freestyle is unparalleled, having claimed victory at four consecutive Olympic Games from 2012 to 2024. She holds multiple world records in various freestyle events, including the 400m, 800m, and 1500m distances. A native of Bethesda, Maryland, she began swimming competitively at a young age and quickly rose to prominence, breaking numerous age-group records. Who is this athlete, often referred to as the greatest female swimmer of all time?",
-        "answers": ["Katie Ledecky"],
-        "incorrect1": "",
-        "incorrect2": "",
-        "incorrect3": "",
-        "used": "TRUE",
-        "source": "Marty Heavey"
-    },
-    {
-        "category": "Sports",
-        "question": "This track and field athlete's record-breaking long jump of 8.95 meters at the 1991 World Championships in Tokyo stood for over three decades. He won nine Olympic gold medals, including four consecutive golds in the long jump from 1984 to 1996. He also achieved the remarkable feat of winning four Olympic gold medals in a single Olympics, mirroring Jesse Owens' achievement in 1936. Who is this legendary athlete, considered one of the greatest track and field stars of all time?",
-        "answers": ["Carl Lewis"],
-        "incorrect1": "",
-        "incorrect2": "",
-        "incorrect3": "",
-        "used": "TRUE",
-        "source": "Marty Heavey"
-    },
-    {
-        "category": "Sports",
-        "question": "This iconic athlete's famous nickname, \"The Bambino,\" is an Italian term for \"baby.\" He initially started his career as a pitcher for the Boston Red Sox, winning three World Series titles before being controversially sold to the New York Yankees in 1919. This move sparked the so-called \"Curse of the Bambino,\" which supposedly plagued the Red Sox for 86 years until they finally won another World Series in 2004. Name this athlete that retired in 1935, but his record of 714 career home runs stood for nearly 40 years until it was broken by Hank Aaron in 1974.",
-        "answers": ["Babe Ruth"],
-        "incorrect1": "",
-        "incorrect2": "",
-        "incorrect3": "",
-        "used": "TRUE",
-        "source": "Marty Heavey"
-    },
-    {
-        "category": "Sports",
-        "question": "This footballer, known for his incredible goalscoring prowess, set a new Premier League record in his debut season by netting an astonishing 36 goals. He was born in Leeds, England, while his father, Alfie, was playing for Leeds United. He started his professional career at the Norwegian club Bryne FK and later gained international recognition during his stints at Red Bull Salzburg and Borussia Dortmund. Currently, he plays for Manchester City, where he continues to break records and dazzle fans with his clinical finishing and powerful presence. Who is this prolific striker?",
-        "answers": ["Erling Haaland"],
-        "incorrect1": "",
-        "incorrect2": "",
-        "incorrect3": "",
-        "used": "TRUE",
-        "source": "Marty Heavey"
-    },
-    {
-        "category": "Sports",
-        "question": "This athlete's rivalry with Larry Bird, which began in college, captivated the nation and fueled the NBA's popularity in the 1980s. He famously played all five positions in Game 6 of the 1980 NBA Finals, leading his team to a championship and earning the Finals MVP award as a rookie. He shocked the world in 1991 when he announced his retirement from basketball after testing positive for HIV. However, he made a triumphant return to the sport, winning a gold medal with the \"Dream Team\" at the Barcelona Olympics. Who is this legendary Laker, known by his iconic nickname?",
-        "answers": ["Magic Johnson", "Earvin Magic Johnson", "Magic", "Earvin"],
-        "incorrect1": "",
-        "incorrect2": "",
-        "incorrect3": "",
-        "used": "TRUE",
-        "source": "Marty Heavey"
-    },
-    {
-        "category": "Sports",
-        "question": "This NFL team, despite its storied history, is one of four teams to have never reached a Super Bowl, yet they boast a proud tradition, having won four NFL Championships prior to the Super Bowl era. Their iconic Honolulu blue and silver uniforms are a familiar sight on the gridiron, and their home, Ford Field, roars with the energy of their devoted fanbase. Which team, once starring Barry Sanders, plays in Detroit?",
-        "answers": ["Detroit Lions"],
-        "incorrect1": "",
-        "incorrect2": "",
-        "incorrect3": "",
-        "used": "TRUE",
-        "source": "Marty Heavey"
-    },
-    {
-        "category": "Sports",
         "question": "This athlete ventured into boxing in 2017, facing Floyd Mayweather Jr. in a highly publicized match. Outside the ring, he's known for his flamboyant personality, brash trash talk, and successful whiskey brand, Proper No. Twelve. He holds the distinction of being the first UFC fighter to simultaneously hold titles in two weight classes, featherweight and lightweight. His lightning-fast 13-second knockout of Jose Aldo in 2015 is still considered one of the most iconic moments in UFC history. Who is this Irish mixed martial artist?",
-        "answers": ["Conor McGregor", "mcgregor"],
+        "answers": [
+            "Conor McGregor",
+            "mcgregor"
+        ],
         "incorrect1": "",
         "incorrect2": "",
         "incorrect3": "",
-        "used": "FALSE",
+        "used": "TRUE",
+        "source": "Marty Heavey"
+    },
+    {
+        "category": "Sports",
+        "question": "Brothers with this surname host the podcast titled \"New Heights\" which is rumored to have earned them a deal around $100 million from Amazon's podcasting arm. The podcast delves into their experiences in the NFL. They made history in 2023 as the first brothers to face each other in a Super Bowl, with one playing for the Kansas City Chiefs and the other for the Philadelphia Eagles. What is the last name of these brothers, one of who retired as the center of the Eagles and the other who dates Taylor Swift.",
+        "answers": [
+            "Kelce",
+            "Travis Kelce",
+            "Jason Kelce"
+        ],
+        "incorrect1": "",
+        "incorrect2": "",
+        "incorrect3": "",
+        "used": "TRUE",
+        "source": "Marty Heavey"
+    },
+    {
+        "category": "Sports",
+        "question": "This track athlete captured the world's attention at the 1988 Seoul Olympics, winning three gold medals and one silver. Tragically, she passed away in her sleep at the young age of 38 due to an epileptic seizure. Her world records in the 100-meter and 200-meter sprints, set in 1988, remain unbroken to this day, solidifying her legacy as the fastest woman of all time. Who was this sprinting legend, affectionately known as \"Flo-Jo\"?",
+        "answers": [
+            "Florence Griffith Joyner",
+            "Flo jo",
+            "flojo",
+            "flo-jo"
+        ],
+        "incorrect1": "",
+        "incorrect2": "",
+        "incorrect3": "",
+        "used": "TRUE",
+        "source": "Marty Heavey"
+    },
+    {
+        "category": "Sports",
+        "question": "The Men's T20 World Cup for this sport was co-hosted by the United States and won by India. This sport's unique terminology includes terms like \"googly,\" a type of delivery that spins in the opposite direction of what the batsman expects, and \"silly point,\" a close-in fielding position near the batsman. Its matches can span multiple days, with the longest format lasting up to five days, testing players' endurance and strategic prowess. What is this bat-and-ball game, beloved by millions worldwide, especially in countries like India, Australia, and England?",
+        "answers": [
+            "Cricket"
+        ],
+        "incorrect1": "",
+        "incorrect2": "",
+        "incorrect3": "",
+        "used": "TRUE",
+        "source": "Marty Heavey"
+    },
+    {
+        "category": "Sports",
+        "question": "This Major League Baseball team clinched its first World Series championship in 1985, led by iconic players like George Brett and Bret Saberhagen. After a period of rebuilding, they made a triumphant return to the World Series in 2014, ultimately falling short, but redeemed themselves the following year, capturing their second title in 2015. They are known for their iconic powder blue uniforms and a passionate fanbase that weathered the ups and downs of the team's history. What is the name of this team based in Kansas City?",
+        "answers": [
+            "Kansas City Royals",
+            "Royals"
+        ],
+        "incorrect1": "",
+        "incorrect2": "",
+        "incorrect3": "",
+        "used": "TRUE",
+        "source": "Marty Heavey"
+    },
+    {
+        "category": "Sports",
+        "question": "This Formula One driver tragically suffered a severe head injury in a skiing accident in 2013 and has remained out of the public eye since then. His dominance in the sport was particularly evident during his time with Ferrari. He also shares the record for the most World Drivers' Championship titles with Lewis Hamilton, both having secured seven.  He holds the record for the most consecutive Drivers' Championships, winning five in a row from 2000 to 2004. Who is this iconic German racing driver, often referred to as \"Schumi\"? ",
+        "answers": [
+            "Michael Schumacher",
+            "Mick Schumacher",
+            "Schumacher"
+        ],
+        "incorrect1": "",
+        "incorrect2": "",
+        "incorrect3": "",
+        "used": "TRUE",
+        "source": "Marty Heavey"
+    },
+    {
+        "category": "Sports",
+        "question": "This athlete's number, 42, was retired across Major League Baseball in 1997, a testament to his enduring legacy. His impressive career batting average of .311 over ten seasons with the Brooklyn Dodgers showcased his talent and resilience. He was awarded the inaugural Rookie of the Year Award in 1947, recognizing his immediate impact on the game. His courageous breaking of baseball's color barrier in 1947 paved the way for countless African American athletes and challenged societal norms. Who was this trailblazing baseball player?",
+        "answers": [
+            "Jackie Robinson"
+        ],
+        "incorrect1": "",
+        "incorrect2": "",
+        "incorrect3": "",
+        "used": "TRUE",
         "source": "Marty Heavey"
     }
 ]
