@@ -141,12 +141,17 @@ const FinishScreen = ({
                 Streak: <span className="Streak">{streak}</span> days
             </h3>
             <div className="Share">
-                <BasicButton onClick={share}>share</BasicButton>
+                <BasicButton onClick={share} className="ShareButton">
+                    Share your score!
+                </BasicButton>
             </div>
             {showResults()}
             <div className="Footer">
                 <BasicButton onClick={() => setScreenShowing(screens.start)}>
                     Home
+                </BasicButton>
+                <BasicButton onClick={share} className="ShareButton">
+                    Share your score!
                 </BasicButton>
             </div>
         </div>

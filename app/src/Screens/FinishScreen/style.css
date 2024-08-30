@@ -28,9 +28,26 @@
 .Footer {
     display: flex;
     padding-bottom: 20px;
-    justify-content: center;
+    justify-content: space-around;
 }
 
 .MultipleChoiceMode {
     color: var(--red);
+}
+
+.ShareButton {
+    animation: pulse 1.5s infinite; /* Adjust duration as needed */
+    font-weight: bold;
+    border: 2px solid black;
+}
+@keyframes pulse {
+    0% {
+        transform: scale(1); /* Start at normal size */
+    }
+    50% {
+        transform: scale(1.05); /* Slightly increase size */
+    }
+    100% {
+        transform: scale(1); /* Return to normal size */
+    }
 }
