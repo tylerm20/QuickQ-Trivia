@@ -96,6 +96,7 @@ const FinishScreen = ({
             label: "copy",
             value: score,
         });
+        const sharableResults = getResultsStr();
         navigator.clipboard.writeText(sharableResults).then(() => {
             console.log(sharableResults);
             alert("Copied to clipboard");
