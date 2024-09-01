@@ -80,6 +80,7 @@ const FinishScreen = ({
             navigator.share({
                 title: "Results",
                 text: sharableResults,
+                url: "https://QuickQTrivia.com",
             });
         } else {
             navigator.clipboard.writeText(sharableResults).then(() => {
@@ -115,14 +116,14 @@ const FinishScreen = ({
             sharableResultsArr.push(row);
             i += 1;
         }
-        sharableResultsArr.push("QuickQTrivia.com");
+        // sharableResultsArr.push("QuickQTrivia.com");
         return sharableResultsArr.join("\n");
     };
 
     return (
         <div className="FinishScreen">
             <h3 className="GameOver">
-                g Game Over:
+                Game Over:
                 <br />
                 {finalTime === GAME_SECONDS
                     ? "You ran out of time"
