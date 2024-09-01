@@ -3,7 +3,7 @@ import "./style.css";
 
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faX } from "@fortawesome/free-solid-svg-icons";
-import { faXTwitter } from "@fortawesome/free-brands-svg-icons";
+import { faInstagram, faXTwitter } from "@fortawesome/free-brands-svg-icons";
 import { faDiscord } from "@fortawesome/free-brands-svg-icons";
 import { faFacebook } from "@fortawesome/free-brands-svg-icons";
 
@@ -53,6 +53,15 @@ const SettingsScreen = ({ showModal, setShowModal }) => {
                 <div className="CommunityFooter">
                     <div className="JoinTheCommunity">Join the Community:</div>
                     <div className="Logos">
+                        <a
+                            href="https://www.instagram.com/quickqtrivia/?next=%2F&hl=en"
+                            target="_blank"
+                        >
+                            <FontAwesomeIcon
+                                icon={faInstagram}
+                                className="SocialLogo"
+                            />
+                        </a>
                         <a
                             href="https://www.facebook.com/profile.php?id=61562298087777"
                             target="_blank"
