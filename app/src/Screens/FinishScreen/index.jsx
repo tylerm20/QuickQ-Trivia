@@ -80,7 +80,6 @@ const FinishScreen = ({
             navigator.share({
                 title: "Results",
                 text: sharableResults,
-                url: "https://QuickQTrivia.com/home ",
             });
         } else {
             navigator.clipboard.writeText(sharableResults).then(() => {
@@ -88,6 +87,19 @@ const FinishScreen = ({
                 alert("Copied to clipboard");
             });
         }
+    };
+
+    const copyToClipboard = () => {
+        ReactGA.event({
+            category: gameMode,
+            action: "share",
+            label: "copy",
+            value: score,
+        });
+        navigator.clipboard.writeText(sharableResults).then(() => {
+            console.log(sharableResults);
+            alert("Copied to clipboard");
+        });
     };
 
     const getResultsStr = () => {
@@ -116,7 +128,7 @@ const FinishScreen = ({
             sharableResultsArr.push(row);
             i += 1;
         }
-        // sharableResultsArr.push("QuickQTrivia.com");
+        sharableResultsArr.push("https://QuickQTrivia.com");
         return sharableResultsArr.join("\n");
     };
 
@@ -151,8 +163,8 @@ const FinishScreen = ({
                 <BasicButton onClick={() => setScreenShowing(screens.start)}>
                     Home
                 </BasicButton>
-                <BasicButton onClick={share} className="ShareButton">
-                    Share your score!
+                <BasicButton onClick={copyToClipboard} className="ShareButton">
+                    Copy results to clipboard
                 </BasicButton>
             </div>
         </div>
