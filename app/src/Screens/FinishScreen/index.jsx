@@ -115,7 +115,7 @@ const FinishScreen = ({
             sharableResultsArr.push(row);
             i += 1;
         }
-        sharableResultsArr.push("\nwww.QuickQTrivia.com \n");
+        sharableResultsArr.push("QuickQTrivia.com");
         return sharableResultsArr.join("\n");
     };
 
