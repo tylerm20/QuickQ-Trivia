@@ -80,7 +80,7 @@ const FinishScreen = ({
             navigator.share({
                 title: "Results",
                 text: sharableResults,
-                url: "https://QuickQTrivia.com/ ",
+                url: "https://QuickQTrivia.com/home ",
             });
         } else {
             navigator.clipboard.writeText(sharableResults).then(() => {
