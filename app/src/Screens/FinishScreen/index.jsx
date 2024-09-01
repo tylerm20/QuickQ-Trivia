@@ -77,15 +77,29 @@ const FinishScreen = ({
         });
         const sharableResults = getResultsStr();
         if (navigator.canShare) {
-            navigator.share({
-                text: sharableResults,
-            });
+            navigator
+                .share({
+                    text: sharableResults,
+                })
+                .catch((e) => console.error("unable to share: " + e));
         } else {
             navigator.clipboard.writeText(sharableResults).then(() => {
-                console.log(sharableResults);
                 alert("Copied to clipboard");
             });
         }
+    };
+
+    const copyToClipboard = () => {
+        ReactGA.event({
+            category: gameMode,
+            action: "share",
+            label: "score",
+            value: score,
+        });
+        const sharableResults = getResultsStr();
+        navigator.clipboard.writeText(sharableResults).then(() => {
+            alert("Copied to clipboard");
+        });
     };
 
     const getResultsStr = () => {
@@ -115,9 +129,6 @@ const FinishScreen = ({
             sharableResultsArr.push(row);
             i += 1;
         }
-        sharableResultsArr.push(
-            "Play here: \n     https://www.QuickQTrivia.com"
-        );
         return sharableResultsArr.join("\n");
     };
 
@@ -146,13 +157,11 @@ const FinishScreen = ({
                 <BasicButton onClick={share} className="ShareButton">
                     Share your score!
                 </BasicButton>
-            </div>
-            {showResults()}
-            <div className="Share">
-                <BasicButton onClick={share} className="ShareButton">
-                    Share your score!
+                <BasicButton onClick={copyToClipboard} className="ShareButton">
+                    Copy score to clipboard!
                 </BasicButton>
             </div>
+            {showResults()}
             <div className="Footer">
                 <BasicButton onClick={() => setScreenShowing(screens.start)}>
                     Home
