@@ -158,8 +158,13 @@ function App() {
     useEffect(() => {
         const fetchQuestionsFromServer = () => {
             setIsFetchingQuestions(true);
-            const today = new Date().toDateString();
-            const isoDateString = new Date(today).toISOString().split("T")[0]; // Get only the date part (YYYY-MM-DD)
+            const today = new Date();
+            const year = today.getFullYear();
+            const month = String(today.getMonth() + 1).padStart(2, "0"); // Months are 0-indexed
+            const day = String(today.getDate()).padStart(2, "0");
+            const isoDateString = `${year}-${month}-${day}`;
+            console.log(today);
+            console.log(isoDateString);
             console.log(process.env.REACT_APP_API_URL);
             fetch(
                 `${process.env.REACT_APP_API_URL}/questions/${isoDateString}`,
