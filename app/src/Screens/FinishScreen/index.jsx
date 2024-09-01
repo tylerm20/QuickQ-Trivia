@@ -115,14 +115,14 @@ const FinishScreen = ({
             sharableResultsArr.push(row);
             i += 1;
         }
-        sharableResultsArr.push("\nwww.QuickQTrivia.com\n");
+        sharableResultsArr.push("\nwww.QuickQTrivia.com \n");
         return sharableResultsArr.join("\n");
     };
 
     return (
         <div className="FinishScreen">
             <h3 className="GameOver">
-                Game Over:
+                g Game Over:
                 <br />
                 {finalTime === GAME_SECONDS
                     ? "You ran out of time"
