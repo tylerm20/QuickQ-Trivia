@@ -79,6 +79,7 @@ const FinishScreen = ({
         if (navigator.canShare) {
             navigator
                 .share({
+                    title: "Results",
                     text: sharableResults,
                 })
                 .catch((e) => console.error("unable to share: " + e));
@@ -98,6 +99,7 @@ const FinishScreen = ({
         });
         const sharableResults = getResultsStr();
         navigator.clipboard.writeText(sharableResults).then(() => {
+            console.log(sharableResults);
             alert("Copied to clipboard");
         });
     };
@@ -105,7 +107,7 @@ const FinishScreen = ({
     const getResultsStr = () => {
         const sharableResultsArr = [
             `QuickQ: ${new Date().toLocaleDateString()}`,
-            // "Play at QuickQTrivia.com",
+            "Play at QuickQTrivia.com ",
             `Score: ${finalScore}${isMultipleChoiceMode(gameMode) ? "*" : ""}`,
             `Time: ${finalTime}s`,
         ];
