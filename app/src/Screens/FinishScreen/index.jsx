@@ -131,6 +131,8 @@ const FinishScreen = ({
             sharableResultsArr.push(row);
             i += 1;
         }
+        sharableResultsArr.push("Play here: ");
+        sharableResultsArr.push("\t QuickQTrivia.com");
         return sharableResultsArr.join("\n");
     };
 
