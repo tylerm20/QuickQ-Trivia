@@ -81,7 +81,6 @@ const FinishScreen = ({
                 .share({
                     title: "Results",
                     text: sharableResults,
-                    url: "QuickQTrivia.com",
                 })
                 .catch((e) => console.error("unable to share: " + e));
         } else {
