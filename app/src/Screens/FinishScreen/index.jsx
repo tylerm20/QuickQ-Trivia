@@ -79,7 +79,6 @@ const FinishScreen = ({
         if (navigator.canShare) {
             navigator
                 .share({
-                    title: "Results",
                     text: sharableResults,
                 })
                 .catch((e) => console.error("unable to share: " + e));
