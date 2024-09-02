@@ -1,3 +1,4 @@
+import React, { useEffect, useRef } from "react";
 import Modal from "../../Components/Modal";
 import "./style.css";
 
@@ -8,33 +9,56 @@ import { faDiscord } from "@fortawesome/free-brands-svg-icons";
 import { faFacebook } from "@fortawesome/free-brands-svg-icons";
 
 const SettingsScreen = ({ showModal, setShowModal }) => {
+    const modalRef = useRef(null); // Create a ref to the modal content
+    useEffect(() => {
+        const handleClickOutside = (event) => {
+            if (modalRef.current && !modalRef.current.contains(event.target)) {
+                setShowModal(false);
+            }
+        };
+        if (showModal) {
+            document.addEventListener("mousedown", handleClickOutside);
+        } else {
+            document.removeEventListener("mousedown", handleClickOutside);
+        }
+
+        return () => {
+            document.removeEventListener("mousedown", handleClickOutside);
+        };
+    }, [showModal, setShowModal]);
+
     return (
         <Modal showModal>
-            <div className="Settings">
+            <div className="Settings" ref={modalRef}>
                 <FontAwesomeIcon
                     icon={faX}
                     className="CloseIcon"
                     onClick={() => setShowModal(false)}
                 />
                 <div>
-                    QuickQ is a 90 second daily trivia quiz. Once you start the
-                    game, a timer starts counting down. During the game, a
-                    question will begin to appear one character at a time. If
-                    you think you know the answer to the question, hit the
-                    "Buzz" button and type in your answer. Hitting the "Buzz"
-                    button will stop new characters of the question from
-                    appearing. Your timer is stopped while you are typing your
-                    answer, but you only have 15 seconds to submit your answer.
-                    You can also skip any question by pressing the "Skip"
-                    button. See how many questions you can answer correctly in
-                    90 seconds! Start a streak to see how many days in a row you
-                    can answer at least one question correctly.
+                    <h3>How to Play QuickQ</h3>
+                    <b>QuickQ</b> is a <b>90 second</b> daily trivia quiz. Once
+                    you start the game, your timer starts counting down. During
+                    the game, a question will begin to appear one character at a
+                    time. If you think you know the answer to the question, hit
+                    the <b>"Buzz"</b> button and type in your answer. Your timer
+                    is stopped while you are typing your answer, but you only
+                    have 15 seconds to submit it. You can also skip any question
+                    by pressing the <b>"Skip"</b> button.
                     <p>
-                        There are 8 categories of questions: Current Events,
-                        U.S. History, Sports, World History, Science, Geography,
-                        Arts & Literature, and Entertainment (TV, Movies,
-                        Music). Each day's Quiz will feature one question from
-                        each category.
+                        Try <b>Multiple Choice</b> mode to get started or
+                        challenge yourself with <b>Free Response</b> mode!
+                    </p>
+                    <p>
+                        Each quiz has one question from each of the{" "}
+                        <b>8 categories</b>: Current Events 🗞️, World History
+                        🏺, Sports 🏆, US History 🇺🇸, Entertainment 🎬,
+                        Geography 🌏, Science 🔬, and Arts & Literature 🎭.
+                    </p>
+                    <p>
+                        See how many questions you can answer correctly in 90
+                        seconds! Start a <b>streak</b> to see how many days in a
+                        row you can answer at least one question correctly.
                     </p>
                     <p>
                         All data used for statistics is stored locally in your
@@ -42,7 +66,7 @@ const SettingsScreen = ({ showModal, setShowModal }) => {
                         browser's storage you will lose your stats.
                     </p>
                 </div>
-                <br />
+                <h3>Community</h3>
                 <div>
                     Send your feedback or question suggestions to{" "}
                     <a href="mailto:QuickQTrivia@gmail.com">

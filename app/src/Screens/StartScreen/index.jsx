@@ -47,6 +47,12 @@ const StartScreen = ({
         );
     };
 
+    useEffect(() => {
+        if (doesNotHaveGameResultsStored()) {
+            setShowSettingsModal(true);
+        }
+    }, []);
+
     return (
         <div className="StartScreen">
             {showSettingsModal && (
