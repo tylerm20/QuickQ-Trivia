@@ -108,10 +108,10 @@ const FinishScreen = ({
     const getResultsStr = () => {
         const sharableResultsArr = [
             `QuickQ`,
-            `${new Date().toString()}`,
-            // "Play at QuickQTrivia.com ",
-            // `Score: ${finalScore}${isMultipleChoiceMode(gameMode) ? "*" : ""}`,
-            // `Time: ${finalTime}s`,
+            `${new Date().toLocaleDateString()}`,
+            "Play at QuickQTrivia.com",
+            `Score: ${finalScore}${isMultipleChoiceMode(gameMode) ? "*" : ""}`,
+            `Time: ${finalTime}s`,
         ];
         if (isMultipleChoiceMode(gameMode)) {
             sharableResultsArr.splice(2, 0, "*Mode: 🔠");
