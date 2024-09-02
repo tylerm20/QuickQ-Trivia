@@ -81,6 +81,7 @@ const FinishScreen = ({
                 .share({
                     title: "Results",
                     text: sharableResults,
+                    url: "QuickQTrivia.com",
                 })
                 .catch((e) => console.error("unable to share: " + e));
         } else {
@@ -106,7 +107,8 @@ const FinishScreen = ({
 
     const getResultsStr = () => {
         const sharableResultsArr = [
-            `QuickQ: ${new Date().toLocaleDateString()}`,
+            `QuickQ`,
+            `${new Date().toString()}`,
             // "Play at QuickQTrivia.com ",
             // `Score: ${finalScore}${isMultipleChoiceMode(gameMode) ? "*" : ""}`,
             // `Time: ${finalTime}s`,
