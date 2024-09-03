@@ -1,8 +1,11 @@
 [
     {
         "category": "Current Events",
-        "question": "The prime minister of this nation announced he would step down in September 2024. The governing Liberal Democratic Party (LDP) will elect the leader to succeed Fumio Kishida as prime minister. This country's LDP has been in power for most of the postwar period, with brief interruptions. The national government features a bicameral parliament called the National Diet, consisting of the House of Representatives and the House of Councillors. Though a constitutional monarchy, its Emperor holds a largely ceremonial role. Which Asian country is this, known for its unique blend of tradition and modernity?",
-        "answers": ["Japan"],
+        "question": "This indigenous people recently mourned the passing of their beloved king, Kiingi T\u016bheitia, who held the position for 16 years. Their traditional greeting, the hongi, involves pressing noses and foreheads together to share the breath of life. Their intricate wood carvings and tattoos, known as t\u0101 moko, are significant cultural expressions. Their war dance, the haka, is a powerful display of strength and unity, often performed before sporting events or other important occasions. Who are these indigenous Polynesian people of New Zealand?",
+        "answers": [
+            "M\u0101ori",
+            "Maori"
+        ],
         "incorrect1": "",
         "incorrect2": "",
         "incorrect3": "",
@@ -11,8 +14,10 @@
     },
     {
         "category": "Current Events",
-        "question": "This country's parliament elected their youngest prime minister on August 16, 2024. Paetongtarn Shinawatra, a member of a prominent political family, still needs to be endorsed by King Maha Vajiralongkorn before she can officially take office. This nation's flag features two white stripes, a central blue stripe, and two red stripes. It is home to the world's largest solid gold Buddha statue, weighing 5.5 tons. Name this country that is famous for its cuisine including Tom Yung Goong and Pad Thai.",
-        "answers": ["Thailand"],
+        "question": "This region, located to the west of the Jordan River, is currently under Israeli military occupation, though it has been the subject of numerous peace negotiations and international disputes. It is home to significant religious sites for both Muslims and Jews, including the Cave of the Patriarchs in Hebron and the ancient city of Jericho. Its major cities include Ramallah, Nablus, and Bethlehem, the birthplace of Jesus Christ. The area is also known for its olive oil production and its rich cultural heritage. What is this region, a central part of the Israeli-Palestinian conflict?",
+        "answers": [
+            "West Bank"
+        ],
         "incorrect1": "",
         "incorrect2": "",
         "incorrect3": "",
@@ -21,8 +26,10 @@
     },
     {
         "category": "Current Events",
-        "question": "This disease, once primarily associated with Central and West Africa, saw a global outbreak in 2022, leading the World Health Organization to declare it a Public Health Emergency of International Concern. It is transmitted through close contact with infected individuals, animals, or contaminated materials. Symptoms include fever, rash, and swollen lymph nodes. What is this disease, which seen increased infection levels in 2024, formerly known as monkeypox?",
-        "answers": ["Mpox", "monkeypox"],
+        "question": "This arid Southern African nation's government is considering allowing the culling and consumption of elephants and zebras to alleviate food shortages and protect other endangered species during their severe drought. The nation borders Angola and Zambia to the north, Botswana to the east and South Africa to the east and south It is also home to the world's oldest desert, the Namib, and the majestic Etosha National Park, a haven for wildlife. What is the name of this country, the driest in sub-Saharan Africa?",
+        "answers": [
+            "Namibia"
+        ],
         "incorrect1": "",
         "incorrect2": "",
         "incorrect3": "",
@@ -31,8 +38,11 @@
     },
     {
         "category": "Current Events",
-        "question": "Individuals were recently arrested related to this man's death in October 2023.  He was nominated for a Primetime Emmy Award for his guest role on \"The West Wing.\" This actor's memoir, \"Friends, Lovers, and the Big Terrible Thing,\" candidly details his struggles with addiction and his journey to sobriety. He is most celebrated for his iconic role as the witty and sarcastic Chandler Bing in the beloved sitcom \"Friends.\" Who is this actor? ",
-        "answers": ["Matthew Perry"],
+        "question": "This international multi-sport event first took place in Rome in 1960, with 400 athletes from 23 countries participating. It is held every four years, following the Olympic Games. The event's motto, \"Spirit in Motion,\" embodies the determination and resilience of its athletes. Its logo features three Agitos, swirling shapes in red, blue, and green, representing the three core values of the games' movement: courage, determination, and inspiration. What is the name of this major sporting event featuring athletes with a range of disabilities? ",
+        "answers": [
+            "Paralympics",
+            " Paralympic games"
+        ],
         "incorrect1": "",
         "incorrect2": "",
         "incorrect3": "",
@@ -41,8 +51,10 @@
     },
     {
         "category": "Current Events",
-        "question": "This annual end-of-summer event is governed by 10 principles, including radical self-reliance, gifting, and leaving no trace. Participants create a temporary city, Black Rock City in the Nevada desert, filled with art installations, theme camps, and interactive experiences. What is the name of this unique event that culminates in the burning of a large wooden effigy, symbolizing a ritual farewell to the past?",
-        "answers": ["Burning man"],
+        "question": "The first case of this disease in Gaza in 25 years was recently diagnosed. This led to a large-scale vaccination campaign and Israel agreeing to limited pauses in fighting to allow for the vaccination. This disease, once a global scourge, primarily affects children under five and can cause irreversible paralysis in a matter of hours. It's transmitted through contaminated food or water and multiplies in the intestine before attacking the nervous system. What is the name of this infectious disease, which afflicted FDR, that has mostly been eradicated?",
+        "answers": [
+            "Polio"
+        ],
         "incorrect1": "",
         "incorrect2": "",
         "incorrect3": "",
@@ -51,18 +63,10 @@
     },
     {
         "category": "Current Events",
-        "question": "This US city played host to the 2024 Democratic National Convention. This city is home to the world's first skyscraper, the ten-story Home Insurance Building, built in 1885. It also boasts the iconic Cloud Gate sculpture, affectionately known as \"The Bean,\" in Millennium Park. The city's river is famously dyed green every St. Patrick's Day. Additionally, it is the birthplace of deep-dish pizza, a culinary delight loved by many. What is the name of this city, often called the \"Windy City\"?",
-        "answers": ["Chicago", "Chicago Illinois"],
-        "incorrect1": "",
-        "incorrect2": "",
-        "incorrect3": "",
-        "used": "TRUE",
-        "source": "Marty Heavey"
-    },
-    {
-        "category": "Current Events",
-        "question": "This man recently plead guilty to charges of wire fraud and identity theft. He was elected to the US House of Representatives in 2022 as a Republican from New York becoming the first openly gay Republican elected to Congress. Shortly after this man was elected, news broke that much of his biography was fabricated and he faced calls to resign. Name this man who resigned in disgrace from the House in December 2023.",
-        "answers": ["George Santos "],
+        "question": "This country recently made headlines when a court blocked the social media platform X, formerly known as Twitter, citing concerns about the spread of misinformation and hate speech. It is also the birthplace of samba, a vibrant dance and music genre that has become synonymous with its annual Carnival celebration.  Furthermore, it boasts the iconic Christ the Redeemer statue, overlooking the bustling city of Rio de Janeiro. What is this South American nation, known for its rich culture, biodiversity, and passion for football?",
+        "answers": [
+            "Brazil"
+        ],
         "incorrect1": "",
         "incorrect2": "",
         "incorrect3": "",

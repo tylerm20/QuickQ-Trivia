@@ -1,10 +1,10 @@
 [
     {
         "category": "Sports",
-        "question": "This athlete ventured into boxing in 2017, facing Floyd Mayweather Jr. in a highly publicized match. Outside the ring, he's known for his flamboyant personality, brash trash talk, and successful whiskey brand, Proper No. Twelve. He holds the distinction of being the first UFC fighter to simultaneously hold titles in two weight classes, featherweight and lightweight. His lightning-fast 13-second knockout of Jose Aldo in 2015 is still considered one of the most iconic moments in UFC history. Who is this Irish mixed martial artist?",
+        "question": "This hockey legend's iconic image, captured in mid-air after scoring the Stanley Cup-winning goal in 1970, remains one of the most celebrated photographs in sports history. He revolutionized the role of the defenseman, becoming the first to win the Art Ross Trophy as the NHL's leading scorer, a feat he achieved twice. He holds the record for most points in a single season by a defenseman. Despite his relatively short career, he amassed an impressive collection of awards, including eight consecutive Norris Trophies and three consecutive Hart Trophies. Who is this iconic hockey player?",
         "answers": [
-            "Conor McGregor",
-            "mcgregor"
+            "Bobby Orr",
+            "Or"
         ],
         "incorrect1": "",
         "incorrect2": "",
@@ -14,11 +14,10 @@
     },
     {
         "category": "Sports",
-        "question": "Brothers with this surname host the podcast titled \"New Heights\" which is rumored to have earned them a deal around $100 million from Amazon's podcasting arm. The podcast delves into their experiences in the NFL. They made history in 2023 as the first brothers to face each other in a Super Bowl, with one playing for the Kansas City Chiefs and the other for the Philadelphia Eagles. What is the last name of these brothers, one of who retired as the center of the Eagles and the other who dates Taylor Swift.",
+        "question": "This Major League Baseball team, currently managed by Brian Snitker, boasts a rich history that includes multiple World Series championships, including a recent victory in 2021. They play their home games at Truist Park, which opened in 2017 and replaced the iconic Turner Field. Their legendary players, including Hank Aaron, Chipper Jones, and Greg Maddux, have solidified their place in baseball history. What is the name of this team, based in Atlanta, Georgia? ",
         "answers": [
-            "Kelce",
-            "Travis Kelce",
-            "Jason Kelce"
+            "Atlanta Braves",
+            "Braves"
         ],
         "incorrect1": "",
         "incorrect2": "",
@@ -28,12 +27,9 @@
     },
     {
         "category": "Sports",
-        "question": "This track athlete captured the world's attention at the 1988 Seoul Olympics, winning three gold medals and one silver. Tragically, she passed away in her sleep at the young age of 38 due to an epileptic seizure. Her world records in the 100-meter and 200-meter sprints, set in 1988, remain unbroken to this day, solidifying her legacy as the fastest woman of all time. Who was this sprinting legend, affectionately known as \"Flo-Jo\"?",
+        "question": "This footballer is known for his powerful shots, technical skills, and versatility on the pitch, having played as a striker, midfielder, and even a defender throughout his career. He is the all-time leading goal scorer for both Manchester United and the England national team, surpassing Sir Bobby Charlton's records for both club and country. He made his professional debut for Everton at the age of 16, becoming the youngest goalscorer in Premier League history at the time. Who is this English football legend, often referred to as \"Wazza\"?",
         "answers": [
-            "Florence Griffith Joyner",
-            "Flo jo",
-            "flojo",
-            "flo-jo"
+            "Wayne Rooney"
         ],
         "incorrect1": "",
         "incorrect2": "",
@@ -43,9 +39,9 @@
     },
     {
         "category": "Sports",
-        "question": "The Men's T20 World Cup for this sport was co-hosted by the United States and won by India. This sport's unique terminology includes terms like \"googly,\" a type of delivery that spins in the opposite direction of what the batsman expects, and \"silly point,\" a close-in fielding position near the batsman. Its matches can span multiple days, with the longest format lasting up to five days, testing players' endurance and strategic prowess. What is this bat-and-ball game, beloved by millions worldwide, especially in countries like India, Australia, and England?",
+        "question": "This legendary coach's famous quote, \"Winning isn't everything, it's the only thing,\" encapsulates his relentless pursuit of excellence. His name is immortalized on the trophy awarded to the Super Bowl champions, a testament to his impact on the sport. He led the Green Bay Packers to five NFL championships in seven years, including victories in the first two Super Bowls. Who is this iconic figure in American football history? ",
         "answers": [
-            "Cricket"
+            "Vince Lombardi"
         ],
         "incorrect1": "",
         "incorrect2": "",
@@ -55,10 +51,10 @@
     },
     {
         "category": "Sports",
-        "question": "This Major League Baseball team clinched its first World Series championship in 1985, led by iconic players like George Brett and Bret Saberhagen. After a period of rebuilding, they made a triumphant return to the World Series in 2014, ultimately falling short, but redeemed themselves the following year, capturing their second title in 2015. They are known for their iconic powder blue uniforms and a passionate fanbase that weathered the ups and downs of the team's history. What is the name of this team based in Kansas City?",
+        "question": "This NBA franchise has a famous \"Vice\" color scheme. Led by the iconic trio of LeBron James, Dwyane Wade, and Chris Bosh, they achieved back-to-back championships in 2012 and 2013. Prior to this era, they secured their first championship in 2006, with Dwyane Wade earning the Finals MVP. More recently, they made a surprising run to the NBA Finals in 2020, led by Jimmy Butler, showcasing their resilience and determination. What is the name of this team, based in Miami, Florida?",
         "answers": [
-            "Kansas City Royals",
-            "Royals"
+            "Miami Heat",
+            "Heat"
         ],
         "incorrect1": "",
         "incorrect2": "",
@@ -68,23 +64,10 @@
     },
     {
         "category": "Sports",
-        "question": "This Formula One driver tragically suffered a severe head injury in a skiing accident in 2013 and has remained out of the public eye since then. His dominance in the sport was particularly evident during his time with Ferrari. He also shares the record for the most World Drivers' Championship titles with Lewis Hamilton, both having secured seven.  He holds the record for the most consecutive Drivers' Championships, winning five in a row from 2000 to 2004. Who is this iconic German racing driver, often referred to as \"Schumi\"? ",
+        "question": "This NFL team, recognized by their distinctive black, blue, and silver uniforms, made a remarkable debut in 1995, securing an impressive seven wins in their inaugural season, a record for an expansion team. They reached the Super Bowl twice, in 2003 and 2015, but unfortunately fell short both times. Their home stadium, Bank of America Stadium, is affectionately known as \"The Bank\" by fans.  They have been led by notable quarterbacks such as Jake Delhomme and Cam Newton throughout their history.  What is the name of this team, based in Charlotte, North Carolina?",
         "answers": [
-            "Michael Schumacher",
-            "Mick Schumacher",
-            "Schumacher"
-        ],
-        "incorrect1": "",
-        "incorrect2": "",
-        "incorrect3": "",
-        "used": "TRUE",
-        "source": "Marty Heavey"
-    },
-    {
-        "category": "Sports",
-        "question": "This athlete's number, 42, was retired across Major League Baseball in 1997, a testament to his enduring legacy. His impressive career batting average of .311 over ten seasons with the Brooklyn Dodgers showcased his talent and resilience. He was awarded the inaugural Rookie of the Year Award in 1947, recognizing his immediate impact on the game. His courageous breaking of baseball's color barrier in 1947 paved the way for countless African American athletes and challenged societal norms. Who was this trailblazing baseball player?",
-        "answers": [
-            "Jackie Robinson"
+            "Carolina Panthers",
+            "Panthers"
         ],
         "incorrect1": "",
         "incorrect2": "",

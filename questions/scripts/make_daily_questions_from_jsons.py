@@ -14,6 +14,7 @@ def compile_daily_questions():
         sum(1 for q in questions if q["used"] == "FALSE")
         for questions in category_questions.values()
     )
+    print(min_unused_questions)
 
     daily_sets = []
     for _ in range(min_unused_questions): 

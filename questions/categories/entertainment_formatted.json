@@ -1,9 +1,9 @@
 [
     {
         "category": "Entertainment",
-        "question": "This musician had a long-standing songwriting partnership with Bernie Taupin, which produced numerous chart-topping hits. The artist holds the record for the biggest-selling single of all time with his 1997 tribute to Princess Diana. His flamboyant stage persona, often characterized by extravagant costumes and oversized glasses, became a defining part of his image. His iconic hits like \"Rocket Man,\" \"Tiny Dancer,\" and \"Your Song\" have resonated with audiences for decades. Who is this legendary musician and performer? ",
+        "question": "This movie features an iconic scene where a therapist, played by Robin Williams, tells his troubled patient, played by Matt Damon, \"It's not your fault.\" The film's screenplay, written by Matt Damon and Ben Affleck, won an Academy Award. It also features a heartwarming romance between Damon's character and a pre-med student played by Minnie Driver. What is the name of this acclaimed 1997 drama?",
         "answers": [
-            "Elton John"
+            "Good Will Hunting"
         ],
         "incorrect1": "",
         "incorrect2": "",
@@ -13,9 +13,9 @@
     },
     {
         "category": "Entertainment",
-        "question": "This actor's refusal to accept his Academy Award for Best Actor in 1973, sending Sacheen Littlefeather in his place to protest the portrayal of Native Americans in Hollywood, remains a significant moment in Oscar history. He gained early recognition for his powerful performance as Stanley Kowalski in the 1951 film adaptation of \"A Streetcar Named Desire.\" His iconic portrayal of Vito Corleone in \"The Godfather\" solidified his status as a legendary actor.  He also delivered a memorable performance as Colonel Kurtz in the 1979 war epic \"Apocalypse Now.\" Who is this actor, known for his method acting? ",
+        "question": "This actress began her illustrious career by earning a Tony nomination for her role in the 1976 play \"27 Wagons Full of Cotton\". Her transformative performances span a wide range of genres and characters, from Miranda Priestly in \"The Devil Wears Prada\" to the beloved chef Julia Child in \"Julie & Julia.\"  She boasts a record-breaking 21 Academy Award nominations, winning three for her roles in \"Kramer vs. Kramer,\" \"Sophie's Choice,\" and \"The Iron Lady.\"  Who is this versatile and celebrated actress, often hailed as the \"greatest living actress\"?",
         "answers": [
-            "Marlon Brando"
+            "Meryl Streep"
         ],
         "incorrect1": "",
         "incorrect2": "",
@@ -25,9 +25,9 @@
     },
     {
         "category": "Entertainment",
-        "question": "This movie's memorable score includes the song \"The Power of Love\" by Huey Lewis and the News. Its sequels explore further adventures in time, including a trip to the futuristic year 2015 and a Wild West escapade in 1885. The film's central plot revolves around Marty McFly's accidental journey to 1955, where he inadvertently disrupts his parents' first meeting and must ensure they fall in love to preserve his own existence.  What is the name of this beloved trilogy featuring a time travelling DeLorean? ",
+        "question": "This television show follows the story of Earnest \"Earn\" Marks as he navigates the complexities of managing his rapper cousin, Paper Boi. It garnered critical acclaim for its unique blend of comedy, drama, and social commentary, earning numerous awards, including two Primetime Emmy Awards for Outstanding Lead Actor in a Comedy Series for Donald Glover's performance. What is the name of this groundbreaking series about the Atlanta rap scene? ",
         "answers": [
-            "Back to the Future"
+            "Atlanta"
         ],
         "incorrect1": "",
         "incorrect2": "",
@@ -37,9 +37,9 @@
     },
     {
         "category": "Entertainment",
-        "question": "This actor's powerful performance in the 2016 film \"Fences,\" which he also directed, earned him an Academy Award nomination for Best Actor. He began his acting career in theater, gaining recognition for his role in the off-Broadway production of \"A Soldier's Play.\" His breakout film role came in 1989's \"Glory,\" where he portrayed a defiant Civil War soldier, earning him his first Oscar for Best Supporting Actor. Name this actor who also starred in iconic films like \"Malcolm X,\" \"Training Day,\" and \"American Gangster,\" further cementing his status as a Hollywood legend.",
+        "question": "This 1979 science fiction horror film, directed by Ridley Scott, introduced the iconic Xenomorph, a terrifying extraterrestrial creature with acid for blood. Its tagline, \"In space, no one can hear you scream,\" perfectly captures the film's chilling atmosphere and sense of isolation. It stars Sigourney Weaver as Ellen Ripley, a warrant officer who becomes the sole survivor of the Nostromo crew's encounter with the deadly creature. What is the title of this film, which spawned a successful franchise? ",
         "answers": [
-            "Denzel Washington"
+            "Alien"
         ],
         "incorrect1": "",
         "incorrect2": "",
@@ -49,9 +49,9 @@
     },
     {
         "category": "Entertainment",
-        "question": "This band's final studio album, \"In Utero,\" released in 1993, showcased a rawer and more experimental side of the band. Their breakthrough album, \"Nevermind,\" released in 1991, catapulted them to global fame, with the single \"Smells Like Teen Spirit\" becoming an anthem for a generation. Their iconic smiley face logo, designed by Kurt Cobain himself, has become a symbol of grunge culture. Which band is this, whose frontman, Kurt Cobain, tragically died in 1994, leaving behind a profound impact on the music world?",
+        "question": "This band's debut album, released on Friday the 13th in 1970 featuring songs like \"N.I.B.\" Their iconic guitarist, Tony Iommi, lost the tips of two fingers in an industrial accident, leading him to develop a unique playing style. Their lead singer, Ozzy Osbourne, was famously fired from the band in 1979 due to his excessive drug and alcohol use but later rejoined for reunions and tours. They were inducted into the Rock and Roll Hall of Fame in 2006, cementing their legacy as pioneers of heavy metal. What is the name of this influential British band?",
         "answers": [
-            "Nirvana"
+            "Black Sabbath"
         ],
         "incorrect1": "",
         "incorrect2": "",
@@ -61,21 +61,9 @@
     },
     {
         "category": "Entertainment",
-        "question": "This film features a memorable scene where the protagonist accidentally inspires a new dance move during a televised ping pong match. It also includes the iconic line, \"Life is like a box of chocolates. You never know what you're gonna get,\" spoken by the title character. The film follows the life of a kind-hearted but slow-witted man from Alabama who unwittingly influences several historical events of the 20th century. Name this movie that won six Academy Awards, including Best Picture and Best Actor for Tom Hanks' portrayal of the title character.",
+        "question": "This band's breakout album, \"Dookie,\" released in 1994, catapulted them to global fame. Their energetic live performances and politically charged lyrics resonated with a disenfranchised youth, establishing them as leaders of the pop-punk movement. Their 2004 rock opera, \"American Idiot,\" further cemented their success, tackling themes of social and political disillusionment. They were inducted into the Rock and Roll Hall of Fame in 2015. What is the name of this California-based punk rock band? ",
         "answers": [
-            "Forrest Gump"
-        ],
-        "incorrect1": "",
-        "incorrect2": "",
-        "incorrect3": "",
-        "used": "TRUE",
-        "source": "Marty Heavey"
-    },
-    {
-        "category": "Entertainment",
-        "question": "This television series, set in the early 20th century, follows the lives of the aristocratic Crawley family and their servants in the fictional Yorkshire country estate. It garnered critical acclaim and numerous awards, including multiple Primetime Emmy Awards and Golden Globes. Its storylines explore themes of social change, class conflict, and the changing roles of women in British society during the Edwardian era and the First World War. What is the name of this popular British historical drama?",
-        "answers": [
-            "Downton Abbey"
+            "Green Day"
         ],
         "incorrect1": "",
         "incorrect2": "",

@@ -206,7 +206,7 @@
         "answers": [
             "abortion"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "US History",
@@ -215,7 +215,7 @@
         "answers": [
             "Robert Edward Lee"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "US History",
@@ -224,7 +224,7 @@
         "answers": [
             "Manhattan Project [prompt on equivalents to the United States developing an nuclear bomb by asking \"What is the name of the project?\"]"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "US History",
@@ -233,7 +233,7 @@
         "answers": [
             "Oregon Trail"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "US History",
@@ -242,7 +242,7 @@
         "answers": [
             "Jamestown [prompt on Colony of Virginia before mention]"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "US History",
@@ -251,7 +251,7 @@
         "answers": [
             "Missouri Compromise (accept Compromise of 1820)"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "US History",

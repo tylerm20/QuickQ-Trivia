@@ -210,7 +210,7 @@
         "answers": [
             "Animal Farm: A Fairy Story"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Arts & Literature",
@@ -219,7 +219,7 @@
         "answers": [
             "Ramona Quimby [or Ramona Quimby; prompt on Quimby]"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Arts & Literature",
@@ -228,7 +228,7 @@
         "answers": [
             "Ludwig van Beethoven"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Arts & Literature",
@@ -237,7 +237,7 @@
         "answers": [
             "Oscar Wilde [or Oscar Fingal O'Flahertie Wills Wilde]"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Arts & Literature",
@@ -246,7 +246,7 @@
         "answers": [
             "Richard Wagner"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Arts & Literature",
@@ -255,7 +255,7 @@
         "answers": [
             "foxes (accept kitsune or spirit-fox before \"Aesop\" is read)"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Arts & Literature",
