@@ -4,7 +4,11 @@ import StartScreen from "./Screens/StartScreen";
 import FinishScreen from "./Screens/FinishScreen";
 import GameScreen from "./Screens/GameScreen";
 import LoadingScreen from "./Screens/LoadingScreen";
+import StatsScreen from "./Screens/StatsScreen";
+import SettingsScreen from "./Screens/SettingsScreen";
 
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+import { faInfoCircle } from "@fortawesome/free-solid-svg-icons";
 import { screens, GameModes, GAME_MODE_STORAGE_KEY } from "./constants";
 import "./App.css";
 
@@ -22,6 +26,7 @@ function App() {
     const [hasFinishedTodaysGame, setHasFinishedTodaysGame] = useState(false);
     const [gameMode, setGameMode] = useState(GameModes.FREE_RESPONSE);
     const [isFetchingQuestions, setIsFetchingQuestions] = useState(false);
+    const [showSettingsModal, setShowSettingsModal] = useState(false);
 
     ReactGA.initialize("G-VFCGD245RZ");
 
@@ -150,6 +155,8 @@ function App() {
                         callback={() => setScreenShowing(screens.game)}
                     />
                 );
+            case screens.stats:
+                return <StatsScreen setScreenShowing={setScreenShowing} />;
             default:
                 console.log("not sure what screen to show");
         }
@@ -207,11 +214,26 @@ function App() {
 
     return (
         <div className="App">
-            <div className="Title">
-                <span className="QuickStyle">Quick</span>
-                <span className="QStyle">Q</span>
+            <div className="AppHeader">
+                <div className="Title">
+                    <span className="QuickStyle">Quick</span>
+                    <span className="QStyle">Q</span>
+                </div>
+                <FontAwesomeIcon
+                    icon={faInfoCircle}
+                    className="InfoIcon"
+                    onClick={() => setShowSettingsModal(!showSettingsModal)}
+                />
             </div>
-            <div className="Content">{getScreenToShow()}</div>
+            <div className="Content">
+                {showSettingsModal && (
+                    <SettingsScreen
+                        showModal={showSettingsModal}
+                        setShowModal={setShowSettingsModal}
+                    />
+                )}
+                {getScreenToShow()}
+            </div>
         </div>
     );
 }

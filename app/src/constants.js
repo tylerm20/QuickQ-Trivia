@@ -4,6 +4,7 @@ export const screens = {
     finish: "finish",
     settings: "settings",
     loading: "loading",
+    stats: "stats",
 };
 
 export const BUZZ_SECONDS = 15;
@@ -16,13 +17,13 @@ export const CLOCK_EMOJI_HTML = <span>&#128337;</span>;
 
 export const CATEGORIES_NAME_LIST = [
     "Current Events",
-    "World History",
-    "Sports",
     "US History",
-    "Entertainment",
-    "Geography",
+    "Sports",
+    "World History",
     "Science",
+    "Geography",
     "Arts & Literature",
+    "Entertainment",
 ];
 
 export const CATEGORIES_SET = new Set(CATEGORIES_NAME_LIST);

@@ -17,6 +17,7 @@ import { shuffleArray } from "../../utils";
 import "./style.css";
 import SettingsScreen from "../SettingsScreen";
 
+// TODO: start saving game mode in results
 let playerResults = {};
 let questionResults = [];
 

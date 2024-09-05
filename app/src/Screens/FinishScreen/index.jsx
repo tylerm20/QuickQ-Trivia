@@ -165,6 +165,12 @@ const FinishScreen = ({
             </div>
             {showResults()}
             <div className="Footer">
+                <BasicButton
+                    className="OtherButton"
+                    onClick={() => setScreenShowing(screens.stats)}
+                >
+                    Saved Stats
+                </BasicButton>
                 <BasicButton onClick={() => setScreenShowing(screens.start)}>
                     Home
                 </BasicButton>

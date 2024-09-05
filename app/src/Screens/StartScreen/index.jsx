@@ -1,11 +1,10 @@
 import React, { useState, useEffect } from "react";
-import { screens } from "../../constants";
 import SettingsScreen from "../../Screens/SettingsScreen";
 import BasicButton from "../../Components/BasicButton";
 import CategoriesChart from "../../Components/CategoriesChart";
 import Switch from "../../Components/Switch";
 import { calculateCategoryScores, isMultipleChoiceMode } from "../../utils";
-import { GameModes, GAME_MODE_STORAGE_KEY } from "../../constants";
+import { screens, GameModes, GAME_MODE_STORAGE_KEY } from "../../constants";
 import "./style.css";
 
 const StartScreen = ({
@@ -83,15 +82,15 @@ const StartScreen = ({
                     </div>
                     <div className="Buttons">
                         <BasicButton
-                            className="HowToPlayButton"
-                            onClick={() => setShowSettingsModal(true)}
+                            className="OtherButton"
+                            onClick={() => setScreenShowing(screens.stats)}
                         >
-                            Info
+                            Lifetime Stats
                         </BasicButton>
                         <BasicButton
                             onClick={() => setScreenShowing(screens.finish)}
                         >
-                            See Results
+                            Today's Results
                         </BasicButton>
                     </div>
                 </div>

@@ -4,9 +4,12 @@ import "./style.css";
 
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faX } from "@fortawesome/free-solid-svg-icons";
-import { faInstagram, faXTwitter } from "@fortawesome/free-brands-svg-icons";
-import { faDiscord } from "@fortawesome/free-brands-svg-icons";
-import { faFacebook } from "@fortawesome/free-brands-svg-icons";
+import {
+    faInstagram,
+    faXTwitter,
+    faDiscord,
+    faFacebook,
+} from "@fortawesome/free-brands-svg-icons";
 
 const SettingsScreen = ({ showModal, setShowModal }) => {
     const modalRef = useRef(null); // Create a ref to the modal content

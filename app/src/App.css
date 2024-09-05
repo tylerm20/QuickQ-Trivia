@@ -26,14 +26,24 @@
     }
 }
 
-.Title {
-    position: relative;
-    /* Can be absolute or fixed as well */
+.AppHeader {
+    display: flex;
+    align-items: center;
     width: 100%;
-    font-size: 40px;
     text-align: center;
     margin-top: 0;
+}
+
+.Title {
+    font-size: 40px;
     font-family: futura;
+    flex-grow: 1;
+    padding-left: 25px; /* offset size of info icon */
+}
+
+.InfoIcon {
+    height: 25px;
+    justify-self: flex-end;
 }
 
 .QuickStyle {
