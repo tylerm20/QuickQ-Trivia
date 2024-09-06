@@ -64,13 +64,20 @@ const StatsScreen = ({ setScreenShowing }) => {
                         // Category-specific stats
                         value.questionResults.forEach((result) => {
                             const category = result.category;
-                            if (result.skipped) {
-                                categoryStats[category].skipped++;
+                            if (category) {
+                                if (result.skipped) {
+                                    categoryStats[category].skipped++;
+                                } else {
+                                    categoryStats[category].attempted++;
+                                }
+                                if (result.isCorrect) {
+                                    categoryStats[category].correct++;
+                                }
                             } else {
-                                categoryStats[category].attempted++;
-                            }
-                            if (result.isCorrect) {
-                                categoryStats[category].correct++;
+                                console.log(
+                                    "calculating stats -- bad category: " +
+                                        category
+                                );
                             }
                         });
 
