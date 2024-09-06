@@ -42,6 +42,10 @@ const StatsScreen = ({ setScreenShowing }) => {
                 if (Date.parse(key)) {
                     const value = JSON.parse(localStorage.getItem(key));
 
+                    if (!value.questionResults) {
+                        continue;
+                    }
+
                     stats.totalGamesPlayed++;
                     stats.totalQuestionsAttempted +=
                         value.questionResults.length;
