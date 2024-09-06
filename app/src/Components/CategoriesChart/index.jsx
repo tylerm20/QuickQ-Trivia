@@ -9,11 +9,7 @@ import {
     Tooltip,
 } from "chart.js";
 import { Bar } from "react-chartjs-2";
-import {
-    CATEGORY_EMOJI_MAP,
-    CATEGORY_COLOR_MAP,
-    CATEGORIES_SET,
-} from "../../constants";
+import { CATEGORY_EMOJI_MAP, CATEGORY_COLOR_MAP } from "../../constants";
 
 export const CategoriesChart = ({ categoryScores }) => {
     ChartJS.register(CategoryScale, LinearScale, BarElement, Title, Tooltip);

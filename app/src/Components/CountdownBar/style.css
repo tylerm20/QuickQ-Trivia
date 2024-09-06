@@ -6,6 +6,7 @@
     /* Removed overflow: hidden */
     display: flex;
     position: relative; /* Make it a positioning context for markings */
+    justify-content: flex-end;
 }
 
 .countdown-bar {
