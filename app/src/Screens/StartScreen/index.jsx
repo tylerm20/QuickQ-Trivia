@@ -81,9 +81,7 @@ const StartScreen = ({
                 /* if we have no games in local storage */
                 <img className="QQLogo" src="QQ2.png" />
             ) : (
-                <div className="CategoriesChartContainer">
-                    <CategoriesChart categoryScores={categoryScores} />
-                </div>
+                <CategoriesChart categoryScores={categoryScores} />
             )}
             {hasFinishedTodaysGame ? (
                 <div className="AlreadyPlayed">
