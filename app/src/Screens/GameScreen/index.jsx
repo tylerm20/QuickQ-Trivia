@@ -3,7 +3,6 @@ import ReactGA from "react-ga4";
 import Fuse from "fuse.js";
 import Timer from "../../Components/Timer";
 import Score from "../../Components/Score";
-import SettingsButton from "../../Components/SettingsButton";
 import BasicButton from "../../Components/BasicButton";
 import Question from "../../Components/Question";
 import AnswerModal from "../../Components/AnswerModal";
@@ -16,6 +15,7 @@ import {
 import { shuffleArray } from "../../utils";
 import "./style.css";
 import SettingsScreen from "../SettingsScreen";
+import CountdownBar from "../../Components/CountdownBar";
 
 // TODO: start saving game mode in results
 let playerResults = {};
@@ -30,6 +30,7 @@ const GameScreen = ({
     questions,
     hasStartedTodaysGame,
     gameMode,
+    showingSettingsModal,
 }) => {
     const [currentQuestionIndex, setCurrentQuestionIndex] = useState(0);
     const [isBuzzing, setIsBuzzing] = useState(false);
@@ -41,7 +42,6 @@ const GameScreen = ({
     const [buzzSecondsRemaining, setBuzzSecondsRemaining] =
         useState(BUZZ_SECONDS);
     const [questionTime, setQuestionTime] = useState(0);
-    const [showSettingsModal, setShowSettingsModal] = useState(false);
     const [showCorrectOrIncorrect, setShowCorrectOrIncorrect] = useState(false);
     const [userAnswerCorrect, setUserAnswerCorrect] = useState(false);
     const [userOutOfTime, setUserOutOfTime] = useState(false);
@@ -61,7 +61,7 @@ const GameScreen = ({
             gameSecondsRemaining > 0 &&
             !isBuzzing &&
             !isBetweenQuestions &&
-            !showSettingsModal
+            !showingSettingsModal
         ) {
             setGameSecondsRemaining(gameSecondsRemaining - 1);
             setQuestionTime(questionTime + 1);
@@ -386,29 +386,23 @@ const GameScreen = ({
 
     return (
         <div className="GameScreen">
-            {showSettingsModal && (
-                <SettingsScreen
-                    showModal={showSettingsModal}
-                    setShowModal={setShowSettingsModal}
-                />
-            )}
             <div className="TopRow">
                 <Score score={score} />
+                <CountdownBar
+                    totalTime={GAME_SECONDS}
+                    currentTime={gameSecondsRemaining}
+                    numMarkings={7}
+                />
                 <Timer
                     seconds={gameSecondsRemaining}
                     decrementTimer={decrementGameSecondsTimer}
-                />
-                <SettingsButton
-                    onClick={() => {
-                        setShowSettingsModal(!showSettingsModal);
-                    }}
                 />
             </div>
             <div className="CenterContent">
                 <Question
                     category={getQuestionCategory()}
                     isBuzzing={isBuzzing}
-                    isShowingSettings={showSettingsModal}
+                    isShowingSettings={showingSettingsModal}
                     question={getQuestionText()}
                     questionNumber={currentQuestionIndex + 1}
                     showWholeQuestion={showWholeQuestion}

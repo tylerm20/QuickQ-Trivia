@@ -133,6 +133,7 @@ function App() {
                             questions={questions}
                             hasStartedTodaysGame={hasStartedTodaysGame}
                             gameMode={gameMode}
+                            showingSettingsModal={showSettingsModal}
                         />
                     )
                 );
@@ -215,7 +216,10 @@ function App() {
     return (
         <div className="App">
             <div className="AppHeader">
-                <div className="Title">
+                <div
+                    className="Title"
+                    onClick={() => setScreenShowing(screens.start)}
+                >
                     <span className="QuickStyle">Quick</span>
                     <span className="QStyle">Q</span>
                 </div>

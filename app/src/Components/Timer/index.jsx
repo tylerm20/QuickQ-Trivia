@@ -12,9 +12,13 @@ const Timer = ({ seconds, decrementTimer }) => {
         };
     }, [decrementTimer]);
 
+    function formatTime(number) {
+        return (number < 10 ? "0" : "") + number;
+    }
+
     return (
         <div className="timer">
-            Time: <span className="Seconds">{seconds}</span>
+            Time: <span className="Seconds">{formatTime(seconds)}</span>
         </div>
     );
 };

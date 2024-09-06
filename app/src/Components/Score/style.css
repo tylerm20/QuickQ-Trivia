@@ -1,4 +1,5 @@
 .ScoreDigits {
     color: var(--green);
     font-weight: bold;
+    font-family: monospace;
 }

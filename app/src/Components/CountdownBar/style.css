@@ -1,0 +1,26 @@
+.countdown-bar-container {
+    width: 45%;
+    height: 20px; /* Adjust as needed */
+    background-color: #e0e0e0; /* Light gray background */
+    border-radius: 5px;
+    /* Removed overflow: hidden */
+    display: flex;
+    position: relative; /* Make it a positioning context for markings */
+}
+
+.countdown-bar {
+    /* Removed position: absolute and max-width */
+    width: 100%; /* Fill the container width initially */
+    border-radius: 5px;
+    height: 20px;
+    background-color: var(--orange); /* Green progress bar */
+    transition: width 1s linear; /* Smooth width transition */
+}
+
+.marking {
+    position: absolute; /* Position relative to the container */
+    top: 0;
+    height: 100%;
+    width: 1px;
+    background-color: rgba(0, 0, 0, 0.5); /* Slightly darker markings */
+}

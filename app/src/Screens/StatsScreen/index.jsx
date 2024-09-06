@@ -5,7 +5,7 @@ import {
     CATEGORY_COLOR_MAP,
     CATEGORIES_NAME_LIST,
 } from "../../constants";
-import { getEmojiForCategory, isMultipleChoiceMode } from "../../utils";
+import { getEmojiForCategory } from "../../utils";
 import "./style.css";
 
 const StatsScreen = ({ setScreenShowing }) => {
@@ -24,6 +24,14 @@ const StatsScreen = ({ setScreenShowing }) => {
                 currentStreak: 0,
             };
             const categoryStats = {};
+
+            for (const category of CATEGORIES_NAME_LIST) {
+                categoryStats[category] = {
+                    attempted: 0,
+                    correct: 0,
+                    skipped: 0,
+                };
+            }
 
             let previousDate = null;
 
@@ -56,13 +64,6 @@ const StatsScreen = ({ setScreenShowing }) => {
                         // Category-specific stats
                         value.questionResults.forEach((result) => {
                             const category = result.category;
-                            if (!categoryStats[category]) {
-                                categoryStats[category] = {
-                                    attempted: 0,
-                                    correct: 0,
-                                    skipped: 0,
-                                };
-                            }
                             if (result.skipped) {
                                 categoryStats[category].skipped++;
                             } else {
@@ -126,7 +127,11 @@ const StatsScreen = ({ setScreenShowing }) => {
                     const categoryData = stats.categoryStats[category];
                     return (
                         <div key={category} className="category-stats">
-                            <h3 style={{ color: CATEGORY_COLOR_MAP[category] }}>
+                            <h3
+                                style={{
+                                    color: CATEGORY_COLOR_MAP[category],
+                                }}
+                            >
                                 {category} {getEmojiForCategory(category)}
                             </h3>
                             <div className="StatBlock">
@@ -175,7 +180,7 @@ const StatsScreen = ({ setScreenShowing }) => {
                     Finish your first game and come back to view your stats!
                 </div>
             )}
-            <div className="Footer">
+            <div className="StatsFooter">
                 <BasicButton onClick={() => setScreenShowing(screens.start)}>
                     Home
                 </BasicButton>
