@@ -1,4 +1,6 @@
 import React, { useState, useEffect } from "react";
+import ReactGA from "react-ga4";
+
 import SettingsScreen from "../../Screens/SettingsScreen";
 import BasicButton from "../../Components/BasicButton";
 import CategoriesChart from "../../Components/CategoriesChart";
@@ -83,14 +85,21 @@ const StartScreen = ({
                     <div className="Buttons">
                         <BasicButton
                             className="OtherButton"
-                            onClick={() => setScreenShowing(screens.stats)}
+                            onClick={() => {
+                                ReactGA.event({
+                                    category: "navigation",
+                                    action: "stats",
+                                    label: "show_stats",
+                                });
+                                setScreenShowing(screens.stats);
+                            }}
                         >
-                            Lifetime Stats
+                            See Stats
                         </BasicButton>
                         <BasicButton
                             onClick={() => setScreenShowing(screens.finish)}
                         >
-                            Today's Results
+                            Quiz Results
                         </BasicButton>
                     </div>
                 </div>

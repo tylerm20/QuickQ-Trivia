@@ -3,3 +3,9 @@
     margin-top: 20px;
     justify-content: space-around;
 }
+
+.StatBlock {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}

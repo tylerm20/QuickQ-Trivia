@@ -122,7 +122,6 @@ const StatsScreen = ({ setScreenShowing }) => {
     const CategoryStats = ({ stats }) => {
         return (
             <div>
-                {/* // TODO always have categories in the same order */}
                 {CATEGORIES_NAME_LIST.map((category) => {
                     const categoryData = stats.categoryStats[category];
                     return (
@@ -130,12 +129,14 @@ const StatsScreen = ({ setScreenShowing }) => {
                             <h3 style={{ color: CATEGORY_COLOR_MAP[category] }}>
                                 {category} {getEmojiForCategory(category)}
                             </h3>
-                            <div>Attempted: {categoryData.attempted}</div>
-                            <div>Correct: {categoryData.correct}</div>
-                            <div>Skipped: {categoryData.skipped}</div>
-                            <div>
-                                Percentage Correct:{" "}
-                                {categoryData.percentageCorrect.toFixed(2)}%
+                            <div className="StatBlock">
+                                <div>Attempted: {categoryData.attempted}</div>
+                                <div>Correct: {categoryData.correct}</div>
+                                <div>Skipped: {categoryData.skipped}</div>
+                                <div>
+                                    Percentage Correct:{" "}
+                                    {categoryData.percentageCorrect.toFixed(2)}%
+                                </div>
                             </div>
                         </div>
                     );
@@ -149,15 +150,19 @@ const StatsScreen = ({ setScreenShowing }) => {
             {stats && stats.totalGamesPlayed > 0 ? (
                 <div>
                     <h1>Stats</h1>
-                    <div>Games Played: {stats.totalGamesPlayed}</div>
-                    <div>
-                        Questions Attempted: {stats.totalQuestionsAttempted}
-                    </div>
-                    <div>Questions Skipped: {stats.totalSkippedQuestions}</div>
-                    <div>Average Score: {stats.averageScore}</div>
-                    <div>
-                        Average Time Per Question:{" "}
-                        {stats.averageTimePerQuestion}s
+                    <div className="StatBlock">
+                        <div>Games Played: {stats.totalGamesPlayed}</div>
+                        <div>
+                            Questions Attempted: {stats.totalQuestionsAttempted}
+                        </div>
+                        <div>
+                            Questions Skipped: {stats.totalSkippedQuestions}
+                        </div>
+                        <div>Average Score: {stats.averageScore}</div>
+                        <div>
+                            Average Time Per Question:{" "}
+                            {stats.averageTimePerQuestion}s
+                        </div>
                     </div>
                     {/* // TODO: get this figured */}
                     {/* <div>Longest Streak: {stats.longestStreak}</div>
