@@ -54,6 +54,15 @@ const StartScreen = ({
         }
     }, []);
 
+    const showStats = () => {
+        ReactGA.event({
+            category: "navigation",
+            action: "stats",
+            label: "show_stats",
+        });
+        setScreenShowing(screens.stats);
+    };
+
     return (
         <div className="StartScreen">
             {showSettingsModal && (
@@ -85,14 +94,7 @@ const StartScreen = ({
                     <div className="Buttons">
                         <BasicButton
                             className="OtherButton"
-                            onClick={() => {
-                                ReactGA.event({
-                                    category: "navigation",
-                                    action: "stats",
-                                    label: "show_stats",
-                                });
-                                setScreenShowing(screens.stats);
-                            }}
+                            onClick={showStats}
                         >
                             See Stats
                         </BasicButton>
@@ -136,10 +138,16 @@ const StartScreen = ({
                     )}
                     <div className="Buttons">
                         <BasicButton
-                            className="HowToPlayButton"
-                            onClick={() => setShowSettingsModal(true)}
+                            className="OtherButton"
+                            onClick={() =>
+                                doesNotHaveGameResultsStored()
+                                    ? setShowSettingsModal(true)
+                                    : showStats()
+                            }
                         >
-                            How to Play
+                            {doesNotHaveGameResultsStored()
+                                ? "How to Play"
+                                : "See Stats"}
                         </BasicButton>
                         <button
                             className="StartButton"
