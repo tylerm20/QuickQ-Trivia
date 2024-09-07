@@ -1,9 +1,9 @@
 .StartScreen {
-    position: relative;
+    /* position: relative; */
     display: flex;
     flex-direction: column;
     justify-content: space-around;
-    height: 50vh;
+    /* height: 50vh; */
     flex-grow: 1;
 }
 
