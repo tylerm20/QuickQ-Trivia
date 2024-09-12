@@ -1,9 +1,9 @@
 [
     {
         "category": "Entertainment",
-        "question": "This movie features an iconic scene where a therapist, played by Robin Williams, tells his troubled patient, played by Matt Damon, \"It's not your fault.\" The film's screenplay, written by Matt Damon and Ben Affleck, won an Academy Award. It also features a heartwarming romance between Damon's character and a pre-med student played by Minnie Driver. What is the name of this acclaimed 1997 drama?",
+        "question": "This jazz vocalist's iconic rendition of \"A-Tisket, A-Tasket,\" a reworking of a nursery rhyme, propelled her to stardom at the young age of 21. She was admired for her impeccable scat singing, a form of vocal improvisation that showcased her remarkable rhythmic and melodic agility. Her collaborations with legendary musicians like Duke Ellington, Louis Armstrong, and Count Basie solidified her status as a jazz luminary. Name this singer who earned the nickname \"First Lady of Song.\"",
         "answers": [
-            "Good Will Hunting"
+            "Ella Fitzgerald"
         ],
         "incorrect1": "",
         "incorrect2": "",
@@ -13,9 +13,9 @@
     },
     {
         "category": "Entertainment",
-        "question": "This actress began her illustrious career by earning a Tony nomination for her role in the 1976 play \"27 Wagons Full of Cotton\". Her transformative performances span a wide range of genres and characters, from Miranda Priestly in \"The Devil Wears Prada\" to the beloved chef Julia Child in \"Julie & Julia.\"  She boasts a record-breaking 21 Academy Award nominations, winning three for her roles in \"Kramer vs. Kramer,\" \"Sophie's Choice,\" and \"The Iron Lady.\"  Who is this versatile and celebrated actress, often hailed as the \"greatest living actress\"?",
+        "question": "This historical drama miniseries features a stellar cast led by Jared Harris, Stellan Skarsg\u00e5rd, and Emily Watson. It received numerous awards, including 10 Primetime Emmy Awards and two Golden Globes. Its unflinching portrayal of the human cost of the 1986 nuclear disaster and its aftermath. Name this HBO miniseries which depicted the Soviet nuclear disaster in what is now Ukraine.",
         "answers": [
-            "Meryl Streep"
+            "Chernobyl"
         ],
         "incorrect1": "",
         "incorrect2": "",
@@ -25,9 +25,9 @@
     },
     {
         "category": "Entertainment",
-        "question": "This television show follows the story of Earnest \"Earn\" Marks as he navigates the complexities of managing his rapper cousin, Paper Boi. It garnered critical acclaim for its unique blend of comedy, drama, and social commentary, earning numerous awards, including two Primetime Emmy Awards for Outstanding Lead Actor in a Comedy Series for Donald Glover's performance. What is the name of this groundbreaking series about the Atlanta rap scene? ",
+        "question": "This animated sitcom follows the misadventures of four elementary school boys - Stan Marsh, Kyle Broflovski, Eric Cartman, and Kenny McCormick - in the fictional Colorado town. Created by Trey Parker and Matt Stone, it has garnered critical acclaim and controversy for its irreverent approach to tackling sensitive topics, including religion, politics, and pop culture. The show's iconic cut-out animation style and memorable catchphrases, like \"Oh my God, they killed Kenny!\", have become ingrained in popular culture. What is the name of this long-running animated series?",
         "answers": [
-            "Atlanta"
+            "South Park"
         ],
         "incorrect1": "",
         "incorrect2": "",
@@ -37,9 +37,9 @@
     },
     {
         "category": "Entertainment",
-        "question": "This 1979 science fiction horror film, directed by Ridley Scott, introduced the iconic Xenomorph, a terrifying extraterrestrial creature with acid for blood. Its tagline, \"In space, no one can hear you scream,\" perfectly captures the film's chilling atmosphere and sense of isolation. It stars Sigourney Weaver as Ellen Ripley, a warrant officer who becomes the sole survivor of the Nostromo crew's encounter with the deadly creature. What is the title of this film, which spawned a successful franchise? ",
+        "question": "This iconic sitcom's theme song, \"Where Everybody Knows Your Name,\" performed by Gary Portnoy. The series finale, aired in 1993, was a major television event, drawing in millions of viewers. It premiered in 1982 and ran for 11 seasons, becoming one of the most beloved and successful sitcoms in television history. This sitcom, set in a Boston bar, featured a cast of memorable characters, including Sam Malone, a womanizing ex-baseball player turned bartender, and Diane Chambers, an intelligent but pretentious waitress. What is the name of this classic sitcom?",
         "answers": [
-            "Alien"
+            "Cheers"
         ],
         "incorrect1": "",
         "incorrect2": "",
@@ -49,9 +49,9 @@
     },
     {
         "category": "Entertainment",
-        "question": "This band's debut album, released on Friday the 13th in 1970 featuring songs like \"N.I.B.\" Their iconic guitarist, Tony Iommi, lost the tips of two fingers in an industrial accident, leading him to develop a unique playing style. Their lead singer, Ozzy Osbourne, was famously fired from the band in 1979 due to his excessive drug and alcohol use but later rejoined for reunions and tours. They were inducted into the Rock and Roll Hall of Fame in 2006, cementing their legacy as pioneers of heavy metal. What is the name of this influential British band?",
+        "question": "This Netflix series pays homage to 1980s pop culture, drawing inspiration from iconic films like \"E.T. the Extra-Terrestrial,\" \"The Goonies,\" and \"Stand by Me.\" The show features a group of young friends, including the telekinetic Eleven and the adventurous Mike Wheeler, who navigate the mysteries and dangers of the Upside Down, a parallel dimension filled with strange creatures. What is the name of this popular science fiction horror series? ",
         "answers": [
-            "Black Sabbath"
+            "Stranger Things"
         ],
         "incorrect1": "",
         "incorrect2": "",
@@ -61,9 +61,21 @@
     },
     {
         "category": "Entertainment",
-        "question": "This band's breakout album, \"Dookie,\" released in 1994, catapulted them to global fame. Their energetic live performances and politically charged lyrics resonated with a disenfranchised youth, establishing them as leaders of the pop-punk movement. Their 2004 rock opera, \"American Idiot,\" further cemented their success, tackling themes of social and political disillusionment. They were inducted into the Rock and Roll Hall of Fame in 2015. What is the name of this California-based punk rock band? ",
+        "question": "This historical epic film, set in ancient Rome, tells the story of Maximus Decimus Meridius, a betrayed general forced into slavery who seeks revenge against the corrupt emperor Commodus. It garnered critical acclaim and box office success, winning five Academy Awards, including Best Picture and Best Actor for Russell Crowe's powerful performance. Its iconic line, \"Are you not entertained?\", delivered by Maximus during a gladiatorial battle, has become a memorable quote in popular culture. Name this 2000 historical drama.",
         "answers": [
-            "Green Day"
+            "Gladiator"
+        ],
+        "incorrect1": "",
+        "incorrect2": "",
+        "incorrect3": "",
+        "used": "TRUE",
+        "source": "Marty Heavey"
+    },
+    {
+        "category": "Entertainment",
+        "question": "This 2014 film's title references a challenging piece of music that serves as a central motif throughout the narrative, symbolizing the relentless pursuit of perfection and the sacrifices made in the name of artistic ambition. The J.K. Simmons' portrayal of the tyrannical conductor, Terence Fletcher, earned him an Academy Award for Best Supporting Actor. Name this film, renowned for its intense portrayal of a driven music student and his abusive instructor, which features a climactic scene where the protagonist delivers a breathtaking drum solo during a jazz competition, defying his mentor's expectations.",
+        "answers": [
+            "Whiplash"
         ],
         "incorrect1": "",
         "incorrect2": "",

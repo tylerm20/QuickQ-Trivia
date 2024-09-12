@@ -260,7 +260,7 @@
         "answers": [
             "school desegregation [or school integration; prompt on desegregation or integration]"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "US History",
@@ -269,7 +269,7 @@
         "answers": [
             "Theodore Roosevelt [or Teddy Roosevelt; or T.R.; prompt on Roosevelt]"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "US History",
@@ -278,7 +278,7 @@
         "answers": [
             "Rosa Parks"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "US History",
@@ -287,7 +287,7 @@
         "answers": [
             "attack on Pearl Harbor [accept descriptive answers]"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "US History",
@@ -296,7 +296,7 @@
         "answers": [
             "Nineteenth Amendment to the U.S. Constitution (or Amendment 19)"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "US History",
@@ -305,7 +305,7 @@
         "answers": [
             "Nikita Khrushchev"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "US History",
@@ -314,7 +314,7 @@
         "answers": [
             "Ulysses S. Grant"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "US History",

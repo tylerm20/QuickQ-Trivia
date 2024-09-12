@@ -268,7 +268,7 @@
         "answers": [
             "Carl Jung [or Carl Gustav Jung]"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",
@@ -277,7 +277,7 @@
         "answers": [
             "Neptune"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",
@@ -286,7 +286,7 @@
         "answers": [
             "factorial (accept gamma function until it is read)"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",
@@ -295,7 +295,7 @@
         "answers": [
             "parallel"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",
@@ -304,7 +304,7 @@
         "answers": [
             "carbon"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",
@@ -313,7 +313,7 @@
         "answers": [
             "heart"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",
@@ -322,7 +322,7 @@
         "answers": [
             "matter"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",

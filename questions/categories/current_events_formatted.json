@@ -1,10 +1,9 @@
 [
     {
         "category": "Current Events",
-        "question": "This indigenous people recently mourned the passing of their beloved king, Kiingi T\u016bheitia, who held the position for 16 years. Their traditional greeting, the hongi, involves pressing noses and foreheads together to share the breath of life. Their intricate wood carvings and tattoos, known as t\u0101 moko, are significant cultural expressions. Their war dance, the haka, is a powerful display of strength and unity, often performed before sporting events or other important occasions. Who are these indigenous Polynesian people of New Zealand?",
+        "question": "Hvaldimir, a whale of this species, who gained fame for potentially being an escaped Russian military whale recently passed away off the coast of Norway. These animals are highly social, often congregating in large pods, earning them the nickname \"sea canaries.\" This species of Arctic and sub-Arctic cetacean is known for its distinctive white coloration and its ability to change the shape of its bulbous forehead, called a \"melon.\" Name this whale that lacks a dorsal fin, an adaptation that helps them navigate through icy waters.",
         "answers": [
-            "M\u0101ori",
-            "Maori"
+            "Beluga"
         ],
         "incorrect1": "",
         "incorrect2": "",
@@ -14,9 +13,9 @@
     },
     {
         "category": "Current Events",
-        "question": "This region, located to the west of the Jordan River, is currently under Israeli military occupation, though it has been the subject of numerous peace negotiations and international disputes. It is home to significant religious sites for both Muslims and Jews, including the Cave of the Patriarchs in Hebron and the ancient city of Jericho. Its major cities include Ramallah, Nablus, and Bethlehem, the birthplace of Jesus Christ. The area is also known for its olive oil production and its rich cultural heritage. What is this region, a central part of the Israeli-Palestinian conflict?",
+        "question": "This actor passed away at the age of 93 on September 9, 2024. He was renowned for his deep and resonant voice that brought life to iconic characters. He achieved the coveted EGOT, winning an Emmy, Grammy, (Honorary) Oscar, and Tony Award throughout his illustrious career. He won Tony Awards for his roles in \"The Great White Hope\" and \"Fences.\" Name this actor who acted as Darth Vader in the Star Wars saga and Mufasa in The Lion King.",
         "answers": [
-            "West Bank"
+            "James Earl Jones"
         ],
         "incorrect1": "",
         "incorrect2": "",
@@ -26,9 +25,10 @@
     },
     {
         "category": "Current Events",
-        "question": "This arid Southern African nation's government is considering allowing the culling and consumption of elephants and zebras to alleviate food shortages and protect other endangered species during their severe drought. The nation borders Angola and Zambia to the north, Botswana to the east and South Africa to the east and south It is also home to the world's oldest desert, the Namib, and the majestic Etosha National Park, a haven for wildlife. What is the name of this country, the driest in sub-Saharan Africa?",
+        "question": "The cofounder of this app, Pavel Durov, was arrested in August 2024 for a lack of content moderation on the app. It allows users to create large group chats with up to 200,000 members and channels for broadcasting to unlimited audiences. The app is cloud-based messaging platform, known for its focus on privacy and security, offers features like encrypted \"Secret Chats\" and self-destructing messages. Name this app that gained popularity as an alternative to WhatsApp and other messaging apps due to its robust security features and open-source nature.",
         "answers": [
-            "Namibia"
+            "Telegram",
+            " Telegram Messenger"
         ],
         "incorrect1": "",
         "incorrect2": "",
@@ -38,10 +38,9 @@
     },
     {
         "category": "Current Events",
-        "question": "This international multi-sport event first took place in Rome in 1960, with 400 athletes from 23 countries participating. It is held every four years, following the Olympic Games. The event's motto, \"Spirit in Motion,\" embodies the determination and resilience of its athletes. Its logo features three Agitos, swirling shapes in red, blue, and green, representing the three core values of the games' movement: courage, determination, and inspiration. What is the name of this major sporting event featuring athletes with a range of disabilities? ",
+        "question": "The Word Health Organization recently reported that deaths from this disease rose 71% in 2023. This waterborne bacterial infection primarily affects the small intestine and can cause severe diarrhea and dehydration. It's caused by the Vibrio cholerae bacterium, often found in contaminated food or water sources. While it can be fatal if left untreated, prompt rehydration therapy and antibiotics can effectively combat the infection.  What is this disease, which has historically caused devastating epidemics throughout the world?",
         "answers": [
-            "Paralympics",
-            " Paralympic games"
+            "Cholera"
         ],
         "incorrect1": "",
         "incorrect2": "",
@@ -51,9 +50,9 @@
     },
     {
         "category": "Current Events",
-        "question": "The first case of this disease in Gaza in 25 years was recently diagnosed. This led to a large-scale vaccination campaign and Israel agreeing to limited pauses in fighting to allow for the vaccination. This disease, once a global scourge, primarily affects children under five and can cause irreversible paralysis in a matter of hours. It's transmitted through contaminated food or water and multiplies in the intestine before attacking the nervous system. What is the name of this infectious disease, which afflicted FDR, that has mostly been eradicated?",
+        "question": "This city hosted the second US Presidential debate -- the first to feature Kamala Harris -- at the National Constitution Center. This city is home to the iconic LOVE sculpture, a popular tourist destination in John F. Kennedy Plaza. It's also where the first American flag was designed and sewn by Betsy Ross. It boasts the oldest continuously inhabited street in America, Elfreth's Alley. Additionally, it is the birthplace of the cheesesteak, a culinary delight that has become synonymous with the city. What is this city, often referred to as the \"City of Brotherly Love\"? ",
         "answers": [
-            "Polio"
+            "Philadelphia"
         ],
         "incorrect1": "",
         "incorrect2": "",
@@ -63,9 +62,25 @@
     },
     {
         "category": "Current Events",
-        "question": "This country recently made headlines when a court blocked the social media platform X, formerly known as Twitter, citing concerns about the spread of misinformation and hate speech. It is also the birthplace of samba, a vibrant dance and music genre that has become synonymous with its annual Carnival celebration.  Furthermore, it boasts the iconic Christ the Redeemer statue, overlooking the bustling city of Rio de Janeiro. What is this South American nation, known for its rich culture, biodiversity, and passion for football?",
+        "question": "One of these events was recently attempted at Makala Central Prison in Kinshasa, Democratic Republic of the Congo, leaving 129 people dead. In 1962 inmates Frank Morris and the Anglin brothers succeeded in one of these at Alcatraz. Successful attempts at these can capture the public imagination, inspiring books, films, and even folklore. Name this event that involves the unauthorized departure of a prisoner from lawful confinement, often requiring ingenuity, planning, and a bit of luck.",
         "answers": [
-            "Brazil"
+            "jailbreak",
+            "escape",
+            "prison break",
+            "escape prison",
+            "escape jail"
+        ],
+        "incorrect1": "",
+        "incorrect2": "",
+        "incorrect3": "",
+        "used": "TRUE",
+        "source": "Marty Heavey"
+    },
+    {
+        "category": "Current Events",
+        "question": "A shooter killed four people at Apalachee High School in this state on September 4, 2024. This state's highest peak, Brasstown Bald, stands at 4,784 feet. Its coastline along the Atlantic Ocean is dotted with barrier islands, including Jekyll Island and Tybee Island. It is divided into five distinct physiographic regions: the Appalachian Plateau, the Valley and Ridge, the Blue Ridge, the Piedmont, and the Coastal Plain, each showcasing unique landscapes and ecosystems. Name this state home to the Chattahoochee River which provides a vital source of water and recreation for its residents.",
+        "answers": [
+            "Georgia"
         ],
         "incorrect1": "",
         "incorrect2": "",

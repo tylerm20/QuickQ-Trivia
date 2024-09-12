@@ -251,7 +251,7 @@
         "answers": [
             "Bertrand Russell"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "World History",
@@ -260,7 +260,7 @@
         "answers": [
             "Babylon [or Babilim]"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "World History",
@@ -269,7 +269,7 @@
         "answers": [
             "(The) Glorious Revolution [accept Revolution of 1688, prompt on \"Bloodless Revolution\" or description along the lines of \"William and Mary's accession to the British throne\"]"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "World History",
@@ -278,7 +278,7 @@
         "answers": [
             "Charlemagne [accept Carolus Magnus or Charles I or Charles the Great or Karl der Grosse]"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "World History",
@@ -287,7 +287,7 @@
         "answers": [
             "Socrates"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "World History",
@@ -296,7 +296,7 @@
         "answers": [
             "World War II [or the Second World War]"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "World History",
@@ -305,7 +305,7 @@
         "answers": [
             "gold [accept Golden Stool before \"stool\" is read; or gold rushes]"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "World History",

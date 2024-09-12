@@ -250,7 +250,7 @@
         "answers": [
             "Florida"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Geography",
@@ -259,7 +259,7 @@
         "answers": [
             "California"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Geography",
@@ -268,7 +268,7 @@
         "answers": [
             "India"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Geography",
@@ -277,7 +277,7 @@
         "answers": [
             "Dubai"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Geography",
@@ -286,7 +286,7 @@
         "answers": [
             "Hudson Bay"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Geography",
@@ -295,7 +295,7 @@
         "answers": [
             "dams (prompt on descriptions of (hydroelectric) power plants, stations, etc. before \"hydroelectric\" is read)"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Geography",
@@ -304,7 +304,7 @@
         "answers": [
             "North Sea"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Geography",
