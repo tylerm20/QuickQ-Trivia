@@ -314,7 +314,7 @@
         "answers": [
             "Aristotle"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "World History",
@@ -323,7 +323,7 @@
         "answers": [
             "Republic of South Africa [or RSA]"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "World History",
@@ -332,7 +332,7 @@
         "answers": [
             "Mali Empire"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "World History",
@@ -341,7 +341,7 @@
         "answers": [
             "Cuba"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "World History",
@@ -350,7 +350,7 @@
         "answers": [
             "Republica Argentina [or Argentine Republic]"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "World History",

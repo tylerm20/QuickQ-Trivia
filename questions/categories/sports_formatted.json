@@ -1,9 +1,9 @@
 [
     {
         "category": "Sports",
-        "question": "This golfer comes from a family of athletes, with her father being a former Grand Slam tennis champion and her younger brother a rising star in professional tennis. She kicked off the 2024 season with a historic feat, winning five consecutive LPGA Tour titles, a streak not seen in nearly two decades. Her victory at the 2024 Chevron Championship marked her second major title, solidifying her position as one of the top players in women's golf. She also holds an Olympic gold medal, earned in the 2020 Tokyo Games. Who is this talented golfer?",
+        "question": "This athlete, known for her exceptional skills in slalom and giant slalom, became the youngest Olympic slalom champion at the 2014 Sochi Olympics at just 18 years old. She holds the record for the most World Cup wins in a single discipline, with an impressive 53 victories in slalom. Her overall World Cup wins tally stands at 88, making her the most successful female alpine skier in history. She has also clinched multiple World Championship titles across various disciplines, demonstrating her versatility and dominance in the sport. Who is this alpine skiing prodigy?",
         "answers": [
-            "Nelly Korda"
+            "Mikaela Shiffrin"
         ],
         "incorrect1": "",
         "incorrect2": "",
@@ -13,10 +13,9 @@
     },
     {
         "category": "Sports",
-        "question": "This NFL team's current head coach, Dan Quinn, was hired in 2024 after previously serving as the defensive coordinator for the Dallas Cowboys. They underwent a name change in 2020 amidst growing controversy surrounding its previous moniker. Its  The team's iconic burgundy and gold colors remain unchanged, representing a visual link to its storied past. It boasts three Super Bowl victories, the last of which came in 1991 under the leadership of legendary coach Joe Gibbs. What is the name of this team, based in the nation's capital?",
+        "question": "This team's iconic home stadium, Shea Stadium, was demolished in 2009 and replaced by Citi Field. They achieved their first World Series victory in 1969, with a team with a \"Miracle\" moniker. They had historic players such as Tom Seaver and David Wright. Their most recent championship came in 1986, with a dramatic Game 7 victory over the Boston Red Sox. What is the name of this baseball team based in Queens, New York? ",
         "answers": [
-            "Washington Commanders",
-            "Commanders"
+            "New York Mets"
         ],
         "incorrect1": "",
         "incorrect2": "",
@@ -26,9 +25,9 @@
     },
     {
         "category": "Sports",
-        "question": "This sport's origins can be traced back to 16th-century Scotland, making it one of the oldest team sports still played today. It's known for its unique strategy and precision, requiring teams to carefully plan their shots and anticipate their opponents' moves. This sport involves sliding granite stones across a sheet of ice towards a target area called the \"house.\" Players use brooms to sweep the ice in front of the stone, influencing its speed and direction. What is this sport, often referred to as \"chess on ice\"?",
+        "question": "This sports executive, who assumed his current position in 2014, demonstrated his commitment to social justice by swiftly banning Los Angeles Clippers owner Donald Sterling for life following racist remarks. He has also overseen significant changes within the league, including the implementation of a play-in tournament for postseason seeding and a stricter technical foul policy aimed at curbing on-court complaints toward referees. His tenure has also seen the league's media rights deals skyrocket in value, securing billions of dollars in revenue. Who is this current commissioner of the National Basketball Association (NBA)?",
         "answers": [
-            "Curling"
+            "Adam Silver"
         ],
         "incorrect1": "",
         "incorrect2": "",
@@ -38,10 +37,9 @@
     },
     {
         "category": "Sports",
-        "question": "This NFL franchise achieved the only perfect season in league history, going 17-0 in 1972 and culminating in a Super Bowl VII victory.  They are led by head coach Mike McDaniel and boast a storied history with legendary players like Dan Marino and Larry Csonka. Their iconic teal and orange color scheme is instantly recognizable, and their home stadium, Hard Rock Stadium, has hosted multiple Super Bowls. Which team is this, based in Miami Gardens, Florida?",
+        "question": "This athlete's remarkable achievement of setting three world records and tying another within a single hour at the 1935 Big Ten track meet in Ann Arbor, Michigan, remains a testament to his exceptional athleticism. His four gold medals at the 1936 Berlin Olympics, in the face of Adolf Hitler's Aryan supremacy propaganda, made him an international symbol of triumph over prejudice. His victories in the 100-meter dash, 200-meter dash, long jump, and 4x100 meter relay shattered expectations and challenged prevailing racial stereotypes. Who was this legendary track and field athlete?",
         "answers": [
-            "Miami Dolphins",
-            "Dolphins"
+            "Jesse Owens"
         ],
         "incorrect1": "",
         "incorrect2": "",
@@ -51,35 +49,9 @@
     },
     {
         "category": "Sports",
-        "question": "This motorcycle racing legend, affectionately known as \"The Doctor,\" boasts nine Grand Prix World Championships, with seven of those coming in the premier 500cc/MotoGP class. His signature celebratory move, bowing to his bike, became a beloved tradition for fans worldwide. His retirement in 2021 marked the end of an era in motorcycle racing, leaving behind a legacy of unparalleled success and charisma. Who is this iconic Italian rider?",
+        "question": "This tennis star, known for his elegant one-handed backhand and graceful movement on the court, holds the record for the most consecutive weeks at the top of the ATP rankings, an impressive 237 weeks. He has won 20 Grand Slam singles titles, including a record eight Wimbledon championships. His rivalry with Rafael Nadal and Novak Djokovic captivated fans for years, producing some of the most memorable matches in tennis history. He retired from professional tennis in September 2022, leaving behind a legacy of unparalleled achievements and sportsmanship. Who is this iconic Swiss tennis player?",
         "answers": [
-            "Valentino Rossi"
-        ],
-        "incorrect1": "",
-        "incorrect2": "",
-        "incorrect3": "",
-        "used": "TRUE",
-        "source": "Marty Heavey"
-    },
-    {
-        "category": "Sports",
-        "question": "This basketball legend's signature move, the \"skyhook,\" was a seemingly unstoppable shot that became synonymous with his dominance on the court. He is the NBA's second all-time leading scorer, amassing an impressive 38,387 points throughout his illustrious career. He played for the Milwaukee Bucks and Los Angeles Lakers, winning six NBA championships and six MVP awards. Before converting to Islam and changing his name, he was known as Lew Alcindor and led UCLA to three consecutive NCAA championships. Who is this iconic center?",
-        "answers": [
-            "Kareem Abdul-Jabbar",
-            "Lew Alcindor"
-        ],
-        "incorrect1": "",
-        "incorrect2": "",
-        "incorrect3": "",
-        "used": "TRUE",
-        "source": "Marty Heavey"
-    },
-    {
-        "category": "Sports",
-        "question": "This NFL team secured their first and only Super Bowl victory in 2018, defeating the New England Patriots in a thrilling Super Bowl LII matchup. Their historic rivalry with the Dallas Cowboys, known for its intensity and competitiveness, has become a staple of the NFL landscape. Their home stadium, Lincoln Financial Field, is located in the heart of Philadelphia and is renowned for its passionate and sometimes boisterous crowds. What is the name of this team, based in Philadelphia?",
-        "answers": [
-            "Philadelphia Eagles",
-            "Eagles"
+            "Roger Federer"
         ],
         "incorrect1": "",
         "incorrect2": "",

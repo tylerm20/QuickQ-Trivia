@@ -331,7 +331,7 @@
         "answers": [
             "mammals (or Mammalia)"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",
@@ -340,7 +340,7 @@
         "answers": [
             "Jupiter"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",
@@ -349,7 +349,7 @@
         "answers": [
             "hydrogen bonds"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",
@@ -358,7 +358,7 @@
         "answers": [
             "nitrogen"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",
@@ -367,7 +367,7 @@
         "answers": [
             "calorie (accept small calorie, large calorie, food calorie, kilocalorie, cal, or kcal)"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",

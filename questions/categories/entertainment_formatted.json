@@ -1,9 +1,9 @@
 [
     {
         "category": "Entertainment",
-        "question": "This jazz vocalist's iconic rendition of \"A-Tisket, A-Tasket,\" a reworking of a nursery rhyme, propelled her to stardom at the young age of 21. She was admired for her impeccable scat singing, a form of vocal improvisation that showcased her remarkable rhythmic and melodic agility. Her collaborations with legendary musicians like Duke Ellington, Louis Armstrong, and Count Basie solidified her status as a jazz luminary. Name this singer who earned the nickname \"First Lady of Song.\"",
+        "question": "This actor's iconic trench coat and fedora from the film \"Casablanca\" have become enduring symbols of classic Hollywood style. He earned his only Academy Award for his role as a cantankerous boat captain in \"The African Queen,\" opposite Katharine Hepburn. His other memorable performances include the cynical private detective Sam Spade in \"The Maltese Falcon\" and the world-weary Rick Blaine in \"Casablanca,\" solidifying his status as a Hollywood legend. Who is this actor, known for his tough-guy persona and distinctive voice?",
         "answers": [
-            "Ella Fitzgerald"
+            "Humphrey Bogart"
         ],
         "incorrect1": "",
         "incorrect2": "",
@@ -13,9 +13,9 @@
     },
     {
         "category": "Entertainment",
-        "question": "This historical drama miniseries features a stellar cast led by Jared Harris, Stellan Skarsg\u00e5rd, and Emily Watson. It received numerous awards, including 10 Primetime Emmy Awards and two Golden Globes. Its unflinching portrayal of the human cost of the 1986 nuclear disaster and its aftermath. Name this HBO miniseries which depicted the Soviet nuclear disaster in what is now Ukraine.",
+        "question": "This Brazilian crime film, set in the favelas of Rio de Janeiro, follows the intertwined lives of two young men: Rocket, an aspiring photographer, and Z\u00e9 Pequeno, a ruthless drug dealer. Its non-linear narrative and gritty realism immerse viewers in the harsh realities of life in the favelas. It was co-directed by Fernando Meirelles and K\u00e1tia Lund, based on the semi-autobiographical novel of the same name by Paulo Lins. What is the title of this 2002 film, which has been praised for its raw and unflinching portrayal of poverty, violence, and the struggle for survival in a marginalized community?",
         "answers": [
-            "Chernobyl"
+            "City of God"
         ],
         "incorrect1": "",
         "incorrect2": "",
@@ -25,9 +25,9 @@
     },
     {
         "category": "Entertainment",
-        "question": "This animated sitcom follows the misadventures of four elementary school boys - Stan Marsh, Kyle Broflovski, Eric Cartman, and Kenny McCormick - in the fictional Colorado town. Created by Trey Parker and Matt Stone, it has garnered critical acclaim and controversy for its irreverent approach to tackling sensitive topics, including religion, politics, and pop culture. The show's iconic cut-out animation style and memorable catchphrases, like \"Oh my God, they killed Kenny!\", have become ingrained in popular culture. What is the name of this long-running animated series?",
+        "question": "This animated classic features the voice talents of renowned actors like James Earl Jones, Matthew Broderick, and Jeremy Irons. The film's opening sequence, set to the powerful song \"Circle of Life,\" showcases the breathtaking African savanna and introduces the young lion cub Simba. It features a memorable song, \"Hakuna Matata,\" which promotes a carefree philosophy of \"no worries.\" Its villain, Scar, delivers the chilling line, \"Long live the king,\" before betraying his brother Mufasa. What is the title of this beloved 1994 musical film? ",
         "answers": [
-            "South Park"
+            "The Lion King"
         ],
         "incorrect1": "",
         "incorrect2": "",
@@ -37,9 +37,9 @@
     },
     {
         "category": "Entertainment",
-        "question": "This iconic sitcom's theme song, \"Where Everybody Knows Your Name,\" performed by Gary Portnoy. The series finale, aired in 1993, was a major television event, drawing in millions of viewers. It premiered in 1982 and ran for 11 seasons, becoming one of the most beloved and successful sitcoms in television history. This sitcom, set in a Boston bar, featured a cast of memorable characters, including Sam Malone, a womanizing ex-baseball player turned bartender, and Diane Chambers, an intelligent but pretentious waitress. What is the name of this classic sitcom?",
+        "question": "This band holds the record for the most gold and multi-platinum albums by an American group. Their collaboration with Run-DMC on a remake of \"Walk This Way\" in 1986 bridged the gap between rock and hip-hop, introducing them to a new generation of fans. \"I Don't Want to Miss a Thing,\" from the 1998 film \"Armageddon,\" became their first and only number-one hit on the Billboard Hot 100. Their high-energy live performances and bluesy rock sound, led by the charismatic Steven Tyler and the guitar prowess of Joe Perry, earned them the nickname \"The Bad Boys from Boston.\" What is this band?",
         "answers": [
-            "Cheers"
+            "Aerosmith"
         ],
         "incorrect1": "",
         "incorrect2": "",
@@ -49,33 +49,9 @@
     },
     {
         "category": "Entertainment",
-        "question": "This Netflix series pays homage to 1980s pop culture, drawing inspiration from iconic films like \"E.T. the Extra-Terrestrial,\" \"The Goonies,\" and \"Stand by Me.\" The show features a group of young friends, including the telekinetic Eleven and the adventurous Mike Wheeler, who navigate the mysteries and dangers of the Upside Down, a parallel dimension filled with strange creatures. What is the name of this popular science fiction horror series? ",
+        "question": "This animated masterpiece won the Academy Award for Best Animated Feature in 2003, the first and only hand-drawn and non-English-language film to do so. The main character, Chihiro, must work in a bathhouse for spirits to free her parents who have been turned into pigs. Its iconic characters, like the enigmatic Haku and the mysterious No-Face, have resonated with audiences worldwide. What is the name of this critically acclaimed Japanese animated film directed by Hayao Miyazaki?",
         "answers": [
-            "Stranger Things"
-        ],
-        "incorrect1": "",
-        "incorrect2": "",
-        "incorrect3": "",
-        "used": "TRUE",
-        "source": "Marty Heavey"
-    },
-    {
-        "category": "Entertainment",
-        "question": "This historical epic film, set in ancient Rome, tells the story of Maximus Decimus Meridius, a betrayed general forced into slavery who seeks revenge against the corrupt emperor Commodus. It garnered critical acclaim and box office success, winning five Academy Awards, including Best Picture and Best Actor for Russell Crowe's powerful performance. Its iconic line, \"Are you not entertained?\", delivered by Maximus during a gladiatorial battle, has become a memorable quote in popular culture. Name this 2000 historical drama.",
-        "answers": [
-            "Gladiator"
-        ],
-        "incorrect1": "",
-        "incorrect2": "",
-        "incorrect3": "",
-        "used": "TRUE",
-        "source": "Marty Heavey"
-    },
-    {
-        "category": "Entertainment",
-        "question": "This 2014 film's title references a challenging piece of music that serves as a central motif throughout the narrative, symbolizing the relentless pursuit of perfection and the sacrifices made in the name of artistic ambition. The J.K. Simmons' portrayal of the tyrannical conductor, Terence Fletcher, earned him an Academy Award for Best Supporting Actor. Name this film, renowned for its intense portrayal of a driven music student and his abusive instructor, which features a climactic scene where the protagonist delivers a breathtaking drum solo during a jazz competition, defying his mentor's expectations.",
-        "answers": [
-            "Whiplash"
+            "Spirited Away"
         ],
         "incorrect1": "",
         "incorrect2": "",

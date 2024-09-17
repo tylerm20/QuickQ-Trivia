@@ -1,9 +1,9 @@
 [
     {
         "category": "Current Events",
-        "question": "Hvaldimir, a whale of this species, who gained fame for potentially being an escaped Russian military whale recently passed away off the coast of Norway. These animals are highly social, often congregating in large pods, earning them the nickname \"sea canaries.\" This species of Arctic and sub-Arctic cetacean is known for its distinctive white coloration and its ability to change the shape of its bulbous forehead, called a \"melon.\" Name this whale that lacks a dorsal fin, an adaptation that helps them navigate through icy waters.",
+        "question": "Alberto Fujimori, the president of this nation from 1990-2000, died on September 11, 2024. He was general thought to be a dictator and dissolved Congress in 1992. This country is home to the Nazca Lines, a series of ancient geoglyphs etched into the desert, whose purpose remains a subject of fascination and speculation. Name this nation, home to Machu Picchu, an iconic Incan citadel perched high in the Andes Mountains, often called the \"Lost City of the Incas.\"",
         "answers": [
-            "Beluga"
+            "Peru"
         ],
         "incorrect1": "",
         "incorrect2": "",
@@ -13,9 +13,11 @@
     },
     {
         "category": "Current Events",
-        "question": "This actor passed away at the age of 93 on September 9, 2024. He was renowned for his deep and resonant voice that brought life to iconic characters. He achieved the coveted EGOT, winning an Emmy, Grammy, (Honorary) Oscar, and Tony Award throughout his illustrious career. He won Tony Awards for his roles in \"The Great White Hope\" and \"Fences.\" Name this actor who acted as Darth Vader in the Star Wars saga and Mufasa in The Lion King.",
+        "question": "\"Shogun\" won 18 of awards and \"Hacks\" beat out \"The Bear\" for best comedy at this ceremony. These awards are a statuette, depicting a winged woman holding an atom. The first ceremony was held in 1949, and has since become a glamorous event celebrating the best in television. These awards, bestowed annually by the Academy of Television Arts & Sciences, recognize excellence in American primetime television programming.What is the name of these prestigious awards?",
         "answers": [
-            "James Earl Jones"
+            "The Emmys",
+            "The Emmy Awards",
+            "Emmys"
         ],
         "incorrect1": "",
         "incorrect2": "",
@@ -25,10 +27,11 @@
     },
     {
         "category": "Current Events",
-        "question": "The cofounder of this app, Pavel Durov, was arrested in August 2024 for a lack of content moderation on the app. It allows users to create large group chats with up to 200,000 members and channels for broadcasting to unlimited audiences. The app is cloud-based messaging platform, known for its focus on privacy and security, offers features like encrypted \"Secret Chats\" and self-destructing messages. Name this app that gained popularity as an alternative to WhatsApp and other messaging apps due to its robust security features and open-source nature.",
+        "question": "Edward Caban resigned from this position in New York City after he was one of several members of Eric Adam's inner circle to be investigated. Figures like William Bratton, known for his \"broken windows\" strategy, and Daryl Gates, a controversial figure during the Rodney King era, have shaped the public perception of this role. In fiction, Clancy Wiggum of Springfield to the James Gordon of Gotham City highlight the challenges and complexities of this role.  What is this top leadership position in a police department, responsible for maintaining public safety and upholding the law?",
         "answers": [
-            "Telegram",
-            " Telegram Messenger"
+            "Police commisioner",
+            "Chief of police",
+            "police chief"
         ],
         "incorrect1": "",
         "incorrect2": "",
@@ -38,9 +41,11 @@
     },
     {
         "category": "Current Events",
-        "question": "The Word Health Organization recently reported that deaths from this disease rose 71% in 2023. This waterborne bacterial infection primarily affects the small intestine and can cause severe diarrhea and dehydration. It's caused by the Vibrio cholerae bacterium, often found in contaminated food or water sources. While it can be fatal if left untreated, prompt rehydration therapy and antibiotics can effectively combat the infection.  What is this disease, which has historically caused devastating epidemics throughout the world?",
+        "question": "This vibrant festival, celebrated in many Asian cultures, features a dazzling array of colorful lanterns adorning streets and homes. Mooncakes, pastries filled with sweet or savory fillings, are traditionally enjoyed during this festive occasion. It falls on the 15th day of the 8th lunar month, when the moon is believed to be at its fullest and brightest. The legend of Chang'e, the Moon Goddess, is often associated with this celebration. What is the name of this annual harvest festival?",
         "answers": [
-            "Cholera"
+            "Mid-Autumn Festival",
+            "Moon festival",
+            "Mooncake Festival"
         ],
         "incorrect1": "",
         "incorrect2": "",
@@ -50,37 +55,9 @@
     },
     {
         "category": "Current Events",
-        "question": "This city hosted the second US Presidential debate -- the first to feature Kamala Harris -- at the National Constitution Center. This city is home to the iconic LOVE sculpture, a popular tourist destination in John F. Kennedy Plaza. It's also where the first American flag was designed and sewn by Betsy Ross. It boasts the oldest continuously inhabited street in America, Elfreth's Alley. Additionally, it is the birthplace of the cheesesteak, a culinary delight that has become synonymous with the city. What is this city, often referred to as the \"City of Brotherly Love\"? ",
+        "question": "This West African nation recently faced devastating floods in its northeastern region, displacing over 200,000 people and resulting in over 200 fatalities. The floods were triggered by heavy rainfall and the collapse of a major dam, causing widespread damage to infrastructure and farmland. It is the most populous country in Africa and a major oil producer. It is also known for its vibrant Nollywood film industry and its diverse cultural landscape, with over 250 ethnic groups. What is the name of this country, with a capital of Abuja and a largest city of Lagos? ",
         "answers": [
-            "Philadelphia"
-        ],
-        "incorrect1": "",
-        "incorrect2": "",
-        "incorrect3": "",
-        "used": "TRUE",
-        "source": "Marty Heavey"
-    },
-    {
-        "category": "Current Events",
-        "question": "One of these events was recently attempted at Makala Central Prison in Kinshasa, Democratic Republic of the Congo, leaving 129 people dead. In 1962 inmates Frank Morris and the Anglin brothers succeeded in one of these at Alcatraz. Successful attempts at these can capture the public imagination, inspiring books, films, and even folklore. Name this event that involves the unauthorized departure of a prisoner from lawful confinement, often requiring ingenuity, planning, and a bit of luck.",
-        "answers": [
-            "jailbreak",
-            "escape",
-            "prison break",
-            "escape prison",
-            "escape jail"
-        ],
-        "incorrect1": "",
-        "incorrect2": "",
-        "incorrect3": "",
-        "used": "TRUE",
-        "source": "Marty Heavey"
-    },
-    {
-        "category": "Current Events",
-        "question": "A shooter killed four people at Apalachee High School in this state on September 4, 2024. This state's highest peak, Brasstown Bald, stands at 4,784 feet. Its coastline along the Atlantic Ocean is dotted with barrier islands, including Jekyll Island and Tybee Island. It is divided into five distinct physiographic regions: the Appalachian Plateau, the Valley and Ridge, the Blue Ridge, the Piedmont, and the Coastal Plain, each showcasing unique landscapes and ecosystems. Name this state home to the Chattahoochee River which provides a vital source of water and recreation for its residents.",
-        "answers": [
-            "Georgia"
+            "Nigeria"
         ],
         "incorrect1": "",
         "incorrect2": "",

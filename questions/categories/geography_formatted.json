@@ -313,7 +313,7 @@
         "answers": [
             "Commonwealth of Australia"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Geography",
@@ -322,7 +322,7 @@
         "answers": [
             "Republic of Turkey [accept Turkiye Cumhuriyeti]"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Geography",
@@ -331,7 +331,7 @@
         "answers": [
             "Amazon River [or Amazonas]"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Geography",
@@ -340,7 +340,7 @@
         "answers": [
             "Italy [also accept Italian Republic or Repubblica Italiana]"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Geography",
@@ -349,7 +349,7 @@
         "answers": [
             "lakes [accept Lake Erie Bill of Rights; accept the Great Lakes]"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Geography",
