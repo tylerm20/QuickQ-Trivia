@@ -1,9 +1,9 @@
 [
     {
         "category": "Sports",
-        "question": "This athlete, known for her exceptional skills in slalom and giant slalom, became the youngest Olympic slalom champion at the 2014 Sochi Olympics at just 18 years old. She holds the record for the most World Cup wins in a single discipline, with an impressive 53 victories in slalom. Her overall World Cup wins tally stands at 88, making her the most successful female alpine skier in history. She has also clinched multiple World Championship titles across various disciplines, demonstrating her versatility and dominance in the sport. Who is this alpine skiing prodigy?",
+        "question": "This tennis player holds the record for the most consecutive weeks ranked world No. 1 in women's tennis, with an impressive 186 weeks. Her powerful forehand, often referred to as the \"forehand drive,\" was a fearsome weapon that helped her dominate opponents on all surfaces. She achieved a \"Golden Slam\" in 1988, winning all four Grand Slam singles titles and the Olympic gold medal in the same calendar year. She retired from professional tennis in 1999, leaving behind a legacy of 22 Grand Slam singles titles and a reputation as one of the greatest players of all time. Who is this German tennis legend?",
         "answers": [
-            "Mikaela Shiffrin"
+            "Steffi Graf"
         ],
         "incorrect1": "",
         "incorrect2": "",
@@ -13,9 +13,9 @@
     },
     {
         "category": "Sports",
-        "question": "This team's iconic home stadium, Shea Stadium, was demolished in 2009 and replaced by Citi Field. They achieved their first World Series victory in 1969, with a team with a \"Miracle\" moniker. They had historic players such as Tom Seaver and David Wright. Their most recent championship came in 1986, with a dramatic Game 7 victory over the Boston Red Sox. What is the name of this baseball team based in Queens, New York? ",
+        "question": "This sports executive, often referred to as the \"Commissioner of the World\" for his role in expanding the NBA's global reach, oversaw the creation of the WNBA and the NBA Development League during his tenure. He implemented the NBA draft lottery system in 1985, aimed at discouraging teams from intentionally losing games to secure the top pick. His leadership also saw the introduction of the salary cap and revenue sharing, which contributed to the league's financial stability and competitive balance. Who was this commissioner of the NBA from 1984 to 2014?",
         "answers": [
-            "New York Mets"
+            "David Stern"
         ],
         "incorrect1": "",
         "incorrect2": "",
@@ -25,9 +25,10 @@
     },
     {
         "category": "Sports",
-        "question": "This sports executive, who assumed his current position in 2014, demonstrated his commitment to social justice by swiftly banning Los Angeles Clippers owner Donald Sterling for life following racist remarks. He has also overseen significant changes within the league, including the implementation of a play-in tournament for postseason seeding and a stricter technical foul policy aimed at curbing on-court complaints toward referees. His tenure has also seen the league's media rights deals skyrocket in value, securing billions of dollars in revenue. Who is this current commissioner of the National Basketball Association (NBA)?",
+        "question": "This NFL team relocated from Baltimore to Indianapolis in 1984, amidst a controversial midnight move orchestrated by then-owner Robert Irsay. They secured their first Super Bowl victory in 1971 in Baltimore, led by legendary quarterback Johnny Unitas. Their iconic horseshoe logo has become a symbol of the franchise. They experienced a resurgence in the 2000s, led by Peyton Manning, culminating in a Super Bowl XLI victory in 2007. What is the name of this team, whose home games are played at Lucas Oil Stadium?",
         "answers": [
-            "Adam Silver"
+            "Indianapolis Colts",
+            "Colts"
         ],
         "incorrect1": "",
         "incorrect2": "",
@@ -37,9 +38,9 @@
     },
     {
         "category": "Sports",
-        "question": "This athlete's remarkable achievement of setting three world records and tying another within a single hour at the 1935 Big Ten track meet in Ann Arbor, Michigan, remains a testament to his exceptional athleticism. His four gold medals at the 1936 Berlin Olympics, in the face of Adolf Hitler's Aryan supremacy propaganda, made him an international symbol of triumph over prejudice. His victories in the 100-meter dash, 200-meter dash, long jump, and 4x100 meter relay shattered expectations and challenged prevailing racial stereotypes. Who was this legendary track and field athlete?",
+        "question": "This hockey legend's career was marked by both extraordinary talent and formidable health challenges, including Hodgkin's lymphoma, which he battled while still playing. Nicknamed \"The Magnificent One,\" he led the Pittsburgh Penguins to two consecutive Stanley Cup championships in 1991 and 1992.  His remarkable comeback in 2000, after a three-and-a-half-year retirement, further cemented his status as an icon.  He is the only person to have his name engraved on the Stanley Cup as both a player and an owner.  Who is this hockey great, often considered one of the most gifted players of all time?",
         "answers": [
-            "Jesse Owens"
+            "Mario Lemieux"
         ],
         "incorrect1": "",
         "incorrect2": "",
@@ -49,9 +50,10 @@
     },
     {
         "category": "Sports",
-        "question": "This tennis star, known for his elegant one-handed backhand and graceful movement on the court, holds the record for the most consecutive weeks at the top of the ATP rankings, an impressive 237 weeks. He has won 20 Grand Slam singles titles, including a record eight Wimbledon championships. His rivalry with Rafael Nadal and Novak Djokovic captivated fans for years, producing some of the most memorable matches in tennis history. He retired from professional tennis in September 2022, leaving behind a legacy of unparalleled achievements and sportsmanship. Who is this iconic Swiss tennis player?",
+        "question": "This NBA franchise, currently playing their home games at the Frost Bank Center, holds the distinction of being the only former ABA team to have won multiple NBA championships. They clinched their first title in 1999, led by the iconic duo of David Robinson and Tim Duncan. Their success continued into the 2000s, with further championships in 2003, 2005, 2007, and 2014, under the guidance of legendary coach Gregg Popovich. The team's consistent success and emphasis on teamwork have earned them a reputation as a model franchise in professional sports. What is the name of this team, based in San Antonio, Texas?",
         "answers": [
-            "Roger Federer"
+            "San Antonio Spurs",
+            "Spurs"
         ],
         "incorrect1": "",
         "incorrect2": "",

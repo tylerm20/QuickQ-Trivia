@@ -1,9 +1,11 @@
 [
     {
         "category": "Current Events",
-        "question": "Alberto Fujimori, the president of this nation from 1990-2000, died on September 11, 2024. He was general thought to be a dictator and dissolved Congress in 1992. This country is home to the Nazca Lines, a series of ancient geoglyphs etched into the desert, whose purpose remains a subject of fascination and speculation. Name this nation, home to Machu Picchu, an iconic Incan citadel perched high in the Andes Mountains, often called the \"Lost City of the Incas.\"",
+        "question": "This institution cut interest rates for the first time since 2020 on September 8, 2024. Their current chair, Jerome Powell, was sworn into office in February 2018. It is divided into 12 regional banks across the United States, each with its own president. Its primary functions include conducting monetary policy, supervising and regulating banks, and maintaining the stability of the financial system. It was established in 1913. What is the name of this central banking system of the United States? ",
         "answers": [
-            "Peru"
+            "Federal Reserve",
+            "The Fed",
+            "Fed"
         ],
         "incorrect1": "",
         "incorrect2": "",
@@ -13,11 +15,11 @@
     },
     {
         "category": "Current Events",
-        "question": "\"Shogun\" won 18 of awards and \"Hacks\" beat out \"The Bear\" for best comedy at this ceremony. These awards are a statuette, depicting a winged woman holding an atom. The first ceremony was held in 1949, and has since become a glamorous event celebrating the best in television. These awards, bestowed annually by the Academy of Television Arts & Sciences, recognize excellence in American primetime television programming.What is the name of these prestigious awards?",
+        "question": "In a coordinated attack by Israel against Hezbollah, these devices exploded killing at least 42 people. This technology, once ubiquitous in the 1990s, relies on radio frequencies and specialized networks to transmit brief text messages or numeric codes to a small, portable device. Its iconic numeric display and distinctive beep became synonymous with the era. Though largely eclipsed by smartphones and mobile messaging apps, it still finds use in specific contexts, such as hospitals and critical infrastructure systems, where its simplicity and dependability remain valuable. What is this technology?",
         "answers": [
-            "The Emmys",
-            "The Emmy Awards",
-            "Emmys"
+            "pagers",
+            "walkie talkie",
+            "walky talky"
         ],
         "incorrect1": "",
         "incorrect2": "",
@@ -27,11 +29,9 @@
     },
     {
         "category": "Current Events",
-        "question": "Edward Caban resigned from this position in New York City after he was one of several members of Eric Adam's inner circle to be investigated. Figures like William Bratton, known for his \"broken windows\" strategy, and Daryl Gates, a controversial figure during the Rodney King era, have shaped the public perception of this role. In fiction, Clancy Wiggum of Springfield to the James Gordon of Gotham City highlight the challenges and complexities of this role.  What is this top leadership position in a police department, responsible for maintaining public safety and upholding the law?",
+        "question": "In this state, the Secret Service spotted a potential gunman trying to assisinate Donald Trump on a golf course. This state's iconic citrus industry, particularly its oranges and grapefruits, has earned it the nickname \"The Citrus State,\" though it's more commonly known as \"The Sunshine State.\" It's home to the Everglades, a vast subtropical wetland teeming with unique wildlife like alligators and manatees. The Kennedy Space Center, located on its eastern coast, has been the launch site for numerous historic space missions, including the Apollo 11 moon landing. Name this state.",
         "answers": [
-            "Police commisioner",
-            "Chief of police",
-            "police chief"
+            "Florida"
         ],
         "incorrect1": "",
         "incorrect2": "",
@@ -41,11 +41,10 @@
     },
     {
         "category": "Current Events",
-        "question": "This vibrant festival, celebrated in many Asian cultures, features a dazzling array of colorful lanterns adorning streets and homes. Mooncakes, pastries filled with sweet or savory fillings, are traditionally enjoyed during this festive occasion. It falls on the 15th day of the 8th lunar month, when the moon is believed to be at its fullest and brightest. The legend of Chang'e, the Moon Goddess, is often associated with this celebration. What is the name of this annual harvest festival?",
+        "question": "This music mogul recently faced a significant legal challenge when a federal grand jury in New York indicted him on charges of sex trafficking, racketeering conspiracy, and transportation to engage in prostitution. This man founded Bad Boy Entertainment in 1993. He achieved mainstream success with his debut album, \"No Way Out,\" featuring the chart-topping tribute song \"I'll Be Missing You.\" He also ventured into acting including appearing on the television series \"CSI: Miami.\" Beyond music and film, he launched the successful Sean John clothing line and ventured into the spirits industry with his Ciroc vodka brand. Who is this entertainment mogul, also known by his stage name Diddy?",
         "answers": [
-            "Mid-Autumn Festival",
-            "Moon festival",
-            "Mooncake Festival"
+            "Sean Combs",
+            "Diddy"
         ],
         "incorrect1": "",
         "incorrect2": "",
@@ -55,9 +54,9 @@
     },
     {
         "category": "Current Events",
-        "question": "This West African nation recently faced devastating floods in its northeastern region, displacing over 200,000 people and resulting in over 200 fatalities. The floods were triggered by heavy rainfall and the collapse of a major dam, causing widespread damage to infrastructure and farmland. It is the most populous country in Africa and a major oil producer. It is also known for its vibrant Nollywood film industry and its diverse cultural landscape, with over 250 ethnic groups. What is the name of this country, with a capital of Abuja and a largest city of Lagos? ",
+        "question": "This social network recently announced stricter settings for young users, including pausing their notifications at night. This platform, launched in 2010, initially gained popularity with its distinctive square format and vintage-inspired filters. It was acquired by Facebook in 2012 for a then-staggering sum of $1 billion. Its \"Stories\" feature, introduced in 2016, allows users to share ephemeral content that disappears after 24 hours, borrowing heavily from Snapchat's similar feature. It has since evolved to include features like Reels, IGTV, and live streaming, solidifying its position as a dominant force in social media. What is the name of this popular app?",
         "answers": [
-            "Nigeria"
+            "Instagram"
         ],
         "incorrect1": "",
         "incorrect2": "",

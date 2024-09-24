@@ -359,7 +359,7 @@
         "answers": [
             "China [or Zhongguo]"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "World History",
@@ -368,7 +368,7 @@
         "answers": [
             "serfs [accept Serfdom; do not accept \"slaves\"]"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "World History",
@@ -377,7 +377,7 @@
         "answers": [
             "Korean War"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "World History",
@@ -386,7 +386,7 @@
         "answers": [
             "the European Union [or the EU; accept answers in any of the other 23 official EU languages]"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "World History",
@@ -395,7 +395,7 @@
         "answers": [
             "Vietnam War [or Second Indochina War]"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "World History",

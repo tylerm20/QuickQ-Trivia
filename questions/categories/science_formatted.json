@@ -376,7 +376,7 @@
         "answers": [
             "white dwarf"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",
@@ -385,7 +385,7 @@
         "answers": [
             "kinetic energy (accept KE; accept kinetic alone after \"energy\" is read; prompt on \"energy\")"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",
@@ -394,7 +394,7 @@
         "answers": [
             "Arthropoda (accept Arthropods)"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",
@@ -403,7 +403,7 @@
         "answers": [
             "metalloids (accept semimetals)"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",
@@ -412,7 +412,7 @@
         "answers": [
             "brain"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",

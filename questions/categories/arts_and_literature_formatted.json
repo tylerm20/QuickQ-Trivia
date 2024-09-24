@@ -372,7 +372,7 @@
         "answers": [
             "Book of Psalms (accept Tehillim)"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Arts & Literature",
@@ -381,7 +381,7 @@
         "answers": [
             "Valhalla (accept Valholl)"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Arts & Literature",
@@ -390,7 +390,7 @@
         "answers": [
             "Geoffrey Chaucer"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Arts & Literature",
@@ -399,7 +399,7 @@
         "answers": [
             "Rembrandt Harmenszoon van Rijn"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Arts & Literature",
@@ -408,7 +408,7 @@
         "answers": [
             "Jack London"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Arts & Literature",

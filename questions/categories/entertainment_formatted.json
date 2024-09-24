@@ -1,9 +1,9 @@
 [
     {
         "category": "Entertainment",
-        "question": "This actor's iconic trench coat and fedora from the film \"Casablanca\" have become enduring symbols of classic Hollywood style. He earned his only Academy Award for his role as a cantankerous boat captain in \"The African Queen,\" opposite Katharine Hepburn. His other memorable performances include the cynical private detective Sam Spade in \"The Maltese Falcon\" and the world-weary Rick Blaine in \"Casablanca,\" solidifying his status as a Hollywood legend. Who is this actor, known for his tough-guy persona and distinctive voice?",
+        "question": "This actor's iconic line, \"You talkin' to me?\", from \"Taxi Driver,\" captures the character's descent into madness. He also co-founded the Tribeca Film Festival, a platform for showcasing independent films and emerging talent. He won two Oscars, for his roles in \"The Godfather Part II\" and \"Raging Bull.\" He's known for his frequent collaborations with director Martin Scorsese, including \"Goodfellas\" and \"The Departed.\" Who is this legendary actor?",
         "answers": [
-            "Humphrey Bogart"
+            "Robert De Niro"
         ],
         "incorrect1": "",
         "incorrect2": "",
@@ -13,9 +13,10 @@
     },
     {
         "category": "Entertainment",
-        "question": "This Brazilian crime film, set in the favelas of Rio de Janeiro, follows the intertwined lives of two young men: Rocket, an aspiring photographer, and Z\u00e9 Pequeno, a ruthless drug dealer. Its non-linear narrative and gritty realism immerse viewers in the harsh realities of life in the favelas. It was co-directed by Fernando Meirelles and K\u00e1tia Lund, based on the semi-autobiographical novel of the same name by Paulo Lins. What is the title of this 2002 film, which has been praised for its raw and unflinching portrayal of poverty, violence, and the struggle for survival in a marginalized community?",
+        "question": "This iconic Western film's climactic scene, a three-way Mexican standoff in a cemetery, is renowned for its suspenseful buildup and Ennio Morricone's unforgettable score. The film's protagonist, the \"Man with No Name,\" is played by Clint Eastwood, solidifying his status as a Western icon. Its title refers to the three main characters: Blondie, Angel Eyes, and Tuco, who are all searching for a hidden treasure. The film is the third installment in Sergio Leone's \"Dollars Trilogy.\" What is the title of this epic Spaghetti Western?",
         "answers": [
-            "City of God"
+            "The Good",
+            " the Bad and the Ugly"
         ],
         "incorrect1": "",
         "incorrect2": "",
@@ -25,9 +26,9 @@
     },
     {
         "category": "Entertainment",
-        "question": "This animated classic features the voice talents of renowned actors like James Earl Jones, Matthew Broderick, and Jeremy Irons. The film's opening sequence, set to the powerful song \"Circle of Life,\" showcases the breathtaking African savanna and introduces the young lion cub Simba. It features a memorable song, \"Hakuna Matata,\" which promotes a carefree philosophy of \"no worries.\" Its villain, Scar, delivers the chilling line, \"Long live the king,\" before betraying his brother Mufasa. What is the title of this beloved 1994 musical film? ",
+        "question": "This cult classic comedy features a protagonist who enjoys White Russians, bowling, and listening to Creedence Clearwater Revival. The film's iconic line, \"The Dude abides,\" perfectly encapsulates the laid-back attitude of its central charactee. The Dude, mistaken for a millionaire with the same name, finds himself entangled in a bizarre kidnapping plot involving a stolen rug, nihilists, and a pornographer named Jackie Treehorn. The film's eclectic soundtrack, quirky characters, and quotable dialogue have solidified its place as a beloved comedy with a dedicated fan following. What is the title of this 1998 film directed by the Coen brothers?",
         "answers": [
-            "The Lion King"
+            "The Big Lebowski"
         ],
         "incorrect1": "",
         "incorrect2": "",
@@ -37,9 +38,9 @@
     },
     {
         "category": "Entertainment",
-        "question": "This band holds the record for the most gold and multi-platinum albums by an American group. Their collaboration with Run-DMC on a remake of \"Walk This Way\" in 1986 bridged the gap between rock and hip-hop, introducing them to a new generation of fans. \"I Don't Want to Miss a Thing,\" from the 1998 film \"Armageddon,\" became their first and only number-one hit on the Billboard Hot 100. Their high-energy live performances and bluesy rock sound, led by the charismatic Steven Tyler and the guitar prowess of Joe Perry, earned them the nickname \"The Bad Boys from Boston.\" What is this band?",
+        "question": "This film achieved a rare feat, sweeping all five major Academy Awards in 1976: Best Picture, Best Director, Best Actor, Best Actress, and Best Screenplay. Its powerful narrative unfolds within the confines of a mental institution, where the rebellious Randle McMurphy, played by Jack Nicholson, clashes with the tyrannical Nurse Ratched, portrayed by Louise Fletcher. The film's exploration of themes of conformity, rebellion, and the fight for individual freedom resonated deeply with audiences, making it a cinematic landmark. What is the title of this acclaimed film, based on Ken Kesey's novel?",
         "answers": [
-            "Aerosmith"
+            "One Flew Over the Cuckoo's Nest"
         ],
         "incorrect1": "",
         "incorrect2": "",
@@ -49,9 +50,9 @@
     },
     {
         "category": "Entertainment",
-        "question": "This animated masterpiece won the Academy Award for Best Animated Feature in 2003, the first and only hand-drawn and non-English-language film to do so. The main character, Chihiro, must work in a bathhouse for spirits to free her parents who have been turned into pigs. Its iconic characters, like the enigmatic Haku and the mysterious No-Face, have resonated with audiences worldwide. What is the name of this critically acclaimed Japanese animated film directed by Hayao Miyazaki?",
+        "question": "The film's philosophical underpinnings explore themes of reality, free will, and the nature of existence, drawing inspiration from various philosophical traditions. It introduced the concept of the \"red pill\" and the \"blue pill,\" representing the choice between embracing the harsh truth of reality or remaining blissfully ignorant in a simulated world. Its groundbreaking visual effects and innovative action choreography set a new standard for the genre. The film features iconic action sequences like the \"bullet time\" scene, where Neo dodges bullets in slow motion while the camera seemingly circles him. What is the title of this 1999 film that revolutionized science fiction cinema?",
         "answers": [
-            "Spirited Away"
+            "The Matrix"
         ],
         "incorrect1": "",
         "incorrect2": "",

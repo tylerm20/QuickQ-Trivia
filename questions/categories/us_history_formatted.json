@@ -368,7 +368,7 @@
         "answers": [
             "Boston Massacre"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "US History",
@@ -377,7 +377,7 @@
         "answers": [
             "Kent State massacre"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "US History",
@@ -386,7 +386,7 @@
         "answers": [
             "Thomas Alva Edison"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "US History",
@@ -395,7 +395,7 @@
         "answers": [
             "Malcolm X (Accept El-Hajj Malik El-Shabazz or Malcolm Little)"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "US History",
@@ -404,7 +404,7 @@
         "answers": [
             "Lake Michigan"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "US History",

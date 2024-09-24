@@ -358,7 +358,7 @@
         "answers": [
             "Russia [accept Russian Federation; accept Rossiya]"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Geography",
@@ -367,7 +367,7 @@
         "answers": [
             "Oklahoma"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Geography",
@@ -376,7 +376,7 @@
         "answers": [
             "Tierra del Fuego [accept Land of Fire before the end]"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Geography",
@@ -385,7 +385,7 @@
         "answers": [
             "San Francisco"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Geography",
@@ -394,7 +394,7 @@
         "answers": [
             "Republic of Singapore"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Geography",
