@@ -1,9 +1,10 @@
 [
     {
         "category": "Sports",
-        "question": "This tennis player holds the record for the most consecutive weeks ranked world No. 1 in women's tennis, with an impressive 186 weeks. Her powerful forehand, often referred to as the \"forehand drive,\" was a fearsome weapon that helped her dominate opponents on all surfaces. She achieved a \"Golden Slam\" in 1988, winning all four Grand Slam singles titles and the Olympic gold medal in the same calendar year. She retired from professional tennis in 1999, leaving behind a legacy of 22 Grand Slam singles titles and a reputation as one of the greatest players of all time. Who is this German tennis legend?",
+        "question": "This team's iconic red and black uniforms became a symbol of basketball dominance in the 1990s. Their home arena, the United Center, witnessed legendary moments like Michael Jordan's \"flu game\" and \"The Shot\" over Craig Ehlo. Their theme song, \"Sirius\" by The Alan Parsons Project, became synonymous with their championship runs, creating an electrifying atmosphere at games. They achieved a historic \"three-peat\" twice, winning six NBA championships between 1991 and 1998, led by the legendary duo of Michael Jordan and Scottie Pippen. What is the name of this storied NBA franchise?",
         "answers": [
-            "Steffi Graf"
+            "Chicago Bulls",
+            "bulls"
         ],
         "incorrect1": "",
         "incorrect2": "",
@@ -13,9 +14,9 @@
     },
     {
         "category": "Sports",
-        "question": "This sports executive, often referred to as the \"Commissioner of the World\" for his role in expanding the NBA's global reach, oversaw the creation of the WNBA and the NBA Development League during his tenure. He implemented the NBA draft lottery system in 1985, aimed at discouraging teams from intentionally losing games to secure the top pick. His leadership also saw the introduction of the salary cap and revenue sharing, which contributed to the league's financial stability and competitive balance. Who was this commissioner of the NBA from 1984 to 2014?",
+        "question": "This manager is one of only three managers in Major League Baseball history to win World Series titles in both the American League and National League. He began his managerial career with the San Diego Padres, guiding them to a World Series appearance in 1998. He is known for his calm demeanor and strategic prowess, led the San Francisco Giants to three World Series titles in a span of five years (2010, 2012, 2014).   He recently came out of retirement to manage the Texas Rangers, leading them to their first-ever World Series title in 2023.  Who is this veteran skipper?",
         "answers": [
-            "David Stern"
+            "Bruce Bochy"
         ],
         "incorrect1": "",
         "incorrect2": "",
@@ -25,10 +26,10 @@
     },
     {
         "category": "Sports",
-        "question": "This NFL team relocated from Baltimore to Indianapolis in 1984, amidst a controversial midnight move orchestrated by then-owner Robert Irsay. They secured their first Super Bowl victory in 1971 in Baltimore, led by legendary quarterback Johnny Unitas. Their iconic horseshoe logo has become a symbol of the franchise. They experienced a resurgence in the 2000s, led by Peyton Manning, culminating in a Super Bowl XLI victory in 2007. What is the name of this team, whose home games are played at Lucas Oil Stadium?",
+        "question": "This baseball team set a record for most losses in a single season in 2024. This team's infamous 1919 World Series loss, known as the \"Black Sox Scandal,\" involved eight players intentionally throwing games in exchange for money from gamblers.  Despite this dark chapter, they have won three World Series titles, including a memorable championship run in 2005 that ended an 88-year drought. They are known for their classic black and white uniforms and their passionate fanbase on the South Side of Chicago.  What is the name of this American League team?",
         "answers": [
-            "Indianapolis Colts",
-            "Colts"
+            "Chicago White Sox",
+            "white sox"
         ],
         "incorrect1": "",
         "incorrect2": "",
@@ -38,9 +39,9 @@
     },
     {
         "category": "Sports",
-        "question": "This hockey legend's career was marked by both extraordinary talent and formidable health challenges, including Hodgkin's lymphoma, which he battled while still playing. Nicknamed \"The Magnificent One,\" he led the Pittsburgh Penguins to two consecutive Stanley Cup championships in 1991 and 1992.  His remarkable comeback in 2000, after a three-and-a-half-year retirement, further cemented his status as an icon.  He is the only person to have his name engraved on the Stanley Cup as both a player and an owner.  Who is this hockey great, often considered one of the most gifted players of all time?",
+        "question": "This NFL coach began his NFL coaching career as a special assistant with the Baltimore Colts in 1975. His coaching tree, which includes prominent names like Brian Flores and Matt Patricia, reflects his influence on the sport. He is known for his signature hoodie and stoic demeanor on the sidelines, holds the record for the most Super Bowl wins as a head coach, with six championships to his name. Who is this legendary coach who led to New England Patriots to multiple Super Bowls?",
         "answers": [
-            "Mario Lemieux"
+            "Bill Belichick"
         ],
         "incorrect1": "",
         "incorrect2": "",
@@ -50,10 +51,23 @@
     },
     {
         "category": "Sports",
-        "question": "This NBA franchise, currently playing their home games at the Frost Bank Center, holds the distinction of being the only former ABA team to have won multiple NBA championships. They clinched their first title in 1999, led by the iconic duo of David Robinson and Tim Duncan. Their success continued into the 2000s, with further championships in 2003, 2005, 2007, and 2014, under the guidance of legendary coach Gregg Popovich. The team's consistent success and emphasis on teamwork have earned them a reputation as a model franchise in professional sports. What is the name of this team, based in San Antonio, Texas?",
+        "question": "This NFL team, whose home games are played at MetLife Stadium in East Rutherford, New Jersey, shares its stadium with another New York-based team. They have a storied rivalry with the Dallas Cowboys, a matchup that often draws national attention and fervent fan engagement. The team has won eight NFL championships, four in the pre-Super Bowl era and four Super Bowl titles. Their iconic blue and white uniforms and the \"NY\" logo are instantly recognizable symbols of the franchise. What is the name of this team, whose recent history includes a surprising playoff run in 2023?",
         "answers": [
-            "San Antonio Spurs",
-            "Spurs"
+            "New York Giants",
+            "giants"
+        ],
+        "incorrect1": "",
+        "incorrect2": "",
+        "incorrect3": "",
+        "used": "TRUE",
+        "source": "Marty Heavey"
+    },
+    {
+        "category": "Sports",
+        "question": "This MLB team's home stadium, Rogers Centre, features a retractable roof, a unique feature that allows for both indoor and outdoor games. The team's iconic victory in the 1992 World Series, clinched with a walk-off home run by Joe Carter, marked the first time a Canadian team won the championship. Their distinctive blue and white uniforms, with a prominent maple leaf emblem, represent their Canadian heritage. What is the name of this Major League Baseball team based in Toronto?",
+        "answers": [
+            "Toronto Blue Jays",
+            "blue jays"
         ],
         "incorrect1": "",
         "incorrect2": "",

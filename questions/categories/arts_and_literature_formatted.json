@@ -417,7 +417,7 @@
         "answers": [
             "Richard Wagner"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Arts & Literature",
@@ -426,7 +426,7 @@
         "answers": [
             "string quartets (prompt on \"quartets\")"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Arts & Literature",
@@ -435,7 +435,7 @@
         "answers": [
             "The Tale of Genji"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Arts & Literature",
@@ -444,7 +444,7 @@
         "answers": [
             "Into the Woods"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Arts & Literature",
@@ -453,7 +453,7 @@
         "answers": [
             "Cubism"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Arts & Literature",
@@ -462,7 +462,7 @@
         "answers": [
             "Peter Tchaikovsky [accept Pyotr Ilyich Tchaikovsky]"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Arts & Literature",

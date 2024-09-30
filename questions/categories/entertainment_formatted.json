@@ -1,9 +1,9 @@
 [
     {
         "category": "Entertainment",
-        "question": "This actor's iconic line, \"You talkin' to me?\", from \"Taxi Driver,\" captures the character's descent into madness. He also co-founded the Tribeca Film Festival, a platform for showcasing independent films and emerging talent. He won two Oscars, for his roles in \"The Godfather Part II\" and \"Raging Bull.\" He's known for his frequent collaborations with director Martin Scorsese, including \"Goodfellas\" and \"The Departed.\" Who is this legendary actor?",
+        "question": "This legendary crooner, known for his smooth vocals and charismatic stage presence, earned the nickname \"Ol' Blue Eyes\" for his striking blue eyes and captivating gaze. His signature song, \"My Way,\" became an anthem of self-determination and individualism.  He was a member of the Rat Pack, a group of entertainers known for their camaraderie and Las Vegas performances. His career spanned decades, with hits like \"Fly Me to the Moon,\" \"New York, New York,\" and \"Strangers in the Night\" solidifying his status as an icon. Who is this singer, often regarded as one of the greatest entertainers of the 20th century?",
         "answers": [
-            "Robert De Niro"
+            "Frank Sinatra"
         ],
         "incorrect1": "",
         "incorrect2": "",
@@ -13,10 +13,9 @@
     },
     {
         "category": "Entertainment",
-        "question": "This iconic Western film's climactic scene, a three-way Mexican standoff in a cemetery, is renowned for its suspenseful buildup and Ennio Morricone's unforgettable score. The film's protagonist, the \"Man with No Name,\" is played by Clint Eastwood, solidifying his status as a Western icon. Its title refers to the three main characters: Blondie, Angel Eyes, and Tuco, who are all searching for a hidden treasure. The film is the third installment in Sergio Leone's \"Dollars Trilogy.\" What is the title of this epic Spaghetti Western?",
+        "question": "This film, known for its complex dream-sharing technology and mind-bending visuals, features a rotating hallway fight scene that defied gravity and challenged viewers' perceptions. The haunting musical motif, featuring a slowed-down version of \u00c9dith Piaf's \"Non, je ne regrette rien,\" signals transitions between dream levels and heightens the film's atmosphere. Leonardo DiCaprio stars as Dom Cobb, a skilled thief who infiltrates people's dreams to steal valuable information. The film's ambiguous ending, with a spinning top left unresolved, has sparked endless debate and fan theories. What is the title of this 2010 science fiction thriller directed by Christopher Nolan?",
         "answers": [
-            "The Good",
-            " the Bad and the Ugly"
+            "Inception"
         ],
         "incorrect1": "",
         "incorrect2": "",
@@ -26,9 +25,9 @@
     },
     {
         "category": "Entertainment",
-        "question": "This cult classic comedy features a protagonist who enjoys White Russians, bowling, and listening to Creedence Clearwater Revival. The film's iconic line, \"The Dude abides,\" perfectly encapsulates the laid-back attitude of its central charactee. The Dude, mistaken for a millionaire with the same name, finds himself entangled in a bizarre kidnapping plot involving a stolen rug, nihilists, and a pornographer named Jackie Treehorn. The film's eclectic soundtrack, quirky characters, and quotable dialogue have solidified its place as a beloved comedy with a dedicated fan following. What is the title of this 1998 film directed by the Coen brothers?",
+        "question": "This musical prodigy from Minnesota taught himself to play over 20 instruments by the age of 14, showcasing his exceptional musical talent. His flamboyant stage presence, often featuring androgynous attire and electrifying performances, captivated audiences worldwide. He wrote and produced his debut album, \"For You,\" at the age of 19, playing all 27 instruments himself. His iconic film \"Purple Rain,\" released in 1984, solidified his status as a pop culture icon, blending music, drama, and social commentary. Who is this legendary musician, known for his innovative sound and enigmatic persona?",
         "answers": [
-            "The Big Lebowski"
+            "Prince"
         ],
         "incorrect1": "",
         "incorrect2": "",
@@ -38,9 +37,9 @@
     },
     {
         "category": "Entertainment",
-        "question": "This film achieved a rare feat, sweeping all five major Academy Awards in 1976: Best Picture, Best Director, Best Actor, Best Actress, and Best Screenplay. Its powerful narrative unfolds within the confines of a mental institution, where the rebellious Randle McMurphy, played by Jack Nicholson, clashes with the tyrannical Nurse Ratched, portrayed by Louise Fletcher. The film's exploration of themes of conformity, rebellion, and the fight for individual freedom resonated deeply with audiences, making it a cinematic landmark. What is the title of this acclaimed film, based on Ken Kesey's novel?",
+        "question": "This film, shot predominantly in black and white with a few deliberate uses of color, features a poignant scene where a young girl in a red coat wanders through the Krak\u00f3w ghetto. The film's director, Steven Spielberg, refused to accept a salary for his work, considering any earnings to be \"blood money.\" It is based on the true story of a German businessman who saved the lives of over a thousand Jewish refugees by employing them in his factories. It won seven Academy Awards, including Best Picture and Best Director. What is the title of this powerful 1993 historical drama?",
         "answers": [
-            "One Flew Over the Cuckoo's Nest"
+            "Schindler's List"
         ],
         "incorrect1": "",
         "incorrect2": "",
@@ -50,9 +49,21 @@
     },
     {
         "category": "Entertainment",
-        "question": "The film's philosophical underpinnings explore themes of reality, free will, and the nature of existence, drawing inspiration from various philosophical traditions. It introduced the concept of the \"red pill\" and the \"blue pill,\" representing the choice between embracing the harsh truth of reality or remaining blissfully ignorant in a simulated world. Its groundbreaking visual effects and innovative action choreography set a new standard for the genre. The film features iconic action sequences like the \"bullet time\" scene, where Neo dodges bullets in slow motion while the camera seemingly circles him. What is the title of this 1999 film that revolutionized science fiction cinema?",
+        "question": "This actor, known for his immersive approach to his roles, famously gained 60 pounds for his portrayal of Howard Hughes in \"The Aviator.\" He began his career with recurring roles in television series like \"Growing Pains\" and \"Santa Barbara.\"  He earned his first Academy Award for Best Actor in 2016 for his grueling performance in \"The Revenant.\" He is also a dedicated environmental activist. Who is this acclaimed actor, known for his collaborations with Martin Scorsese and his roles in films like \"Titanic\" and \"Inception\"?",
         "answers": [
-            "The Matrix"
+            "Leonardo DiCaprio"
+        ],
+        "incorrect1": "",
+        "incorrect2": "",
+        "incorrect3": "",
+        "used": "TRUE",
+        "source": "Marty Heavey"
+    },
+    {
+        "category": "Entertainment",
+        "question": "This BBC series' creators, Steven Moffat and Mark Gatiss, are also known for their work on another popular BBC series, \"Doctor Who.\" It is a modern update to the classic stories, features a memorable scene where Benedict Cumberbatch's character dramatically jumps from a hospital rooftop, seemingly to his death. Its contemporary setting and fast-paced editing style contrast with traditional depictions of the detective, while still retaining the core elements of the original stories. The series' popularity sparked a renewed interest in Sherlock Holmes and catapulted its lead actors to international fame. What is the name of this acclaimed television series?",
+        "answers": [
+            "Sherlock"
         ],
         "incorrect1": "",
         "incorrect2": "",

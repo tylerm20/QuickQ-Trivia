@@ -1,11 +1,10 @@
 [
     {
         "category": "Current Events",
-        "question": "This institution cut interest rates for the first time since 2020 on September 8, 2024. Their current chair, Jerome Powell, was sworn into office in February 2018. It is divided into 12 regional banks across the United States, each with its own president. Its primary functions include conducting monetary policy, supervising and regulating banks, and maintaining the stability of the financial system. It was established in 1913. What is the name of this central banking system of the United States? ",
+        "question": "This hurricane, the eighth named storm of the 2024 Atlantic hurricane season, rapidly intensified into a Category 4 hurricane, prompting hurricane warnings for parts of the Leeward Islands. Though it weakened and veered north, sparing the islands a direct hit, it still brought heavy rainfall and strong winds to the region. Its remnants caused significant flooding in the Carolinas and Appalachian Mountains, leading to widespread power outages and infrastructure damage.  What was the name of this hurricane, which ultimately dissipated over the North Atlantic?",
         "answers": [
-            "Federal Reserve",
-            "The Fed",
-            "Fed"
+            "Helene",
+            "hurricane helene"
         ],
         "incorrect1": "",
         "incorrect2": "",
@@ -15,11 +14,9 @@
     },
     {
         "category": "Current Events",
-        "question": "In a coordinated attack by Israel against Hezbollah, these devices exploded killing at least 42 people. This technology, once ubiquitous in the 1990s, relies on radio frequencies and specialized networks to transmit brief text messages or numeric codes to a small, portable device. Its iconic numeric display and distinctive beep became synonymous with the era. Though largely eclipsed by smartphones and mobile messaging apps, it still finds use in specific contexts, such as hospitals and critical infrastructure systems, where its simplicity and dependability remain valuable. What is this technology?",
+        "question": "This man was indicted on federal bribery charges on September 25, 2025. He became the first sitting mayor of New York City to be charged with crimes. Before he was a politician, this man served as a New York police office for more than 20 years. He went on to become the first Black President of Brooklyn Borough in New York in 2013. In 2021, this man was elected Mayor of New York over Curtis Silwa.",
         "answers": [
-            "pagers",
-            "walkie talkie",
-            "walky talky"
+            "Eric Adams"
         ],
         "incorrect1": "",
         "incorrect2": "",
@@ -29,9 +26,9 @@
     },
     {
         "category": "Current Events",
-        "question": "In this state, the Secret Service spotted a potential gunman trying to assisinate Donald Trump on a golf course. This state's iconic citrus industry, particularly its oranges and grapefruits, has earned it the nickname \"The Citrus State,\" though it's more commonly known as \"The Sunshine State.\" It's home to the Everglades, a vast subtropical wetland teeming with unique wildlife like alligators and manatees. The Kennedy Space Center, located on its eastern coast, has been the launch site for numerous historic space missions, including the Apollo 11 moon landing. Name this state.",
+        "question": "The city's baseball team played its last game at The Coliseum in September 2024. The city's team, the Athletics, starting playing in this city in 1968 and will move to Las Vegas when a new stadium is constructed.  Its location on the eastern shore of the San Francisco Bay provides stunning views of the city skyline and the iconic Golden Gate Bridge. It also played a significant role in the Black Panther Party's history, serving as the organization's founding city in 1966. What is the name of this California city, often referred to as \"The Town\"?",
         "answers": [
-            "Florida"
+            "Oakland"
         ],
         "incorrect1": "",
         "incorrect2": "",
@@ -41,10 +38,9 @@
     },
     {
         "category": "Current Events",
-        "question": "This music mogul recently faced a significant legal challenge when a federal grand jury in New York indicted him on charges of sex trafficking, racketeering conspiracy, and transportation to engage in prostitution. This man founded Bad Boy Entertainment in 1993. He achieved mainstream success with his debut album, \"No Way Out,\" featuring the chart-topping tribute song \"I'll Be Missing You.\" He also ventured into acting including appearing on the television series \"CSI: Miami.\" Beyond music and film, he launched the successful Sean John clothing line and ventured into the spirits industry with his Ciroc vodka brand. Who is this entertainment mogul, also known by his stage name Diddy?",
+        "question": "This US state is one of 2 states (along with Maine) that does not award it's electoral votes in a winner-take-all fashion. The state's governor favored changing to a winner-take-all system, but failed to secure the State Senate votes in September 2024. It is the only state with a unicameral legislature which consists of a single chamber of nonpartisan senators.. What is this Midwestern state, home to Omaha and nicknamed the \"Cornhusker State\"?",
         "answers": [
-            "Sean Combs",
-            "Diddy"
+            "Nebraska"
         ],
         "incorrect1": "",
         "incorrect2": "",
@@ -54,9 +50,23 @@
     },
     {
         "category": "Current Events",
-        "question": "This social network recently announced stricter settings for young users, including pausing their notifications at night. This platform, launched in 2010, initially gained popularity with its distinctive square format and vintage-inspired filters. It was acquired by Facebook in 2012 for a then-staggering sum of $1 billion. Its \"Stories\" feature, introduced in 2016, allows users to share ephemeral content that disappears after 24 hours, borrowing heavily from Snapchat's similar feature. It has since evolved to include features like Reels, IGTV, and live streaming, solidifying its position as a dominant force in social media. What is the name of this popular app?",
+        "question": "The US Justice Department sued this company in late September 2024 for maintaining a monopoly on debit card payments. This financial services corporation, with its iconic logo featuring a blue and gold design, facilitates electronic funds transfers globally through its vast network. Its origins trace back to 1958 when it was launched as BankAmericard by Bank of America. Name this company that processes billions of transactions annually, connecting consumers, businesses, and financial institutions worldwide.",
         "answers": [
-            "Instagram"
+            "Visa"
+        ],
+        "incorrect1": "",
+        "incorrect2": "",
+        "incorrect3": "",
+        "used": "TRUE",
+        "source": "Marty Heavey"
+    },
+    {
+        "category": "Current Events",
+        "question": "Moo Deng, a pygmy animal of this species living in a Thai zoo, gained notoriety at two months of age in September 2024 as a popular meme. This semi-aquatic mammal, despite its herbivorous diet, possesses incredibly strong jaws and sharp teeth, capable of biting with a force of over 2,000 pounds per square inch. Its name comes from the ancient Greek for \"river horse,\" reflecting its affinity for water and its horse-like appearance. What is this large, thick-skinned mammal native to sub-Saharan Africa? ",
+        "answers": [
+            "Hippopotamus",
+            "hippo",
+            "pygmy Hippopotamus"
         ],
         "incorrect1": "",
         "incorrect2": "",
