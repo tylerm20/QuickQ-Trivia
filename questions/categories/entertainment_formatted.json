@@ -1,9 +1,9 @@
 [
     {
         "category": "Entertainment",
-        "question": "This legendary crooner, known for his smooth vocals and charismatic stage presence, earned the nickname \"Ol' Blue Eyes\" for his striking blue eyes and captivating gaze. His signature song, \"My Way,\" became an anthem of self-determination and individualism.  He was a member of the Rat Pack, a group of entertainers known for their camaraderie and Las Vegas performances. His career spanned decades, with hits like \"Fly Me to the Moon,\" \"New York, New York,\" and \"Strangers in the Night\" solidifying his status as an icon. Who is this singer, often regarded as one of the greatest entertainers of the 20th century?",
+        "question": "This notoriously private actor, known for his intense method acting, once worked as a shoemaker's apprentice in Florence, Italy, during a break from acting. He famously remained in character as Christy Brown, a writer and painter with cerebral palsy, throughout the filming of \"My Left Foot,\" even requiring assistance with eating and moving around. He is one of only three men to have won three Academy Awards for Best Actor, a testament to his exceptional talent and dedication to his craft. Who is this acclaimed actor, the star of \"Lincoln\", that announced his retirement from acting in 2017? ",
         "answers": [
-            "Frank Sinatra"
+            "Daniel Day-Lewis"
         ],
         "incorrect1": "",
         "incorrect2": "",
@@ -13,9 +13,9 @@
     },
     {
         "category": "Entertainment",
-        "question": "This film, known for its complex dream-sharing technology and mind-bending visuals, features a rotating hallway fight scene that defied gravity and challenged viewers' perceptions. The haunting musical motif, featuring a slowed-down version of \u00c9dith Piaf's \"Non, je ne regrette rien,\" signals transitions between dream levels and heightens the film's atmosphere. Leonardo DiCaprio stars as Dom Cobb, a skilled thief who infiltrates people's dreams to steal valuable information. The film's ambiguous ending, with a spinning top left unresolved, has sparked endless debate and fan theories. What is the title of this 2010 science fiction thriller directed by Christopher Nolan?",
+        "question": "This war film's graphic opening scene, depicting the D-Day landings, is considered one of the most realistic portrayals of combat ever filmed. It follows Captain John Miller, played by Tom Hanks, and his squad as they search for a Private, whose brothers have been killed in action. The film explores themes of duty and sacrifice during World War II. It won five Academy Awards, including Best Director for Steven Spielberg. What is the title of this acclaimed 1998 film?",
         "answers": [
-            "Inception"
+            "Saving Private Ryan"
         ],
         "incorrect1": "",
         "incorrect2": "",
@@ -25,45 +25,9 @@
     },
     {
         "category": "Entertainment",
-        "question": "This musical prodigy from Minnesota taught himself to play over 20 instruments by the age of 14, showcasing his exceptional musical talent. His flamboyant stage presence, often featuring androgynous attire and electrifying performances, captivated audiences worldwide. He wrote and produced his debut album, \"For You,\" at the age of 19, playing all 27 instruments himself. His iconic film \"Purple Rain,\" released in 1984, solidified his status as a pop culture icon, blending music, drama, and social commentary. Who is this legendary musician, known for his innovative sound and enigmatic persona?",
+        "question": "This comedy series features a unique points system where individuals are judged based on the ethical value of their actions during their lives. The show follows a woman who is mistakenly placed in a seemingly utopian afterlife despite her morally questionable past.It explores philosophical concepts such as the nature of good and evil, ethics, and morality in a humorous and accessible way. What is the name of this critically acclaimed series starring Kristen Bell?",
         "answers": [
-            "Prince"
-        ],
-        "incorrect1": "",
-        "incorrect2": "",
-        "incorrect3": "",
-        "used": "TRUE",
-        "source": "Marty Heavey"
-    },
-    {
-        "category": "Entertainment",
-        "question": "This film, shot predominantly in black and white with a few deliberate uses of color, features a poignant scene where a young girl in a red coat wanders through the Krak\u00f3w ghetto. The film's director, Steven Spielberg, refused to accept a salary for his work, considering any earnings to be \"blood money.\" It is based on the true story of a German businessman who saved the lives of over a thousand Jewish refugees by employing them in his factories. It won seven Academy Awards, including Best Picture and Best Director. What is the title of this powerful 1993 historical drama?",
-        "answers": [
-            "Schindler's List"
-        ],
-        "incorrect1": "",
-        "incorrect2": "",
-        "incorrect3": "",
-        "used": "TRUE",
-        "source": "Marty Heavey"
-    },
-    {
-        "category": "Entertainment",
-        "question": "This actor, known for his immersive approach to his roles, famously gained 60 pounds for his portrayal of Howard Hughes in \"The Aviator.\" He began his career with recurring roles in television series like \"Growing Pains\" and \"Santa Barbara.\"  He earned his first Academy Award for Best Actor in 2016 for his grueling performance in \"The Revenant.\" He is also a dedicated environmental activist. Who is this acclaimed actor, known for his collaborations with Martin Scorsese and his roles in films like \"Titanic\" and \"Inception\"?",
-        "answers": [
-            "Leonardo DiCaprio"
-        ],
-        "incorrect1": "",
-        "incorrect2": "",
-        "incorrect3": "",
-        "used": "TRUE",
-        "source": "Marty Heavey"
-    },
-    {
-        "category": "Entertainment",
-        "question": "This BBC series' creators, Steven Moffat and Mark Gatiss, are also known for their work on another popular BBC series, \"Doctor Who.\" It is a modern update to the classic stories, features a memorable scene where Benedict Cumberbatch's character dramatically jumps from a hospital rooftop, seemingly to his death. Its contemporary setting and fast-paced editing style contrast with traditional depictions of the detective, while still retaining the core elements of the original stories. The series' popularity sparked a renewed interest in Sherlock Holmes and catapulted its lead actors to international fame. What is the name of this acclaimed television series?",
-        "answers": [
-            "Sherlock"
+            "The Good Place"
         ],
         "incorrect1": "",
         "incorrect2": "",

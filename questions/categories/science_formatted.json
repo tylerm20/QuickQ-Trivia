@@ -475,7 +475,7 @@
         "answers": [
             "flowers [accept fruits until \"multiples of 3\"; prompt on plants]"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",
@@ -484,7 +484,7 @@
         "answers": [
             "waves (accept additional information, such as standing waves)"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",
@@ -493,7 +493,7 @@
         "answers": [
             "inequality"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",

@@ -1,10 +1,9 @@
 [
     {
         "category": "Current Events",
-        "question": "This hurricane, the eighth named storm of the 2024 Atlantic hurricane season, rapidly intensified into a Category 4 hurricane, prompting hurricane warnings for parts of the Leeward Islands. Though it weakened and veered north, sparing the islands a direct hit, it still brought heavy rainfall and strong winds to the region. Its remnants caused significant flooding in the Carolinas and Appalachian Mountains, leading to widespread power outages and infrastructure damage.  What was the name of this hurricane, which ultimately dissipated over the North Atlantic?",
+        "question": "A labor action by members of this profession, involving approximately 45,000 workers across 36 ports from Maine to Texas, marks the first major strike in this industry in over four decades. The key issues at stake include wage increases, the rising cost of living, and concerns about the impact of automation on jobs. The strike has the potential to disrupt supply chains and contribute to inflation if it continues for an extended period. Which group of workers, represented by the International Longshoremen's Association (ILA), are currently on strike, impacting ports along the East and Gulf Coasts of the United States?",
         "answers": [
-            "Helene",
-            "hurricane helene"
+            "Dockworkers"
         ],
         "incorrect1": "",
         "incorrect2": "",
@@ -14,9 +13,11 @@
     },
     {
         "category": "Current Events",
-        "question": "This man was indicted on federal bribery charges on September 25, 2025. He became the first sitting mayor of New York City to be charged with crimes. Before he was a politician, this man served as a New York police office for more than 20 years. He went on to become the first Black President of Brooklyn Borough in New York in 2013. In 2021, this man was elected Mayor of New York over Curtis Silwa.",
+        "question": "This award is given annually by the MacArthur Foundation to typically between 20 and 30 individuals. This year the award was given to 22 people including Sterlin Harjo, the creator of the TV show \"Reservation Dogs\". The award grants the winners $800,000 over five years with no strings attach. Name this award that is best known by its informal name that is given to people who have shown \"extraordinary originality and dedication in their creative pursuits and a marked capacity for self-direction.\"",
         "answers": [
-            "Eric Adams"
+            "MacArthur Genius Grant",
+            "Genius Grant",
+            "MacArthur Fellowship"
         ],
         "incorrect1": "",
         "incorrect2": "",
@@ -26,47 +27,9 @@
     },
     {
         "category": "Current Events",
-        "question": "The city's baseball team played its last game at The Coliseum in September 2024. The city's team, the Athletics, starting playing in this city in 1968 and will move to Las Vegas when a new stadium is constructed.  Its location on the eastern shore of the San Francisco Bay provides stunning views of the city skyline and the iconic Golden Gate Bridge. It also played a significant role in the Black Panther Party's history, serving as the organization's founding city in 1966. What is the name of this California city, often referred to as \"The Town\"?",
+        "question": "This holiday began on the evening of Wed, Oct 2, 2024. A key ritual involves the blowing of the shofar, a ram's horn, which serves as a call to repentance and reflection. The holiday's traditional greeting is \"L'Shanah Tovah,\" meaning \"a good year\" in Hebrew. It is celebrated by eating apples dipped in honey, symbolizing the hope for a sweet new year. It marks the beginning of the Jewish High Holy Days, a ten-day period of introspection culminating in Yom Kippur. What is this holiday, the Jewish New Year?",
         "answers": [
-            "Oakland"
-        ],
-        "incorrect1": "",
-        "incorrect2": "",
-        "incorrect3": "",
-        "used": "TRUE",
-        "source": "Marty Heavey"
-    },
-    {
-        "category": "Current Events",
-        "question": "This US state is one of 2 states (along with Maine) that does not award it's electoral votes in a winner-take-all fashion. The state's governor favored changing to a winner-take-all system, but failed to secure the State Senate votes in September 2024. It is the only state with a unicameral legislature which consists of a single chamber of nonpartisan senators.. What is this Midwestern state, home to Omaha and nicknamed the \"Cornhusker State\"?",
-        "answers": [
-            "Nebraska"
-        ],
-        "incorrect1": "",
-        "incorrect2": "",
-        "incorrect3": "",
-        "used": "TRUE",
-        "source": "Marty Heavey"
-    },
-    {
-        "category": "Current Events",
-        "question": "The US Justice Department sued this company in late September 2024 for maintaining a monopoly on debit card payments. This financial services corporation, with its iconic logo featuring a blue and gold design, facilitates electronic funds transfers globally through its vast network. Its origins trace back to 1958 when it was launched as BankAmericard by Bank of America. Name this company that processes billions of transactions annually, connecting consumers, businesses, and financial institutions worldwide.",
-        "answers": [
-            "Visa"
-        ],
-        "incorrect1": "",
-        "incorrect2": "",
-        "incorrect3": "",
-        "used": "TRUE",
-        "source": "Marty Heavey"
-    },
-    {
-        "category": "Current Events",
-        "question": "Moo Deng, a pygmy animal of this species living in a Thai zoo, gained notoriety at two months of age in September 2024 as a popular meme. This semi-aquatic mammal, despite its herbivorous diet, possesses incredibly strong jaws and sharp teeth, capable of biting with a force of over 2,000 pounds per square inch. Its name comes from the ancient Greek for \"river horse,\" reflecting its affinity for water and its horse-like appearance. What is this large, thick-skinned mammal native to sub-Saharan Africa? ",
-        "answers": [
-            "Hippopotamus",
-            "hippo",
-            "pygmy Hippopotamus"
+            "Rosh Hashanah"
         ],
         "incorrect1": "",
         "incorrect2": "",

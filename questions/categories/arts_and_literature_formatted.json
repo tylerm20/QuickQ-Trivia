@@ -471,7 +471,7 @@
         "answers": [
             "The Garden of Eden"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Arts & Literature",
@@ -480,7 +480,7 @@
         "answers": [
             "Oscar Wilde (accept Oscar Fingal O'Flahertie Wills Wilde)"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Arts & Literature",
@@ -489,7 +489,7 @@
         "answers": [
             "Holes"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Arts & Literature",

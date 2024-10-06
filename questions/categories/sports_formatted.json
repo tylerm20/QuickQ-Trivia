@@ -1,10 +1,9 @@
 [
     {
         "category": "Sports",
-        "question": "This team's iconic red and black uniforms became a symbol of basketball dominance in the 1990s. Their home arena, the United Center, witnessed legendary moments like Michael Jordan's \"flu game\" and \"The Shot\" over Craig Ehlo. Their theme song, \"Sirius\" by The Alan Parsons Project, became synonymous with their championship runs, creating an electrifying atmosphere at games. They achieved a historic \"three-peat\" twice, winning six NBA championships between 1991 and 1998, led by the legendary duo of Michael Jordan and Scottie Pippen. What is the name of this storied NBA franchise?",
+        "question": "This baseball legend passed away in September 2024. Nicknamed \"Charlie Hustle\" for his relentless style of play, he holds the Major League record for most career hits, with 4,256 hits. He won three World Series titles, one with the Cincinnati Reds and two with the Philadelphia Phillies. He was a key member of the \"Big Red Machine\" dynasty of the 1970s. However, his legacy is marred by a lifetime ban from baseball in 1989 for betting on games while managing the Reds. Who is this controversial figure in baseball history?",
         "answers": [
-            "Chicago Bulls",
-            "bulls"
+            "Pete Rose"
         ],
         "incorrect1": "",
         "incorrect2": "",
@@ -14,9 +13,9 @@
     },
     {
         "category": "Sports",
-        "question": "This manager is one of only three managers in Major League Baseball history to win World Series titles in both the American League and National League. He began his managerial career with the San Diego Padres, guiding them to a World Series appearance in 1998. He is known for his calm demeanor and strategic prowess, led the San Francisco Giants to three World Series titles in a span of five years (2010, 2012, 2014).   He recently came out of retirement to manage the Texas Rangers, leading them to their first-ever World Series title in 2023.  Who is this veteran skipper?",
+        "question": "This NBA legend passed away at age 58 due to brain cancer. His signature finger wag, used to taunt opponents after blocking their shots, became one of the most iconic celebrations in NBA history. He was renowned for his defensive prowess, earning four Defensive Player of the Year awards and leading the league in blocks for three consecutive seasons. He played for several teams throughout his 18-year career, including the Denver Nuggets, Atlanta Hawks, and Houston Rockets. He is also known for his humanitarian work, starting a foundation improve living conditions in his native Democratic Republic of Congo. Who is this legendary shot-blocker?",
         "answers": [
-            "Bruce Bochy"
+            "Dikembe Mutombo"
         ],
         "incorrect1": "",
         "incorrect2": "",
@@ -26,48 +25,10 @@
     },
     {
         "category": "Sports",
-        "question": "This baseball team set a record for most losses in a single season in 2024. This team's infamous 1919 World Series loss, known as the \"Black Sox Scandal,\" involved eight players intentionally throwing games in exchange for money from gamblers.  Despite this dark chapter, they have won three World Series titles, including a memorable championship run in 2005 that ended an 88-year drought. They are known for their classic black and white uniforms and their passionate fanbase on the South Side of Chicago.  What is the name of this American League team?",
+        "question": "This team's dramatic relocation from New Jersey to Brooklyn in 2012 marked a new era for the franchise, complete with a sleek black-and-white rebranding. They experienced a brief but exciting period of championship contention with the star-studded trio of Kevin Durant, Kyrie Irving, and James Harden. However, despite high expectations, they failed to reach the NBA Finals and ultimately disbanded the trio. What is the name of this team, whose history includes two ABA championships and a passionate fanbase?",
         "answers": [
-            "Chicago White Sox",
-            "white sox"
-        ],
-        "incorrect1": "",
-        "incorrect2": "",
-        "incorrect3": "",
-        "used": "TRUE",
-        "source": "Marty Heavey"
-    },
-    {
-        "category": "Sports",
-        "question": "This NFL coach began his NFL coaching career as a special assistant with the Baltimore Colts in 1975. His coaching tree, which includes prominent names like Brian Flores and Matt Patricia, reflects his influence on the sport. He is known for his signature hoodie and stoic demeanor on the sidelines, holds the record for the most Super Bowl wins as a head coach, with six championships to his name. Who is this legendary coach who led to New England Patriots to multiple Super Bowls?",
-        "answers": [
-            "Bill Belichick"
-        ],
-        "incorrect1": "",
-        "incorrect2": "",
-        "incorrect3": "",
-        "used": "TRUE",
-        "source": "Marty Heavey"
-    },
-    {
-        "category": "Sports",
-        "question": "This NFL team, whose home games are played at MetLife Stadium in East Rutherford, New Jersey, shares its stadium with another New York-based team. They have a storied rivalry with the Dallas Cowboys, a matchup that often draws national attention and fervent fan engagement. The team has won eight NFL championships, four in the pre-Super Bowl era and four Super Bowl titles. Their iconic blue and white uniforms and the \"NY\" logo are instantly recognizable symbols of the franchise. What is the name of this team, whose recent history includes a surprising playoff run in 2023?",
-        "answers": [
-            "New York Giants",
-            "giants"
-        ],
-        "incorrect1": "",
-        "incorrect2": "",
-        "incorrect3": "",
-        "used": "TRUE",
-        "source": "Marty Heavey"
-    },
-    {
-        "category": "Sports",
-        "question": "This MLB team's home stadium, Rogers Centre, features a retractable roof, a unique feature that allows for both indoor and outdoor games. The team's iconic victory in the 1992 World Series, clinched with a walk-off home run by Joe Carter, marked the first time a Canadian team won the championship. Their distinctive blue and white uniforms, with a prominent maple leaf emblem, represent their Canadian heritage. What is the name of this Major League Baseball team based in Toronto?",
-        "answers": [
-            "Toronto Blue Jays",
-            "blue jays"
+            "Brooklyn Nets",
+            "nets"
         ],
         "incorrect1": "",
         "incorrect2": "",
