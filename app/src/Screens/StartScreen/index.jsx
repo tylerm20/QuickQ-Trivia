@@ -76,6 +76,12 @@ const StartScreen = ({
                 <span className="Date">{today.toLocaleDateString()}</span>
             </div>
 
+            <DatePicker
+                selected={selectedDate}
+                onChange={(date) => setSelectedDate(date)}
+                excludeDates={[new Date(), new Date(2024, 10, 15)]} // Disable today and a specific date
+            />
+
             {/* Condition checking there are no saved games */}
             {doesNotHaveGameResultsStored() ? (
                 /* if we have no games in local storage */
