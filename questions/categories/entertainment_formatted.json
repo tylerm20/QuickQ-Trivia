@@ -1,9 +1,9 @@
 [
     {
         "category": "Entertainment",
-        "question": "This notoriously private actor, known for his intense method acting, once worked as a shoemaker's apprentice in Florence, Italy, during a break from acting. He famously remained in character as Christy Brown, a writer and painter with cerebral palsy, throughout the filming of \"My Left Foot,\" even requiring assistance with eating and moving around. He is one of only three men to have won three Academy Awards for Best Actor, a testament to his exceptional talent and dedication to his craft. Who is this acclaimed actor, the star of \"Lincoln\", that announced his retirement from acting in 2017? ",
+        "question": "This film, based on a Stephen King novel, features a heartbreaking scene where a condemned man, John Coffey, cries after watching a movie and shares his grief with prison guard Paul Edgecombe. The film's title refers to the green-colored flooring leading to the execution chamber. It explores themes of injustice, faith, and the supernatural within the confines of a Depression-era death row. The film received four Academy Award nominations, including Best Supporting Actor for Michael Clarke Duncan's portrayal of John Coffey. What is the name of this 1999 drama directed by Frank Darabont?",
         "answers": [
-            "Daniel Day-Lewis"
+            "The Green Mile"
         ],
         "incorrect1": "",
         "incorrect2": "",
@@ -13,9 +13,9 @@
     },
     {
         "category": "Entertainment",
-        "question": "This war film's graphic opening scene, depicting the D-Day landings, is considered one of the most realistic portrayals of combat ever filmed. It follows Captain John Miller, played by Tom Hanks, and his squad as they search for a Private, whose brothers have been killed in action. The film explores themes of duty and sacrifice during World War II. It won five Academy Awards, including Best Director for Steven Spielberg. What is the title of this acclaimed 1998 film?",
+        "question": "This legendary frontman, known for his captivating stage presence and four-octave vocal range, designed his band's iconic crest, incorporating the zodiac signs of all four band members. He collaborated with opera singer Montserrat Caball\u00e9 on the album \"Barcelona,\" showcasing his diverse musical influences. His final live performance with Queen was at Knebworth Park in 1986, a concert that solidified their status as one of the greatest live acts in music history. Who is this iconic musician, born Farrokh Bulsara, who captivated audiences with his flamboyant persona and powerful vocals?",
         "answers": [
-            "Saving Private Ryan"
+            "Freddie Mercury"
         ],
         "incorrect1": "",
         "incorrect2": "",
@@ -25,9 +25,35 @@
     },
     {
         "category": "Entertainment",
-        "question": "This comedy series features a unique points system where individuals are judged based on the ethical value of their actions during their lives. The show follows a woman who is mistakenly placed in a seemingly utopian afterlife despite her morally questionable past.It explores philosophical concepts such as the nature of good and evil, ethics, and morality in a humorous and accessible way. What is the name of this critically acclaimed series starring Kristen Bell?",
+        "question": "The film's dark and gritty atmosphere is enhanced by its distinctive visual style, with desaturated colors and rain-soaked cityscapes. This neo-noir thriller features a shocking climax where a detective's wife is murdered by a serial killer obsessed with the seven deadly sins. It stars Brad Pitt as Detective David Mills, a young and ambitious detective, and Morgan Freeman as Detective William Somerset, a veteran detective on the verge of retirement. What is the title of this 1995 film directed by David Fincher?",
         "answers": [
-            "The Good Place"
+            "Se7en",
+            "sevent",
+            "7"
+        ],
+        "incorrect1": "",
+        "incorrect2": "",
+        "incorrect3": "",
+        "used": "TRUE",
+        "source": "Marty Heavey"
+    },
+    {
+        "category": "Entertainment",
+        "question": "This actress, often hailed as one of the greatest of all time, won three Academy Awards, including Best Actress for her role in \"Gaslight\" and Best Supporting Actress for \"Murder on the Orient Express.\"  Her controversial affair with director Roberto Rossellini led to a public outcry and a temporary ban from Hollywood. She made a triumphant return to American cinema, winning her third Oscar for her role in \"Anastasia.\" Name this Swedish-born actress who starred in the classic film \"Casablanca\" alongside Humphrey Bogart.",
+        "answers": [
+            "Ingrid Bergman"
+        ],
+        "incorrect1": "",
+        "incorrect2": "",
+        "incorrect3": "",
+        "used": "TRUE",
+        "source": "Marty Heavey"
+    },
+    {
+        "category": "Entertainment",
+        "question": "This television series, known for its captivating mysteries and compelling characters, captivated audiences with its unique blend of drama, science fiction, and supernatural elements.  The show's pilot episode, which depicted the aftermath of a plane crash on a mysterious island, became one of the most expensive pilot episodes in television history. Its recurring use of flashbacks to delve into the characters' backstories added depth and complexity to the narrative. The series finale, which aired in 2010, sparked widespread debate and discussion among fans and critics alike. What is the name of this popular ABC series?",
+        "answers": [
+            "Lost"
         ],
         "incorrect1": "",
         "incorrect2": "",

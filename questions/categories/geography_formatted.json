@@ -484,7 +484,7 @@
         "answers": [
             "Bolivarian Republic of Venezuela or Republica Bolivariana de Venezuela"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Geography",
@@ -493,7 +493,7 @@
         "answers": [
             "Canada"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Geography",
@@ -502,7 +502,7 @@
         "answers": [
             "Florida"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Geography",
@@ -511,7 +511,7 @@
         "answers": [
             "People's Republic of China [accept Zhongguo; accept PRC; do not accept or prompt on \"Taiwan\", \"Republic of China\", or \"ROC\"]"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Geography",
@@ -520,7 +520,7 @@
         "answers": [
             "Gulf of Mexico"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Geography",

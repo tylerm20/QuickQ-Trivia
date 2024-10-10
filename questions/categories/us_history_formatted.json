@@ -503,7 +503,7 @@
         "answers": [
             "Great Chicago Fire of 1871 (prompt on \"fire\")"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "US History",
@@ -512,7 +512,7 @@
         "answers": [
             "Lyndon Johnson [or LBJ; prompt on Johnson]"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "US History",
@@ -521,7 +521,7 @@
         "answers": [
             "Battle of Antietam (accept Battle of Sharpsburg )"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "US History",
@@ -530,7 +530,7 @@
         "answers": [
             "Prohibition [or temperance; or supportfor the Eighteenth Amendment before mentioned; or anything equivalent about banningalcohol]"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "US History",
@@ -539,7 +539,7 @@
         "answers": [
             "Helen Keller"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "US History",

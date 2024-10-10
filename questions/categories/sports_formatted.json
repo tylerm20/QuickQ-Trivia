@@ -1,9 +1,9 @@
 [
     {
         "category": "Sports",
-        "question": "This baseball legend passed away in September 2024. Nicknamed \"Charlie Hustle\" for his relentless style of play, he holds the Major League record for most career hits, with 4,256 hits. He won three World Series titles, one with the Cincinnati Reds and two with the Philadelphia Phillies. He was a key member of the \"Big Red Machine\" dynasty of the 1970s. However, his legacy is marred by a lifetime ban from baseball in 1989 for betting on games while managing the Reds. Who is this controversial figure in baseball history?",
+        "question": "This NBA team, founded in 1946 as one of the original members of the Basketball Association of America plays at what is often dubbed \"The World's Most Famous Arena.\" Their classic blue and orange uniforms have remained largely unchanged throughout their history, a symbol of the franchise's enduring legacy. Despite a championship drought dating back to 1973, their passionate fanbase, known for their unwavering loyalty and high expectations, continues to fill \"The Garden\" with electrifying energy. What is the name of this team, whose history includes legendary players like Patrick Ewing and Walt \"Clyde\" Frazier?",
         "answers": [
-            "Pete Rose"
+            "New York Knicks"
         ],
         "incorrect1": "",
         "incorrect2": "",
@@ -13,9 +13,9 @@
     },
     {
         "category": "Sports",
-        "question": "This NBA legend passed away at age 58 due to brain cancer. His signature finger wag, used to taunt opponents after blocking their shots, became one of the most iconic celebrations in NBA history. He was renowned for his defensive prowess, earning four Defensive Player of the Year awards and leading the league in blocks for three consecutive seasons. He played for several teams throughout his 18-year career, including the Denver Nuggets, Atlanta Hawks, and Houston Rockets. He is also known for his humanitarian work, starting a foundation improve living conditions in his native Democratic Republic of Congo. Who is this legendary shot-blocker?",
+        "question": "This Major League Baseball team's home stadium, American Family Field, was originally built with a retractable roof, a unique feature for a baseball stadium at the time. They made their only World Series appearance in 1982, falling to the St. Louis Cardinals in a thrilling seven-game series. Their memorable 1980s logo, featuring a ball glove forming the letters \"M\" and \"B,\" has become a sought-after collectible for fans. What is the name of this team, based in Milwaukee, Wisconsin?",
         "answers": [
-            "Dikembe Mutombo"
+            "Milwaukee Brewers"
         ],
         "incorrect1": "",
         "incorrect2": "",
@@ -25,10 +25,34 @@
     },
     {
         "category": "Sports",
-        "question": "This team's dramatic relocation from New Jersey to Brooklyn in 2012 marked a new era for the franchise, complete with a sleek black-and-white rebranding. They experienced a brief but exciting period of championship contention with the star-studded trio of Kevin Durant, Kyrie Irving, and James Harden. However, despite high expectations, they failed to reach the NBA Finals and ultimately disbanded the trio. What is the name of this team, whose history includes two ABA championships and a passionate fanbase?",
+        "question": "This non-contact team sport, often played on a field similar in size to a soccer field, has origins tracing back to a group of high school students in Maplewood, New Jersey, who developed the game in 1968.  The objective is to score points by passing a disc to a teammate in the opposing team's end zone. It is known for its \"Spirit of the Game\" which emphasizes fair play, sportsmanship, and self-officiation, even at the highest levels of competition. What is the name of this sport, which combines elements of soccer, basketball, and American football and uses a frisbee?",
         "answers": [
-            "Brooklyn Nets",
-            "nets"
+            "Ultimate Frisbee",
+            "ultimate"
+        ],
+        "incorrect1": "",
+        "incorrect2": "",
+        "incorrect3": "",
+        "used": "TRUE",
+        "source": "Marty Heavey"
+    },
+    {
+        "category": "Sports",
+        "question": "This basketball superstar, born in Akron, Ohio, was drafted straight out of high school by his hometown Cleveland Cavaliers with the No. 1 overall pick in 2003. He's known for his powerful drives to the basket, exceptional court vision, and leadership qualities, earning him the nickname \"The King.\"  He has led three different franchises to NBA championships, including the Miami Heat, Cleveland Cavaliers, and Los Angeles Lakers. In 2023, he surpassed Kareem Abdul-Jabbar to become the NBA's all-time leading scorer. Who is this iconic athlete? ",
+        "answers": [
+            "LeBron James"
+        ],
+        "incorrect1": "",
+        "incorrect2": "",
+        "incorrect3": "",
+        "used": "TRUE",
+        "source": "Marty Heavey"
+    },
+    {
+        "category": "Sports",
+        "question": "This baseball team's historic rivalry with the San Francisco Giants, which began in New York, has continued across the country, adding an extra layer of excitement to their matchups. They hold the record for the most Cy Young Awards won by a single franchise, with 12 awards earned by their legendary pitchers. Their home stadium is the third-oldest ballpark in Major League Baseball and boasts stunning views of the Los Angeles skyline. What is the name of this team currently starring Shohei Ohtani and Mookie Betts, known for their distinctive blue uniforms?",
+        "answers": [
+            "Los Angeles Dodgers"
         ],
         "incorrect1": "",
         "incorrect2": "",

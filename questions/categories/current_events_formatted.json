@@ -1,9 +1,9 @@
 [
     {
         "category": "Current Events",
-        "question": "A labor action by members of this profession, involving approximately 45,000 workers across 36 ports from Maine to Texas, marks the first major strike in this industry in over four decades. The key issues at stake include wage increases, the rising cost of living, and concerns about the impact of automation on jobs. The strike has the potential to disrupt supply chains and contribute to inflation if it continues for an extended period. Which group of workers, represented by the International Longshoremen's Association (ILA), are currently on strike, impacting ports along the East and Gulf Coasts of the United States?",
+        "question": "England, where the industrial revolution began, closed its last energy plant which exclusively burns this fossil fuel. This material, formed from ancient plant matter over millions of years, powered the iconic Titanic's maiden voyage in 1912, highlighting its dominance in the early 20th century. In 2022 alone, the United States produced over 594 million short tons of it, contributing to its position as the world's fourth-largest producer. It generates roughly 40% of India's electricity, demonstrating its continued importance in powering developing economies. However, concerns about its environmental impact, including its contribution to climate change, have led to a global push for cleaner energy sources. What is this combustible black or brownish-black sedimentary rock?",
         "answers": [
-            "Dockworkers"
+            "coal"
         ],
         "incorrect1": "",
         "incorrect2": "",
@@ -13,11 +13,9 @@
     },
     {
         "category": "Current Events",
-        "question": "This award is given annually by the MacArthur Foundation to typically between 20 and 30 individuals. This year the award was given to 22 people including Sterlin Harjo, the creator of the TV show \"Reservation Dogs\". The award grants the winners $800,000 over five years with no strings attach. Name this award that is best known by its informal name that is given to people who have shown \"extraordinary originality and dedication in their creative pursuits and a marked capacity for self-direction.\"",
+        "question": "This US president recently became the first to celebrate his 100th birthday. He graduated from the U.S. Naval Academy in 1946 and served on naval submarines. Raised in Plains, Georgia, he and his family were peanut farmers. On the second day of his presidency, he pardoned all Vietnam War draft dodgers. Name this politician who served as the governor of Georgia and then the 39th president fo the United States.",
         "answers": [
-            "MacArthur Genius Grant",
-            "Genius Grant",
-            "MacArthur Fellowship"
+            "Jimmy Carter"
         ],
         "incorrect1": "",
         "incorrect2": "",
@@ -27,9 +25,34 @@
     },
     {
         "category": "Current Events",
-        "question": "This holiday began on the evening of Wed, Oct 2, 2024. A key ritual involves the blowing of the shofar, a ram's horn, which serves as a call to repentance and reflection. The holiday's traditional greeting is \"L'Shanah Tovah,\" meaning \"a good year\" in Hebrew. It is celebrated by eating apples dipped in honey, symbolizing the hope for a sweet new year. It marks the beginning of the Jewish High Holy Days, a ten-day period of introspection culminating in Yom Kippur. What is this holiday, the Jewish New Year?",
+        "question": "QSR Magazine named this fast food chain the fastest drive-thru the fourth year in a row. Its iconic advertising campaign, featuring a talking chihuahua, became a cultural phenomenon in the late 1990s. It was founded by Glen Bell in 1962, with its first location in Downey, California. This chain, known for its signature crunchy tacos and Doritos Locos Tacos, recently sparked a debate by discontinuing its beloved Mexican Pizza, only to bring it back with a refreshed recipe due to popular demand. What is the name of this popular fast-food chain?",
         "answers": [
-            "Rosh Hashanah"
+            "Taco Bell"
+        ],
+        "incorrect1": "",
+        "incorrect2": "",
+        "incorrect3": "",
+        "used": "TRUE",
+        "source": "Marty Heavey"
+    },
+    {
+        "category": "Current Events",
+        "question": "Mining of the high-purity form of this mineral was impacted by Hurricane Helene as 80-90% of the world\u2019s supply of is mined in a North Carolina town hit by the hurricane. This mineral, composed of silicon and oxygen atoms in a continuous framework, is the second most abundant mineral in the Earth's continental crust. Its piezoelectric properties, meaning it can generate electricity when subjected to mechanical stress, make it valuable in electronic devices like watches and radios. Name this mineral that occurs in a variety of colors, including amethyst (purple), citrine (yellow), and a rose variety (pink).",
+        "answers": [
+            "quartz"
+        ],
+        "incorrect1": "",
+        "incorrect2": "",
+        "incorrect3": "",
+        "used": "TRUE",
+        "source": "Marty Heavey"
+    },
+    {
+        "category": "Current Events",
+        "question": "This high-profile private company is currently in the process of restructuring from a non-profit to become a for-profit company. They recently raised $6.6 billion at a $157 billion valuation. This company also made headlines when its CTO Mira Murati annouced she was departing following the departure of the leader Ilya Sutskever. It was co-founded by Elon Musk and Sam Altman among others, and made headlines in 2022 with the release of DALL-E 2, an AI system that can create realistic images. Its mission is to ensure that artificial general intelligence benefits all of humanity. It also developed the powerful language model GPT-3, capable of generating human-like text, and its successor, GPT-4. What is the name of this leading AI research organization?",
+        "answers": [
+            "OpenAI",
+            "open ai"
         ],
         "incorrect1": "",
         "incorrect2": "",

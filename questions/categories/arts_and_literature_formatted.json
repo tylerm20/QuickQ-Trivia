@@ -498,7 +498,7 @@
         "answers": [
             "The Nutcracker"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Arts & Literature",
@@ -507,7 +507,7 @@
         "answers": [
             "Shel Silverstein [or Sheldon Allan Silverstein; or Uncle Shelby]"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Arts & Literature",
@@ -516,7 +516,7 @@
         "answers": [
             "Ares [prompt on Mars until \"Greek\"]"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Arts & Literature",
@@ -525,7 +525,7 @@
         "answers": [
             "The Thousand and One Nights (accept The One Thousand and One Nights; accept A Thousand and One Nights; accept The Arabian Nights; accept Alf Laylah wa-Laylah)"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Arts & Literature",
@@ -534,7 +534,7 @@
         "answers": [
             "Washington Irving"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Arts & Literature",

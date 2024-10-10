@@ -502,7 +502,7 @@
         "answers": [
             "pancreas"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",
@@ -511,7 +511,7 @@
         "answers": [
             "electrons"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",
@@ -520,7 +520,7 @@
         "answers": [
             "electron"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",
@@ -529,7 +529,7 @@
         "answers": [
             "parasite [or parasitic]"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",
@@ -538,7 +538,7 @@
         "answers": [
             "black holes"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",
