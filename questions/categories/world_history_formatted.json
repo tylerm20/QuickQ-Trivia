@@ -539,7 +539,7 @@
         "answers": [
             "Mongol Empire (do not accept or prompt on \"Mongolia\")"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "World History",
@@ -548,7 +548,7 @@
         "answers": [
             "David Hume"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "World History",
@@ -557,7 +557,7 @@
         "answers": [
             "Beijing (accept Peking)"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "World History",
@@ -566,7 +566,7 @@
         "answers": [
             "Charlemagne [or Charles the Great or Carolus Magnus; prompt on Charles]"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "World History",
@@ -575,7 +575,7 @@
         "answers": [
             "Greek tragedy (accept tragoidia; prompt on \"drama\" before \"dramatic genre\" is read; prompt on\"plays\" before \"satyr plays\" is read)"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "World History",
@@ -584,7 +584,7 @@
         "answers": [
             "slaves (accept additional information, like Roman slaves; accept servus; accept vernae; accept helots if given between the words \"declaration\" and \"Helots,\" but do not accept or prompt it earlier or later)"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "World History",
@@ -593,7 +593,7 @@
         "answers": [
             "Rosetta Stone"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "World History",
@@ -602,7 +602,7 @@
         "answers": [
             "Sparta"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "World History",
@@ -611,7 +611,7 @@
         "answers": [
             "Dalai Lama"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "World History",
@@ -620,7 +620,7 @@
         "answers": [
             "Republic of Indonesia"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "World History",
@@ -629,7 +629,7 @@
         "answers": [
             "James I [prompt on James]"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "World History",

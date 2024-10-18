@@ -529,7 +529,7 @@
         "answers": [
             "Socialist Republic of Vietnam (or Cong Hoa Xa Hoi Chu Nghia Viet Nam)"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Geography",
@@ -538,7 +538,7 @@
         "answers": [
             "Argentina or Republica Argentina [accept Argentine Republic]"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Geography",
@@ -547,7 +547,7 @@
         "answers": [
             "United Arab Emirates [or the UAE or al-\u02beImarat al-\u02bfArabiyah al-Muttahidah; prompt on Emirates]"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Geography",
@@ -556,7 +556,7 @@
         "answers": [
             "Mount Everest"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Geography",
@@ -565,7 +565,7 @@
         "answers": [
             "Seattle"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Geography",
@@ -574,7 +574,7 @@
         "answers": [
             "Commonwealth of Australia"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Geography",
@@ -583,7 +583,7 @@
         "answers": [
             "Sri Lanka"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Geography",
@@ -592,7 +592,7 @@
         "answers": [
             "Chicago, Illinois"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Geography",
@@ -601,7 +601,7 @@
         "answers": [
             "Hispaniola"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Geography",
@@ -610,7 +610,7 @@
         "answers": [
             "Himalayas [or Himalayan Mountains]"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Geography",
@@ -619,7 +619,7 @@
         "answers": [
             "Mississippi River"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Geography",

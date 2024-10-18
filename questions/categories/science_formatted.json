@@ -547,7 +547,7 @@
         "answers": [
             "humidity [accept relative humidity]"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",
@@ -556,7 +556,7 @@
         "answers": [
             "cell walls"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",
@@ -565,7 +565,7 @@
         "answers": [
             "negative numbers"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",
@@ -574,7 +574,7 @@
         "answers": [
             "kinetic energy (accept KE; prompt on energy)"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",
@@ -583,7 +583,7 @@
         "answers": [
             "relativity [accept general relativity; accept special relativity after \"Minkowski\"]"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",
@@ -592,7 +592,7 @@
         "answers": [
             "Nematoda (accept nematodes, accept roundworms before mentioned)"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",
@@ -601,7 +601,7 @@
         "answers": [
             "the Sun"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",
@@ -610,7 +610,7 @@
         "answers": [
             "gold"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",
@@ -619,7 +619,7 @@
         "answers": [
             "factorial [prompt on \"!\" or \"exclamation point\" on early buzz]"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",
@@ -628,7 +628,7 @@
         "answers": [
             "matrix (accept matrices)"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",
@@ -637,7 +637,7 @@
         "answers": [
             "Potassium (accept K before mentioned)"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",

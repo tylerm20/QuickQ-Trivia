@@ -97,7 +97,7 @@
         {
             "category": "US History",
             "source": "2022 SANDS",
-            "question": "During this man's presidency, the Gulf of Tonkin Resolution increased U.S. involvement in one conflict. This president's domestic welfare policies and so-called \"War on Poverty\" were collectively known as the Great Society. This president signed the Civil Rights Act into law in 1964. What Texan succeeded John F. Kennedy as president?",
+            "question": "During this man's presidency, the Gulf of Tonkin Resolution increased U.S. involvement in one Southeast Asian conflict. This president's domestic welfare policies and so-called \"War on Poverty\" were collectively known as the Great Society. This president signed the Civil Rights Act into law in 1964. What Texan succeeded John F. Kennedy as president?",
             "answers": ["Lyndon B. Johnson", "LBJ", "Lyndon Johnson"],
             "incorrect1": "John F. Kennedy",
             "incorrect2": "Franklin D. Roosevelt",
@@ -188,7 +188,7 @@
         },
         {
             "category": "Current Events",
-            "question": "QSR Magazine named this fast food chain the fastest drive-thru the fourth year in a row. Its iconic advertising campaign, featuring a talking chihuahua, became a cultural phenomenon in the late 1990s. It was founded by Glen Bell in 1962, with its first location in Downey, California. This chain, known for its signature crunchy tacos and Doritos Locos Tacos, recently sparked a debate by discontinuing its beloved Mexican Pizza, only to bring it back with a refreshed recipe due to popular demand. What is the name of this popular fast-food chain?",
+            "question": "QSR Magazine named this fast food chain the fastest drive-thru the fourth year in a row. Its advertising campaign featuring a talking chihuahua became a cultural phenomenon in the late 1990s. It was founded by Glen Bell in 1962, with its first location in Downey, California. This chain, known for its signature crunchy tacos and Doritos Locos Tacos, recently sparked a debate by discontinuing its beloved Mexican Pizza, only to bring it back with a refreshed recipe due to popular demand. What is the name of this popular fast-food chain?",
             "answers": ["Taco Bell"],
             "incorrect1": "McDonald's",
             "incorrect2": "Wendy's",

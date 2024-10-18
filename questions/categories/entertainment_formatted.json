@@ -1,9 +1,9 @@
 [
     {
         "category": "Entertainment",
-        "question": "This film, based on a Stephen King novel, features a heartbreaking scene where a condemned man, John Coffey, cries after watching a movie and shares his grief with prison guard Paul Edgecombe. The film's title refers to the green-colored flooring leading to the execution chamber. It explores themes of injustice, faith, and the supernatural within the confines of a Depression-era death row. The film received four Academy Award nominations, including Best Supporting Actor for Michael Clarke Duncan's portrayal of John Coffey. What is the name of this 1999 drama directed by Frank Darabont?",
+        "question": "This critically acclaimed AMC drama's opening credits sequence, featuring a silhouetted figure falling through a cityscape, has become an iconic visual representation of the show's themes of identity and disillusionment. The series finale, which is set in 1970, ended with a serene image of Don Draper meditating on a cliffside retreat, leaving the audience to ponder his fate and the meaning of his journey. Set in the 1960s advertising world, it features a protagonist, Don Draper, whose mysterious past and hidden identity unravel throughout the series. What is the name of this Emmy Award-winning drama?",
         "answers": [
-            "The Green Mile"
+            "Mad Men"
         ],
         "incorrect1": "",
         "incorrect2": "",
@@ -13,9 +13,9 @@
     },
     {
         "category": "Entertainment",
-        "question": "This legendary frontman, known for his captivating stage presence and four-octave vocal range, designed his band's iconic crest, incorporating the zodiac signs of all four band members. He collaborated with opera singer Montserrat Caball\u00e9 on the album \"Barcelona,\" showcasing his diverse musical influences. His final live performance with Queen was at Knebworth Park in 1986, a concert that solidified their status as one of the greatest live acts in music history. Who is this iconic musician, born Farrokh Bulsara, who captivated audiences with his flamboyant persona and powerful vocals?",
+        "question": "This rock and roll icon, known for his energetic performances and signature dance moves, was famously nicknamed \"the Pelvis\" due to his suggestive hip gyrations.  His debut single, \"That's All Right,\" released in 1954, helped popularize rock and roll music and launched him to stardom. He served in the US Army from 1958 to 1960, stationed in Germany, where he met his future wife, Priscilla Beaulieu. His Graceland mansion in Memphis, Tennessee, has become a popular tourist destination and a shrine for fans worldwide. Who is this legendary singer and actor, often dubbed the \"King of Rock and Roll\"?",
         "answers": [
-            "Freddie Mercury"
+            "Elvis Presley"
         ],
         "incorrect1": "",
         "incorrect2": "",
@@ -25,35 +25,9 @@
     },
     {
         "category": "Entertainment",
-        "question": "The film's dark and gritty atmosphere is enhanced by its distinctive visual style, with desaturated colors and rain-soaked cityscapes. This neo-noir thriller features a shocking climax where a detective's wife is murdered by a serial killer obsessed with the seven deadly sins. It stars Brad Pitt as Detective David Mills, a young and ambitious detective, and Morgan Freeman as Detective William Somerset, a veteran detective on the verge of retirement. What is the title of this 1995 film directed by David Fincher?",
+        "question": "This band's iconic album, *The Joshua Tree*, released in 1987, features a stark black and white cover photograph shot by Anton Corbijn in the Mojave Desert. Their politically charged anthem, \"Sunday Bloody Sunday,\" commemorates the 1972 Bogside Massacre in Northern Ireland. They famously performed on a rooftop in Los Angeles in 1987, causing a traffic jam and leading to their arrest. The band's four members\u2014Bono, The Edge, Adam Clayton, and Larry Mullen Jr.\u2014have remained together since their formation in 1976.  What is the name of this Irish rock band known for their anthemic sound and social activism?",
         "answers": [
-            "Se7en",
-            "sevent",
-            "7"
-        ],
-        "incorrect1": "",
-        "incorrect2": "",
-        "incorrect3": "",
-        "used": "TRUE",
-        "source": "Marty Heavey"
-    },
-    {
-        "category": "Entertainment",
-        "question": "This actress, often hailed as one of the greatest of all time, won three Academy Awards, including Best Actress for her role in \"Gaslight\" and Best Supporting Actress for \"Murder on the Orient Express.\"  Her controversial affair with director Roberto Rossellini led to a public outcry and a temporary ban from Hollywood. She made a triumphant return to American cinema, winning her third Oscar for her role in \"Anastasia.\" Name this Swedish-born actress who starred in the classic film \"Casablanca\" alongside Humphrey Bogart.",
-        "answers": [
-            "Ingrid Bergman"
-        ],
-        "incorrect1": "",
-        "incorrect2": "",
-        "incorrect3": "",
-        "used": "TRUE",
-        "source": "Marty Heavey"
-    },
-    {
-        "category": "Entertainment",
-        "question": "This television series, known for its captivating mysteries and compelling characters, captivated audiences with its unique blend of drama, science fiction, and supernatural elements.  The show's pilot episode, which depicted the aftermath of a plane crash on a mysterious island, became one of the most expensive pilot episodes in television history. Its recurring use of flashbacks to delve into the characters' backstories added depth and complexity to the narrative. The series finale, which aired in 2010, sparked widespread debate and discussion among fans and critics alike. What is the name of this popular ABC series?",
-        "answers": [
-            "Lost"
+            "U2"
         ],
         "incorrect1": "",
         "incorrect2": "",

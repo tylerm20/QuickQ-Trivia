@@ -548,7 +548,7 @@
         "answers": [
             "Iran\u00adContra affair [or Iran\u00adContra scandal; accept Contra after \"Iran\" is read]"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "US History",
@@ -557,7 +557,7 @@
         "answers": [
             "Chief Justice of the Supreme Court"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "US History",
@@ -566,7 +566,7 @@
         "answers": [
             "women's suffrage [or women's right to vote]"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "US History",
@@ -575,7 +575,7 @@
         "answers": [
             "fires [or wildfires, structure fires, etc.; accept Cuyahoga River Fire, Triangle Shirtwaist Factory Fire, or Great Chicago Fire of 1871; accept descriptive answers like \"it burned down\" that are obvious synonyms for fires]"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "US History",
@@ -584,7 +584,7 @@
         "answers": [
             "Battle of Midway"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "US History",
@@ -593,7 +593,7 @@
         "answers": [
             "Aaron Burr Jr."
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "US History",
@@ -602,7 +602,7 @@
         "answers": [
             "L(yndon) B(aines) Johnson or LBJ [prompt on partial answer]"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "US History",
@@ -611,7 +611,7 @@
         "answers": [
             "railroads [or railways; accept First Transcontinental Railroad or Underground Railroad]"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "US History",
@@ -620,7 +620,7 @@
         "answers": [
             "Prohibition (prompt on descriptions of \"banning alcohol\" or \"banning drinking\" before \"alcohol\" is read)"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "US History",
@@ -629,7 +629,7 @@
         "answers": [
             "guns (accept handguns; accept arms; accept any specific type of gun after \"Charlton\" is read)"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "US History",
@@ -638,7 +638,7 @@
         "answers": [
             "Boston Massacre"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "US History",

@@ -1,9 +1,11 @@
 [
     {
         "category": "Sports",
-        "question": "This NBA team, founded in 1946 as one of the original members of the Basketball Association of America plays at what is often dubbed \"The World's Most Famous Arena.\" Their classic blue and orange uniforms have remained largely unchanged throughout their history, a symbol of the franchise's enduring legacy. Despite a championship drought dating back to 1973, their passionate fanbase, known for their unwavering loyalty and high expectations, continues to fill \"The Garden\" with electrifying energy. What is the name of this team, whose history includes legendary players like Patrick Ewing and Walt \"Clyde\" Frazier?",
+        "question": "This team's infamous \"butt fumble\" play, where quarterback Mark Sanchez ran into his own teammate's backside, resulting in a turnover, has become a symbol of the franchise's struggles and misfortunes.  Despite winning their only Super Bowl title in 1969, led by quarterback Joe Namath, they have endured a long championship drought, often finding themselves overshadowed by their crosstown rivals, the New York Giants. Name this team whose home stadium is shared with the Giants, creating a unique dynamic in the NFL landscape.",
         "answers": [
-            "New York Knicks"
+            "New York Jets",
+            "Jets",
+            "NY Jets"
         ],
         "incorrect1": "",
         "incorrect2": "",
@@ -13,9 +15,11 @@
     },
     {
         "category": "Sports",
-        "question": "This Major League Baseball team's home stadium, American Family Field, was originally built with a retractable roof, a unique feature for a baseball stadium at the time. They made their only World Series appearance in 1982, falling to the St. Louis Cardinals in a thrilling seven-game series. Their memorable 1980s logo, featuring a ball glove forming the letters \"M\" and \"B,\" has become a sought-after collectible for fans. What is the name of this team, based in Milwaukee, Wisconsin?",
+        "question": "This team's mascot, Champ, a spirited blue horse, entertains fans with his acrobatic dunks and playful antics. Their home arena, the American Airlines Center, is a state-of-the-art facility that has hosted numerous major sporting and entertainment events. They achieved their first and only NBA championship in 2011, led by Dirk Nowitzki, a German-born power forward who became a global icon. What is the name of this Texas-based NBA franchise?",
         "answers": [
-            "Milwaukee Brewers"
+            "Dallas Mavericks",
+            "Mavericks",
+            "Mavs"
         ],
         "incorrect1": "",
         "incorrect2": "",
@@ -25,34 +29,11 @@
     },
     {
         "category": "Sports",
-        "question": "This non-contact team sport, often played on a field similar in size to a soccer field, has origins tracing back to a group of high school students in Maplewood, New Jersey, who developed the game in 1968.  The objective is to score points by passing a disc to a teammate in the opposing team's end zone. It is known for its \"Spirit of the Game\" which emphasizes fair play, sportsmanship, and self-officiation, even at the highest levels of competition. What is the name of this sport, which combines elements of soccer, basketball, and American football and uses a frisbee?",
+        "question": "This NBA team, known for its recent string of playoff appearances, has a history marked by both exciting moments and unfortunate setbacks.  Despite boasting star players like Kawhi Leonard and Paul George, they have yet to reach the NBA Finals, often falling short in crucial playoff series. They shared their home arena, Crypto.com Arena, with their crosstown rivals, the Los Angeles Lakers before the Intuit Dome opened in Inglewood. Name this team who often plays second fiddle to the Lakes in Los Angeles.",
         "answers": [
-            "Ultimate Frisbee",
-            "ultimate"
-        ],
-        "incorrect1": "",
-        "incorrect2": "",
-        "incorrect3": "",
-        "used": "TRUE",
-        "source": "Marty Heavey"
-    },
-    {
-        "category": "Sports",
-        "question": "This basketball superstar, born in Akron, Ohio, was drafted straight out of high school by his hometown Cleveland Cavaliers with the No. 1 overall pick in 2003. He's known for his powerful drives to the basket, exceptional court vision, and leadership qualities, earning him the nickname \"The King.\"  He has led three different franchises to NBA championships, including the Miami Heat, Cleveland Cavaliers, and Los Angeles Lakers. In 2023, he surpassed Kareem Abdul-Jabbar to become the NBA's all-time leading scorer. Who is this iconic athlete? ",
-        "answers": [
-            "LeBron James"
-        ],
-        "incorrect1": "",
-        "incorrect2": "",
-        "incorrect3": "",
-        "used": "TRUE",
-        "source": "Marty Heavey"
-    },
-    {
-        "category": "Sports",
-        "question": "This baseball team's historic rivalry with the San Francisco Giants, which began in New York, has continued across the country, adding an extra layer of excitement to their matchups. They hold the record for the most Cy Young Awards won by a single franchise, with 12 awards earned by their legendary pitchers. Their home stadium is the third-oldest ballpark in Major League Baseball and boasts stunning views of the Los Angeles skyline. What is the name of this team currently starring Shohei Ohtani and Mookie Betts, known for their distinctive blue uniforms?",
-        "answers": [
-            "Los Angeles Dodgers"
+            "LA Clippers",
+            "Clippers",
+            " Los Angeles Clippers"
         ],
         "incorrect1": "",
         "incorrect2": "",
