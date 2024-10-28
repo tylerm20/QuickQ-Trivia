@@ -628,7 +628,7 @@
         "answers": [
             "isthmus [accept isthmi]"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Geography",
@@ -637,7 +637,7 @@
         "answers": [
             "the Andes"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Geography",
@@ -646,7 +646,7 @@
         "answers": [
             "Caribbean Sea"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Geography",
@@ -655,7 +655,7 @@
         "answers": [
             "Kingdom of Spain [or Reino de Espana, or Espainiako Erresuma, or Regne d'Espanya]"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Geography",
@@ -664,7 +664,7 @@
         "answers": [
             "Peru"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Geography",
@@ -673,7 +673,7 @@
         "answers": [
             "Amelia Earhart"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Geography",
@@ -682,7 +682,7 @@
         "answers": [
             "Republic of Djibouti [or Republique de Djibouti or Jumhuriyat Jibuti]"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Geography",
@@ -691,7 +691,7 @@
         "answers": [
             "Antarctica"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Geography",
@@ -700,7 +700,7 @@
         "answers": [
             "Republic of Chile"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Geography",
@@ -709,7 +709,7 @@
         "answers": [
             "Columbia River"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Geography",
@@ -718,7 +718,7 @@
         "answers": [
             "Ethiopia [or Ityop'iya; or Federal Democratic Republic of Ethiopia; or YeEtiyop'iya]"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Geography",
@@ -727,7 +727,7 @@
         "answers": [
             "Nevada"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Geography",
@@ -736,7 +736,7 @@
         "answers": [
             "Nevada"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Geography",
@@ -745,7 +745,7 @@
         "answers": [
             "Rome, Italy [or Roma, Italia]"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Geography",
@@ -754,7 +754,7 @@
         "answers": [
             "Commonwealth of Australia"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Geography",

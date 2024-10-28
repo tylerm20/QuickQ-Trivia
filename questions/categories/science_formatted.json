@@ -646,7 +646,7 @@
         "answers": [
             "(Sigismund Schlomo) Sigmund Freud"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",
@@ -655,7 +655,7 @@
         "answers": [
             "spin [do not accept spin angular momentum or spin quantum number]"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",
@@ -664,7 +664,7 @@
         "answers": [
             "glaciers"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",
@@ -673,7 +673,7 @@
         "answers": [
             "Asteroids"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",
@@ -682,7 +682,7 @@
         "answers": [
             "Fibonacci sequence"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",
@@ -691,7 +691,7 @@
         "answers": [
             "taxes (do not accept \"tariff\")"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",
@@ -700,7 +700,7 @@
         "answers": [
             "demand (curve)"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",
@@ -709,7 +709,7 @@
         "answers": [
             "beta (or beta decay; or beta particle; do not prompt or accept \"B\")"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",
@@ -718,7 +718,7 @@
         "answers": [
             "integration (or obvious equivalents like  taking the integral ; prompt on \"antidifferentiation\")"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",
@@ -727,7 +727,7 @@
         "answers": [
             "magnetic field [prompt on \"B\" or \"H\"]"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",
@@ -736,7 +736,7 @@
         "answers": [
             "temperature [do not accept \"heat\"]"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",
@@ -745,7 +745,7 @@
         "answers": [
             "proton [prompt on H+]"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",
@@ -754,7 +754,7 @@
         "answers": [
             "prime numbers"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",
@@ -763,7 +763,7 @@
         "answers": [
             "respiratory system"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",
@@ -772,7 +772,7 @@
         "answers": [
             "punctuated equilibrium"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",

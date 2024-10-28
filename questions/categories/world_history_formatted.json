@@ -638,7 +638,7 @@
         "answers": [
             "Mao Zedong [accept Mao Tse-Tung or Chairman Mao; don't accept or prompt on Zedong or Tse-Tung]"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "World History",
@@ -647,7 +647,7 @@
         "answers": [
             "Nelson Mandela"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "World History",
@@ -656,7 +656,7 @@
         "answers": [
             "books [accept the Domesday Book; accept Book of Common Prayer]"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "World History",
@@ -665,7 +665,7 @@
         "answers": [
             "Alexander the Great[accept Alexander III of Macedon]"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "World History",
@@ -674,7 +674,7 @@
         "answers": [
             "Finland (accept Suomi)"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "World History",
@@ -683,7 +683,7 @@
         "answers": [
             "North Korea and South Korea"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "World History",
@@ -692,7 +692,7 @@
         "answers": [
             "Stamp Act of 1765"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "World History",
@@ -701,7 +701,7 @@
         "answers": [
             "The Communist Manifesto (accept The Manifesto of the Communist Party; accept Manifest der Kommunistischen Partei)"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "World History",
@@ -710,7 +710,7 @@
         "answers": [
             "Inca Empire [or Incan Empire or Tawantinsuyu]"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "World History",
@@ -719,7 +719,7 @@
         "answers": [
             "Adam Smith"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "World History",
@@ -728,7 +728,7 @@
         "answers": [
             "Egypt (accept Arab Republic of Egypt; accept Gomhoreyyet Masr el-'Arabeyya; accept Jumhuriyat Misr al-'Arabiyah)"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "World History",
@@ -737,7 +737,7 @@
         "answers": [
             "Jesus Christ [accept either]"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "World History",
@@ -746,7 +746,7 @@
         "answers": [
             "Australia"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "World History",
@@ -755,7 +755,7 @@
         "answers": [
             "Nazi Party [or National Socialist German Workers' Party]"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "World History",
@@ -764,7 +764,7 @@
         "answers": [
             "Martin Luther"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "World History",

@@ -1,9 +1,9 @@
 [
     {
-        "category": "Current Events",
-        "question": "Liam Payne, a member of this band, died at age 31 after falling from a hotel in Argentina. This boy band, formed on the British reality show \"The X Factor\" in 2010, originally consisted of five members. Their debut single, \"What Makes You Beautiful,\" topped the charts in several countries and became a global phenomenon. They amassed a devoted fanbase, known as \"Directioners,\" who fueled their rise to international stardom.  Despite their disbandment in 2016, each member went on to achieve solo success in music and other ventures. What is the name of this popular boy band?",
+        "category": "",
+        "question": "A huge deposit of this element was recently found beneath the US state or Arkansas. The element, the lightest alkali metal, is so soft it can be cut with a knife and so reactive it must be stored in mineral oil to prevent it from reacting with air and water. Despite its reactivity, it is a key component in rechargeable batteries that power everything from smartphones to electric vehicles. Its compounds have also been used for decades to treat bipolar disorder, though the exact mechanism of action remains unclear.  Discovered in 1817 by Johan August Arfwedson, its name comes from the Greek word for \"stone.\" What is this element, with atomic number 3?",
         "answers": [
-            "One Direction"
+            "Lithium"
         ],
         "incorrect1": "",
         "incorrect2": "",
@@ -12,10 +12,10 @@
         "source": "Marty Heavey"
     },
     {
-        "category": "Current Events",
-        "question": "The women's record time for this race was set by Ruth Chepng'etich in Chicago on October 13, 2024. The first modern one of these was held at the 1896 Summer Olympics in Athens, its namesake route. The world record for the fastest completion of this race is held by another Kenyan in under 2 hours and one minute. This footrace, famously commemorating the legendary run of Pheidippides to Athens in 490 BC, covers a distance of 26.2 miles, or 42.2 kilometers. What is this grueling yet rewarding athletic event?",
+        "category": "",
+        "question": "Phil Lesh, the bassist for this band, passed away at age 84 in October 2024. Their iconic \"skull and roses\" logo, designed by artist Stanley Mouse, became a symbol of the band's countercultural appeal. Their unique blend of rock, folk, bluegrass, and psychedelia, often featuring extended improvisational jams, defied categorization and attracted a diverse following. Their 1967 anthem, \"Truckin',\" captures the spirit of their nomadic lifestyle and their connection to the open road. What is the name of this influential band, whose fans are known as \"Deadheads\"?",
         "answers": [
-            "Marathon"
+            "Grateful Dead"
         ],
         "incorrect1": "",
         "incorrect2": "",
@@ -24,10 +24,60 @@
         "source": "Marty Heavey"
     },
     {
-        "category": "Current Events",
-        "question": "C/2023 A3 (Tsuchinshan\u2013ATLAS), one of these objects, was discovered in 2023 and is the brighest one since Neowise in 2020. These celestial objects, often described as \"dirty snowballs,\" are composed of ice, dust, and rock, and originate from the outer regions of the solar system.  They are known for their distinctive tails, which are formed when the sun's heat vaporizes the ice and dust, creating a luminous trail that can stretch for millions of miles. Halley's, perhaps the most famous of its kind, is visible from Earth every 76 years. What are these icy wanderers of the solar system?",
+        "category": "",
+        "question": "This country recently sent thousands of troops to Russia to aid the country in its war against Ukraine. This country, known for its mountainous terrain and the Paektu Mountain, a sacred volcano considered the mythical birthplace of its people, shares a heavily fortified border with its southern neighbor, the Demilitarized Zone (DMZ). It is divided into nine provinces and two special cities, with Pyongyang serving as its capital. Name this nation that has history marked by a devastating war in the 1950s which led to its division and an ongoing political conflict with the international community.",
         "answers": [
-            "comet"
+            "North Korea"
+        ],
+        "incorrect1": "",
+        "incorrect2": "",
+        "incorrect3": "",
+        "used": "TRUE",
+        "source": "Marty Heavey"
+    },
+    {
+        "category": "",
+        "question": "The power grid of this nation went down twice in the span of 24 hours in October 2024. The island nation, known for its vibrant music scene and classic cars from the 1950s, is home to the Sierra Maestra, a mountain range that served as a base for Fidel Castro's revolutionary forces. Its capital city, Havana, boasts colorful colonial architecture and a lively Malec\u00f3n boardwalk along the coast.  It is the largest island in the Caribbean and played a pivotal role in the Cold War. What is this country, famous for its cigars, rum, and salsa dancing?",
+        "answers": [
+            "Cuba"
+        ],
+        "incorrect1": "",
+        "incorrect2": "",
+        "incorrect3": "",
+        "used": "TRUE",
+        "source": "Marty Heavey"
+    },
+    {
+        "category": "",
+        "question": "This nation recently voted to amend its constitution to include the aim of becoming a European Union member state. This Eastern European country, nestled between Romania and Ukraine, is renowned for its wine production, boasting vast underground wine cellars that stretch for miles.  Its capital city, Chi\u0219in\u0103u, features a Triumphal Arch commemorating the victory of the Russian Empire over the Ottoman Empire. Name this country, home to the breakaway region of Transnistria, a self-declared state with its own currency and military.",
+        "answers": [
+            "Moldova"
+        ],
+        "incorrect1": "",
+        "incorrect2": "",
+        "incorrect3": "",
+        "used": "TRUE",
+        "source": "Marty Heavey"
+    },
+    {
+        "category": "",
+        "question": "An attack by the Kurdistan Workers' Party on the an aerospace company's headquarters in this nation left seven people dead in October 2024. This transcontinental country, spanning both Europe and Asia, is home to the Hagia Sophia, a magnificent architectural marvel that has served as a church, a mosque, and now a museum. Its bustling Grand Bazaar in Istanbul, one of the oldest and largest covered markets in the world, offers a vibrant tapestry of sights, sounds, and aromas. Name this nation that is bordered by eight countries and three seas, showcasing its strategic location at the crossroads of civilizations.",
+        "answers": [
+            "Turkey",
+            "Republic of T\u00fcrkiye",
+            "T\u00fcrkiye"
+        ],
+        "incorrect1": "",
+        "incorrect2": "",
+        "incorrect3": "",
+        "used": "TRUE",
+        "source": "Marty Heavey"
+    },
+    {
+        "category": "",
+        "question": "Tropical Storm Trami killed more than 120 people dead in this archipelago nation. The nation, comprised of over 7,000 islands, is renowned for its stunning beaches, including the world-famous Boracay and El Nido. It is home to the Chocolate Hills, a geological formation of over 1,000 cone-shaped hills that turn brown during the dry season. Its capital city, Manila, boasts a vibrant mix of Spanish colonial architecture and modern skyscrapers. It is also the world's second-largest archipelago and a major exporter of coconuts and mangoes. Name this Southeast Asian country.",
+        "answers": [
+            "Philippines"
         ],
         "incorrect1": "",
         "incorrect2": "",

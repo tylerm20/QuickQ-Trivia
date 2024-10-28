@@ -1,9 +1,9 @@
 [
     {
         "category": "Entertainment",
-        "question": "This critically acclaimed AMC drama's opening credits sequence, featuring a silhouetted figure falling through a cityscape, has become an iconic visual representation of the show's themes of identity and disillusionment. The series finale, which is set in 1970, ended with a serene image of Don Draper meditating on a cliffside retreat, leaving the audience to ponder his fate and the meaning of his journey. Set in the 1960s advertising world, it features a protagonist, Don Draper, whose mysterious past and hidden identity unravel throughout the series. What is the name of this Emmy Award-winning drama?",
+        "question": "This coming-of-age film features a memorable scene where the protagonist, Benjamin Braddock, played by Dustin Hoffman, drifts aimlessly in his parents' swimming pool, capturing his sense of disillusionment and uncertainty about the future. The film's iconic soundtrack, composed by Simon & Garfunkel, includes the songs \"The Sound of Silence\" and \"Mrs. Robinson,\" which perfectly complement the film's themes of alienation and rebellion. The film's controversial ending, with Benjamin disrupting Elaine's wedding and escaping with her on a bus, leaves the audience with a sense of ambiguity about their future. What is the title of this 1967 film, directed by Mike Nichols?",
         "answers": [
-            "Mad Men"
+            "The Graduate"
         ],
         "incorrect1": "",
         "incorrect2": "",
@@ -13,9 +13,9 @@
     },
     {
         "category": "Entertainment",
-        "question": "This rock and roll icon, known for his energetic performances and signature dance moves, was famously nicknamed \"the Pelvis\" due to his suggestive hip gyrations.  His debut single, \"That's All Right,\" released in 1954, helped popularize rock and roll music and launched him to stardom. He served in the US Army from 1958 to 1960, stationed in Germany, where he met his future wife, Priscilla Beaulieu. His Graceland mansion in Memphis, Tennessee, has become a popular tourist destination and a shrine for fans worldwide. Who is this legendary singer and actor, often dubbed the \"King of Rock and Roll\"?",
+        "question": "This online video game, known for its distinctive building mechanics and vibrant cartoonish graphics, features a \"Battle Royale\" mode where 100 players compete to be the last one standing. Its ever-evolving map includes named locations like Tilted Towers and Loot Lake, which have become familiar landmarks to players.  It has collaborated with numerous pop culture icons, including Marvel superheroes, Star Wars characters, and musicians like Ariana Grande and Travis Scott.  Its emotes, or dances, have become viral sensations, often imitated in real-life celebrations and social media trends.  What is the name of this popular free-to-play game?",
         "answers": [
-            "Elvis Presley"
+            "Fortnite"
         ],
         "incorrect1": "",
         "incorrect2": "",
@@ -25,9 +25,57 @@
     },
     {
         "category": "Entertainment",
-        "question": "This band's iconic album, *The Joshua Tree*, released in 1987, features a stark black and white cover photograph shot by Anton Corbijn in the Mojave Desert. Their politically charged anthem, \"Sunday Bloody Sunday,\" commemorates the 1972 Bogside Massacre in Northern Ireland. They famously performed on a rooftop in Los Angeles in 1987, causing a traffic jam and leading to their arrest. The band's four members\u2014Bono, The Edge, Adam Clayton, and Larry Mullen Jr.\u2014have remained together since their formation in 1976.  What is the name of this Irish rock band known for their anthemic sound and social activism?",
+        "question": "This film's iconic opening montage, set to George Gershwin's \"Rhapsody in Blue,\" captures the romantic and melancholic beauty of New York City.  It features a controversial relationship between Isaac, a 42-year-old writer played by Woody Allen, and Tracy, a 17-year-old high school student played by Mariel Hemingway.  The film's witty dialogue and exploration of themes of love, relationships, and identity in the urban landscape have made it a classic of American cinema.  What is the title of this 1979 romantic comedy-drama?",
         "answers": [
-            "U2"
+            "Manhattan"
+        ],
+        "incorrect1": "",
+        "incorrect2": "",
+        "incorrect3": "",
+        "used": "TRUE",
+        "source": "Marty Heavey"
+    },
+    {
+        "category": "Entertainment",
+        "question": "This gritty 1971 thriller features a gripping car chase scene where the protagonist pursues an elevated train on the streets of New York City.  The film's raw and realistic depiction of police work and drug trafficking earned it five Academy Awards, including Best Picture and Best Actor for Gene Hackman's portrayal of Detective Jimmy \"Popeye\" Doyle.  Based on a true story, it follows two New York City detectives as they try to bust a drug smuggling ring.  What is the title of this neo-noir classic directed by William Friedkin?",
+        "answers": [
+            "The French Connection"
+        ],
+        "incorrect1": "",
+        "incorrect2": "",
+        "incorrect3": "",
+        "used": "TRUE",
+        "source": "Marty Heavey"
+    },
+    {
+        "category": "Entertainment",
+        "question": "This science fiction film features a unique method of communication with extraterrestrial visitors, using a five-tone musical phrase.  The iconic Devil's Tower National Monument in Wyoming serves as a key location in the film's climactic encounter.  The film's director, Steven Spielberg, drew inspiration from real-life UFO sightings and the work of ufologist J. Allen Hynek, who even makes a cameo appearance in the film.  The film's special effects, groundbreaking for its time, created awe-inspiring visuals of alien spacecraft and otherworldly beings.  What is the title of this 1977 film, which explores humanity's fascination with the unknown and the possibility of extraterrestrial contact?",
+        "answers": [
+            "Close Encounters of the Third Kind"
+        ],
+        "incorrect1": "",
+        "incorrect2": "",
+        "incorrect3": "",
+        "used": "TRUE",
+        "source": "Marty Heavey"
+    },
+    {
+        "category": "Entertainment",
+        "question": "This sitcom's iconic theme song, composed by Jonathan Wolff, features a distinctive slap bass line and quirky synthesizer melodies. The show, renowned for its \"show about nothing\" premise, features a group of four friends living in New York City: Jerry, a stand-up comedian; Elaine, his ex-girlfriend and close friend; George, his neurotic and often unemployed friend; and Kramer, his eccentric neighbor.  The show's quirky characters and relatable situations, often revolving around mundane aspects of daily life, resonated with audiences, making it one of the most popular and influential sitcoms of the 1990s. What is the name of this sitcom, which has left a lasting legacy on television comedy?",
+        "answers": [
+            "Seinfeld"
+        ],
+        "incorrect1": "",
+        "incorrect2": "",
+        "incorrect3": "",
+        "used": "TRUE",
+        "source": "Marty Heavey"
+    },
+    {
+        "category": "Entertainment",
+        "question": "This anthology series, known for its eerie opening narration and twist endings, explored themes of paranoia, morality, and the human condition through a science fiction lens.  Its iconic theme music, composed by Marius Constant, has become synonymous with suspense and the unknown.  The show's creator, Rod Serling, often appeared on screen to introduce and conclude each episode, offering thought-provoking commentary on the stories' themes.  Its memorable episodes, including \"Time Enough at Last\" and \"Nightmare at 20,000 Feet,\" have become classics of the genre.  What is the name of this influential television series that continues to inspire and unsettle viewers today?",
+        "answers": [
+            "The Twilight Zone"
         ],
         "incorrect1": "",
         "incorrect2": "",

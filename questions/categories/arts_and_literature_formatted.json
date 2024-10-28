@@ -642,7 +642,7 @@
         "answers": [
             "drums [accept specific types of drums; prompt on percussion until mention]"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Arts & Literature",
@@ -651,7 +651,7 @@
         "answers": [
             "Babylonian [accept Mesopotamian; do not accept other more specific Mesopotamian civilizations, such as \"Sumerian\" or \"Assyrian\"]"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Arts & Literature",
@@ -660,7 +660,7 @@
         "answers": [
             "Gabriel Garcia Marquez (prompt on partial last name)"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Arts & Literature",
@@ -669,7 +669,7 @@
         "answers": [
             "The Gift of the Magi"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Arts & Literature",
@@ -678,7 +678,7 @@
         "answers": [
             " Lil Wayne [prompt on Dwayne Carter]"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Arts & Literature",
@@ -687,7 +687,7 @@
         "answers": [
             "Nikolai Rimsky-Korsakov"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Arts & Literature",
@@ -696,7 +696,7 @@
         "answers": [
             "Doctor Henry \"Harry\" Jekyll (accept Mr Edward Hyde until \"Edward\" is read; accept The Strange Case of Doctor Jekyll and Mr Hyde)"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Arts & Literature",
@@ -705,7 +705,7 @@
         "answers": [
             "China [or People's Republic of China; do not accept or prompt on \"Republic of China\"]"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Arts & Literature",
@@ -714,7 +714,7 @@
         "answers": [
             "Iliad (accept Ilias; accept Song of Ilion or Song of Ilium)"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Arts & Literature",
@@ -723,7 +723,7 @@
         "answers": [
             "confession (accept Sacrament of Penance and Reconciliation; accept Sacrament of Reconciliation; prompt on \"penance\" or \"reconciliation\" alone)"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Arts & Literature",
@@ -732,7 +732,7 @@
         "answers": [
             "Anton Chekhov"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Arts & Literature",
@@ -741,7 +741,7 @@
         "answers": [
             "Italy"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Arts & Literature",
@@ -750,7 +750,7 @@
         "answers": [
             "pianoforte [accept prepared piano]"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Arts & Literature",
@@ -759,7 +759,7 @@
         "answers": [
             "The Hobbit"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Arts & Literature",
@@ -768,7 +768,7 @@
         "answers": [
             "\"The Road Not Taken\" [do not accept or prompt on \"The Road Less Traveled\", because that's not what the poem is called!]"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Arts & Literature",

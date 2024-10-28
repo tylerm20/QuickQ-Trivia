@@ -1,11 +1,10 @@
 [
     {
         "category": "Sports",
-        "question": "This team's infamous \"butt fumble\" play, where quarterback Mark Sanchez ran into his own teammate's backside, resulting in a turnover, has become a symbol of the franchise's struggles and misfortunes.  Despite winning their only Super Bowl title in 1969, led by quarterback Joe Namath, they have endured a long championship drought, often finding themselves overshadowed by their crosstown rivals, the New York Giants. Name this team whose home stadium is shared with the Giants, creating a unique dynamic in the NFL landscape.",
+        "question": "This team's mascot, Rocky the Mountain Lion, is known for his acrobatic dunks and energetic performances during games, adding to the lively atmosphere at their home arena.  Their iconic rainbow skyline jerseys, a tribute to the city's vibrant culture and mountainous backdrop, have become a symbol of the franchise.  They achieved their first NBA championship in 2023, led by Nikola Joki\u0107, a Serbian center who earned the Finals MVP award. What is the name of this team, whose high-altitude home court is often referred to as the \"Mile High City\"?",
         "answers": [
-            "New York Jets",
-            "Jets",
-            "NY Jets"
+            "Denver Nuggets",
+            "nuggets"
         ],
         "incorrect1": "",
         "incorrect2": "",
@@ -15,11 +14,10 @@
     },
     {
         "category": "Sports",
-        "question": "This team's mascot, Champ, a spirited blue horse, entertains fans with his acrobatic dunks and playful antics. Their home arena, the American Airlines Center, is a state-of-the-art facility that has hosted numerous major sporting and entertainment events. They achieved their first and only NBA championship in 2011, led by Dirk Nowitzki, a German-born power forward who became a global icon. What is the name of this Texas-based NBA franchise?",
+        "question": "This team's name, inspired by a powerful weather phenomenon common in the region, reflects the energy and intensity they bring to the court. Their vibrant blue, orange, and yellow color scheme is a nod to the state's vibrant sunsets and Native American heritage.  They relocated from Seattle in 2008, bringing with them a passionate fanbase that has embraced the team's new identity. What is the name of this team, whose history includes a memorable NBA Finals appearance in 2012?",
         "answers": [
-            "Dallas Mavericks",
-            "Mavericks",
-            "Mavs"
+            "Oklahoma City Thunder",
+            "thunder"
         ],
         "incorrect1": "",
         "incorrect2": "",
@@ -29,11 +27,59 @@
     },
     {
         "category": "Sports",
-        "question": "This NBA team, known for its recent string of playoff appearances, has a history marked by both exciting moments and unfortunate setbacks.  Despite boasting star players like Kawhi Leonard and Paul George, they have yet to reach the NBA Finals, often falling short in crucial playoff series. They shared their home arena, Crypto.com Arena, with their crosstown rivals, the Los Angeles Lakers before the Intuit Dome opened in Inglewood. Name this team who often plays second fiddle to the Lakes in Los Angeles.",
+        "question": "This sport, often described as the fastest field game in the world, features players using a wooden stick called a hurley to hit a small ball called a sliotar.  It is known for its fast-paced action, skillful stickwork, and passionate fans.  Its origins can be traced back to ancient Ireland, with legends claiming it was played as far back as 1200 BC.  The sport's governing body, the Gaelic Athletic Association, also oversees Gaelic football, another popular Irish sport.  What is this exciting sport, primarily played in Ireland?",
         "answers": [
-            "LA Clippers",
-            "Clippers",
-            " Los Angeles Clippers"
+            "Hurling"
+        ],
+        "incorrect1": "",
+        "incorrect2": "",
+        "incorrect3": "",
+        "used": "TRUE",
+        "source": "Marty Heavey"
+    },
+    {
+        "category": "Sports",
+        "question": "This team's name, a nod to the iconic \"Guardians of Traffic\" statues that adorn the Hope Memorial Bridge near their home stadium, was adopted in 2021 after years of controversy surrounding their previous moniker.  Their home ballpark, Progressive Field, boasts a distinctive left field bleacher section known as \"The Corner.\"  They have won two World Series titles, the most recent coming in 1948, ending a then-record 28-year championship drought.  Their mascot, Slider, is a furry, red-faced creature known for his energetic antics and fan interactions.  What is the name of this American League team, based in Cleveland, Ohio?",
+        "answers": [
+            "Cleveland Guardians",
+            "guardians",
+            "indians"
+        ],
+        "incorrect1": "",
+        "incorrect2": "",
+        "incorrect3": "",
+        "used": "TRUE",
+        "source": "Marty Heavey"
+    },
+    {
+        "category": "Sports",
+        "question": "This coach, known for his dry wit and often-curt responses in press conferences, holds the NBA record for the most regular season wins with 1,366 victories. He has led his team to five NBA championships, all with the same small-market franchise. His coaching tree includes successful NBA coaches like Steve Kerr and Mike Budenholzer.  He served as head coach of the US national team, leading them to a gold medal at the 2020 Tokyo Olympics. Who is this legendary coach, known for his long tenure with the San Antonio Spurs?",
+        "answers": [
+            "Gregg Popovich"
+        ],
+        "incorrect1": "",
+        "incorrect2": "",
+        "incorrect3": "",
+        "used": "TRUE",
+        "source": "Marty Heavey"
+    },
+    {
+        "category": "Sports",
+        "question": "This sport, known for its fast-paced action and blend of physicality and finesse, features players using a stick with a netted pocket to catch, carry, and throw a ball towards the opponent's goal.  It has its roots in Native American traditions, where it was often played with hundreds of participants and served as a form of conflict resolution and spiritual practice. What is this sport, often referred to as \"the fastest game on two feet\"?",
+        "answers": [
+            "Lacrosse"
+        ],
+        "incorrect1": "",
+        "incorrect2": "",
+        "incorrect3": "",
+        "used": "TRUE",
+        "source": "Marty Heavey"
+    },
+    {
+        "category": "Sports",
+        "question": "This swimmer's seven gold medals at the 2017 World Aquatics Championships set a record for the most golds won by a swimmer at a single World Championships.  He followed this with another record-breaking performance at the 2019 World Championships, where he became the first swimmer to win eight medals at a single World Championships.  His dominance in sprint freestyle and butterfly events is evident in his multiple world records, including the 100-meter butterfly and the 50-meter freestyle.  He has also achieved Olympic success, winning five gold medals at the 2020 Tokyo Olympics.  Who is this American swimmer?",
+        "answers": [
+            "Caeleb Dressel"
         ],
         "incorrect1": "",
         "incorrect2": "",
