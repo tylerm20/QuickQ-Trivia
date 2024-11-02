@@ -1,5 +1,7 @@
 import React, { useState, useEffect } from "react";
 import ReactGA from "react-ga4";
+import DatePicker from "react-datepicker";
+import "react-datepicker/dist/react-datepicker.css";
 
 import SettingsScreen from "../../Screens/SettingsScreen";
 import BasicButton from "../../Components/BasicButton";
@@ -22,6 +24,7 @@ const StartScreen = ({
     // TODO: this seems to be re-rendered constantly
     const [showSettingsModal, setShowSettingsModal] = useState(false);
     const [categoryScores, setCategoryScores] = useState({});
+    const [selectedDate, setSelectedDate] = useState(new Date());
 
     useEffect(
         () => setCategoryScores(calculateCategoryScores()),
@@ -79,7 +82,6 @@ const StartScreen = ({
             <DatePicker
                 selected={selectedDate}
                 onChange={(date) => setSelectedDate(date)}
-                excludeDates={[new Date(), new Date(2024, 10, 15)]} // Disable today and a specific date
             />
 
             {/* Condition checking there are no saved games */}
