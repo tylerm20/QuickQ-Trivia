@@ -781,7 +781,7 @@
         "answers": [
             "Neptune"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",
@@ -790,7 +790,7 @@
         "answers": [
             "nucleus"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",
@@ -799,7 +799,7 @@
         "answers": [
             "Silver [accept Ag before mentioned]"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",
@@ -808,7 +808,7 @@
         "answers": [
             "Linus Carl Pauling"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",
@@ -817,7 +817,7 @@
         "answers": [
             "river deltas (prompt on \"mouth\" or \"river mouth\" before it is read)"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",
@@ -826,7 +826,7 @@
         "answers": [
             "heart"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",
@@ -835,7 +835,7 @@
         "answers": [
             "iron"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",

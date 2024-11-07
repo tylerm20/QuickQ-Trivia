@@ -763,7 +763,7 @@
         "answers": [
             "Cascade Range (or the Cascades)"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Geography",
@@ -772,7 +772,7 @@
         "answers": [
             "Amazon River or Rio Amazonas"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Geography",
@@ -781,7 +781,7 @@
         "answers": [
             "Ohio River"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Geography",
@@ -790,7 +790,7 @@
         "answers": [
             "Rio de Janeiro [prompt on \"Rio\"]"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Geography",
@@ -799,7 +799,7 @@
         "answers": [
             "Republic of the Philippines [accept Republika ng Pilipinas; or Filipinas]"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Geography",
@@ -808,7 +808,7 @@
         "answers": [
             "Sahara Desert (Prompt on  Mauritania before \"eye.\")"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Geography",
@@ -817,7 +817,7 @@
         "answers": [
             "The Dead Sea"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Geography",

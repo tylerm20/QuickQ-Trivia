@@ -782,7 +782,7 @@
         "answers": [
             "Mississippi"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "US History",
@@ -791,7 +791,7 @@
         "answers": [
             "steamboat [prompt on boat until mentioned]"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "US History",
@@ -800,7 +800,7 @@
         "answers": [
             "American Civil War [accept War Between the States]"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "US History",
@@ -809,7 +809,7 @@
         "answers": [
             "Bill Clinton [or William Jefferson Clinton]"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "US History",
@@ -818,7 +818,7 @@
         "answers": [
             "State of Rhode Island"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "US History",
@@ -827,7 +827,7 @@
         "answers": [
             "Benjamin Franklin"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "US History",
@@ -836,7 +836,7 @@
         "answers": [
             "George Armstrong Custer"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "US History",

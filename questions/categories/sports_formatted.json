@@ -1,10 +1,9 @@
 [
     {
         "category": "Sports",
-        "question": "This team's mascot, Rocky the Mountain Lion, is known for his acrobatic dunks and energetic performances during games, adding to the lively atmosphere at their home arena.  Their iconic rainbow skyline jerseys, a tribute to the city's vibrant culture and mountainous backdrop, have become a symbol of the franchise.  They achieved their first NBA championship in 2023, led by Nikola Joki\u0107, a Serbian center who earned the Finals MVP award. What is the name of this team, whose high-altitude home court is often referred to as the \"Mile High City\"?",
+        "question": "This basketball legend's iconic rivalry with Magic Johnson, which began in college and extended throughout their NBA careers, fueled the popularity of the sport in the 1980s. He led the Boston Celtics to three NBA championships and won three consecutive MVP awards from 1984 to 1986. He was also a member of the \"Dream Team,\" the legendary 1992 US Olympic basketball team that dominated the Barcelona Olympics. Who is this Hall of Fame forward, known for his exceptional shooting and all-around skills?",
         "answers": [
-            "Denver Nuggets",
-            "nuggets"
+            "Larry Bird"
         ],
         "incorrect1": "",
         "incorrect2": "",
@@ -14,10 +13,9 @@
     },
     {
         "category": "Sports",
-        "question": "This team's name, inspired by a powerful weather phenomenon common in the region, reflects the energy and intensity they bring to the court. Their vibrant blue, orange, and yellow color scheme is a nod to the state's vibrant sunsets and Native American heritage.  They relocated from Seattle in 2008, bringing with them a passionate fanbase that has embraced the team's new identity. What is the name of this team, whose history includes a memorable NBA Finals appearance in 2012?",
+        "question": "This quarterback, known for his exceptional longevity and success in the NFL, holds the record for the most Super Bowl wins with seven championships to his name. He famously led his team to an improbable comeback victory in Super Bowl LI, overcoming a 28-3 deficit against the Atlanta Falcons. He played for the New England Patriots for 20 seasons, forming a legendary partnership with coach Bill Belichick. He briefly retired in 2022 but returned for one more season with the Tampa Bay Buccaneers. Who is this quarterback, often considered the greatest of all time?",
         "answers": [
-            "Oklahoma City Thunder",
-            "thunder"
+            "Tom Brady"
         ],
         "incorrect1": "",
         "incorrect2": "",
@@ -27,9 +25,9 @@
     },
     {
         "category": "Sports",
-        "question": "This sport, often described as the fastest field game in the world, features players using a wooden stick called a hurley to hit a small ball called a sliotar.  It is known for its fast-paced action, skillful stickwork, and passionate fans.  Its origins can be traced back to ancient Ireland, with legends claiming it was played as far back as 1200 BC.  The sport's governing body, the Gaelic Athletic Association, also oversees Gaelic football, another popular Irish sport.  What is this exciting sport, primarily played in Ireland?",
+        "question": "This football manager, known for his possession-based \"tiki-taka\" style of play, achieved a historic treble with Barcelona in 2009, winning La Liga, the Copa del Rey, and the UEFA Champions League in the same season.  He managed Bayern Munich from 2013 to 2016, winning the Bundesliga title in each of his three seasons with the club.  He currently manages Manchester City, where he has won five Premier League titles and led the team to their first-ever Champions League title in 2023.  Who is this highly successful manager, considered one of the greatest tactical minds in football history?",
         "answers": [
-            "Hurling"
+            "Pep Guardiola"
         ],
         "incorrect1": "",
         "incorrect2": "",
@@ -39,11 +37,9 @@
     },
     {
         "category": "Sports",
-        "question": "This team's name, a nod to the iconic \"Guardians of Traffic\" statues that adorn the Hope Memorial Bridge near their home stadium, was adopted in 2021 after years of controversy surrounding their previous moniker.  Their home ballpark, Progressive Field, boasts a distinctive left field bleacher section known as \"The Corner.\"  They have won two World Series titles, the most recent coming in 1948, ending a then-record 28-year championship drought.  Their mascot, Slider, is a furry, red-faced creature known for his energetic antics and fan interactions.  What is the name of this American League team, based in Cleveland, Ohio?",
+        "question": "This hockey player, drafted first overall by the Edmonton Oilers in the 2015 NHL Entry Draft, became the youngest captain in NHL history at the age of 19. He has won the Art Ross Trophy as the NHL's leading scorer five times, showcasing his exceptional offensive skills and playmaking ability. He is known for his incredible speed and agility on the ice, often leaving opponents in his wake. He also won the Hart Memorial Trophy as the NHL's most valuable player in 2017 and 2023. Who is this Canadian hockey superstar?",
         "answers": [
-            "Cleveland Guardians",
-            "guardians",
-            "indians"
+            "Connor McDavid"
         ],
         "incorrect1": "",
         "incorrect2": "",
@@ -53,9 +49,9 @@
     },
     {
         "category": "Sports",
-        "question": "This coach, known for his dry wit and often-curt responses in press conferences, holds the NBA record for the most regular season wins with 1,366 victories. He has led his team to five NBA championships, all with the same small-market franchise. His coaching tree includes successful NBA coaches like Steve Kerr and Mike Budenholzer.  He served as head coach of the US national team, leading them to a gold medal at the 2020 Tokyo Olympics. Who is this legendary coach, known for his long tenure with the San Antonio Spurs?",
+        "question": "This coach, the only one in NFL history to lead a team to a perfect season, achieved this feat with the 1972 Miami Dolphins, culminating in a Super Bowl VII victory. He holds the record for the most career wins by an NFL head coach, with 347 victories. He coached the Baltimore Colts and Miami Dolphins, leading both teams to Super Bowl appearances. He also coached in the famous \"Super Bowl III\" upset, where his Baltimore Colts lost to the New York Jets. Who is this legendary coach, known for his disciplined approach and winning mentality?",
         "answers": [
-            "Gregg Popovich"
+            "Don Shula"
         ],
         "incorrect1": "",
         "incorrect2": "",
@@ -65,9 +61,9 @@
     },
     {
         "category": "Sports",
-        "question": "This sport, known for its fast-paced action and blend of physicality and finesse, features players using a stick with a netted pocket to catch, carry, and throw a ball towards the opponent's goal.  It has its roots in Native American traditions, where it was often played with hundreds of participants and served as a form of conflict resolution and spiritual practice. What is this sport, often referred to as \"the fastest game on two feet\"?",
+        "question": "This sport, with its origins in ancient Shinto rituals, features massive wrestlers, known as rikishi, competing in a circular ring called a dohy\u014d. Before each bout, the rikishi perform a series of symbolic rituals, including throwing salt into the ring for purification.  The highest rank in this sport is yokozuna, a title held by only a select few throughout history. The objective is to force the opponent out of the ring or to make any part of their body other than the soles of their feet touch the ground.  What is this traditional Japanese sport, known for its combination of athleticism, ritual, and cultural significance?",
         "answers": [
-            "Lacrosse"
+            "Sumo Wrestling"
         ],
         "incorrect1": "",
         "incorrect2": "",
@@ -77,9 +73,9 @@
     },
     {
         "category": "Sports",
-        "question": "This swimmer's seven gold medals at the 2017 World Aquatics Championships set a record for the most golds won by a swimmer at a single World Championships.  He followed this with another record-breaking performance at the 2019 World Championships, where he became the first swimmer to win eight medals at a single World Championships.  His dominance in sprint freestyle and butterfly events is evident in his multiple world records, including the 100-meter butterfly and the 50-meter freestyle.  He has also achieved Olympic success, winning five gold medals at the 2020 Tokyo Olympics.  Who is this American swimmer?",
+        "question": "This swimmer's iconic \"death stare\" before races became a symbol of his intense focus and determination. He holds the record for the most Olympic gold medals won by an individual, with a staggering 23 golds across five Olympic Games. His signature event, the 200-meter butterfly, showcased his versatility and dominance in the pool. He famously won eight gold medals at the 2008 Beijing Olympics, breaking Mark Spitz's record of seven golds in a single Olympic Games. Who is this legendary swimmer, often referred to as the \"Baltimore Bullet\"? ",
         "answers": [
-            "Caeleb Dressel"
+            "Michael Phelps"
         ],
         "incorrect1": "",
         "incorrect2": "",
