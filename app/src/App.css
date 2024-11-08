@@ -39,11 +39,13 @@
     font-family: futura;
     flex-grow: 1;
     padding-left: 25px; /* offset size of info icon */
+    cursor: pointer;
 }
 
 .InfoIcon {
     height: 25px;
     justify-self: flex-end;
+    cursor: pointer;
 }
 
 .QuickStyle {

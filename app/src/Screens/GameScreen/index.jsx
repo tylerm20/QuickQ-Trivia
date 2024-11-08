@@ -11,11 +11,9 @@ import {
     GAME_SECONDS,
     screens,
     GameModes,
-    FIRST_GAME_DATE,
 } from "../../constants";
-import { shuffleArray } from "../../utils";
+import { isMultipleChoiceMode, shuffleArray } from "../../utils";
 import "./style.css";
-import SettingsScreen from "../SettingsScreen";
 import CountdownBar from "../../Components/CountdownBar";
 
 // TODO: start saving game mode in results
@@ -325,7 +323,12 @@ const GameScreen = ({
 
     useEffect(() => {
         const buzzOnSpace = (event) => {
-            if (event.key === " " && !isBuzzing && !isBetweenQuestions) {
+            if (
+                event.key === " " &&
+                !isBuzzing &&
+                !isBetweenQuestions &&
+                !isMultipleChoiceMode(gameMode)
+            ) {
                 setIsBuzzing(true);
                 event.preventDefault();
             }

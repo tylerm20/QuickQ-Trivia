@@ -49,6 +49,7 @@
     width: 45%;
     font-size: 16px;
     text-align: center;
+    cursor: pointer;
 }
 
 .MultipleChoiceOption:active {
@@ -83,6 +84,7 @@
     background-color: red;
     font-size: large;
     color: black;
+    cursor: pointer;
 }
 
 .BuzzButton:active {
@@ -95,6 +97,7 @@
     border-radius: 25px;
     background-color: lightgray;
     color: black;
+    cursor: pointer;
 }
 
 .CenterContent {
@@ -115,6 +118,7 @@
 .NextButton {
     align-self: flex-end;
     margin-left: 20px;
+    cursor: pointer;
 }
 
 .BottomRow {
