@@ -8,7 +8,12 @@ import BasicButton from "../../Components/BasicButton";
 import CategoriesChart from "../../Components/CategoriesChart";
 import Switch from "../../Components/Switch";
 import { calculateCategoryScores, isMultipleChoiceMode } from "../../utils";
-import { screens, GameModes, GAME_MODE_STORAGE_KEY } from "../../constants";
+import {
+    screens,
+    GameModes,
+    GAME_MODE_STORAGE_KEY,
+    FIRST_GAME_DATE,
+} from "../../constants";
 import "./style.css";
 
 const StartScreen = ({
@@ -20,11 +25,12 @@ const StartScreen = ({
     gameMode,
     setGameMode,
     isFetchingQuestions,
+    selectedDate,
+    setSelectedDate,
 }) => {
     // TODO: this seems to be re-rendered constantly
     const [showSettingsModal, setShowSettingsModal] = useState(false);
     const [categoryScores, setCategoryScores] = useState({});
-    const [selectedDate, setSelectedDate] = useState(new Date());
 
     useEffect(
         () => setCategoryScores(calculateCategoryScores()),
@@ -76,13 +82,17 @@ const StartScreen = ({
             )}
             <div className="Header">
                 <div>Rapid Daily Trivia Quiz</div>{" "}
-                <span className="Date">{today.toLocaleDateString()}</span>
+                <DatePicker
+                    selected={selectedDate}
+                    onChange={(date) => {
+                        if (date) {
+                            setSelectedDate(date);
+                        }
+                    }}
+                    maxDate={today}
+                    minDate={FIRST_GAME_DATE}
+                />
             </div>
-
-            <DatePicker
-                selected={selectedDate}
-                onChange={(date) => setSelectedDate(date)}
-            />
 
             {/* Condition checking there are no saved games */}
             {doesNotHaveGameResultsStored() ? (
@@ -98,6 +108,12 @@ const StartScreen = ({
                         {formatTimeComponent(timeUntilNextGame.hours)}:
                         {formatTimeComponent(timeUntilNextGame.minutes)}:
                         {formatTimeComponent(timeUntilNextGame.seconds)}
+                    </div>
+                    <div className="ComeBack">
+                        <b>
+                            or play quizzes from the archive by changing the
+                            date above!
+                        </b>
                     </div>
                     <div className="Buttons">
                         <BasicButton

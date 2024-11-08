@@ -11,6 +11,7 @@ import {
     GAME_SECONDS,
     screens,
     GameModes,
+    FIRST_GAME_DATE,
 } from "../../constants";
 import { shuffleArray } from "../../utils";
 import "./style.css";
@@ -31,6 +32,7 @@ const GameScreen = ({
     hasStartedTodaysGame,
     gameMode,
     showingSettingsModal,
+    selectedDate,
 }) => {
     const [currentQuestionIndex, setCurrentQuestionIndex] = useState(0);
     const [isBuzzing, setIsBuzzing] = useState(false);
@@ -230,7 +232,7 @@ const GameScreen = ({
         setPlayerResults({ ...playerResults });
         setTotalTime(totalTime);
         localStorage.setItem(
-            new Date().toDateString(),
+            selectedDate.toDateString(),
             JSON.stringify(playerResults)
         );
     };
@@ -307,7 +309,7 @@ const GameScreen = ({
     useEffect(() => {
         // if we are resuming a game
         if (hasStartedTodaysGame && !isBetweenQuestions) {
-            const results = localStorage.getItem(new Date().toDateString());
+            const results = localStorage.getItem(selectedDate.toDateString());
             if (results) {
                 const jsonResults = JSON.parse(results);
                 questionResults = [...jsonResults["questionResults"]];

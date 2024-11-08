@@ -68,4 +68,6 @@ export const GameModes = {
     MULTIPLE_CHOICE: "multiple_choice",
 };
 
+export const FIRST_GAME_DATE = new Date("2024-04-14"); // April 14, 2024
+
 export default screens;

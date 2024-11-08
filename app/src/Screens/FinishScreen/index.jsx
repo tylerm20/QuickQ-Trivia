@@ -24,6 +24,7 @@ const FinishScreen = ({
     questions,
     streak,
     gameMode,
+    selectedDate,
 }) => {
     const finalScore = score || playerResults.score;
     const finalTime = totalTime || playerResults.totalTime;
@@ -106,7 +107,7 @@ const FinishScreen = ({
     const getResultsStr = () => {
         const sharableResultsArr = [
             "QuickQ",
-            `${new Date().toLocaleDateString()}`,
+            `${selectedDate.toLocaleDateString()}`,
             `Score: ${finalScore}${isMultipleChoiceMode(gameMode) ? "*" : ""}`,
             `Time: ${finalTime}s`,
             "Play at QuickQTrivia.com",

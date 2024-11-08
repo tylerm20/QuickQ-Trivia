@@ -27,6 +27,7 @@ function App() {
     const [gameMode, setGameMode] = useState(GameModes.FREE_RESPONSE);
     const [isFetchingQuestions, setIsFetchingQuestions] = useState(false);
     const [showSettingsModal, setShowSettingsModal] = useState(false);
+    const [selectedDate, setSelectedDate] = useState(new Date());
 
     ReactGA.initialize("G-VFCGD245RZ");
 
@@ -69,14 +70,14 @@ function App() {
 
     useEffect(() => {
         setHasStartedTodaysGame(
-            !!localStorage.getItem(new Date().toDateString())
+            !!localStorage.getItem(selectedDate.toDateString())
         );
-    }, [screenShowing]);
+    }, [screenShowing, selectedDate]);
 
     useEffect(() => {
-        const results = localStorage.getItem(new Date().toDateString());
+        const results = localStorage.getItem(selectedDate.toDateString());
         setHasFinishedTodaysGame(results && JSON.parse(results)["isFinished"]);
-    }, [screenShowing]);
+    }, [screenShowing, selectedDate]);
 
     useEffect(() => {
         const gameMode = localStorage.getItem(GAME_MODE_STORAGE_KEY);
@@ -119,6 +120,8 @@ function App() {
                         gameMode={gameMode}
                         setGameMode={setGameMode}
                         isFetchingQuestions={isFetchingQuestions}
+                        selectedDate={selectedDate}
+                        setSelectedDate={setSelectedDate}
                     />
                 );
             case screens.game:
@@ -134,6 +137,7 @@ function App() {
                             hasStartedTodaysGame={hasStartedTodaysGame}
                             gameMode={gameMode}
                             showingSettingsModal={showSettingsModal}
+                            selectedDate={selectedDate}
                         />
                     )
                 );
@@ -147,6 +151,7 @@ function App() {
                         questions={questions}
                         streak={streak}
                         gameMode={gameMode}
+                        selectedDate={selectedDate}
                     />
                 );
             case screens.loading:
@@ -166,14 +171,10 @@ function App() {
     useEffect(() => {
         const fetchQuestionsFromServer = () => {
             setIsFetchingQuestions(true);
-            const today = new Date();
-            const year = today.getFullYear();
-            const month = String(today.getMonth() + 1).padStart(2, "0"); // Months are 0-indexed
-            const day = String(today.getDate()).padStart(2, "0");
+            const year = selectedDate.getFullYear();
+            const month = String(selectedDate.getMonth() + 1).padStart(2, "0"); // Months are 0-indexed
+            const day = String(selectedDate.getDate()).padStart(2, "0");
             const isoDateString = `${year}-${month}-${day}`;
-            console.log(today);
-            console.log(isoDateString);
-            console.log(process.env.REACT_APP_API_URL);
             fetch(
                 `${process.env.REACT_APP_API_URL}/questions/${isoDateString}`,
                 {
@@ -196,7 +197,7 @@ function App() {
         if (!isFetchingQuestions) {
             fetchQuestionsFromServer();
         }
-    }, [hasFinishedTodaysGame]);
+    }, [hasFinishedTodaysGame, selectedDate]);
 
     useEffect(() => {
         if (hasFinishedTodaysGame) {
