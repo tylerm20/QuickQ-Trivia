@@ -202,11 +202,11 @@ function App() {
     useEffect(() => {
         if (hasFinishedTodaysGame) {
             const results = JSON.parse(
-                localStorage.getItem(new Date().toDateString())
+                localStorage.getItem(selectedDate.toDateString())
             );
             setPlayerResults(results);
         }
-    }, [hasFinishedTodaysGame]);
+    }, [hasFinishedTodaysGame, selectedDate]);
 
     useEffect(() => {
         if (screenShowing === screens.finish) {
