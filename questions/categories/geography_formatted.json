@@ -826,7 +826,7 @@
         "answers": [
             "Texas"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Geography",
@@ -835,7 +835,7 @@
         "answers": [
             "Appalachian Mountains [accept Appalachians]"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Geography",
@@ -844,7 +844,7 @@
         "answers": [
             "Nile River [or an-Nil, or Piaro, or Hapi, or Iteru, or Aman Dawu]"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Geography",
@@ -853,7 +853,7 @@
         "answers": [
             "Amazon River"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Geography",
@@ -862,7 +862,7 @@
         "answers": [
             "Colorado"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Geography",
@@ -871,7 +871,7 @@
         "answers": [
             "San Francisco"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Geography",
@@ -880,7 +880,7 @@
         "answers": [
             "equator"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Geography",

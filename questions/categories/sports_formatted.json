@@ -1,9 +1,9 @@
 [
     {
         "category": "Sports",
-        "question": "This basketball legend's iconic rivalry with Magic Johnson, which began in college and extended throughout their NBA careers, fueled the popularity of the sport in the 1980s. He led the Boston Celtics to three NBA championships and won three consecutive MVP awards from 1984 to 1986. He was also a member of the \"Dream Team,\" the legendary 1992 US Olympic basketball team that dominated the Barcelona Olympics. Who is this Hall of Fame forward, known for his exceptional shooting and all-around skills?",
+        "question": "This team's home arena, the Footprint Center, features a distinctive \"sandstone\" fa\u00e7ade that blends with the desert landscape of its home city. Their logo, a stylized basketball with fiery streaks, embodies the energy and intensity they bring to the court. They have reached the NBA Finals three times, most recently in 2021, where they fell to the Milwaukee Bucks. Their iconic \"Ring of Honor\" celebrates legendary players like Charles Barkley and Steve Nash. What is the name of this team, whose history includes a memorable rivalry with the San Antonio Spurs?",
         "answers": [
-            "Larry Bird"
+            "Phoenix Suns"
         ],
         "incorrect1": "",
         "incorrect2": "",
@@ -13,9 +13,9 @@
     },
     {
         "category": "Sports",
-        "question": "This quarterback, known for his exceptional longevity and success in the NFL, holds the record for the most Super Bowl wins with seven championships to his name. He famously led his team to an improbable comeback victory in Super Bowl LI, overcoming a 28-3 deficit against the Atlanta Falcons. He played for the New England Patriots for 20 seasons, forming a legendary partnership with coach Bill Belichick. He briefly retired in 2022 but returned for one more season with the Tampa Bay Buccaneers. Who is this quarterback, often considered the greatest of all time?",
+        "question": "This team's iconic \"rainbow\" uniforms, worn during their Astrodome era in the 1970s and 80s, have become a nostalgic symbol of the franchise's past.  They were originally known as the Houston Colt .45s before adopting their current name in 1965, coinciding with their move to the Astrodome, the world's first domed multi-purpose stadium.  They have won two World Series titles, the first in 2017 and the second in 2022, both amidst controversial circumstances. What is the name of this Major League Baseball team, based in Houston, Texas?",
         "answers": [
-            "Tom Brady"
+            "Houston Astros"
         ],
         "incorrect1": "",
         "incorrect2": "",
@@ -25,9 +25,9 @@
     },
     {
         "category": "Sports",
-        "question": "This football manager, known for his possession-based \"tiki-taka\" style of play, achieved a historic treble with Barcelona in 2009, winning La Liga, the Copa del Rey, and the UEFA Champions League in the same season.  He managed Bayern Munich from 2013 to 2016, winning the Bundesliga title in each of his three seasons with the club.  He currently manages Manchester City, where he has won five Premier League titles and led the team to their first-ever Champions League title in 2023.  Who is this highly successful manager, considered one of the greatest tactical minds in football history?",
+        "question": "This team's teal, black, and silver color scheme, adopted in 1993, was a bold departure from traditional baseball uniforms and reflected the vibrant culture of their home city.  They made history in 1997 by becoming the first wild card team to win the World Series, defeating the Cleveland Indians in a thrilling seven-game series. They have won two World Series titles, both as a wild card team, defying expectations and showcasing their resilience.  What is the name of this team, based in Miami, Florida?",
         "answers": [
-            "Pep Guardiola"
+            "Miami Marlins"
         ],
         "incorrect1": "",
         "incorrect2": "",
@@ -37,9 +37,9 @@
     },
     {
         "category": "Sports",
-        "question": "This hockey player, drafted first overall by the Edmonton Oilers in the 2015 NHL Entry Draft, became the youngest captain in NHL history at the age of 19. He has won the Art Ross Trophy as the NHL's leading scorer five times, showcasing his exceptional offensive skills and playmaking ability. He is known for his incredible speed and agility on the ice, often leaving opponents in his wake. He also won the Hart Memorial Trophy as the NHL's most valuable player in 2017 and 2023. Who is this Canadian hockey superstar?",
+        "question": "This footballer's iconic \"Siuuu!\" celebration, accompanied by a mid-air pirouette and a powerful shout, has become a global phenomenon, imitated by fans and fellow athletes alike. He holds the record for the most goals scored in UEFA Champions League history, a testament to his prolific scoring ability and dominance in European club football. He has won the Ballon d'Or award, given to the world's best player, five times, tied with his rival Lionel Messi. Who is this Portuguese forward, known for his exceptional athleticism and goal-scoring prowess?",
         "answers": [
-            "Connor McDavid"
+            "Cristiano Ronaldo"
         ],
         "incorrect1": "",
         "incorrect2": "",
@@ -49,9 +49,9 @@
     },
     {
         "category": "Sports",
-        "question": "This coach, the only one in NFL history to lead a team to a perfect season, achieved this feat with the 1972 Miami Dolphins, culminating in a Super Bowl VII victory. He holds the record for the most career wins by an NFL head coach, with 347 victories. He coached the Baltimore Colts and Miami Dolphins, leading both teams to Super Bowl appearances. He also coached in the famous \"Super Bowl III\" upset, where his Baltimore Colts lost to the New York Jets. Who is this legendary coach, known for his disciplined approach and winning mentality?",
+        "question": "This paddle sport, invented in 1965 on Bainbridge Island, Washington, combines elements of tennis, badminton, and ping-pong. It is played on a badminton-sized court with a lowered net, using solid paddles and a perforated plastic ball.  Its unique scoring system, where only the serving team can score points, adds a strategic layer to the game.  It has experienced a surge in popularity in recent years, attracting players of all ages and skill levels.  What is this sport, known for its social and recreational appeal?",
         "answers": [
-            "Don Shula"
+            "Pickleball"
         ],
         "incorrect1": "",
         "incorrect2": "",
@@ -61,9 +61,9 @@
     },
     {
         "category": "Sports",
-        "question": "This sport, with its origins in ancient Shinto rituals, features massive wrestlers, known as rikishi, competing in a circular ring called a dohy\u014d. Before each bout, the rikishi perform a series of symbolic rituals, including throwing salt into the ring for purification.  The highest rank in this sport is yokozuna, a title held by only a select few throughout history. The objective is to force the opponent out of the ring or to make any part of their body other than the soles of their feet touch the ground.  What is this traditional Japanese sport, known for its combination of athleticism, ritual, and cultural significance?",
+        "question": "This team's defense, often referred to as one of the most dominant in NFL history, led them to a Super Bowl XXXV victory in 2001.  Their home stadium, M&T Bank Stadium, is known for its passionate and boisterous crowds, creating a challenging environment for opposing teams.  They have a historic rivalry with the Pittsburgh Steelers, a matchup that often features hard-hitting action and intense competition.  What is the name of this team, whose history includes legendary players like Ray Lewis and Ed Reed?",
         "answers": [
-            "Sumo Wrestling"
+            "Baltimore Ravens"
         ],
         "incorrect1": "",
         "incorrect2": "",
@@ -73,9 +73,9 @@
     },
     {
         "category": "Sports",
-        "question": "This swimmer's iconic \"death stare\" before races became a symbol of his intense focus and determination. He holds the record for the most Olympic gold medals won by an individual, with a staggering 23 golds across five Olympic Games. His signature event, the 200-meter butterfly, showcased his versatility and dominance in the pool. He famously won eight gold medals at the 2008 Beijing Olympics, breaking Mark Spitz's record of seven golds in a single Olympic Games. Who is this legendary swimmer, often referred to as the \"Baltimore Bullet\"? ",
+        "question": "This manage guided the New York Yankees to four World Series titles in five years, solidifying his place in baseball history. Before his success in the Bronx, he managed the Mets, Braves, and Cardinals, experiencing varying levels of success. He famously clashed with George Steinbrenner, the Yankees' fiery owner, but their partnership ultimately yielded remarkable results. He also managed the Los Angeles Dodgers, leading them to two National League Championship Series appearances. Who is this Hall of Fame manager, known for his ability to handle high-pressure situations and manage talented teams?",
         "answers": [
-            "Michael Phelps"
+            "Joe Torre"
         ],
         "incorrect1": "",
         "incorrect2": "",

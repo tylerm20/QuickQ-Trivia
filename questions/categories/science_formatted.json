@@ -844,7 +844,7 @@
         "answers": [
             "zodiacal constellations (prompt on \"constellations\" before it is read; prompt on \"zodiac signs\")"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",
@@ -853,7 +853,7 @@
         "answers": [
             "warm-bloodedness (accept homeothermy or homeothermic; accept endothermy or endothermic; accept answers like keeping a constant body temperature before \"constant\" is read)"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",
@@ -862,7 +862,7 @@
         "answers": [
             "mitochondria [or mitochondrion]"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",
@@ -871,7 +871,7 @@
         "answers": [
             "liver"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",
@@ -880,7 +880,7 @@
         "answers": [
             "sorting algorithms"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",
@@ -889,7 +889,7 @@
         "answers": [
             "viruses (accept bacteriophage and phage before \"tobacco\" is mentioned)"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",
@@ -898,7 +898,7 @@
         "answers": [
             "cerebrum [accept cerebral cortex; accept neocortex; accept forebrain; prompt on brain]"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",

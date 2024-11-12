@@ -836,7 +836,7 @@
         "answers": [
             "Genghis Khan [accept Temujin before mentioned]"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "World History",
@@ -845,7 +845,7 @@
         "answers": [
             "Sahara Desert"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "World History",
@@ -854,7 +854,7 @@
         "answers": [
             "Irish Potato Famine (accept the Great Famine or the Great Hunger; accept an Gorta Mor; prompt on \"famine\" alone)"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "World History",
@@ -863,7 +863,7 @@
         "answers": [
             "Charles Robert Darwin"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "World History",
@@ -872,7 +872,7 @@
         "answers": [
             "Nelson Mandela"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "World History",
@@ -881,7 +881,7 @@
         "answers": [
             "Mao Zedong [accept Mao Tse-Tung or Chairman Mao; prompt on Zedong or Tse-Tung]"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "World History",
@@ -890,7 +890,7 @@
         "answers": [
             "Republic of Cuba"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "World History",

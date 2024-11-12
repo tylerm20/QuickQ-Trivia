@@ -1,11 +1,9 @@
 [
     {
         "category": "Current Events",
-        "question": "A tiny species of this type of animal was recently discovered in Brazil. It is the second-smallest known vertebrate species in the world. These amphibians secrete a toxic substance from glands behind their eyes as a defense mechanism against predators. Often confused with frogs, they have drier, bumpier skin and shorter legs adapted for walking rather than hopping. Unlike frogs, they lay their eggs in long chains rather than clusters.  Their young undergo metamorphosis from aquatic tadpoles to terrestrial adults. What are these wart-covered creatures, often found in gardens and woodlands?",
+        "question": "Bernard Marcus the co-founder of this retail company died on November 4, 2024 at the age of 95. This home improvement retail giant, co-founded with Arthur Blank in 1978, boasts the largest market capitalization in its industry, surpassing its main competitor, Lowe's. Its first two stores, opened in Atlanta, Georgia, were massive warehouses, pioneering the concept of a home improvement superstore. It is known for its distinctive orange logo and its knowledgeable staff, many of whom have professional experience in various trades. What is the name of this company, a Fortune 500 company and a major player in the DIY and home renovation market?",
         "answers": [
-            "Toadlet",
-            "toad",
-            "frog"
+            "Home depot"
         ],
         "incorrect1": "",
         "incorrect2": "",
@@ -15,9 +13,9 @@
     },
     {
         "category": "Current Events",
-        "question": "A seed storage facility in this nation, built to safeguard crop diversity, recently received more than 30,000 new samples for around the world. This country, known for its breathtaking fjords and the Northern Lights, houses a global seed vault on the island of Spitsbergen, safeguarding over a million seed samples from around the world. The vault, built deep inside a mountain, serves as a backup for global food security in the event of natural disasters or global crises. It is also home to the Nobel Peace Prize ceremony, held annually in Oslo. What is this Scandinavian country, known for its rich Viking history and stunning natural beauty?",
+        "question": "A PhD student recently discovered a huge lost city, now being called Valeriana, that was part of this civilization using aerial lidar under forest canopy in Mexico. This civilization developed a sophisticated calendar system that accurately predicted astronomical events like eclipses. Their hieroglyphic writing system, one of the most complex in the ancient world, recorded their history, mythology, and astronomical observations. They constructed impressive cities, such as Tikal and Chich\u00e9n Itz\u00e1, featuring towering pyramids, temples, and palaces. Their civilization flourished in Mesoamerica from around 2000 BCE to the 17th century. Who were these people, known for their advancements in art, architecture, and science?",
         "answers": [
-            "Norway "
+            "Mayan"
         ],
         "incorrect1": "",
         "incorrect2": "",
@@ -27,9 +25,9 @@
     },
     {
         "category": "Current Events",
-        "question": "This nation experienced deadly flooding around the city of Valencia that led the over 200 deaths. The country, home to the Sagrada Familia, a masterpiece by Antoni Gaud\u00ed that has been under construction for over a century, boasts a vibrant tradition of flamenco dancing and music. Its annual Running of the Bulls in Pamplona attracts thrill-seekers and spectators from around the world. It is also the birthplace of paella, a flavorful rice dish that has become a culinary symbol of the nation. What is this European country, known for its rich history, diverse culture, and passion for football?",
+        "question": "Olaf Shultz, the prime minister of this nation, recently fired his finance minister effectively dissolving his governing coalition. This country, once divided, underwent a reunification process in 1990, marking a pivotal moment in its history. It is the birthplace of influential figures like Johann Sebastian Bach, Albert Einstein, and Karl Marx. Its capital, Berlin, houses the Brandenburg Gate, a historic landmark that has witnessed significant events, from Napoleon's triumphal entry to celebrations of reunification. It also holds the distinction of being the fourth-largest economy in the world and a leading exporter of automobiles and machinery. What is this European nation, known for its rich cultural heritage and contributions to science, philosophy, and the arts?",
         "answers": [
-            "Spain"
+            "Germany"
         ],
         "incorrect1": "",
         "incorrect2": "",
@@ -39,9 +37,9 @@
     },
     {
         "category": "Current Events",
-        "question": "This musician passed away on November 3, 2024 at the age of 91. The multi-talented artist, who arranged and conducted Michael Jackson's iconic album \"Thriller,\" holds the record for the most Grammy Award nominations, with a staggering 80 nods throughout his illustrious career. He began his career as a trumpeter, playing with jazz legends like Lionel Hampton and Dizzy Gillespie.  He has composed scores for over 30 films, including \"In the Heat of the Night\" and \"The Color Purple.\" He also produced the charity single \"We Are the World,\" which became a global anthem for famine relief efforts. Name this legendary father of Rashida Jones.",
+        "question": "On October 31, 2024, this rapper was released from jail after he accepted a plea deal for gang-related charges in Georgia. His real name is Jeffery Lamar Williams Jr., but his is known by his stage name. He gained mainstream recognition with his 2014 mixtape \"1017 Thug 3.\"  He popularized the use of high-pitched ad-libs and unconventional vocal inflections, influencing a generation of rappers.  He collaborated with Camila Cabello on the hit song \"Havana,\" showcasing his versatility and crossover appeal.  He is a co-founder of the YSL record label, which has launched the careers of artists like Gunna and Lil Keed.  Who is this Atlanta-based rapper, known for his unique sound and artistic vision?",
         "answers": [
-            "Quincy Jones"
+            "Young Thug"
         ],
         "incorrect1": "",
         "incorrect2": "",
@@ -51,11 +49,9 @@
     },
     {
         "category": "Current Events",
-        "question": "This practice, often attributed to Benjamin Franklin's satirical essay suggesting Parisians could save money on candles by waking up earlier, was first legally mandated in Germany during World War I as a way to conserve energy.  It was later adopted by many countries, including the United States, where it was standardized in 1966 with the Uniform Time Act.  The rationale behind it is to make better use of daylight hours by shifting the clock forward during the summer months.  However, its effectiveness and impact on health and productivity remain a subject of debate.  What is this practice of adjusting the clock forward and backward throughout the year?",
+        "question": "A suicide bombing by the Balochistan Liberation Army at the at a railway station in this country killed 27 people. This country, home to the Khyber Pass, a strategic mountain pass that has witnessed the passage of armies and traders for centuries, is the world's fifth-most populous nation. Its bustling port city of Karachi serves as a major economic hub and gateway to the Arabian Sea. It is also home to the ancient Indus Valley Civilization, one of the world's earliest urban civilizations. What is this South Asian nation, known for its rich cultural heritage, diverse landscapes, and passion for cricket?",
         "answers": [
-            "Daylight Saving Time",
-            "daylight savings",
-            "dst"
+            "Pakistan"
         ],
         "incorrect1": "",
         "incorrect2": "",
@@ -65,9 +61,9 @@
     },
     {
         "category": "Current Events",
-        "question": "This technology company recently annouced they are working on a search engine powered by their artificial intelligence model Llama. The company faced scrutiny in 2023 for its controversial rebranding and investment in the metaverse, a virtual reality platform still under development. Its CEO, Mark Zuckerberg, co-founded the company in his Harvard dorm room in 2004. It owns popular social media platforms like Instagram and WhatsApp, boasting billions of users worldwide. What is the name of this tech giant, formerly known as Facebook, Inc.?",
+        "question": "Sherrod Brown, a senator from this US state was defeated in the 2024 general election by Bernie Moreno. Mike Dewine currently serves as the governor of this state which is the birthplace of seven U.S. presidents, including Ulysses S. Grant and William McKinley. Its city of Dayton was the home of the Wright brothers, pioneers of aviation who made their first successful flight in 1903. It is also home to the Rock and Roll Hall of Fame in Cleveland, celebrating the history and impact of rock music. What is this Midwestern state, once a key part of the Western Reserve and a major player in the Underground Railroad?",
         "answers": [
-            "Meta"
+            "Ohio"
         ],
         "incorrect1": "",
         "incorrect2": "",
@@ -77,9 +73,9 @@
     },
     {
         "category": "Current Events",
-        "question": "This man achieved what Donald Trump is attempting: serving 2 non-consecutive presidential terms. This president faced a major economic crisis during his second term known as the Panic of 1893. He vetoed more bills than any other president up to that point, earning him the nickname \"Grover the Good.\" He signed the Interstate Commerce Act, which regulated railroad rates, and oversaw the dedication of the Statue of Liberty. Who was this 22nd and 24th president of the United States?",
+        "question": "Dave McCormick defeated incumbent senator, Bob Casey from this state in the 2024 election. The state, nicknamed the \"Keystone State\" for its central role in the founding of the United States, is home to the Liberty Bell, a symbol of American independence. Its city of Philadelphia was the nation's first capital and the site of the signing of the Declaration of Independence. It is also where Hershey's chocolate was founded, making it a sweet spot for confectionery enthusiasts. What is this state, known for its Amish communities, rolling farmland, and the historic Gettysburg battlefield?",
         "answers": [
-            "Grover Cleveland"
+            "Pennsylvania"
         ],
         "incorrect1": "",
         "incorrect2": "",
