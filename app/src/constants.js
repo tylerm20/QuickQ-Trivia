@@ -70,4 +70,12 @@ export const GameModes = {
 
 export const FIRST_GAME_DATE = new Date(2024, 3, 14); // April 14, 2024
 
+export const ANNOUNCEMENTS = [
+    `Hello! Two QuickQ announcements:
+    \n1. The QuickQ Archive is now live! You can change the date (in orange at the top of the home page) to any date in the past with a QuickQ quiz. Changing the date let's you play the QuickQ from that past date!
+    \n2. In order to focus on other projects, I am planning to stop adding new QuickQ quizzes towards of the beginning of 2025. If you're interested in contributing to QuickQ please email me at QuickQTrivia@gmail.com.
+    \nThanks for playing QuickQ!
+    \nCheers, Marty`,
+];
+
 export default screens;
