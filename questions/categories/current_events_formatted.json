@@ -1,9 +1,9 @@
 [
     {
         "category": "Current Events",
-        "question": "Bernard Marcus the co-founder of this retail company died on November 4, 2024 at the age of 95. This home improvement retail giant, co-founded with Arthur Blank in 1978, boasts the largest market capitalization in its industry, surpassing its main competitor, Lowe's. Its first two stores, opened in Atlanta, Georgia, were massive warehouses, pioneering the concept of a home improvement superstore. It is known for its distinctive orange logo and its knowledgeable staff, many of whom have professional experience in various trades. What is the name of this company, a Fortune 500 company and a major player in the DIY and home renovation market?",
+        "question": "This holiday, originally known as Armistice Day, was first celebrated in 1919 to commemorate the end of World War I.  It was later expanded to honor all veterans of the U.S. armed forces.  It is observed on November 11th, the anniversary of the signing of the armistice that ended hostilities in World War I.  In 1938, it became a national holiday, a day dedicated to thanking those who have served in the military.  What is the name of this holiday, a day of remembrance and recognition for veterans' sacrifices?",
         "answers": [
-            "Home depot"
+            "Veterans Day"
         ],
         "incorrect1": "",
         "incorrect2": "",
@@ -13,9 +13,13 @@
     },
     {
         "category": "Current Events",
-        "question": "A PhD student recently discovered a huge lost city, now being called Valeriana, that was part of this civilization using aerial lidar under forest canopy in Mexico. This civilization developed a sophisticated calendar system that accurately predicted astronomical events like eclipses. Their hieroglyphic writing system, one of the most complex in the ancient world, recorded their history, mythology, and astronomical observations. They constructed impressive cities, such as Tikal and Chich\u00e9n Itz\u00e1, featuring towering pyramids, temples, and palaces. Their civilization flourished in Mesoamerica from around 2000 BCE to the 17th century. Who were these people, known for their advancements in art, architecture, and science?",
+        "question": "The 29th annual edition of this conference recently ocurred in Baku, Azerbaijan. This annual gathering, the largest of its kind, brings together world leaders, scientists, and activists from nearly 200 countries to discuss and negotiate solutions to the global climate crisis. The first such gathering was held in Berlin in 1995, and subsequent meetings have led to significant agreements like the Kyoto Protocol and the Paris Agreement. What is the name of this conference, which plays a crucial role in shaping international climate action?",
         "answers": [
-            "Mayan"
+            "United Nations Climate Change Conference",
+            "COP",
+            "UNCC",
+            "COP 29",
+            "Conference of the Parties"
         ],
         "incorrect1": "",
         "incorrect2": "",
@@ -25,9 +29,11 @@
     },
     {
         "category": "Current Events",
-        "question": "Olaf Shultz, the prime minister of this nation, recently fired his finance minister effectively dissolving his governing coalition. This country, once divided, underwent a reunification process in 1990, marking a pivotal moment in its history. It is the birthplace of influential figures like Johann Sebastian Bach, Albert Einstein, and Karl Marx. Its capital, Berlin, houses the Brandenburg Gate, a historic landmark that has witnessed significant events, from Napoleon's triumphal entry to celebrations of reunification. It also holds the distinction of being the fourth-largest economy in the world and a leading exporter of automobiles and machinery. What is this European nation, known for its rich cultural heritage and contributions to science, philosophy, and the arts?",
+        "question": "This celebrity doctor was recently selected by Donald Trump to be his nominee to lead the Centers of Medicare and Medicaid. This television personality gained fame as a frequent guest on \"The Oprah Winfrey Show,\" where he offered health advice and promoted his books. He hosted his own syndicated talk show for 13 seasons, dispensing medical advice and showcasing personal stories. He made a surprising career shift in 2022, running for a U.S. Senate seat in Pennsylvania, ultimately losing to Democrat John Fetterman. Who is this celebrity doctor turned politician?",
         "answers": [
-            "Germany"
+            "Mehmet Oz",
+            "Dr. Oz",
+            "Doctor Oz"
         ],
         "incorrect1": "",
         "incorrect2": "",
@@ -37,9 +43,10 @@
     },
     {
         "category": "Current Events",
-        "question": "On October 31, 2024, this rapper was released from jail after he accepted a plea deal for gang-related charges in Georgia. His real name is Jeffery Lamar Williams Jr., but his is known by his stage name. He gained mainstream recognition with his 2014 mixtape \"1017 Thug 3.\"  He popularized the use of high-pitched ad-libs and unconventional vocal inflections, influencing a generation of rappers.  He collaborated with Camila Cabello on the hit song \"Havana,\" showcasing his versatility and crossover appeal.  He is a co-founder of the YSL record label, which has launched the careers of artists like Gunna and Lil Keed.  Who is this Atlanta-based rapper, known for his unique sound and artistic vision?",
+        "question": "This web browser, the most popular globally with over 60% market share, is at the center of a recent antitrust lawsuit filed by the U.S. Department of Justice. The lawsuit alleges that the browser's parent company is using its dominance to stifle competition and maintain a monopoly in the digital advertising market. The DOJ is seeking a court order that would require Google to sell off its browser business, a move that could significantly reshape the landscape of the internet. Which web browser, known for its speed and simplicity, is facing this legal challenge?",
         "answers": [
-            "Young Thug"
+            "Google Chrome",
+            "Chrome"
         ],
         "incorrect1": "",
         "incorrect2": "",
@@ -49,9 +56,10 @@
     },
     {
         "category": "Current Events",
-        "question": "A suicide bombing by the Balochistan Liberation Army at the at a railway station in this country killed 27 people. This country, home to the Khyber Pass, a strategic mountain pass that has witnessed the passage of armies and traders for centuries, is the world's fifth-most populous nation. Its bustling port city of Karachi serves as a major economic hub and gateway to the Arabian Sea. It is also home to the ancient Indus Valley Civilization, one of the world's earliest urban civilizations. What is this South Asian nation, known for its rich cultural heritage, diverse landscapes, and passion for cricket?",
+        "question": "This former Florida congressman was recently chosen as Donald Trump's nominee for attorney general. He promptly resigned from the House of Representatives and eventually withdrew from the attorney general nomination process. The House ethics committee was set to release a report into his behavior, but voted not to release the report of this man's resignation from office. He was investigated for charges relating to sex trafficking and having sex with a minor. Name this avid supporter of President Elect Donald Trump.",
         "answers": [
-            "Pakistan"
+            "Matt Gaetz",
+            "Matt Gates"
         ],
         "incorrect1": "",
         "incorrect2": "",
@@ -61,9 +69,9 @@
     },
     {
         "category": "Current Events",
-        "question": "Sherrod Brown, a senator from this US state was defeated in the 2024 general election by Bernie Moreno. Mike Dewine currently serves as the governor of this state which is the birthplace of seven U.S. presidents, including Ulysses S. Grant and William McKinley. Its city of Dayton was the home of the Wright brothers, pioneers of aviation who made their first successful flight in 1903. It is also home to the Rock and Roll Hall of Fame in Cleveland, celebrating the history and impact of rock music. What is this Midwestern state, once a key part of the Western Reserve and a major player in the Underground Railroad?",
+        "question": "This holiday's traditional feast often includes stuffing, a savory dish made with bread and herbs, which was not present at the first celebration in 1621. President George Washington designated November 26th as a day of public holiday in 1789. The holiday's modern date, the fourth Thursday in November, was established by President Franklin D. Roosevelt in 1939.  It is often associated with a historical narrative of Pilgrims and Native Americans sharing a harvest feast, though the accuracy of this depiction is debated.  What is this holiday, celebrated primarily in the United States and Canada?",
         "answers": [
-            "Ohio"
+            "Thanksgiving"
         ],
         "incorrect1": "",
         "incorrect2": "",
@@ -73,9 +81,9 @@
     },
     {
         "category": "Current Events",
-        "question": "Dave McCormick defeated incumbent senator, Bob Casey from this state in the 2024 election. The state, nicknamed the \"Keystone State\" for its central role in the founding of the United States, is home to the Liberty Bell, a symbol of American independence. Its city of Philadelphia was the nation's first capital and the site of the signing of the Declaration of Independence. It is also where Hershey's chocolate was founded, making it a sweet spot for confectionery enthusiasts. What is this state, known for its Amish communities, rolling farmland, and the historic Gettysburg battlefield?",
+        "question": "This annual shopping extravaganza, often associated with chaotic crowds and deep discounts, has a disputed origin story, with some attributing the term to retailers using black ink to signify profits and red ink for losses.  It traditionally falls on the day after Thanksgiving in the United States, marking the unofficial start of the holiday shopping season.  In recent years, it has expanded into a multi-day event, with deals starting earlier and extending throughout the weekend.  What is this shopping frenzy, known for its doorbuster deals and competitive shoppers?",
         "answers": [
-            "Pennsylvania"
+            "Black Friday"
         ],
         "incorrect1": "",
         "incorrect2": "",

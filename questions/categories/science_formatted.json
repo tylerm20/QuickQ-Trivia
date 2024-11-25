@@ -907,7 +907,7 @@
         "answers": [
             "sine"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",
@@ -916,7 +916,7 @@
         "answers": [
             "inertia"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",
@@ -925,7 +925,7 @@
         "answers": [
             "electric current"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",
@@ -934,7 +934,7 @@
         "answers": [
             "red blood cells (or RBC s; or erythrocytes )"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",
@@ -943,7 +943,7 @@
         "answers": [
             "alcohols"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",
@@ -952,7 +952,7 @@
         "answers": [
             "Cnidaria (accept Cnidarians; prompt on Coelenterata)"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",
@@ -961,7 +961,7 @@
         "answers": [
             "calcium"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",
@@ -970,7 +970,7 @@
         "answers": [
             "The Communist Manifesto"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",
@@ -979,7 +979,7 @@
         "answers": [
             "Johann Carl Friedrich Gauss"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",
@@ -988,7 +988,7 @@
         "answers": [
             "comets"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",
@@ -997,7 +997,7 @@
         "answers": [
             "mean [accept average before it is mentioned]"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",
@@ -1006,7 +1006,7 @@
         "answers": [
             "soil"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",
@@ -1015,7 +1015,7 @@
         "answers": [
             "four"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",
@@ -1024,7 +1024,7 @@
         "answers": [
             "Sigmund Freud"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",

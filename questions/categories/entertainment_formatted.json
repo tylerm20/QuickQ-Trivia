@@ -1,9 +1,9 @@
 [
     {
         "category": "Entertainment",
-        "question": "This British tragicomedy series, known for its fourth-wall-breaking monologues and darkly comedic tone, features a protagonist who runs a guinea pig-themed cafe and navigates complex relationships with her family and love interests. The show's creator and star, Phoebe Waller-Bridge, also wrote and produced the acclaimed spy thriller series \"Killing Eve.\" It won numerous awards, including six Primetime Emmy Awards for its second season. What is the title of this critically acclaimed series?",
+        "question": "This satirical black comedy, featuring a memorable scene where a general rides a nuclear bomb like a rodeo bull, explores the dangers of Cold War paranoia and the potential for accidental nuclear war.  The film's title character played by Peter Sellers, is a wheelchair-bound former Nazi scientist with a disconcerting tendency for his right hand to involuntarily salute.  The film's iconic line, \"Gentlemen, you can't fight in here! This is the War Room!\", highlights the absurdity of the situation.  What is the full title of this 1964 film directed by Stanley Kubrick?",
         "answers": [
-            "Fleabag"
+            "Dr. Strangelove"
         ],
         "incorrect1": "",
         "incorrect2": "",
@@ -13,9 +13,9 @@
     },
     {
         "category": "Entertainment",
-        "question": "This film, shot in stark black and white to evoke a documentary feel, features a brutal boxing match scene where the protagonist, Jake La Motta, savagely beats his opponent, showcasing the character's self-destructive rage.  The film's use of slow-motion and close-ups during fight sequences heightens the impact and visceral nature of the violence.  Robert De Niro, who gained 60 pounds to portray the boxer in his later years, delivers a transformative performance that earned him an Academy Award for Best Actor.  What is the title of this 1980 biographical sports drama directed by Martin Scorsese?",
+        "question": "This film, set in medieval Sweden during the Black Death, features a memorable scene where a knight plays a game of chess with Death, a personification of mortality.  The film's allegorical imagery and exploration of existential themes, including faith, death, and the meaning of life, have made it a classic of world cinema.  Its director, Ingmar Bergman, is known for his introspective and often bleak portrayals of the human condition.  What is the title of this 1957 Swedish historical drama?",
         "answers": [
-            "Raging Bull"
+            "The Seventh Seal"
         ],
         "incorrect1": "",
         "incorrect2": "",
@@ -25,9 +25,9 @@
     },
     {
         "category": "Entertainment",
-        "question": "This romantic comedy-drama, known for its unconventional narrative structure and witty dialogue, features a scene where the main characters, Alvy and Annie, hilariously try to cook lobsters in their New York City apartment.  The film breaks the fourth wall, with Alvy Singer, played by Woody Allen, directly addressing the audience with neurotic and self-deprecating humor.  It won four Academy Awards, including Best Picture and Best Director for Woody Allen.  What is the title of this 1977 film, often considered one of the greatest romantic comedies of all time?",
+        "question": "This film, a landmark in Japanese cinema, features a climactic battle scene where a village of farmers defends itself against a band of 40 bandits with the help of seven skilled samurai.  The film's influence on Western cinema is evident in its remake, \"The Magnificent Seven,\" and its inspiration for the \"Star Wars\" franchise.  Its director, Akira Kurosawa, is renowned for his masterful use of cinematography and storytelling, blending action, drama, and social commentary.  What is the title of this 1954 epic adventure film?",
         "answers": [
-            "Annie Hall"
+            "Seven Samurai"
         ],
         "incorrect1": "",
         "incorrect2": "",
@@ -37,9 +37,9 @@
     },
     {
         "category": "Entertainment",
-        "question": "This neo-noir psychological thriller features a memorable scene where the protagonist, Travis Bickle, stands in front of a mirror, practicing his gun draw and delivering the iconic line, \"You talkin' to me?\"  The film's gritty depiction of urban alienation and violence in 1970s New York City earned it the Palme d'Or at the Cannes Film Festival.  It stars Robert De Niro as a Vietnam veteran turned taxi driver who descends into madness and vigilantism.  What is the title of this 1976 film directed by Martin Scorsese?",
+        "question": "This war epic, loosely based on Joseph Conrad's novel Heart of Darkness, features a memorable scene where a helicopter attack is set to the music of Wagner's \"Ride of the Valkyries.\"  The film's production was notoriously troubled, with filming in the Philippines plagued by typhoons, drug use, and Martin Sheen suffering a heart attack.  The film's ending, with Captain Willard's assassination of Colonel Kurtz, leaves the audience with a sense of ambiguity and moral complexity.  What is the title of this 1979 Vietnam War film directed by Francis Ford Coppola?",
         "answers": [
-            "Taxi Driver"
+            "Apocalypse Now"
         ],
         "incorrect1": "",
         "incorrect2": "",
@@ -49,9 +49,9 @@
     },
     {
         "category": "Entertainment",
-        "question": "This iconic thriller's suspenseful score, composed by John Williams, features two alternating notes that evoke a sense of impending danger. The film's tagline, \"You'll never go in the water again,\" became a chilling warning that resonated with audiences, impacting beach attendance worldwide.  The film's mechanical shark, nicknamed \"Bruce\" by the crew, was notoriously unreliable, leading director Steven Spielberg to rely on suspense and suggestion to create terror.  What is the title of this 1975 film, which became a summer blockbuster and spawned a series of sequels?",
+        "question": "This iconic horror film features a shocking shower scene where the protagonist, Marion Crane, is brutally murdered, a moment that redefined cinematic violence and audience expectations.  The film's score, composed by Bernard Herrmann, with its screeching violins and jarring strings, heightens the suspense and terror.  The film's antagonist, Norman Bates, played by Anthony Perkins, is a seemingly mild-mannered motel owner with a dark secret and a disturbingly close relationship with his mother.  What is the title of this 1960 Alfred Hitchcock masterpiece?",
         "answers": [
-            "Jaws"
+            "Psycho"
         ],
         "incorrect1": "",
         "incorrect2": "",
@@ -61,9 +61,9 @@
     },
     {
         "category": "Entertainment",
-        "question": "This neo-noir mystery, set in 1930s Los Angeles, features a memorable scene where the protagonist, Jake Gittes, gets his nose sliced open with a switchblade, a symbolic wound that reflects the unraveling of the case and the city's corruption.  The film's complex plot, involving water rights, incest, and murder, is a modern take on classic film noir themes.  It stars Jack Nicholson as a private investigator who gets entangled in a web of deceit and betrayal.  What is the title of this 1974 film directed by Roman Polanski?",
+        "question": "This band's gothic and melancholic sound, characterized by Robert Smith's distinctive vocals and jangly guitar riffs, earned them a devoted following in the 1980s alternative rock scene. Their 1989 album, Disintegration, featuring the hit song \"Lovesong,\" is considered a masterpiece of gothic rock and cemented their status as a leading alternative band. Their early music, with its punk and post-punk influences, helped define the sound of the early 1980s. What is the name of this British band, known for their dark and introspective lyrics and their frontman's signature look of smeared lipstick and backcombed hair?",
         "answers": [
-            "Chinatown"
+            "The Cure"
         ],
         "incorrect1": "",
         "incorrect2": "",
@@ -73,9 +73,9 @@
     },
     {
         "category": "Entertainment",
-        "question": "This comedy film features a protagonist who relives the same day, February 2nd, over and over again, stuck in a time loop in Punxsutawney, Pennsylvania.  The film's protagonist, Phil Connors, played by Bill Murray, is a cynical weatherman who gradually transforms from a self-centered cynic to a compassionate and selfless person.  The film's repetitive nature allows for humorous and creative scenarios, as Phil explores the possibilities and consequences of his time loop.  What is the title of this 1993 film directed by Harold Ramis?",
+        "question": "This science fiction series, known for its iconic tagline \"The truth is out there,\" followed two FBI agents, Fox Mulder and Dana Scully, as they investigated paranormal phenomena and unexplained cases.  The show's eerie theme music, composed by Mark Snow, with its distinctive whistle and echo effects, became synonymous with the series and its mysterious atmosphere.  The series' mythology revolved around government conspiracies, alien encounters, and the search for extraterrestrial life.  What is the name of this popular 1990s series that spawned two feature films and a revival series?",
         "answers": [
-            "Groundhog Day"
+            "The X-Files"
         ],
         "incorrect1": "",
         "incorrect2": "",

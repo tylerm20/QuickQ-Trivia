@@ -1,9 +1,9 @@
 [
     {
         "category": "Sports",
-        "question": "This team's home arena, the Footprint Center, features a distinctive \"sandstone\" fa\u00e7ade that blends with the desert landscape of its home city. Their logo, a stylized basketball with fiery streaks, embodies the energy and intensity they bring to the court. They have reached the NBA Finals three times, most recently in 2021, where they fell to the Milwaukee Bucks. Their iconic \"Ring of Honor\" celebrates legendary players like Charles Barkley and Steve Nash. What is the name of this team, whose history includes a memorable rivalry with the San Antonio Spurs?",
+        "question": "This football manager, known for his energetic sideline presence and his trademark \"heavy metal\" football style, led Borussia Dortmund to two consecutive Bundesliga titles and a Champions League final appearance. He took over as manager of Liverpool in 2015, guiding them to their first Premier League title in 30 years and a Champions League victory in 2019. His passionate and charismatic personality has made him a fan favorite, and his tactical innovations have revitalized Liverpool's attacking prowess. Who is this German manager, known for his \"gegenpressing\" strategy and his infectious enthusiasm?",
         "answers": [
-            "Phoenix Suns"
+            "J\u00fcrgen Klopp"
         ],
         "incorrect1": "",
         "incorrect2": "",
@@ -13,9 +13,9 @@
     },
     {
         "category": "Sports",
-        "question": "This team's iconic \"rainbow\" uniforms, worn during their Astrodome era in the 1970s and 80s, have become a nostalgic symbol of the franchise's past.  They were originally known as the Houston Colt .45s before adopting their current name in 1965, coinciding with their move to the Astrodome, the world's first domed multi-purpose stadium.  They have won two World Series titles, the first in 2017 and the second in 2022, both amidst controversial circumstances. What is the name of this Major League Baseball team, based in Houston, Texas?",
+        "question": "This football manager, known for his tactical acumen and often controversial personality, earned the nickname \"The Special One\" during his first stint at Chelsea, where he proclaimed himself a top manager. He has managed top clubs across Europe, including Porto, Inter Milan, Real Madrid, and Manchester United, achieving success in multiple leagues. He led Porto to an unexpected UEFA Champions League title in 2004 and Inter Milan to a historic treble in 2010. Who is this Portuguese manager, known for his mind games and his ability to win trophies?",
         "answers": [
-            "Houston Astros"
+            "Jos\u00e9 Mourinho"
         ],
         "incorrect1": "",
         "incorrect2": "",
@@ -25,9 +25,9 @@
     },
     {
         "category": "Sports",
-        "question": "This team's teal, black, and silver color scheme, adopted in 1993, was a bold departure from traditional baseball uniforms and reflected the vibrant culture of their home city.  They made history in 1997 by becoming the first wild card team to win the World Series, defeating the Cleveland Indians in a thrilling seven-game series. They have won two World Series titles, both as a wild card team, defying expectations and showcasing their resilience.  What is the name of this team, based in Miami, Florida?",
+        "question": "This racquet sport, often described as a mix of tennis and squash, is played on an enclosed court about one-third the size of a tennis court. It features underhand serves and the use of the court walls in play, adding a dynamic element to the game.  The sport originated in Acapulco, Mexico, in 1969 and has gained popularity in Spain and Latin America.  It is typically played in doubles, with teams of two players competing against each other.  What is this fast-paced sport, known for its social and recreational appeal?",
         "answers": [
-            "Miami Marlins"
+            "Padel"
         ],
         "incorrect1": "",
         "incorrect2": "",
@@ -37,9 +37,12 @@
     },
     {
         "category": "Sports",
-        "question": "This footballer's iconic \"Siuuu!\" celebration, accompanied by a mid-air pirouette and a powerful shout, has become a global phenomenon, imitated by fans and fellow athletes alike. He holds the record for the most goals scored in UEFA Champions League history, a testament to his prolific scoring ability and dominance in European club football. He has won the Ballon d'Or award, given to the world's best player, five times, tied with his rival Lionel Messi. Who is this Portuguese forward, known for his exceptional athleticism and goal-scoring prowess?",
+        "question": "This NBA team's home arena, the Wells Fargo Center, has witnessed memorable moments like Allen Iverson's iconic \"step-over\" of Tyronn Lue in the 2001 NBA Finals.  They have won three NBA championships, with their most recent victory coming in 1983, led by Julius Erving and Moses Malone.  Their passionate fanbase, known for their unwavering support and \"Trust the Process\" mantra, has endured years of rebuilding and anticipation for a return to championship contention.  What is the name of this team, whose history includes legendary players like Wilt Chamberlain and Charles Barkley?",
         "answers": [
-            "Cristiano Ronaldo"
+            "Philadelphia 76ers",
+            "sixers",
+            "seventy sixers",
+            "76ers"
         ],
         "incorrect1": "",
         "incorrect2": "",
@@ -49,9 +52,9 @@
     },
     {
         "category": "Sports",
-        "question": "This paddle sport, invented in 1965 on Bainbridge Island, Washington, combines elements of tennis, badminton, and ping-pong. It is played on a badminton-sized court with a lowered net, using solid paddles and a perforated plastic ball.  Its unique scoring system, where only the serving team can score points, adds a strategic layer to the game.  It has experienced a surge in popularity in recent years, attracting players of all ages and skill levels.  What is this sport, known for its social and recreational appeal?",
+        "question": "This golfer, known for his long drives and aggressive style of play, achieved the rare feat of winning each of the four World Golf Championships events, securing victories in the Mexico Championship, Dell Technologies Match Play, FedEx St. Jude Championship, and HSBC Champions. He captured his first major title at the 2016 U.S. Open, overcoming a controversial penalty to win by three strokes. He also holds the record for the largest margin of victory in the FedEx Cup Playoffs, winning the 2020 Tour Championship by three strokes. Who is this American golfer, who has spent over 130 weeks ranked as the world's number one golfer?",
         "answers": [
-            "Pickleball"
+            "Dustin Johnson"
         ],
         "incorrect1": "",
         "incorrect2": "",
@@ -61,9 +64,11 @@
     },
     {
         "category": "Sports",
-        "question": "This team's defense, often referred to as one of the most dominant in NFL history, led them to a Super Bowl XXXV victory in 2001.  Their home stadium, M&T Bank Stadium, is known for its passionate and boisterous crowds, creating a challenging environment for opposing teams.  They have a historic rivalry with the Pittsburgh Steelers, a matchup that often features hard-hitting action and intense competition.  What is the name of this team, whose history includes legendary players like Ray Lewis and Ed Reed?",
+        "question": "This team's iconic \"pinwheel\" logo, introduced in 1970, symbolizes the dynamic movement and flow of the game of basketball. Their passionate fanbase, known as \"Rip City,\" creates an electrifying atmosphere at their home arena, the Moda Center. They achieved their only NBA championship in 1977, led by Bill Walton, a dominant center and counterculture icon. Their legendary players, including Clyde Drexler and Damian Lillard, have solidified their place in franchise history. What is the name of this team, based in Portland, Oregon?",
         "answers": [
-            "Baltimore Ravens"
+            "Portland Trail Blazers",
+            "Trail Blazers",
+            "Blazers"
         ],
         "incorrect1": "",
         "incorrect2": "",
@@ -73,9 +78,10 @@
     },
     {
         "category": "Sports",
-        "question": "This manage guided the New York Yankees to four World Series titles in five years, solidifying his place in baseball history. Before his success in the Bronx, he managed the Mets, Braves, and Cardinals, experiencing varying levels of success. He famously clashed with George Steinbrenner, the Yankees' fiery owner, but their partnership ultimately yielded remarkable results. He also managed the Los Angeles Dodgers, leading them to two National League Championship Series appearances. Who is this Hall of Fame manager, known for his ability to handle high-pressure situations and manage talented teams?",
+        "question": "This team's iconic mascot, Brownie the Elf, a mischievous elf with a penchant for pranks, was retired in the 1960s due to its perceived childishness.  Their classic brown and orange color scheme, a nod to the team's namesake and original owner, Paul Brown, has remained a symbol of the franchise throughout its history.  They have won eight NFL championships, four in the pre-Super Bowl era and four AAFC championships, but have yet to win a Super Bowl title. The team is known for its passionate and dedicated fanbase, often referred to as the \"Dawg Pound.\"  What is the name of this team, whose history includes legendary running back Jim Brown and controversial quarterback Johnny Manziel?",
         "answers": [
-            "Joe Torre"
+            "Cleveland Browns",
+            "browns"
         ],
         "incorrect1": "",
         "incorrect2": "",

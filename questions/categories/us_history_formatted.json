@@ -908,7 +908,7 @@
         "answers": [
             "Chicago"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "US History",
@@ -917,7 +917,7 @@
         "answers": [
             "Henry Ford"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "US History",
@@ -926,7 +926,7 @@
         "answers": [
             "Los Angeles [accept LA]"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "US History",
@@ -935,7 +935,7 @@
         "answers": [
             "Gettysburg Address"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "US History",
@@ -944,7 +944,7 @@
         "answers": [
             "Andrew Jackson"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "US History",
@@ -953,7 +953,7 @@
         "answers": [
             "income tax (prompt on \"tax\")"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "US History",
@@ -962,7 +962,7 @@
         "answers": [
             "Emancipation Proclamation (prompt on \"Emancipation\" and descriptive answers relating to freeing slaves)"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "US History",
@@ -971,7 +971,7 @@
         "answers": [
             "Theodore \"Teddy\" Roosevelt [prompt on \"Roosevelt\" or \"TR\"]"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "US History",
@@ -980,7 +980,7 @@
         "answers": [
             "Labor Unions"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "US History",
@@ -989,7 +989,7 @@
         "answers": [
             "Louisiana Purchase (accept descriptive answers relating to France selling Louisiana to the US)"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "US History",
@@ -998,7 +998,7 @@
         "answers": [
             "Osama bin Laden"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "US History",
@@ -1007,7 +1007,7 @@
         "answers": [
             "women [accept obvious equivalents like girls or females; do not accept or prompt on\"feminists\"]"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "US History",
@@ -1016,7 +1016,7 @@
         "answers": [
             "USA PATRIOT Act of 2001 (or Uniting (and) Strengthening America (by) Providing Appropriate Tools Required (to) Intercept (and) Obstruct Terrorism Act of 2001)"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "US History",
@@ -1025,7 +1025,7 @@
         "answers": [
             "Battle of Gettysburg"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "US History",

@@ -903,7 +903,7 @@
         "answers": [
             "birds (accept aves or avians)"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Arts & Literature",
@@ -912,7 +912,7 @@
         "answers": [
             "The Scream (accept Skrik; accept Der Schrei der Natur)"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Arts & Literature",
@@ -921,7 +921,7 @@
         "answers": [
             "The Nutcracker [or Shchelkunchik]"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Arts & Literature",
@@ -930,7 +930,7 @@
         "answers": [
             "mouse (accept mice; accept To a Mouse)"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Arts & Literature",
@@ -939,7 +939,7 @@
         "answers": [
             "(Sir Ahmed) Salman Rushdie"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Arts & Literature",
@@ -948,7 +948,7 @@
         "answers": [
             "Sherlock Holmes [accept either underlined portion; do not accept or prompt on \"Benedict Cumberbatch\", \"Bartleby Curlingmatch\", or anything of the sort]"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Arts & Literature",
@@ -957,7 +957,7 @@
         "answers": [
             "Rembrandt Harmenszoon van Rijn [accept either underlined name]"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Arts & Literature",
@@ -966,7 +966,7 @@
         "answers": [
             "Frida Kahlo"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Arts & Literature",
@@ -975,7 +975,7 @@
         "answers": [
             "Robinson Crusoe [accept either underlined]"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Arts & Literature",
@@ -984,7 +984,7 @@
         "answers": [
             "violin"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Arts & Literature",
@@ -993,7 +993,7 @@
         "answers": [
             "Les Miserables (be generous and prompt on  Les Mis )"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Arts & Literature",
@@ -1002,7 +1002,7 @@
         "answers": [
             "Italian [Accept equivalents]"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Arts & Literature",
@@ -1011,7 +1011,7 @@
         "answers": [
             "Spain (accept Kingdom of Spain; accept Reino de Espa\u02dcna)"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Arts & Literature",
@@ -1020,7 +1020,7 @@
         "answers": [
             "great flood (accept deluge)"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Arts & Literature",

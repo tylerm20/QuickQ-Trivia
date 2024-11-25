@@ -889,7 +889,7 @@
         "answers": [
             "Mount Kilimanjaro"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Geography",
@@ -898,7 +898,7 @@
         "answers": [
             "Korean peninsula [or Hanbando, or Hanguk, or Choson; do NOT accept or prompt on North Korea or South Korea, since those are countries and not a peninsula]"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Geography",
@@ -907,7 +907,7 @@
         "answers": [
             "Ireland (accept Northern Ireland only after \"Northern\" is read)"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Geography",
@@ -916,7 +916,7 @@
         "answers": [
             "London"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Geography",
@@ -925,7 +925,7 @@
         "answers": [
             "Great Salt Lake [prompt on Salt Lake]"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Geography",
@@ -934,7 +934,7 @@
         "answers": [
             "Boston"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Geography",
@@ -943,7 +943,7 @@
         "answers": [
             "Flint"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Geography",
@@ -952,7 +952,7 @@
         "answers": [
             "Venezuela"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Geography",
@@ -961,7 +961,7 @@
         "answers": [
             "Mexico City (accept Ciudad de Mexico)"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Geography",
@@ -970,7 +970,7 @@
         "answers": [
             "Yangtze River [accept Chang Jiang]"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Geography",
@@ -979,7 +979,7 @@
         "answers": [
             "Bolivarian Republic of Venezuela (or Republica Bolivariana de Venezuela)"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Geography",
@@ -988,7 +988,7 @@
         "answers": [
             "Yellowstone National Park"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Geography",
@@ -997,7 +997,7 @@
         "answers": [
             "Alberta"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Geography",
@@ -1006,7 +1006,7 @@
         "answers": [
             "Mississippi River"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Geography",

@@ -899,7 +899,7 @@
         "answers": [
             "The Philippines"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "World History",
@@ -908,7 +908,7 @@
         "answers": [
             "atoms"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "World History",
@@ -917,7 +917,7 @@
         "answers": [
             "North Korea [accept Democratic People's Republic of Korea]"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "World History",
@@ -926,7 +926,7 @@
         "answers": [
             "Republic of India"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "World History",
@@ -935,7 +935,7 @@
         "answers": [
             "Socrates"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "World History",
@@ -944,7 +944,7 @@
         "answers": [
             "Netherlands (prompt on \"Holland\")"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "World History",
@@ -953,7 +953,7 @@
         "answers": [
             "Charlemagne [or Charles the Great or Carolus Magnus or Charles I; prompt on Charles; do NOT accept or prompt on \"Charles Martel\" or \"Charles the Hammer\"]"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "World History",
@@ -962,7 +962,7 @@
         "answers": [
             "Republic of the Sudan or Jumhuriyat as Sudan"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "World History",
@@ -971,7 +971,7 @@
         "answers": [
             "Charles de Gaulle"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "World History",
@@ -980,7 +980,7 @@
         "answers": [
             "Republic of Chile"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "World History",
@@ -989,7 +989,7 @@
         "answers": [
             "Martin Luther"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "World History",
@@ -998,7 +998,7 @@
         "answers": [
             "gunpowder"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "World History",
@@ -1007,7 +1007,7 @@
         "answers": [
             "Australia [or Commonwealth of Australia]"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "World History",
@@ -1016,7 +1016,7 @@
         "answers": [
             "Napoleon Bonaparte (accept either or both names; accept Napoleon I)"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "World History",
