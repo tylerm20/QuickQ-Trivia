@@ -1,9 +1,9 @@
 [
     {
         "category": "Sports",
-        "question": "This football manager, known for his energetic sideline presence and his trademark \"heavy metal\" football style, led Borussia Dortmund to two consecutive Bundesliga titles and a Champions League final appearance. He took over as manager of Liverpool in 2015, guiding them to their first Premier League title in 30 years and a Champions League victory in 2019. His passionate and charismatic personality has made him a fan favorite, and his tactical innovations have revitalized Liverpool's attacking prowess. Who is this German manager, known for his \"gegenpressing\" strategy and his infectious enthusiasm?",
+        "question": "This driver recently secured his fourth Formula One driver's champhionship. Known for his aggressive driving style and overtaking prowess, this driver the record for the most wins in a single Formula One season, achieving 15 victories in 2022. He became the youngest driver to compete in Formula One at the age of 17, making his debut with Toro Rosso in 2015. He is the son of former Formula One driver Jos Verstappen, who competed in the sport in the 1990s. He won his first Formula One World Championship in 2021 in a dramatic final race, overtaking Lewis Hamilton on the last lap. Who is this Belgian-Dutch driver, currently racing for Red Bull Racing?",
         "answers": [
-            "J\u00fcrgen Klopp"
+            "Max Verstappen"
         ],
         "incorrect1": "",
         "incorrect2": "",
@@ -13,9 +13,9 @@
     },
     {
         "category": "Sports",
-        "question": "This football manager, known for his tactical acumen and often controversial personality, earned the nickname \"The Special One\" during his first stint at Chelsea, where he proclaimed himself a top manager. He has managed top clubs across Europe, including Porto, Inter Milan, Real Madrid, and Manchester United, achieving success in multiple leagues. He led Porto to an unexpected UEFA Champions League title in 2004 and Inter Milan to a historic treble in 2010. Who is this Portuguese manager, known for his mind games and his ability to win trophies?",
+        "question": "This hockey player has won three Stanley Cups with the Penguins, solidifying his status as one of the greatest players of his generation. Nicknamed \"Sid the Kid,\" he led his team to a gold medal victory at the 2010 Vancouver Olympics, scoring the game-winning goal in overtime against the United States. He was drafted first overall by the Pittsburgh Penguins in the 2005 NHL Entry Draft, and has become the face of the franchise. Who is this Canadian hockey superstar, often considered one of the best to ever play the game? ",
         "answers": [
-            "Jos\u00e9 Mourinho"
+            "Sidney Crosby"
         ],
         "incorrect1": "",
         "incorrect2": "",
@@ -25,9 +25,10 @@
     },
     {
         "category": "Sports",
-        "question": "This racquet sport, often described as a mix of tennis and squash, is played on an enclosed court about one-third the size of a tennis court. It features underhand serves and the use of the court walls in play, adding a dynamic element to the game.  The sport originated in Acapulco, Mexico, in 1969 and has gained popularity in Spain and Latin America.  It is typically played in doubles, with teams of two players competing against each other.  What is this fast-paced sport, known for its social and recreational appeal?",
+        "question": "This manager, knighted in 1999 for his services to football, holds the record for the most Premier League titles, with 13 wins to his name, all with the same club. He famously used a \"hairdryer treatment\" to motivate his players, delivering a passionate and intense scolding when necessary. He managed Aberdeen to a European Cup Winners' Cup victory in 1983, a rare feat for a Scottish team. He retired from management in 2013, after leading Manchester United to a 20th league title. Who is this legendary Scottish manager, known for his fiery personality and his unparalleled success with Manchester United?",
         "answers": [
-            "Padel"
+            "Alex Ferguson",
+            "Sir Alex Ferguson"
         ],
         "incorrect1": "",
         "incorrect2": "",
@@ -37,12 +38,10 @@
     },
     {
         "category": "Sports",
-        "question": "This NBA team's home arena, the Wells Fargo Center, has witnessed memorable moments like Allen Iverson's iconic \"step-over\" of Tyronn Lue in the 2001 NBA Finals.  They have won three NBA championships, with their most recent victory coming in 1983, led by Julius Erving and Moses Malone.  Their passionate fanbase, known for their unwavering support and \"Trust the Process\" mantra, has endured years of rebuilding and anticipation for a return to championship contention.  What is the name of this team, whose history includes legendary players like Wilt Chamberlain and Charles Barkley?",
+        "question": "This team's iconic mascot, Mr. Redlegs, a mustachioed gentleman with a handlebar mustache and a pillbox hat, has been entertaining fans since 1955. Their home stadium, Great American Ball Park, features a unique smokestack that shoots fireworks after every home run. They were the first professional baseball team, founded in 1869. They have won five World Series titles, including back-to-back championships in 1975 and 1976 as part of the \"Big Red Machine\" dynasty. What is the name of this National League team, based in Cincinnati, Ohio?",
         "answers": [
-            "Philadelphia 76ers",
-            "sixers",
-            "seventy sixers",
-            "76ers"
+            "Cincinnati Reds",
+            "Reds"
         ],
         "incorrect1": "",
         "incorrect2": "",
@@ -52,9 +51,9 @@
     },
     {
         "category": "Sports",
-        "question": "This golfer, known for his long drives and aggressive style of play, achieved the rare feat of winning each of the four World Golf Championships events, securing victories in the Mexico Championship, Dell Technologies Match Play, FedEx St. Jude Championship, and HSBC Champions. He captured his first major title at the 2016 U.S. Open, overcoming a controversial penalty to win by three strokes. He also holds the record for the largest margin of victory in the FedEx Cup Playoffs, winning the 2020 Tour Championship by three strokes. Who is this American golfer, who has spent over 130 weeks ranked as the world's number one golfer?",
+        "question": "This athlete's historic four gold medals at the 1936 Berlin Olympics defied Hitler's propaganda of Aryan supremacy and made him a global symbol of athletic excellence and human resilience.  He achieved the remarkable feat of setting three world records and tying another in a single hour at the 1935 Big Ten track meet. His victories in the 100-meter and 200-meter dashes, along with the long jump and 4x100-meter relay, showcased his exceptional speed and athleticism.  Who was this legendary track and field star, whose accomplishments transcended sports and became a powerful statement against racial discrimination?",
         "answers": [
-            "Dustin Johnson"
+            "Jesse Owens"
         ],
         "incorrect1": "",
         "incorrect2": "",
@@ -64,11 +63,9 @@
     },
     {
         "category": "Sports",
-        "question": "This team's iconic \"pinwheel\" logo, introduced in 1970, symbolizes the dynamic movement and flow of the game of basketball. Their passionate fanbase, known as \"Rip City,\" creates an electrifying atmosphere at their home arena, the Moda Center. They achieved their only NBA championship in 1977, led by Bill Walton, a dominant center and counterculture icon. Their legendary players, including Clyde Drexler and Damian Lillard, have solidified their place in franchise history. What is the name of this team, based in Portland, Oregon?",
+        "question": "This basketball legend's Oscar-winning short film, \"Dear Basketball,\"  was a heartfelt ode to the sport he loved. He famously scored 81 points against the Toronto Raptors in 2006, the second-highest single-game point total in NBA history. His \"Black Mamba\" nickname reflected his killer instinct and relentless pursuit of victory on the court. He spent his entire 20-season career with the Los Angeles Lakers, winning five NBA championships and becoming a global icon. Who is this basketball superstar, tragically killed in a helicopter crash in 2020?",
         "answers": [
-            "Portland Trail Blazers",
-            "Trail Blazers",
-            "Blazers"
+            "Kobe Bryant"
         ],
         "incorrect1": "",
         "incorrect2": "",
@@ -78,10 +75,10 @@
     },
     {
         "category": "Sports",
-        "question": "This team's iconic mascot, Brownie the Elf, a mischievous elf with a penchant for pranks, was retired in the 1960s due to its perceived childishness.  Their classic brown and orange color scheme, a nod to the team's namesake and original owner, Paul Brown, has remained a symbol of the franchise throughout its history.  They have won eight NFL championships, four in the pre-Super Bowl era and four AAFC championships, but have yet to win a Super Bowl title. The team is known for its passionate and dedicated fanbase, often referred to as the \"Dawg Pound.\"  What is the name of this team, whose history includes legendary running back Jim Brown and controversial quarterback Johnny Manziel?",
+        "question": "This team has a historic rivalry with the Houston Astros, a matchup that often ignites passionate fan bases in the Lone Star State.  They made their first World Series appearance in 2010, falling to the San Francisco Giants, and then again in 2011, where they lost to the St. Louis Cardinals. They won their only World Series in 2023, defeating the Arizona Diamondbacks.  What is the name of this Major League Baseball team, based in Arlington, Texas?",
         "answers": [
-            "Cleveland Browns",
-            "browns"
+            "Texas Rangers",
+            "Rangers"
         ],
         "incorrect1": "",
         "incorrect2": "",

@@ -1,9 +1,9 @@
 [
     {
         "category": "Entertainment",
-        "question": "This satirical black comedy, featuring a memorable scene where a general rides a nuclear bomb like a rodeo bull, explores the dangers of Cold War paranoia and the potential for accidental nuclear war.  The film's title character played by Peter Sellers, is a wheelchair-bound former Nazi scientist with a disconcerting tendency for his right hand to involuntarily salute.  The film's iconic line, \"Gentlemen, you can't fight in here! This is the War Room!\", highlights the absurdity of the situation.  What is the full title of this 1964 film directed by Stanley Kubrick?",
+        "question": "This dystopian film, notorious for its graphic violence and disturbing scenes, features a protagonist who undergoes a controversial aversion therapy treatment, forcing him to watch violent images while strapped to a chair. The film's distinctive visual style, with its bold colors and use of wide-angle lenses, creates a surreal and unsettling atmosphere. The protagonist, Alex DeLarge, played by Malcolm McDowell, leads a gang of \"droogs\" who engage in acts of \"ultra-violence\" and speak in a stylized slang called Nadsat. What is the title of this 1971 film directed by Stanley Kubrick, based on the novel by Anthony Burgess?",
         "answers": [
-            "Dr. Strangelove"
+            "A Clockwork Orange"
         ],
         "incorrect1": "",
         "incorrect2": "",
@@ -13,9 +13,9 @@
     },
     {
         "category": "Entertainment",
-        "question": "This film, set in medieval Sweden during the Black Death, features a memorable scene where a knight plays a game of chess with Death, a personification of mortality.  The film's allegorical imagery and exploration of existential themes, including faith, death, and the meaning of life, have made it a classic of world cinema.  Its director, Ingmar Bergman, is known for his introspective and often bleak portrayals of the human condition.  What is the title of this 1957 Swedish historical drama?",
+        "question": "This animated sci-fi sitcom features a recurring character, Mr. Poopybutthole, a seemingly friendly yellow creature who often appears in post-credit scenes with nonsensical messages. The show's main characters, Rick Sanchez, a cynical and alcoholic scientist, and Morty Smith, his anxious and impressionable grandson, embark on bizarre and often dangerous adventures across the multiverse. What is the name of this Adult Swim series, known for its dark humor, philosophical themes, and pop culture references?",
         "answers": [
-            "The Seventh Seal"
+            "Rick and Morty"
         ],
         "incorrect1": "",
         "incorrect2": "",
@@ -25,9 +25,9 @@
     },
     {
         "category": "Entertainment",
-        "question": "This film, a landmark in Japanese cinema, features a climactic battle scene where a village of farmers defends itself against a band of 40 bandits with the help of seven skilled samurai.  The film's influence on Western cinema is evident in its remake, \"The Magnificent Seven,\" and its inspiration for the \"Star Wars\" franchise.  Its director, Akira Kurosawa, is renowned for his masterful use of cinematography and storytelling, blending action, drama, and social commentary.  What is the title of this 1954 epic adventure film?",
+        "question": "This historical drama series, which boasts a meticulously crafted wardrobe with costumes inspired by actual royal attire, features a different cast every two seasons to portray the aging of the characters. It chronicles the life of Queen Elizabeth II, from her early days as a young monarch to her later years as a seasoned head of state. It has garnered critical acclaim for its performances, historical accuracy, and lavish production values. What is the name of this Netflix series, which offers a fictionalized yet insightful look into the personal and political life of the British monarch?",
         "answers": [
-            "Seven Samurai"
+            "The Crown"
         ],
         "incorrect1": "",
         "incorrect2": "",
@@ -37,9 +37,9 @@
     },
     {
         "category": "Entertainment",
-        "question": "This war epic, loosely based on Joseph Conrad's novel Heart of Darkness, features a memorable scene where a helicopter attack is set to the music of Wagner's \"Ride of the Valkyries.\"  The film's production was notoriously troubled, with filming in the Philippines plagued by typhoons, drug use, and Martin Sheen suffering a heart attack.  The film's ending, with Captain Willard's assassination of Colonel Kurtz, leaves the audience with a sense of ambiguity and moral complexity.  What is the title of this 1979 Vietnam War film directed by Francis Ford Coppola?",
+        "question": "This band's iconic 1991 debut album, Ten, featuring songs like \"Alive\" and \"Jeremy,\" propelled them to stardom as leaders of the grunge movement. They famously boycotted Ticketmaster in the mid-1990s, protesting the company's service fees and perceived monopoly on concert ticket sales.  They have released eleven studio albums and continue to tour extensively, maintaining a dedicated fanbase known for their fervent energy and sing-alongs.  What is the name of this Seattle-based rock band, whose music has become synonymous with the grunge era and alternative rock?",
         "answers": [
-            "Apocalypse Now"
+            "Pearl Jam"
         ],
         "incorrect1": "",
         "incorrect2": "",
@@ -49,9 +49,10 @@
     },
     {
         "category": "Entertainment",
-        "question": "This iconic horror film features a shocking shower scene where the protagonist, Marion Crane, is brutally murdered, a moment that redefined cinematic violence and audience expectations.  The film's score, composed by Bernard Herrmann, with its screeching violins and jarring strings, heightens the suspense and terror.  The film's antagonist, Norman Bates, played by Anthony Perkins, is a seemingly mild-mannered motel owner with a dark secret and a disturbingly close relationship with his mother.  What is the title of this 1960 Alfred Hitchcock masterpiece?",
+        "question": "This iconic video game character, created by Shigeru Miyamoto, made his debut in the 1981 arcade game Donkey Kong under the name \"Jumpman.\"  His signature red and blue outfit and his ability to grow larger by consuming a Super Mushroom have become instantly recognizable symbols of the gaming world.  He has appeared in over 200 video games including various sports and party games. Who is this beloved character, known for his adventures in the Mushroom Kingdom and his battles against Bowser to rescue Princess Peach?",
         "answers": [
-            "Psycho"
+            "Super Mario",
+            "Mario"
         ],
         "incorrect1": "",
         "incorrect2": "",
@@ -61,9 +62,9 @@
     },
     {
         "category": "Entertainment",
-        "question": "This band's gothic and melancholic sound, characterized by Robert Smith's distinctive vocals and jangly guitar riffs, earned them a devoted following in the 1980s alternative rock scene. Their 1989 album, Disintegration, featuring the hit song \"Lovesong,\" is considered a masterpiece of gothic rock and cemented their status as a leading alternative band. Their early music, with its punk and post-punk influences, helped define the sound of the early 1980s. What is the name of this British band, known for their dark and introspective lyrics and their frontman's signature look of smeared lipstick and backcombed hair?",
+        "question": "This classic fantasy film features a memorable duel of wits between the protagonist, Westley, and the villainous Vizzini, who engage in a battle of intellect while sipping from poisoned goblets.  The film's iconic line, \"Hello. My name is Inigo Montoya. You killed my father. Prepare to die,\" spoken by Mandy Patinkin's character, has become a beloved quote among fans.  The film's story is framed as a grandfather reading a book to his grandson, adding a heartwarming layer to the adventure.  What is the title of this 1987 film directed by Rob Reiner, known for its blend of humor, romance, and swashbuckling action?",
         "answers": [
-            "The Cure"
+            "The Princess Bride"
         ],
         "incorrect1": "",
         "incorrect2": "",
@@ -73,9 +74,9 @@
     },
     {
         "category": "Entertainment",
-        "question": "This science fiction series, known for its iconic tagline \"The truth is out there,\" followed two FBI agents, Fox Mulder and Dana Scully, as they investigated paranormal phenomena and unexplained cases.  The show's eerie theme music, composed by Mark Snow, with its distinctive whistle and echo effects, became synonymous with the series and its mysterious atmosphere.  The series' mythology revolved around government conspiracies, alien encounters, and the search for extraterrestrial life.  What is the name of this popular 1990s series that spawned two feature films and a revival series?",
+        "question": "This animated sitcom's long-running gag, featuring a drawn-out fight scene between Peter Griffin and Ernie the Giant Chicken, often interrupts the show's narrative with absurd and over-the-top violence.  The show's creators, Seth MacFarlane, also voices several of the main characters, including Peter Griffin, Brian Griffin, and Stewie Griffin. The show's cutaway gags, often featuring non-sequitur jokes and pop culture references, have become a signature element of its humor. What is the name of this animated sitcom, known for its irreverent and often controversial humor?",
         "answers": [
-            "The X-Files"
+            "Family Guy"
         ],
         "incorrect1": "",
         "incorrect2": "",

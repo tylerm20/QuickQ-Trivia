@@ -1025,7 +1025,7 @@
         "answers": [
             "Jews [or word forms; or the more archaic Hebrews]"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "World History",
@@ -1034,7 +1034,7 @@
         "answers": [
             "Albania"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "World History",
@@ -1043,7 +1043,7 @@
         "answers": [
             "London"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "World History",
@@ -1052,7 +1052,7 @@
         "answers": [
             "China (accept Zhongguo)"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "World History",
@@ -1061,7 +1061,7 @@
         "answers": [
             "Canada"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "World History",
@@ -1070,7 +1070,7 @@
         "answers": [
             "Ottoman Empire [or Osmanic Empire; or Osmanion Empire]"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "World History",
@@ -1079,7 +1079,7 @@
         "answers": [
             "Republic of Turkey [or Turkiye Cumhuriyeti]"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "World History",
