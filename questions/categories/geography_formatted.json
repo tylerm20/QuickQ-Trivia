@@ -1015,7 +1015,7 @@
         "answers": [
             "Gulf of Mexico (accept Mexico alone after \"this gulf\" is read)"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Geography",
@@ -1024,7 +1024,7 @@
         "answers": [
             "Russian Federation or Rossiyskaya Federatsiya"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Geography",
@@ -1033,7 +1033,7 @@
         "answers": [
             "New Jersey"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Geography",
@@ -1042,7 +1042,7 @@
         "answers": [
             "Greenland [or Kalaallit Nunaat]"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Geography",
@@ -1051,7 +1051,7 @@
         "answers": [
             "Australia"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Geography",
@@ -1060,7 +1060,7 @@
         "answers": [
             "Los Angeles [accept LA]"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Geography",
@@ -1069,7 +1069,7 @@
         "answers": [
             "Mexico"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Geography",

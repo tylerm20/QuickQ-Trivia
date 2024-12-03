@@ -1033,7 +1033,7 @@
         "answers": [
             "dark matter [do NOT accept or prompt on \"dark energy\"]"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",
@@ -1042,7 +1042,7 @@
         "answers": [
             "superconductors [accept word forms]"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",
@@ -1051,7 +1051,7 @@
         "answers": [
             "potential energy (prompt on potential; prompt on U before \"U\"; prompt on V)"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",
@@ -1060,7 +1060,7 @@
         "answers": [
             "prime numbers [or primes]"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",
@@ -1069,7 +1069,7 @@
         "answers": [
             "homo (accept group homomorphisms or homologous structures or homogenization or homogeneous mixtures or homo sapiens sapiens)"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",
@@ -1078,7 +1078,7 @@
         "answers": [
             "faults"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",
@@ -1087,7 +1087,7 @@
         "answers": [
             "glaciers (accept ice caps or ice sheets or equivalents before paternoster)"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",
