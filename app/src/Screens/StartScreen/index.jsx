@@ -27,6 +27,7 @@ const StartScreen = ({
     isFetchingQuestions,
     selectedDate,
     setSelectedDate,
+    datesAlreadyPlayed,
 }) => {
     // TODO: this seems to be re-rendered constantly
     const [showSettingsModal, setShowSettingsModal] = useState(false);
@@ -91,6 +92,18 @@ const StartScreen = ({
                     }}
                     maxDate={today}
                     minDate={FIRST_GAME_DATE}
+                    highlightDates={datesAlreadyPlayed}
+                    dayClassName={(date) => {
+                        // Custom class for highlighted dates
+                        if (
+                            datesAlreadyPlayed.some(
+                                (d) => d.toDateString() === date.toDateString()
+                            )
+                        ) {
+                            return "DateAlreadyPlayed";
+                        }
+                        return "";
+                    }}
                 />
             </div>
 
