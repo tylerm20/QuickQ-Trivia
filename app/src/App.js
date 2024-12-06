@@ -9,7 +9,12 @@ import SettingsScreen from "./Screens/SettingsScreen";
 
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faInfoCircle } from "@fortawesome/free-solid-svg-icons";
-import { screens, GameModes, GAME_MODE_STORAGE_KEY } from "./constants";
+import {
+    screens,
+    GameModes,
+    GAME_MODE_STORAGE_KEY,
+    FIRST_GAME_DATE,
+} from "./constants";
 import "./App.css";
 
 function App() {
@@ -19,6 +24,7 @@ function App() {
     const [totalTime, setTotalTime] = useState(0);
     const [questions, setQuestions] = useState(null);
     const [streak, setStreak] = useState(0);
+    const [datesAlreadyPlayed, setDatesAlreadyPlayed] = useState([]);
     const [timeUntilNextDay, setTimeUntilNextDay] = useState(
         calculateTimeUntilNextDay()
     );
@@ -107,6 +113,25 @@ function App() {
         setStreak(streak);
     };
 
+    const getDatesAlreadyPlayed = () => {
+        const datesPlayed = [];
+        const today = new Date();
+
+        // Iterate backwards from today to the first game date
+        for (
+            let date = new Date(today);
+            date >= FIRST_GAME_DATE;
+            date.setDate(date.getDate() - 1)
+        ) {
+            const dateKey = date.toDateString();
+            if (localStorage.getItem(dateKey)) {
+                datesPlayed.push(new Date(date)); // Add the date to the array
+            }
+        }
+
+        return datesPlayed;
+    };
+
     const getScreenToShow = () => {
         switch (screenShowing) {
             case screens.start:
@@ -122,6 +147,7 @@ function App() {
                         isFetchingQuestions={isFetchingQuestions}
                         selectedDate={selectedDate}
                         setSelectedDate={setSelectedDate}
+                        datesAlreadyPlayed={getDatesAlreadyPlayed()}
                     />
                 );
             case screens.game:
@@ -213,6 +239,10 @@ function App() {
             calculateStreak();
         }
     }, [streak, screenShowing]);
+
+    useEffect(() => {
+        setDatesAlreadyPlayed(getDatesAlreadyPlayed());
+    }, [hasFinishedTodaysGame]);
 
     return (
         <div className="App">

@@ -134,3 +134,8 @@
     justify-content: flex-end;
     margin-top: 5px;
 }
+
+.DateAlreadyPlayed {
+    background-color: var(--light-purple);
+    border-radius: 50%;
+}
