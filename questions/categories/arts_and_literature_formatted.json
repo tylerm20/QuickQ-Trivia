@@ -1092,7 +1092,7 @@
         "answers": [
             "One Hundred Years of Solitude [or Cien Anos de Soledad]"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Arts & Literature",
@@ -1101,7 +1101,7 @@
         "answers": [
             "Athena"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Arts & Literature",
@@ -1110,7 +1110,7 @@
         "answers": [
             "drowning (accept word forms like being drowned; accept descriptions like jumping into a river; accept throwing herself or jumping into Cabed-en-Aras before \"Eustacia\" is read)"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Arts & Literature",
@@ -1119,7 +1119,7 @@
         "answers": [
             "Holocaust (accept Shoah; prompt on \"World War II;\" prompt on descriptions like \"Nazi Germany\" or\"genocide of the Jewish people\")"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Arts & Literature",
@@ -1128,7 +1128,7 @@
         "answers": [
             "Norman Percevel Rockwell"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Arts & Literature",
@@ -1137,7 +1137,7 @@
         "answers": [
             "George Gershwin [prompt on Gershwin]"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Arts & Literature",
@@ -1146,7 +1146,7 @@
         "answers": [
             "United States of America or US A (accept any underlined portion)"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Arts & Literature",
@@ -1155,7 +1155,7 @@
         "answers": [
             "Georgia (Totto) O'Keeffe"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Arts & Literature",
@@ -1164,7 +1164,7 @@
         "answers": [
             "Nineteen Eighty-Four"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Arts & Literature",
@@ -1173,7 +1173,7 @@
         "answers": [
             "The Thousand and One Nights[or One Thousand and One Nights; or The Arabian NightsEntertainment; or 'Alf layla wa-layla]"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Arts & Literature",
@@ -1182,7 +1182,7 @@
         "answers": [
             "Peter Ilyich Tchaikovsky"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Arts & Literature",
@@ -1191,7 +1191,7 @@
         "answers": [
             "Charlotte's Web"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Arts & Literature",
@@ -1200,7 +1200,7 @@
         "answers": [
             "Alexandre Dumas (pere)"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Arts & Literature",
@@ -1209,7 +1209,7 @@
         "answers": [
             "Hans Christian Andersen"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Arts & Literature",

@@ -1097,7 +1097,7 @@
         "answers": [
             "Denali (accept Mount McKinley before it is read)"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "US History",
@@ -1106,7 +1106,7 @@
         "answers": [
             "Ronald [Wilson] Reagan"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "US History",
@@ -1115,7 +1115,7 @@
         "answers": [
             "James Madison"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "US History",
@@ -1124,7 +1124,7 @@
         "answers": [
             "Boston"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "US History",
@@ -1133,7 +1133,7 @@
         "answers": [
             "James Monroe"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "US History",
@@ -1142,7 +1142,7 @@
         "answers": [
             "Trail of Tears"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "US History",
@@ -1151,7 +1151,7 @@
         "answers": [
             "Tennessee (accept Tennessee Valley Authority; Note: David Lilienthal was nicknamed \"Mr. TVA\")"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "US History",
@@ -1160,7 +1160,7 @@
         "answers": [
             "Theodore \"Teddy\" Roosevelt Jr. (or TR)"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "US History",
@@ -1169,7 +1169,7 @@
         "answers": [
             "Richard Nixon [or Richard Milhous Nixon]"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "US History",
@@ -1178,7 +1178,7 @@
         "answers": [
             "Salem witch trials (accept anything indicating witches in Salem, such as Salem witch hysteria; prompt on partial answers)"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "US History",
@@ -1187,7 +1187,7 @@
         "answers": [
             "John F. Kennedy (accept JFK; accept John Fitzgerald Kennedy; prompt on \"Kennedy\")"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "US History",
@@ -1196,7 +1196,7 @@
         "answers": [
             "cotton [or the cotton gin; or \"Cotton is King\"]"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "US History",
@@ -1205,7 +1205,7 @@
         "answers": [
             "UFOs [accept Unidentified Flying Objects; prompt on flying saucers; prompt on alien spacecraft or logical equivalents; prompt on weather balloons until mention]"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "US History",
@@ -1214,7 +1214,7 @@
         "answers": [
             "Abraham Lincoln"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "US History",
