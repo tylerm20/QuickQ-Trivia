@@ -1096,7 +1096,7 @@
         "answers": [
             "stomach"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",
@@ -1105,7 +1105,7 @@
         "answers": [
             "punctuated equilibrium"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",
@@ -1114,7 +1114,7 @@
         "answers": [
             "Archimedes"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",
@@ -1123,7 +1123,7 @@
         "answers": [
             "eyes"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",
@@ -1132,7 +1132,7 @@
         "answers": [
             "electrons"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",
@@ -1141,7 +1141,7 @@
         "answers": [
             "phenotypes [prompt on \"trait(s)\"]"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",
@@ -1150,7 +1150,7 @@
         "answers": [
             "Jupiter"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",
@@ -1159,7 +1159,7 @@
         "answers": [
             "optical (or visual) illusions (prompt on illusion; prompt on \"ambiguous image\" or equivalents)"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",
@@ -1168,7 +1168,7 @@
         "answers": [
             "iron (or Fe)"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",
@@ -1177,7 +1177,7 @@
         "answers": [
             "velocity [accept terminal velocity or escape velocity]"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",
@@ -1186,7 +1186,7 @@
         "answers": [
             "psychology"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",
@@ -1195,7 +1195,7 @@
         "answers": [
             "arthropoda [or arthropods]"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",
@@ -1204,7 +1204,7 @@
         "answers": [
             "hard disk drives [prompt on (hard) \"disk(s)\"]"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",
@@ -1213,7 +1213,7 @@
         "answers": [
             "Hydrochloric Acid (accept HCl before given)"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",

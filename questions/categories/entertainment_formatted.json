@@ -1,9 +1,9 @@
 [
     {
         "category": "Entertainment",
-        "question": "This dystopian film, notorious for its graphic violence and disturbing scenes, features a protagonist who undergoes a controversial aversion therapy treatment, forcing him to watch violent images while strapped to a chair. The film's distinctive visual style, with its bold colors and use of wide-angle lenses, creates a surreal and unsettling atmosphere. The protagonist, Alex DeLarge, played by Malcolm McDowell, leads a gang of \"droogs\" who engage in acts of \"ultra-violence\" and speak in a stylized slang called Nadsat. What is the title of this 1971 film directed by Stanley Kubrick, based on the novel by Anthony Burgess?",
+        "question": "This film's innovative dolly zoom, a camera technique that creates a disorienting sense of vertigo, was used to visually convey the protagonist's acrophobia.  The film's score, composed by Bernard Herrmann, features haunting and romantic themes that heighten the suspense and melodrama.  The film's plot revolves around a retired detective, Scottie Ferguson, who becomes obsessed with a mysterious woman named Madeleine Elster.  What is the title of this 1958 psychological thriller directed by Alfred Hitchcock?",
         "answers": [
-            "A Clockwork Orange"
+            "Vertigo"
         ],
         "incorrect1": "",
         "incorrect2": "",
@@ -13,9 +13,9 @@
     },
     {
         "category": "Entertainment",
-        "question": "This animated sci-fi sitcom features a recurring character, Mr. Poopybutthole, a seemingly friendly yellow creature who often appears in post-credit scenes with nonsensical messages. The show's main characters, Rick Sanchez, a cynical and alcoholic scientist, and Morty Smith, his anxious and impressionable grandson, embark on bizarre and often dangerous adventures across the multiverse. What is the name of this Adult Swim series, known for its dark humor, philosophical themes, and pop culture references?",
+        "question": "This post-apocalyptic action-adventure game, set 20 years after a fungal pandemic has ravaged the world, features a hardened smuggler named Joel who is tasked with escorting a teenage girl named Ellie across a desolate United States.  The game's emotional narrative and realistic graphics, powered by the PlayStation 3's capabilities, created a cinematic and immersive experience.  Its sequel, released in 2020, continued the story and explored themes of revenge, forgiveness, and the enduring bonds of love and loyalty.  What is the name of this critically acclaimed game, which was turned into an HBO Mini Series?",
         "answers": [
-            "Rick and Morty"
+            "The Last of Us"
         ],
         "incorrect1": "",
         "incorrect2": "",
@@ -25,9 +25,9 @@
     },
     {
         "category": "Entertainment",
-        "question": "This historical drama series, which boasts a meticulously crafted wardrobe with costumes inspired by actual royal attire, features a different cast every two seasons to portray the aging of the characters. It chronicles the life of Queen Elizabeth II, from her early days as a young monarch to her later years as a seasoned head of state. It has garnered critical acclaim for its performances, historical accuracy, and lavish production values. What is the name of this Netflix series, which offers a fictionalized yet insightful look into the personal and political life of the British monarch?",
+        "question": "This band's debut album, recorded entirely by Dave Grohl in 1995, was a cathartic response to the tragic death of Kurt Cobain and the dissolution of Nirvana. Their music video for \"Learn to Fly,\" featuring the band members as wacky airline employees, won a Grammy Award for Best Short Form Music Video. They have been inducted into the Rock and Roll Hall of Fame, solidifying their status as one of the most influential rock bands of the 21st century. What is the name of this band, whose current lineup includes members like Nate Mendel, Chris Shiflett, and Taylor Hawkins' successor, Josh Freese?",
         "answers": [
-            "The Crown"
+            "Foo Fighters"
         ],
         "incorrect1": "",
         "incorrect2": "",
@@ -37,9 +37,9 @@
     },
     {
         "category": "Entertainment",
-        "question": "This band's iconic 1991 debut album, Ten, featuring songs like \"Alive\" and \"Jeremy,\" propelled them to stardom as leaders of the grunge movement. They famously boycotted Ticketmaster in the mid-1990s, protesting the company's service fees and perceived monopoly on concert ticket sales.  They have released eleven studio albums and continue to tour extensively, maintaining a dedicated fanbase known for their fervent energy and sing-alongs.  What is the name of this Seattle-based rock band, whose music has become synonymous with the grunge era and alternative rock?",
+        "question": "This coming-of-age film, set during a Saturday detention session, features students from different cliques who learn to connect.  The film's iconic ending, with the characters raising their fists in triumph as Simple Minds' \"Don't You (Forget About Me)\" plays, has become a symbol of teenage rebellion and self-discovery.  The film's cast, including Emilio Estevez, Anthony Michael Hall, Judd Nelson, Molly Ringwald, and Ally Sheedy, became known as the \"Brat Pack\" and represented a generation of young actors in 1980s films.  What is the title of this 1985 film directed by John Hughes?",
         "answers": [
-            "Pearl Jam"
+            "The Breakfast Club"
         ],
         "incorrect1": "",
         "incorrect2": "",
@@ -49,10 +49,9 @@
     },
     {
         "category": "Entertainment",
-        "question": "This iconic video game character, created by Shigeru Miyamoto, made his debut in the 1981 arcade game Donkey Kong under the name \"Jumpman.\"  His signature red and blue outfit and his ability to grow larger by consuming a Super Mushroom have become instantly recognizable symbols of the gaming world.  He has appeared in over 200 video games including various sports and party games. Who is this beloved character, known for his adventures in the Mushroom Kingdom and his battles against Bowser to rescue Princess Peach?",
+        "question": "This comedy series, known for its improvisational style and cringeworthy humor, features a semi-fictionalized version of its creator and star, Larry David, as he navigates social situations with his signature neurotic and often inappropriate behavior. The show's \"no hugging, no learning\" rule, established by Larry, reflects his aversion to physical affection and his resistance to personal growth. What is the name of this HBO series, which has been praised for its sharp wit and satirical take on social norms?",
         "answers": [
-            "Super Mario",
-            "Mario"
+            "Curb Your Enthusiasm"
         ],
         "incorrect1": "",
         "incorrect2": "",
@@ -62,9 +61,9 @@
     },
     {
         "category": "Entertainment",
-        "question": "This classic fantasy film features a memorable duel of wits between the protagonist, Westley, and the villainous Vizzini, who engage in a battle of intellect while sipping from poisoned goblets.  The film's iconic line, \"Hello. My name is Inigo Montoya. You killed my father. Prepare to die,\" spoken by Mandy Patinkin's character, has become a beloved quote among fans.  The film's story is framed as a grandfather reading a book to his grandson, adding a heartwarming layer to the adventure.  What is the title of this 1987 film directed by Rob Reiner, known for its blend of humor, romance, and swashbuckling action?",
+        "question": "This anthology series explores the dark side of technology and its impact on society. One episode depicts a dystopian world where people rate each other in real-time, creating a social hierarchy based on scores. Its creator envisioned it as a modern-day \"Twilight Zone,\" tackling themes of social media, artificial intelligence, and virtual reality. What is the name of this Netflix series, known for its unsettling and thought-provoking stories?",
         "answers": [
-            "The Princess Bride"
+            "Black Mirror"
         ],
         "incorrect1": "",
         "incorrect2": "",
@@ -74,9 +73,9 @@
     },
     {
         "category": "Entertainment",
-        "question": "This animated sitcom's long-running gag, featuring a drawn-out fight scene between Peter Griffin and Ernie the Giant Chicken, often interrupts the show's narrative with absurd and over-the-top violence.  The show's creators, Seth MacFarlane, also voices several of the main characters, including Peter Griffin, Brian Griffin, and Stewie Griffin. The show's cutaway gags, often featuring non-sequitur jokes and pop culture references, have become a signature element of its humor. What is the name of this animated sitcom, known for its irreverent and often controversial humor?",
+        "question": "This long-running video game franchise, known for its open-world environments and controversial content, allows players to explore fictional cities like Liberty City, Vice City, and San Andreas, inspired by real-world locations.  The series has sparked debate and criticism for its depiction of violence, crime, and mature themes.  Its latest installment, released in 2013, became one of the best-selling video games of all time, generating over $8 billion in revenue.  What is the name of this controversial yet popular franchise, developed by Rockstar Games?",
         "answers": [
-            "Family Guy"
+            "Grand Theft Auto"
         ],
         "incorrect1": "",
         "incorrect2": "",

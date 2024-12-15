@@ -1,9 +1,9 @@
 [
     {
         "category": "Sports",
-        "question": "This driver recently secured his fourth Formula One driver's champhionship. Known for his aggressive driving style and overtaking prowess, this driver the record for the most wins in a single Formula One season, achieving 15 victories in 2022. He became the youngest driver to compete in Formula One at the age of 17, making his debut with Toro Rosso in 2015. He is the son of former Formula One driver Jos Verstappen, who competed in the sport in the 1990s. He won his first Formula One World Championship in 2021 in a dramatic final race, overtaking Lewis Hamilton on the last lap. Who is this Belgian-Dutch driver, currently racing for Red Bull Racing?",
+        "question": "This country, the first from the Middle East to host the FIFA Women's World Cup in 2026, will again make history by hosting the men's tournament in 2034.  Known for its vast deserts and the holy city of Mecca, it has invested heavily in sports infrastructure and tourism in recent years.  The country's bid was unopposed, reflecting its growing influence in the world of sports.  What is this nation, the largest in the Arabian Peninsula?",
         "answers": [
-            "Max Verstappen"
+            "Saudi Arabia"
         ],
         "incorrect1": "",
         "incorrect2": "",
@@ -13,9 +13,10 @@
     },
     {
         "category": "Sports",
-        "question": "This hockey player has won three Stanley Cups with the Penguins, solidifying his status as one of the greatest players of his generation. Nicknamed \"Sid the Kid,\" he led his team to a gold medal victory at the 2010 Vancouver Olympics, scoring the game-winning goal in overtime against the United States. He was drafted first overall by the Pittsburgh Penguins in the 2005 NHL Entry Draft, and has become the face of the franchise. Who is this Canadian hockey superstar, often considered one of the best to ever play the game? ",
+        "question": "The two-way sensation Travis Hunter recently took home this prestigious college football award. This award, whose first recipient was Jay Berwanger from the University of Chicago in 1935, is given annually to the most outstanding player in college football.  The trophy's distinctive pose, with a player stiff-arming a defender, was inspired by Ed Smith, a former New York University player who modeled for the trophy's sculptor.  The award ceremony is held in New York City, and the winner is chosen by a nationwide panel of sports journalists and former winners.  What is the name of this prestigious award, considered the highest individual honor in college football?",
         "answers": [
-            "Sidney Crosby"
+            "Heisman Trophy",
+            "Heisman"
         ],
         "incorrect1": "",
         "incorrect2": "",
@@ -25,10 +26,9 @@
     },
     {
         "category": "Sports",
-        "question": "This manager, knighted in 1999 for his services to football, holds the record for the most Premier League titles, with 13 wins to his name, all with the same club. He famously used a \"hairdryer treatment\" to motivate his players, delivering a passionate and intense scolding when necessary. He managed Aberdeen to a European Cup Winners' Cup victory in 1983, a rare feat for a Scottish team. He retired from management in 2013, after leading Manchester United to a 20th league title. Who is this legendary Scottish manager, known for his fiery personality and his unparalleled success with Manchester United?",
+        "question": "This hockey player, known for his powerful one-timer shot and his exuberant goal celebrations, surpassed Gordie Howe in 2022 to become the NHL's second all-time leading goal scorer. He was drafted first overall by the Washington Capitals in the 2004 NHL Entry Draft and has become the face of the franchise. He led the Capitals to their first Stanley Cup victory in 2018, cementing his legacy as one of the greatest goal scorers in NHL history. Who is this Russian hockey superstar, nicknamed \"The Great Eight\"?",
         "answers": [
-            "Alex Ferguson",
-            "Sir Alex Ferguson"
+            "Alex Ovechkin"
         ],
         "incorrect1": "",
         "incorrect2": "",
@@ -38,10 +38,9 @@
     },
     {
         "category": "Sports",
-        "question": "This team's iconic mascot, Mr. Redlegs, a mustachioed gentleman with a handlebar mustache and a pillbox hat, has been entertaining fans since 1955. Their home stadium, Great American Ball Park, features a unique smokestack that shoots fireworks after every home run. They were the first professional baseball team, founded in 1869. They have won five World Series titles, including back-to-back championships in 1975 and 1976 as part of the \"Big Red Machine\" dynasty. What is the name of this National League team, based in Cincinnati, Ohio?",
+        "question": "This skiier recently returned from her retirement in 2019. This athlete, the most successful American woman in alpine skiing history, holds the record for the most World Cup wins by a female skier with 82 victories.  She overcame numerous injuries throughout her career, including a devastating crash at the 2013 World Championships that nearly ended her career.  She won three Olympic medals, including a gold in downhill at the 2010 Vancouver Games.  She is also known for her high-profile relationship with golfer Tiger Woods. Name this alpine skiing legend.",
         "answers": [
-            "Cincinnati Reds",
-            "Reds"
+            "Lindsey Vonn"
         ],
         "incorrect1": "",
         "incorrect2": "",
@@ -51,9 +50,9 @@
     },
     {
         "category": "Sports",
-        "question": "This athlete's historic four gold medals at the 1936 Berlin Olympics defied Hitler's propaganda of Aryan supremacy and made him a global symbol of athletic excellence and human resilience.  He achieved the remarkable feat of setting three world records and tying another in a single hour at the 1935 Big Ten track meet. His victories in the 100-meter and 200-meter dashes, along with the long jump and 4x100-meter relay, showcased his exceptional speed and athleticism.  Who was this legendary track and field star, whose accomplishments transcended sports and became a powerful statement against racial discrimination?",
+        "question": "This basketball player, known for his smooth scoring ability and clutch performances, led Duke University to the NCAA tournament as a freshman before being drafted third overall by the Boston Celtics in 2017. He earned the Eastern Conference Finals MVP award in 2022, leading the Celtics to the NBA Finals. He won his first title in 2024. He is a five-time NBA All-Star and has been named to the All-NBA First Team thrice. Name this star of of the Boston Celtics.",
         "answers": [
-            "Jesse Owens"
+            "Jayson Tatum"
         ],
         "incorrect1": "",
         "incorrect2": "",
@@ -63,9 +62,9 @@
     },
     {
         "category": "Sports",
-        "question": "This basketball legend's Oscar-winning short film, \"Dear Basketball,\"  was a heartfelt ode to the sport he loved. He famously scored 81 points against the Toronto Raptors in 2006, the second-highest single-game point total in NBA history. His \"Black Mamba\" nickname reflected his killer instinct and relentless pursuit of victory on the court. He spent his entire 20-season career with the Los Angeles Lakers, winning five NBA championships and becoming a global icon. Who is this basketball superstar, tragically killed in a helicopter crash in 2020?",
+        "question": "This tennis player, became the youngest ATP 500 champion in history when he won the 2021 Citi Open in Washington, D.C. at the age of 19.  He is the first player born in the 2000s to reach the quarterfinals of all four Grand Slam tournaments. He is also an accomplished skier, having won a national championship in giant slalom at the age of 13 before focusing on tennis. He tested positive for performance enhancing drugs in 2024 but was cleared. Name this rising Italian tennis star who won 2 Grand Slam titles in 2024.",
         "answers": [
-            "Kobe Bryant"
+            "Jannik Sinner"
         ],
         "incorrect1": "",
         "incorrect2": "",
@@ -75,10 +74,11 @@
     },
     {
         "category": "Sports",
-        "question": "This team has a historic rivalry with the Houston Astros, a matchup that often ignites passionate fan bases in the Lone Star State.  They made their first World Series appearance in 2010, falling to the San Francisco Giants, and then again in 2011, where they lost to the St. Louis Cardinals. They won their only World Series in 2023, defeating the Arizona Diamondbacks.  What is the name of this Major League Baseball team, based in Arlington, Texas?",
+        "question": "This college's football team, known for its iconic blue turf field nicknamed \"The Blue,\" pulled off a stunning upset in the 2007 Fiesta Bowl, defeating the Oklahoma Sooners with a series of trick plays, including the \"Statue of Liberty\" play for a game-winning two-point conversion.  They have won six conference championships since joining the Mountain West Conference in 2011. Name this Broncos team who is currently led by record-breaking running back Ashton Jeanty.",
         "answers": [
-            "Texas Rangers",
-            "Rangers"
+            "Boise State",
+            "Boise State University",
+            "BSU"
         ],
         "incorrect1": "",
         "incorrect2": "",

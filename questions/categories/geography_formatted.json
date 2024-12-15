@@ -1078,7 +1078,7 @@
         "answers": [
             "Appalachian Mountains [accept Appalachians]"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Geography",
@@ -1087,7 +1087,7 @@
         "answers": [
             "Grand Canyon National Park"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Geography",
@@ -1096,7 +1096,7 @@
         "answers": [
             "Toronto"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Geography",
@@ -1105,7 +1105,7 @@
         "answers": [
             "Colorado River"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Geography",
@@ -1114,7 +1114,7 @@
         "answers": [
             "Danube River [or Donau, Dunaj, or Dunay]"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Geography",
@@ -1123,7 +1123,7 @@
         "answers": [
             "Yellowstone National Park"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Geography",
@@ -1132,7 +1132,7 @@
         "answers": [
             "English Channel (accept English Channel after \"channel\" is read; accept The Channel before \"channel\" is read)"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Geography",
@@ -1141,7 +1141,7 @@
         "answers": [
             "Alaska"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Geography",
@@ -1150,7 +1150,7 @@
         "answers": [
             "Hong Kong [or Hsiang-kang; or Xianggang Tebie Xingzhenqqu]"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Geography",
@@ -1159,7 +1159,7 @@
         "answers": [
             "Nile River"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Geography",
@@ -1168,7 +1168,7 @@
         "answers": [
             "Yellowstone National Park (prompt on \"Wyoming\" until \"this park\" is read)"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Geography",
@@ -1177,7 +1177,7 @@
         "answers": [
             "Greece [or the Hellenic Republic or Hellas or Ellada or Elliniki Dimokratia]"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Geography",
@@ -1186,7 +1186,7 @@
         "answers": [
             "Ural Mountains or Uralskiye gory"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Geography",
@@ -1195,7 +1195,7 @@
         "answers": [
             "skyscraper [prompt on building; prompt on tower]"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Geography",
