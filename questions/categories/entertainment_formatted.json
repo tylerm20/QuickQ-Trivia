@@ -1,9 +1,9 @@
 [
     {
         "category": "Entertainment",
-        "question": "This film's innovative dolly zoom, a camera technique that creates a disorienting sense of vertigo, was used to visually convey the protagonist's acrophobia.  The film's score, composed by Bernard Herrmann, features haunting and romantic themes that heighten the suspense and melodrama.  The film's plot revolves around a retired detective, Scottie Ferguson, who becomes obsessed with a mysterious woman named Madeleine Elster.  What is the title of this 1958 psychological thriller directed by Alfred Hitchcock?",
+        "question": "This video game, set in the American West in 1911, follows the story of John Marston, a former outlaw forced to hunt down his old gang members to protect his family.  The game's open world environment allows players to explore vast landscapes, from snow-capped mountains to arid deserts, encountering wildlife and engaging in various activities like hunting, gambling, and bounty hunting.  Its sequel, released in 2018, delves into the gang's backstory and features a new protagonist, Arthur Morgan.  What is the name of this critically acclaimed Western-themed action-adventure game developed by Rockstar Games?",
         "answers": [
-            "Vertigo"
+            "Red Dead Redemption"
         ],
         "incorrect1": "",
         "incorrect2": "",
@@ -13,9 +13,9 @@
     },
     {
         "category": "Entertainment",
-        "question": "This post-apocalyptic action-adventure game, set 20 years after a fungal pandemic has ravaged the world, features a hardened smuggler named Joel who is tasked with escorting a teenage girl named Ellie across a desolate United States.  The game's emotional narrative and realistic graphics, powered by the PlayStation 3's capabilities, created a cinematic and immersive experience.  Its sequel, released in 2020, continued the story and explored themes of revenge, forgiveness, and the enduring bonds of love and loyalty.  What is the name of this critically acclaimed game, which was turned into an HBO Mini Series?",
+        "question": "This film, set in a dystopian future Britain ruled by a totalitarian regime, features a masked vigilante who blows up the Houses of Parliament on November 5th, a date commemorating the historical Gunpowder Plot. The film's protagonist played by Hugo Weaving, is a skilled swordsman and master of disguise who seeks to overthrow the oppressive government. The film's iconic Guy Fawkes mask, worn by V, has become a symbol of rebellion and anti-establishment movements worldwide. What is the title of this 2005 film, based on the graphic novel by Alan Moore and David Lloyd?",
         "answers": [
-            "The Last of Us"
+            "V for Vendetta"
         ],
         "incorrect1": "",
         "incorrect2": "",
@@ -25,9 +25,10 @@
     },
     {
         "category": "Entertainment",
-        "question": "This band's debut album, recorded entirely by Dave Grohl in 1995, was a cathartic response to the tragic death of Kurt Cobain and the dissolution of Nirvana. Their music video for \"Learn to Fly,\" featuring the band members as wacky airline employees, won a Grammy Award for Best Short Form Music Video. They have been inducted into the Rock and Roll Hall of Fame, solidifying their status as one of the most influential rock bands of the 21st century. What is the name of this band, whose current lineup includes members like Nate Mendel, Chris Shiflett, and Taylor Hawkins' successor, Josh Freese?",
+        "question": "This franchise's iconic mascot, Pikachu, an electric mouse known for its lightning bolt-shaped tail, has become a global phenomenon, appearing in countless merchandise and spin-offs. Its first video game installments, Red and Green, were released in Japan in 1996 for the Game Boy, introducing the core gameplay mechanics of catching, training, and battling. The franchise has expanded to include a popular anime series, trading cards, toys, and numerous other products. What is the name of this multimedia franchise, centered around fictional creatures with unique abilities and elemental powers?",
         "answers": [
-            "Foo Fighters"
+            "Pok\u00e9mon",
+            "Pokemon"
         ],
         "incorrect1": "",
         "incorrect2": "",
@@ -37,9 +38,9 @@
     },
     {
         "category": "Entertainment",
-        "question": "This coming-of-age film, set during a Saturday detention session, features students from different cliques who learn to connect.  The film's iconic ending, with the characters raising their fists in triumph as Simple Minds' \"Don't You (Forget About Me)\" plays, has become a symbol of teenage rebellion and self-discovery.  The film's cast, including Emilio Estevez, Anthony Michael Hall, Judd Nelson, Molly Ringwald, and Ally Sheedy, became known as the \"Brat Pack\" and represented a generation of young actors in 1980s films.  What is the title of this 1985 film directed by John Hughes?",
+        "question": "This epic fantasy trilogy's fictional language, Quenya, was created by their author, a philologist and professor of Anglo-Saxon. The One Ring, an artifact of immense power, bears the inscription of Black Speech that translates to \"One ring to rule them all, one ring to find them, one ring to bring them all and in the darkness bind them.\" The story follows the hobbit Frodo Baggins on his quest to destroy the One Ring, an artifact of immense power coveted by the Dark Lord Sauron. What is the title of this fantasy epic, which has been adapted into award-winning films directed by Peter Jackson?",
         "answers": [
-            "The Breakfast Club"
+            "Lord of the Rings"
         ],
         "incorrect1": "",
         "incorrect2": "",
@@ -49,9 +50,9 @@
     },
     {
         "category": "Entertainment",
-        "question": "This comedy series, known for its improvisational style and cringeworthy humor, features a semi-fictionalized version of its creator and star, Larry David, as he navigates social situations with his signature neurotic and often inappropriate behavior. The show's \"no hugging, no learning\" rule, established by Larry, reflects his aversion to physical affection and his resistance to personal growth. What is the name of this HBO series, which has been praised for its sharp wit and satirical take on social norms?",
+        "question": "This fantasy series' protagonist, whose middle name is James, shares his birthday with his creator, July 31st.  The series' iconic villain whose name is an anagram for \"Tom Marvolo Riddle,\" fears death and seeks immortality through dark magic.  The series' magical creatures, like house-elves and hippogriffs, are inspired by folklore and mythology.  What is the name of this beloved series, which follows a young wizard's journey through Hogwarts School of Witchcraft and Wizardry?",
         "answers": [
-            "Curb Your Enthusiasm"
+            "Harry Potter"
         ],
         "incorrect1": "",
         "incorrect2": "",
@@ -61,9 +62,9 @@
     },
     {
         "category": "Entertainment",
-        "question": "This anthology series explores the dark side of technology and its impact on society. One episode depicts a dystopian world where people rate each other in real-time, creating a social hierarchy based on scores. Its creator envisioned it as a modern-day \"Twilight Zone,\" tackling themes of social media, artificial intelligence, and virtual reality. What is the name of this Netflix series, known for its unsettling and thought-provoking stories?",
+        "question": "This romantic comedy features a memorable scene in a crowded deli, leading to the iconic line, \"I'll have what she's having.\" The film's central question, \"Can men and women ever just be friends?\", is explored through the evolving relationship between Harry Burns and Sally Albright. The film's soundtrack, featuring classic jazz standards by Harry Connick Jr., adds to its romantic and nostalgic atmosphere. What is the title of this 1989 film directed by Rob Reiner?",
         "answers": [
-            "Black Mirror"
+            "When Harry Met Sally"
         ],
         "incorrect1": "",
         "incorrect2": "",
@@ -73,9 +74,10 @@
     },
     {
         "category": "Entertainment",
-        "question": "This long-running video game franchise, known for its open-world environments and controversial content, allows players to explore fictional cities like Liberty City, Vice City, and San Andreas, inspired by real-world locations.  The series has sparked debate and criticism for its depiction of violence, crime, and mature themes.  Its latest installment, released in 2013, became one of the best-selling video games of all time, generating over $8 billion in revenue.  What is the name of this controversial yet popular franchise, developed by Rockstar Games?",
+        "question": "This classic Thanksgiving comedy features a memorable scene where the two main characters, stuck sharing a cramped motel room with only one double bed, end up sleeping head-to-toe in an awkward embrace. The film's mismatched duo, Neal Page, a high-strung businessman, and Del Griffith, a boisterous shower curtain ring salesman, endure a series of misadventures as they try to get home for the holiday.  Their disastrous journey involves a rental car that catches fire, a stolen car that gets towed, and a train ride with uncomfortable seating arrangements. What is the title of this 1987 film directed by John Hughes?",
         "answers": [
-            "Grand Theft Auto"
+            "Planes",
+            " Trains and Automobiles"
         ],
         "incorrect1": "",
         "incorrect2": "",

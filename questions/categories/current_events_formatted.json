@@ -1,9 +1,9 @@
 [
     {
         "category": "Current Events",
-        "question": "Luigi Mangione, the suspected shooter of UnitedHealthcare CEO in Manhattan, was arrested at a McDonald's in this state. He was found in the city of Altoona after being identified by a civilian. This state is home to the highest point in the eastern United States east of the Mississippi River, Mount Davis, which peaks at 3,213 feet above sea level. The Susquehanna River, the longest river on the American East Coast, flows through the state, providing a vital waterway for transportation and recreation. Name this \"Keystone State\" that is bordered by New York, New Jersey, Delaware, Maryland, West Virginia, and Ohio.",
+        "question": "Some delivery drivers for this company went on strike from December 20-24, 2024 at the peak of Christmas package season. The drivers were part of the Teamsters union which only represents a small fraction of the company's more than 70,000 employees. This company's logo features an arrow pointing from A to Z, symbolizing its vast selection and its goal to deliver everything to everyone. Its founder initially envisioned the company as an online bookstore named Cadabra. Its headquarters, located in Seattle, Washington, features unique biodome spheres that house thousands of plants from around the world. It has expanded beyond e-commerce to become a major player in cloud computing, artificial intelligence, and entertainment. What is the name of this multinational technology company founded by Jeff Bezos?",
         "answers": [
-            "Pennsylvania "
+            "Amazon"
         ],
         "incorrect1": "",
         "incorrect2": "",
@@ -13,9 +13,9 @@
     },
     {
         "category": "Current Events",
-        "question": "A federal judge blocked a merger between Albertsons and this grocery chain. Albertsons then pulled out of the deal and sued this grocer. The company, the largest supermarket chain in the United States by revenue, operates over 2,700 stores in 35 states. It is headquartered in Cincinnati, Ohio, and its history traces back to 1883 when Barney Kroger invested his life savings to open a grocery store in downtown Cincinnati. What is the name of this supermarket giant, known for its customer loyalty programs and its \"Our Brands\" product line?",
+        "question": "This North American chain of stores announced in December 2024 it will close all of its 800+ locations. This company, known for its vast assortment of party supplies and costumes, filed for bankruptcy in January 2023, facing challenges from online retailers and shifting consumer trends. Its iconic retail stores, often adorned with colorful balloons and festive decorations, have been a staple for party planners and last-minute shoppers. Name this company that is the largest retailer of party goods in Canada, Puerto Rico, and Mexico.",
         "answers": [
-            "Kroger"
+            "Party City"
         ],
         "incorrect1": "",
         "incorrect2": "",
@@ -25,11 +25,9 @@
     },
     {
         "category": "Current Events",
-        "question": "Time Magazine recently named this man their \"Person of the Year\". This man made history this year by being the first person since Grover Cleveland to win non-consecutive presidential elections. Name this real estate developer turned politician who is known for this Mar-a-Lago club in Florida.",
+        "question": "US workers at this coffee chain ended a five-day strike on Christmas Day 2024. The company's origins trace back to 1971, when it was founded in Seattle's Pike Place Market, selling coffee beans and brewing equipment. It has since expanded to over 33,000 stores in 80 countries, becoming a global coffeehouse giant. This company, whose logo features a siren from Greek mythology, introduced the Frappuccino, a blended iced coffee drink, in 1995, and it quickly became a signature offering and cultural phenomenon. Name this worldwide coffee chain.",
         "answers": [
-            "Donald J. Trump",
-            "Trump",
-            "Donald Trump"
+            "Starbucks"
         ],
         "incorrect1": "",
         "incorrect2": "",
@@ -39,9 +37,9 @@
     },
     {
         "category": "Current Events",
-        "question": "At age 18, Gukesh Dommaraju recently became the youngest world champion of this game. This game, whose earliest predecessor is believed to be chaturanga, which originated in India before the 6th century CE, features pieces with names derived from Persian words, such as \"shah\" for king and \"rukh\" for chariot.  The longest recorded game, \"The Evergreen Game\" played in 1852, lasted 20 hours and 15 minutes and ended in a draw after 147 moves.  Its modern form evolved in Europe during the 15th century, with standardized rules and the introduction of the powerful queen piece. Name this strategic board game.",
+        "question": "An Azerbaijan Airlines flight recently crashed in this country, killing 38 people on December 25, 2024. Azerbaijan has since claimed the plane was shot down by Russian air defense systems. This country, the largest landlocked country in the world, is home to the Baikonur Cosmodrome, the world's first and largest operational space launch facility. Its capital city, Astana, boasts futuristic architecture, including the Baiterek Tower, a 97-meter-tall observation tower with a golden orb symbolizing a mythical bird's egg. It is also the world's largest producer of uranium and a significant exporter of oil and gas. What is this Central Asian nation, known for its vast steppes, nomadic traditions, and the hit film \"Borat\"?",
         "answers": [
-            "Chess"
+            "Kazakhstan"
         ],
         "incorrect1": "",
         "incorrect2": "",
@@ -51,9 +49,9 @@
     },
     {
         "category": "Current Events",
-        "question": "This man recently fled to Moscow after rebels took control of the Damascus, Syria. His father was the president of Syria from 1971-2000. This man then took his father's office in 2000 and served in the role until he was forced to flee by rebel forces. Name this son of Hafez al-Assad who has been accused of war crimes during the Syrian Civil War.",
+        "question": "Israel launched an attack against the Houthi rebels in this nation. This country, located on the southern tip of the Arabian Peninsula, is home to the ancient city of Sana'a, a UNESCO World Heritage Site known for its distinctive tower houses.  It is the poorest country in the Arab world, facing a devastating humanitarian crisis due to an ongoing civil war.  It is also where the \"Dragon's Blood Tree\" grows, a unique species with red sap that has been used for centuries for medicinal and dye purposes.  What is this country, known for its rich history and its ongoing conflict?",
         "answers": [
-            "Bashar al-Assad"
+            "Yemen"
         ],
         "incorrect1": "",
         "incorrect2": "",
@@ -63,11 +61,10 @@
     },
     {
         "category": "Current Events",
-        "question": "Christopher Wray announced he would step down as the leader of this agency at the beginning of 2025. This agency's Ten Most Wanted Fugitives list, established in 1950, has featured notorious criminals like Osama bin Laden and Ted Bundy. Its headquarters, the J. Edgar Hoover Building in Washington, D.C., is named after its first director, who led the agency for 48 years. It is responsible for investigating federal crimes, including terrorism, cybercrime, and organized crime. What is the name of this federal law enforcement agency?",
+        "question": "A Jeju Air Flight returning from Thailand recently crashed at Muan International Airport in this nation, killing 189 people. This country, known for its high-speed internet and tech-savvy population, is home to the Demilitarized Zone (DMZ), a heavily fortified border that separates it from its northern neighbor. Its capital city, Seoul, boasts a vibrant mix of modern skyscrapers and historic palaces, including the UNESCO-listed Changdeokgung Palace. It is also a global leader in the production of electronics and automobiles, with brands like Samsung and Hyundai recognized worldwide. What is this East Asian nation, known for its K-pop music, delicious kimchi, and innovative technology?",
         "answers": [
-            "FBI",
-            "F.B.I.",
-            "Federal Bureau of Investigation"
+            "South Korea",
+            "Republic of Korea"
         ],
         "incorrect1": "",
         "incorrect2": "",
@@ -77,9 +74,9 @@
     },
     {
         "category": "Current Events",
-        "question": "This artist recently complete her record-breaking \"Eras Tour\" which kicked off in March 2024. The tour featured a setlist spanning her entire music catalog, from her country beginnings to her pop anthems. The tour's elaborate stage design, costume changes, and surprise acoustic songs have delighted fans and critics alike. It has become the highest-grossing tour of all time by a female artist, surpassing Madonna's \"Sticky & Sweet Tour.\" The tour's opening night in Glendale, Arizona, led the city to temporarily rename itself \"Swift City\" in honor of the event. Who is this singer-songwriter?",
+        "question": "This US president died on December 29, 2024. He was a prolific writer, setting a record for most New York Times best-selling books by a president. However, fewer books were written about him than any other modern president. He was the oldest US president in history, dying at age 100. This man negociated the Camp David Accords between Egypt and Israel. Name this politician from Plains, Georgia who lost his reelection campaign to Ronald Reagan.",
         "answers": [
-            "Taylor Swift"
+            "Jimmy Carter"
         ],
         "incorrect1": "",
         "incorrect2": "",
