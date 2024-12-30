@@ -1218,7 +1218,7 @@
         "answers": [
             "Emily Dickinson (accept Emily Elizabeth Dickinson)"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Arts & Literature",
@@ -1227,7 +1227,7 @@
         "answers": [
             "Pandora"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Arts & Literature",
@@ -1236,7 +1236,7 @@
         "answers": [
             "Venus (prompt on \"Aphrodite\" before \"Roman\")"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Arts & Literature",
@@ -1245,7 +1245,7 @@
         "answers": [
             "dragons"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Arts & Literature",
@@ -1254,7 +1254,7 @@
         "answers": [
             "Five Pillars of Islam (accept arkan al-Islam or arkan al-din; anti-prompt by asking the player to be less specific on the specific pillars of \"shahadah\" or \"hajj;\" anti-prompt on the specific pillars of \"zakat,\" \"salat,\" or\"sawm\" before they are read)"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Arts & Literature",
@@ -1263,7 +1263,7 @@
         "answers": [
             "Brave New World"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Arts & Literature",
@@ -1272,7 +1272,7 @@
         "answers": [
             "Nineteen Eighty-Four"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Arts & Literature",
@@ -1281,7 +1281,7 @@
         "answers": [
             "baptism [or word forms such as baptize; prompt on descriptions of baptism]"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Arts & Literature",
@@ -1290,7 +1290,7 @@
         "answers": [
             "French"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Arts & Literature",
@@ -1299,7 +1299,7 @@
         "answers": [
             "Dionysus (accept Bacchus)"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Arts & Literature",
@@ -1308,7 +1308,7 @@
         "answers": [
             "Quetzalcoatl"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Arts & Literature",
@@ -1317,7 +1317,7 @@
         "answers": [
             "Isis (accept Aset, Eset, or Ese)"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Arts & Literature",
@@ -1326,7 +1326,7 @@
         "answers": [
             "Uncle Tom's Cabin"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Arts & Literature",
@@ -1335,7 +1335,7 @@
         "answers": [
             "King Arthur Pendragon"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Arts & Literature",

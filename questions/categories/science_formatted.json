@@ -1222,7 +1222,7 @@
         "answers": [
             "chlorophyll"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",
@@ -1231,7 +1231,7 @@
         "answers": [
             "flower [do not prompt on \"plant\"]"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",
@@ -1240,7 +1240,7 @@
         "answers": [
             "odd numbers"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",
@@ -1249,7 +1249,7 @@
         "answers": [
             "transfer RNA or tRNA"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",
@@ -1258,7 +1258,7 @@
         "answers": [
             "erosion"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",
@@ -1267,7 +1267,7 @@
         "answers": [
             "earthquakes"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",
@@ -1276,7 +1276,7 @@
         "answers": [
             "feldspar"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",
@@ -1285,7 +1285,7 @@
         "answers": [
             "LASER (accept light amplification by stimulated emission of radiation)"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",
@@ -1294,7 +1294,7 @@
         "answers": [
             "hemoglobin [or leghemoglobin]"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",
@@ -1303,7 +1303,7 @@
         "answers": [
             "Uranus"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",
@@ -1312,7 +1312,7 @@
         "answers": [
             "diagonal [accept Cantor's diagonal argument; accept diagonal matrix; accept main diagonal; do not accept \"face diagonal\"]"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",
@@ -1321,7 +1321,7 @@
         "answers": [
             "Vitamin D"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",
@@ -1330,7 +1330,7 @@
         "answers": [
             "Pascal's triangle"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",
@@ -1339,7 +1339,7 @@
         "answers": [
             "galaxy/ies"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",

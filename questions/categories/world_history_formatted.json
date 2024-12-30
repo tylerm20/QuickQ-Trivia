@@ -1215,7 +1215,7 @@
         "answers": [
             "Apartheid"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "World History",
@@ -1224,7 +1224,7 @@
         "answers": [
             "Pancho Villa [or Francisco Villa or Doroteo Arambula]"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "World History",
@@ -1233,7 +1233,7 @@
         "answers": [
             "Turkey [or Republic of Turkey or Turkiye or Turkiye Cumhuriyeti]"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "World History",
@@ -1242,7 +1242,7 @@
         "answers": [
             "Republic of Argentina"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "World History",
@@ -1251,7 +1251,7 @@
         "answers": [
             "Suez Canal [accept Suez Crisis]"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "World History",
@@ -1260,7 +1260,7 @@
         "answers": [
             "Qing Dynasty or Manchu Dynasty or Qingchao"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "World History",
@@ -1269,7 +1269,7 @@
         "answers": [
             "Indira Gandhi [prompt on \"Gandhi\"]"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "World History",
@@ -1278,7 +1278,7 @@
         "answers": [
             "Italy (accept Italian Republic)"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "World History",
@@ -1287,7 +1287,7 @@
         "answers": [
             "Justinian I (or Justinian the Great; prompt on \"Justinian\")"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "World History",
@@ -1296,7 +1296,7 @@
         "answers": [
             "Berlin (accept West Berlin)"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "World History",
@@ -1305,7 +1305,7 @@
         "answers": [
             "Russian Empire"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "World History",
@@ -1314,7 +1314,7 @@
         "answers": [
             "Thomas Hobbes (of Malmesbury)"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "World History",
@@ -1323,7 +1323,7 @@
         "answers": [
             "Hungary [or Magyarorszag]"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "World History",
@@ -1332,7 +1332,7 @@
         "answers": [
             "[Accept Via Appia]"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "World History",

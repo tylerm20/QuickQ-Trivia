@@ -1,9 +1,9 @@
 [
     {
         "category": "Sports",
-        "question": "This country, the first from the Middle East to host the FIFA Women's World Cup in 2026, will again make history by hosting the men's tournament in 2034.  Known for its vast deserts and the holy city of Mecca, it has invested heavily in sports infrastructure and tourism in recent years.  The country's bid was unopposed, reflecting its growing influence in the world of sports.  What is this nation, the largest in the Arabian Peninsula?",
+        "question": "This baseball legend passed away on December 20, 2024. He holds the Major League record for most career stolen bases, with an impressive 1,406 steals. He was a key member of the Oakland Athletics' 1989 World Series championship team, earning the World Series MVP award. He famously referred to himself in the third person, with quotes like \"Rickey's the best!\" becoming part of his charismatic persona. He also holds the record for most career runs scored, with 2,295 runs. Who is this Hall of Fame outfielder, often considered the greatest leadoff hitter of all time?",
         "answers": [
-            "Saudi Arabia"
+            "Rickey Henderson"
         ],
         "incorrect1": "",
         "incorrect2": "",
@@ -13,10 +13,9 @@
     },
     {
         "category": "Sports",
-        "question": "The two-way sensation Travis Hunter recently took home this prestigious college football award. This award, whose first recipient was Jay Berwanger from the University of Chicago in 1935, is given annually to the most outstanding player in college football.  The trophy's distinctive pose, with a player stiff-arming a defender, was inspired by Ed Smith, a former New York University player who modeled for the trophy's sculptor.  The award ceremony is held in New York City, and the winner is chosen by a nationwide panel of sports journalists and former winners.  What is the name of this prestigious award, considered the highest individual honor in college football?",
+        "question": "This American sportscaster recently passed away at age 78. The first African-American to host a major network's coverage of a Super Bowl, he has been a prominent voice in sports broadcasting for over four decades. He has covered a wide range of events, including the NCAA Men's Basketball Tournament, the NBA Finals, and the Olympic Games. He is known for his smooth delivery, insightful commentary, and professionalism. He is the older brother of another renowned broadcaster, Bryant Gumbel, who hosted NBC's \"Today\" show for many years. Who is this respected sportscaster?",
         "answers": [
-            "Heisman Trophy",
-            "Heisman"
+            "Greg Gumbel"
         ],
         "incorrect1": "",
         "incorrect2": "",
@@ -26,9 +25,9 @@
     },
     {
         "category": "Sports",
-        "question": "This hockey player, known for his powerful one-timer shot and his exuberant goal celebrations, surpassed Gordie Howe in 2022 to become the NHL's second all-time leading goal scorer. He was drafted first overall by the Washington Capitals in the 2004 NHL Entry Draft and has become the face of the franchise. He led the Capitals to their first Stanley Cup victory in 2018, cementing his legacy as one of the greatest goal scorers in NHL history. Who is this Russian hockey superstar, nicknamed \"The Great Eight\"?",
+        "question": "This athlete, known for his flamboyant personality and \"Prime Time\" nickname, is the only person to have played in both a Super Bowl and a World Series. He was a two-sport star, excelling in both football and baseball, playing for teams like the Atlanta Falcons, San Francisco 49ers, and Atlanta Braves. He was renowned for his exceptional speed, agility, and coverage skills as a cornerback and kick returner. He is also known for his high-stepping touchdown celebrations and his distinctive \"Prime Time\" dance. Who is this Hall of Fame athlete, who now serves as the football coach at Colorado University?",
         "answers": [
-            "Alex Ovechkin"
+            "Deion Sanders"
         ],
         "incorrect1": "",
         "incorrect2": "",
@@ -38,9 +37,9 @@
     },
     {
         "category": "Sports",
-        "question": "This skiier recently returned from her retirement in 2019. This athlete, the most successful American woman in alpine skiing history, holds the record for the most World Cup wins by a female skier with 82 victories.  She overcame numerous injuries throughout her career, including a devastating crash at the 2013 World Championships that nearly ended her career.  She won three Olympic medals, including a gold in downhill at the 2010 Vancouver Games.  She is also known for her high-profile relationship with golfer Tiger Woods. Name this alpine skiing legend.",
+        "question": "This former NFL quarterback was recently hired to be the head coach of Norfolk State's football team. He was the first quarterback in NFL history to rush for over 1,000 yards in a single season, achieving this feat in 2006. He was drafted first overall by the Atlanta Falcons in the 2001 NFL Draft, and quickly became a sensation with his highlight-reel plays and exciting style of play. However, his career was marred by controversy when he was convicted of dogfighting charges in 2007, serving 21 months in prison. He later returned to the NFL, playing for the Philadelphia Eagles, New York Jets, and Pittsburgh Steelers. Who is this quarterback, whose career was marked by both incredible talent and controversy?",
         "answers": [
-            "Lindsey Vonn"
+            "Michael Vick"
         ],
         "incorrect1": "",
         "incorrect2": "",
@@ -50,9 +49,10 @@
     },
     {
         "category": "Sports",
-        "question": "This basketball player, known for his smooth scoring ability and clutch performances, led Duke University to the NCAA tournament as a freshman before being drafted third overall by the Boston Celtics in 2017. He earned the Eastern Conference Finals MVP award in 2022, leading the Celtics to the NBA Finals. He won his first title in 2024. He is a five-time NBA All-Star and has been named to the All-NBA First Team thrice. Name this star of of the Boston Celtics.",
+        "question": "This team's iconic orange, blue, and white jerseys, a tribute to their provincial flag, have become synonymous with a dynasty that dominated the NHL in the 1980s. They have won five Stanley Cups, all between 1984 and 1990, led by Wayne Gretzky, often considered the greatest hockey player of all time.  Their current captain, Connor McDavid, is a generational talent who has already won multiple scoring titles and MVP awards.  What is the name of this team, based in Edmonton, Alberta?",
         "answers": [
-            "Jayson Tatum"
+            "Edmonton Oilers",
+            "Oilers"
         ],
         "incorrect1": "",
         "incorrect2": "",
@@ -62,9 +62,10 @@
     },
     {
         "category": "Sports",
-        "question": "This tennis player, became the youngest ATP 500 champion in history when he won the 2021 Citi Open in Washington, D.C. at the age of 19.  He is the first player born in the 2000s to reach the quarterfinals of all four Grand Slam tournaments. He is also an accomplished skier, having won a national championship in giant slalom at the age of 13 before focusing on tennis. He tested positive for performance enhancing drugs in 2024 but was cleared. Name this rising Italian tennis star who won 2 Grand Slam titles in 2024.",
+        "question": "This team's home arena, FLA Live Arena, located in Sunrise, Florida, has witnessed memorable moments like their thrilling run to the Stanley Cup Finals in 1996, where they ultimately fell to the Colorado Avalanche. They are known for their \"Leap\" tradition, where players jump into the glass after playoff victories, celebrating with their passionate fanbase. This team won their first Stanley Cup in 2024 defeating the Edmonton Oilers. What is the name of this team, whose history includes a memorable \"rat trick\" celebration led by Scott Mellanby in 1995?",
         "answers": [
-            "Jannik Sinner"
+            "Florida Panthers",
+            "Panthers"
         ],
         "incorrect1": "",
         "incorrect2": "",
@@ -74,11 +75,10 @@
     },
     {
         "category": "Sports",
-        "question": "This college's football team, known for its iconic blue turf field nicknamed \"The Blue,\" pulled off a stunning upset in the 2007 Fiesta Bowl, defeating the Oklahoma Sooners with a series of trick plays, including the \"Statue of Liberty\" play for a game-winning two-point conversion.  They have won six conference championships since joining the Mountain West Conference in 2011. Name this Broncos team who is currently led by record-breaking running back Ashton Jeanty.",
+        "question": "This footballer, known for his signature \"meditation\" goal celebration, where he kneels and touches his forehead to the ground, became Liverpool's all-time leading Premier League goal scorer in 2023, surpassing Robbie Fowler's record.  He has won the Premier League Golden Boot award, given to the league's top scorer, three times.  He played a key role in Liverpool's Champions League victory in 2019 and their Premier League title win in 2020.  Who is this Egyptian forward, known for his blistering pace and clinical finishing?",
         "answers": [
-            "Boise State",
-            "Boise State University",
-            "BSU"
+            "Mohamed Salah",
+            "Mo Salah"
         ],
         "incorrect1": "",
         "incorrect2": "",
