@@ -1348,7 +1348,7 @@
         "answers": [
             "testosterone"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",
@@ -1357,7 +1357,7 @@
         "answers": [
             "distance [accept length; accept distance modulus]"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",
@@ -1366,7 +1366,7 @@
         "answers": [
             "parabola [prompt on quadratic until mention]"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",
@@ -1375,7 +1375,7 @@
         "answers": [
             "(perfect) square numbers or perfect squares [accept nsquared or similar answers; accept nto the second power or nto the power of 2]"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",
@@ -1384,7 +1384,7 @@
         "answers": [
             "wavelength"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",
@@ -1393,7 +1393,7 @@
         "answers": [
             "John Maynard Keynes"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",
@@ -1402,7 +1402,7 @@
         "answers": [
             "Escherichia coli [prompt on Bacillus coli communis]"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",
@@ -1411,7 +1411,7 @@
         "answers": [
             "Tyrannosaurus rex [accept T. rex]"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",
@@ -1420,7 +1420,7 @@
         "answers": [
             "180"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",
@@ -1429,7 +1429,7 @@
         "answers": [
             "Archimedes of Syracuse"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",
@@ -1438,7 +1438,7 @@
         "answers": [
             "igneous rocks"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",
@@ -1447,7 +1447,7 @@
         "answers": [
             "mass (accept inertial or gravitational mass until mentioned and prompt thereafter, accept Planck mass; do not accept or prompt weight)"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",
@@ -1456,7 +1456,7 @@
         "answers": [
             "Python"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",
@@ -1465,7 +1465,7 @@
         "answers": [
             "4 slices of pizza"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",
@@ -1474,7 +1474,7 @@
         "answers": [
             "Michael Faraday"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",
@@ -1483,7 +1483,7 @@
         "answers": [
             "glucose [accept sugar; accept blood glucose level; accept blood sugar level]"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",
@@ -1492,7 +1492,7 @@
         "answers": [
             "echinoderms [or echinodermata]"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",
@@ -1501,7 +1501,7 @@
         "answers": [
             "vaccines [or types of vaccines, like polio vaccines or MMR vaccines]"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",
@@ -1510,7 +1510,7 @@
         "answers": [
             "Python"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",
@@ -1519,7 +1519,7 @@
         "answers": [
             "earthquakes"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",
@@ -1528,7 +1528,7 @@
         "answers": [
             "lanthanum"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",
@@ -1537,7 +1537,7 @@
         "answers": [
             "density"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",
@@ -1546,7 +1546,7 @@
         "answers": [
             "momentum (accept linear momentum; prompt on \"p\" before it is read)"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",
@@ -1555,7 +1555,7 @@
         "answers": [
             "pH [or power of hydrogen or power of HS+S or potential of hydrogen; do not accept or prompt on \"pOH\"]"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",
@@ -1564,7 +1564,7 @@
         "answers": [
             "transition metals (accept transition elements; accept copper before \"lanthanides\"; prompt on metals)"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",
@@ -1573,7 +1573,7 @@
         "answers": [
             "vertical (accept vertical lines; accept vertical line test; accept vertical asymptotes)"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",
@@ -1582,7 +1582,7 @@
         "answers": [
             "atoms SCOP B  Round 7 Page 2 of 4"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",
@@ -1591,7 +1591,7 @@
         "answers": [
             "hurricanes (accept tropical cyclone before mentioned; prompt tropical storm)"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",
@@ -1600,7 +1600,7 @@
         "answers": [
             "cosine"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",
