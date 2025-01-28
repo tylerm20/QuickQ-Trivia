@@ -1331,7 +1331,7 @@
         "answers": [
             "Norway"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Geography",
@@ -1340,7 +1340,7 @@
         "answers": [
             "Iowa"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Geography",
@@ -1349,7 +1349,7 @@
         "answers": [
             "Hawai'i"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Geography",
@@ -1358,7 +1358,7 @@
         "answers": [
             "Persian Gulf"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Geography",
@@ -1367,7 +1367,7 @@
         "answers": [
             "Republic of Madagascar"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Geography",
@@ -1376,7 +1376,7 @@
         "answers": [
             "Black Sea"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Geography",
@@ -1385,7 +1385,7 @@
         "answers": [
             "Thames River"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Geography",
@@ -1394,7 +1394,7 @@
         "answers": [
             "Atlas Mountains"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Geography",
@@ -1403,7 +1403,7 @@
         "answers": [
             "New Mexico"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Geography",
@@ -1412,7 +1412,7 @@
         "answers": [
             "Alaska"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Geography",
@@ -1421,7 +1421,7 @@
         "answers": [
             "Paris, France"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Geography",
@@ -1430,7 +1430,7 @@
         "answers": [
             "Congo River [or the Zaire River before it is read; or the Lualaba River before \"Malebo\" is read]"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Geography",
@@ -1439,7 +1439,7 @@
         "answers": [
             "the Appalachians [or the Appalachian Mountains]"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Geography",
@@ -1448,7 +1448,7 @@
         "answers": [
             "Baltic Sea"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Geography",
@@ -1457,7 +1457,7 @@
         "answers": [
             "Baltic Sea"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Geography",
@@ -1466,7 +1466,7 @@
         "answers": [
             "Republic of Indonesia"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Geography",
@@ -1475,7 +1475,7 @@
         "answers": [
             "Switzerland"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Geography",
@@ -1484,7 +1484,7 @@
         "answers": [
             "Mexico City (accept Ciudad de Mexico)"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Geography",
@@ -1493,7 +1493,7 @@
         "answers": [
             "Amazon River (accept Solimoes River until mention)"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Geography",
@@ -1502,7 +1502,7 @@
         "answers": [
             "Carpathian Mountains"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Geography",
@@ -1511,7 +1511,7 @@
         "answers": [
             "Oregon"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Geography",
@@ -1520,7 +1520,7 @@
         "answers": [
             "Republic of India [or Bharat]"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Geography",
@@ -1529,7 +1529,7 @@
         "answers": [
             "Panama Canal"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Geography",
@@ -1538,7 +1538,7 @@
         "answers": [
             "Amazon River [accept Rio Amazonas]"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Geography",
@@ -1547,7 +1547,7 @@
         "answers": [
             "Panama (accept Panama Canal)"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Geography",
@@ -1556,7 +1556,7 @@
         "answers": [
             "Brazil [or Federative Republic of Brazil or Republica Federativa do Brasil]"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Geography",
@@ -1565,7 +1565,7 @@
         "answers": [
             "Joplin Tornado Outbreak [prompt on tornado until mentioned]"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Geography",
@@ -1574,7 +1574,7 @@
         "answers": [
             "Sahara Desert"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Geography",

@@ -1,9 +1,9 @@
 [
     {
         "category": "Sports",
-        "question": "This baseball legend passed away on December 20, 2024. He holds the Major League record for most career stolen bases, with an impressive 1,406 steals. He was a key member of the Oakland Athletics' 1989 World Series championship team, earning the World Series MVP award. He famously referred to himself in the third person, with quotes like \"Rickey's the best!\" becoming part of his charismatic persona. He also holds the record for most career runs scored, with 2,295 runs. Who is this Hall of Fame outfielder, often considered the greatest leadoff hitter of all time?",
+        "question": "This man was recently elected into baseball's Hall of Fame. This player, who achieved the rare feat of recording 200 hits in ten consecutive seasons, holds the record for the most career hits in professional baseball, with a combined 4,367 hits in Japan and Major League Baseball.  He won the American League MVP award in 2001, his rookie season with the Seattle Mariners, becoming the first Japanese position player to win the award.  He is known for his unique batting stance, with his bat held high above his head, and his exceptional throwing arm from right field.  Who is this legendary outfielder, who retired in 2019 after a 19-year MLB career?",
         "answers": [
-            "Rickey Henderson"
+            "Ichiro Suzuki"
         ],
         "incorrect1": "",
         "incorrect2": "",
@@ -13,9 +13,11 @@
     },
     {
         "category": "Sports",
-        "question": "This American sportscaster recently passed away at age 78. The first African-American to host a major network's coverage of a Super Bowl, he has been a prominent voice in sports broadcasting for over four decades. He has covered a wide range of events, including the NCAA Men's Basketball Tournament, the NBA Finals, and the Olympic Games. He is known for his smooth delivery, insightful commentary, and professionalism. He is the older brother of another renowned broadcaster, Bryant Gumbel, who hosted NBC's \"Today\" show for many years. Who is this respected sportscaster?",
+        "question": "This university's football team recently became the first winner of the expanded College Football Playoff. This university's athletic program boasts a fierce rivalry with the University of Michigan, a matchup dubbed \"The Game.\" Its football team has won eight national championships, including the first-ever College Football Playoff National Championship in 2015. Its men's basketball team has won one national championship, in 1960, led by legendary coach Fred Taylor. What is the name of this university, whose athletic teams are known as the Buckeyes?",
         "answers": [
-            "Greg Gumbel"
+            "Ohio State",
+            "OSU",
+            "The ohio state university"
         ],
         "incorrect1": "",
         "incorrect2": "",
@@ -25,9 +27,9 @@
     },
     {
         "category": "Sports",
-        "question": "This athlete, known for his flamboyant personality and \"Prime Time\" nickname, is the only person to have played in both a Super Bowl and a World Series. He was a two-sport star, excelling in both football and baseball, playing for teams like the Atlanta Falcons, San Francisco 49ers, and Atlanta Braves. He was renowned for his exceptional speed, agility, and coverage skills as a cornerback and kick returner. He is also known for his high-stepping touchdown celebrations and his distinctive \"Prime Time\" dance. Who is this Hall of Fame athlete, who now serves as the football coach at Colorado University?",
+        "question": "This baseball legend's 56-game hitting streak in 1941, a record that still stands today, captivated the nation and earned him the nickname \"The Yankee Clipper.\" He was a three-time American League MVP and a nine-time World Series champion with the New York Yankees. His marriage to Marilyn Monroe in 1954 made them one of the most glamorous couples of the era. Who is this Hall of Fame center fielder, known for his grace, power, and quiet dignity?",
         "answers": [
-            "Deion Sanders"
+            "Joe DiMaggio"
         ],
         "incorrect1": "",
         "incorrect2": "",
@@ -37,9 +39,9 @@
     },
     {
         "category": "Sports",
-        "question": "This former NFL quarterback was recently hired to be the head coach of Norfolk State's football team. He was the first quarterback in NFL history to rush for over 1,000 yards in a single season, achieving this feat in 2006. He was drafted first overall by the Atlanta Falcons in the 2001 NFL Draft, and quickly became a sensation with his highlight-reel plays and exciting style of play. However, his career was marred by controversy when he was convicted of dogfighting charges in 2007, serving 21 months in prison. He later returned to the NFL, playing for the Philadelphia Eagles, New York Jets, and Pittsburgh Steelers. Who is this quarterback, whose career was marked by both incredible talent and controversy?",
+        "question": "This NBA player, known for his exceptional passing skills and court vision, holds the league's all-time records for both assists and steals, with 15,806 assists and 3,265 steals throughout his career.  He played his entire 19-season career with the Utah Jazz, forming a legendary partnership with power forward Karl Malone.  He was a ten-time NBA All-Star and was inducted into the Naismith Memorial Basketball Hall of Fame in 2009.  Who is this point guard, known for his pick-and-roll mastery and his quiet leadership on the court?",
         "answers": [
-            "Michael Vick"
+            "John Stockton"
         ],
         "incorrect1": "",
         "incorrect2": "",
@@ -49,10 +51,9 @@
     },
     {
         "category": "Sports",
-        "question": "This team's iconic orange, blue, and white jerseys, a tribute to their provincial flag, have become synonymous with a dynasty that dominated the NHL in the 1980s. They have won five Stanley Cups, all between 1984 and 1990, led by Wayne Gretzky, often considered the greatest hockey player of all time.  Their current captain, Connor McDavid, is a generational talent who has already won multiple scoring titles and MVP awards.  What is the name of this team, based in Edmonton, Alberta?",
+        "question": "This baseball player's record of 2,130 consecutive games played, a feat that earned him the nickname \"The Iron Horse,\" stood for 56 years until it was broken by Cal Ripken Jr. in 1995. He was a six-time World Series champion and two-time American League MVP with the New York Yankees, forming a legendary duo with Babe Ruth. His retirement speech at Yankee Stadium in 1939, in which he declared himself \"the luckiest man on the face of the earth,\" is considered one of the most iconic moments in sports history. Who is this Hall of Fame first baseman, whose career was tragically cut short by Amyotrophic Lateral Sclerosis (ALS)?",
         "answers": [
-            "Edmonton Oilers",
-            "Oilers"
+            "Lou Gehrig"
         ],
         "incorrect1": "",
         "incorrect2": "",
@@ -62,10 +63,9 @@
     },
     {
         "category": "Sports",
-        "question": "This team's home arena, FLA Live Arena, located in Sunrise, Florida, has witnessed memorable moments like their thrilling run to the Stanley Cup Finals in 1996, where they ultimately fell to the Colorado Avalanche. They are known for their \"Leap\" tradition, where players jump into the glass after playoff victories, celebrating with their passionate fanbase. This team won their first Stanley Cup in 2024 defeating the Edmonton Oilers. What is the name of this team, whose history includes a memorable \"rat trick\" celebration led by Scott Mellanby in 1995?",
+        "question": "This basketball player's outspoken personality and controversial statements, both on and off the court, earned him the nickname \"Sir Charles\" and made him a popular figure in sports media. He was a member of the \"Dream Team,\" the legendary 1992 US Olympic basketball team. He won the NBA MVP award in 1993 with the Phoenix Suns, leading them to the NBA Finals. He is known for his powerful rebounding, physical play, and his \"Round Mound of Rebound\" nickname. Who is this Hall of Fame power forward, now a prominent NBA analyst on TNT?",
         "answers": [
-            "Florida Panthers",
-            "Panthers"
+            "Charles Barkley"
         ],
         "incorrect1": "",
         "incorrect2": "",
@@ -75,10 +75,9 @@
     },
     {
         "category": "Sports",
-        "question": "This footballer, known for his signature \"meditation\" goal celebration, where he kneels and touches his forehead to the ground, became Liverpool's all-time leading Premier League goal scorer in 2023, surpassing Robbie Fowler's record.  He has won the Premier League Golden Boot award, given to the league's top scorer, three times.  He played a key role in Liverpool's Champions League victory in 2019 and their Premier League title win in 2020.  Who is this Egyptian forward, known for his blistering pace and clinical finishing?",
+        "question": "This basketball player, known for his exceptional passing skills and his unorthodox \"no-look\" passes, led the NBA in assists for five seasons, showcasing his playmaking ability and court vision. He won back-to-back NBA MVP awards in 2005 and 2006 with the Phoenix Suns, becoming the first Canadian to win the award. He also played for the Dallas Mavericks and Los Angeles Lakers, though injuries plagued the latter part of his career. Who is this Hall of Fame point guard, known for his up-tempo playing style and his leadership on the court?",
         "answers": [
-            "Mohamed Salah",
-            "Mo Salah"
+            "Steve Nash"
         ],
         "incorrect1": "",
         "incorrect2": "",

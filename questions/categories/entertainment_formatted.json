@@ -1,9 +1,9 @@
 [
     {
         "category": "Entertainment",
-        "question": "This video game, set in the American West in 1911, follows the story of John Marston, a former outlaw forced to hunt down his old gang members to protect his family.  The game's open world environment allows players to explore vast landscapes, from snow-capped mountains to arid deserts, encountering wildlife and engaging in various activities like hunting, gambling, and bounty hunting.  Its sequel, released in 2018, delves into the gang's backstory and features a new protagonist, Arthur Morgan.  What is the name of this critically acclaimed Western-themed action-adventure game developed by Rockstar Games?",
+        "question": "This reality competition show features a signature phrase, \"It's a ten from Len!\", exclaimed by former judge Len Goodman.  The show's judging panel, including Carrie Ann Inaba, Bruno Tonioli, and Derek Hough, provides feedback and scores on the contestants' performances.  Its mirrorball trophy, awarded to the winning couple, has become a coveted prize in the world of celebrity dance competitions.  What is the name of this long-running ABC series, which has featured a diverse cast of celebrities, from athletes and actors to singers and politicians?",
         "answers": [
-            "Red Dead Redemption"
+            "Dancing with the Stars"
         ],
         "incorrect1": "",
         "incorrect2": "",
@@ -13,9 +13,9 @@
     },
     {
         "category": "Entertainment",
-        "question": "This film, set in a dystopian future Britain ruled by a totalitarian regime, features a masked vigilante who blows up the Houses of Parliament on November 5th, a date commemorating the historical Gunpowder Plot. The film's protagonist played by Hugo Weaving, is a skilled swordsman and master of disguise who seeks to overthrow the oppressive government. The film's iconic Guy Fawkes mask, worn by V, has become a symbol of rebellion and anti-establishment movements worldwide. What is the title of this 2005 film, based on the graphic novel by Alan Moore and David Lloyd?",
+        "question": "This reality dating show, where singles get engaged before ever meeting in person, features a unique format where participants communicate through \"pods,\" isolated rooms where they can talk but not see each other. The show's social experiment explores whether love can truly be blind, as couples navigate the challenges of building relationships based on emotional connection rather than physical attraction. Its dramatic weddings, where couples decide at the altar whether to say \"I do\" or \"I don't,\" have become a signature element of the show. What is the name of this Netflix series, which has sparked conversations about modern dating and the nature of love?",
         "answers": [
-            "V for Vendetta"
+            "Love Is Blind"
         ],
         "incorrect1": "",
         "incorrect2": "",
@@ -25,10 +25,10 @@
     },
     {
         "category": "Entertainment",
-        "question": "This franchise's iconic mascot, Pikachu, an electric mouse known for its lightning bolt-shaped tail, has become a global phenomenon, appearing in countless merchandise and spin-offs. Its first video game installments, Red and Green, were released in Japan in 1996 for the Game Boy, introducing the core gameplay mechanics of catching, training, and battling. The franchise has expanded to include a popular anime series, trading cards, toys, and numerous other products. What is the name of this multimedia franchise, centered around fictional creatures with unique abilities and elemental powers?",
+        "question": "This talent show competition, known for its diverse range of acts, from singers and dancers to magicians and comedians, features a panel of celebrity judges who offer critiques and decide which contestants advance in the competition. Its iconic golden buzzer, which sends a contestant directly to the live shows, has become a symbol of the show's ability to discover and showcase extraordinary talent. The show's host, Terry Crews, is known for his enthusiastic reactions and his catchphrase, \"You got the golden buzzer!\" What is the name of this NBC series, which has launched the careers of successful performers like Jackie Evancho and Grace VanderWaal?",
         "answers": [
-            "Pok\u00e9mon",
-            "Pokemon"
+            "America's Got Talent",
+            "agt"
         ],
         "incorrect1": "",
         "incorrect2": "",
@@ -38,9 +38,9 @@
     },
     {
         "category": "Entertainment",
-        "question": "This epic fantasy trilogy's fictional language, Quenya, was created by their author, a philologist and professor of Anglo-Saxon. The One Ring, an artifact of immense power, bears the inscription of Black Speech that translates to \"One ring to rule them all, one ring to find them, one ring to bring them all and in the darkness bind them.\" The story follows the hobbit Frodo Baggins on his quest to destroy the One Ring, an artifact of immense power coveted by the Dark Lord Sauron. What is the title of this fantasy epic, which has been adapted into award-winning films directed by Peter Jackson?",
+        "question": "This action-adventure sandbox game, with its retro 2D graphics and procedurally generated worlds, allows players to explore vast landscapes, build structures, craft items, and battle a variety of creatures.  Its Eye of Cthulhu boss, a menacing flying eye with tentacles, is a challenging early-game encounter for players.  Its crafting system allows players to combine resources to create powerful weapons, armor, and tools.  What is the name of this popular indie game, often compared to Minecraft for its open-world exploration and creative building elements?",
         "answers": [
-            "Lord of the Rings"
+            "Terraria"
         ],
         "incorrect1": "",
         "incorrect2": "",
@@ -50,9 +50,9 @@
     },
     {
         "category": "Entertainment",
-        "question": "This fantasy series' protagonist, whose middle name is James, shares his birthday with his creator, July 31st.  The series' iconic villain whose name is an anagram for \"Tom Marvolo Riddle,\" fears death and seeks immortality through dark magic.  The series' magical creatures, like house-elves and hippogriffs, are inspired by folklore and mythology.  What is the name of this beloved series, which follows a young wizard's journey through Hogwarts School of Witchcraft and Wizardry?",
+        "question": "This reality singing competition features a panel of judges who try to guess who is behind the mask based on their voices and clues provided throughout the show.  The show's host, Nick Cannon, often adds his own comedic commentary and flamboyant style to the proceedings.  The Golden Mask trophy, awarded to the winner of each season, has become a coveted prize for celebrities seeking to showcase their hidden talents.  What is the name of this popular Fox series, which has spawned international versions and featured a diverse range of celebrity contestants?",
         "answers": [
-            "Harry Potter"
+            "The Masked Singer"
         ],
         "incorrect1": "",
         "incorrect2": "",
@@ -62,9 +62,9 @@
     },
     {
         "category": "Entertainment",
-        "question": "This romantic comedy features a memorable scene in a crowded deli, leading to the iconic line, \"I'll have what she's having.\" The film's central question, \"Can men and women ever just be friends?\", is explored through the evolving relationship between Harry Burns and Sally Albright. The film's soundtrack, featuring classic jazz standards by Harry Connick Jr., adds to its romantic and nostalgic atmosphere. What is the title of this 1989 film directed by Rob Reiner?",
+        "question": "This gaming console's iconic controller, with its distinctive shape and button layout, has become a symbol of gaming culture. Its online service revolutionized online multiplayer gaming, connecting players worldwide. Its latest console, the Series X, boasts powerful hardware and features like ray tracing and Quick Resume. What is the name of this Microsoft gaming console, which competes with Sony's PlayStation and Nintendo's Switch?",
         "answers": [
-            "When Harry Met Sally"
+            "Xbox"
         ],
         "incorrect1": "",
         "incorrect2": "",
@@ -74,10 +74,9 @@
     },
     {
         "category": "Entertainment",
-        "question": "This classic Thanksgiving comedy features a memorable scene where the two main characters, stuck sharing a cramped motel room with only one double bed, end up sleeping head-to-toe in an awkward embrace. The film's mismatched duo, Neal Page, a high-strung businessman, and Del Griffith, a boisterous shower curtain ring salesman, endure a series of misadventures as they try to get home for the holiday.  Their disastrous journey involves a rental car that catches fire, a stolen car that gets towed, and a train ride with uncomfortable seating arrangements. What is the title of this 1987 film directed by John Hughes?",
+        "question": "This reality show, where entrepreneurs pitch their business ideas to a panel of investors, features a signature catchphrase, \"You're dead to me,\" often uttered by investor Kevin O'Leary when rejecting a deal. The show's investors include Mark Cuban, Barbara Corcoran, and Lori Greiner. Its format, which originated in Japan with the show \"Tigers' Cave,\" has been adapted in numerous countries. What is the name of this ABC series, which has become a platform for aspiring entrepreneurs and a showcase for innovative products and services?",
         "answers": [
-            "Planes",
-            " Trains and Automobiles"
+            "Shark Tank"
         ],
         "incorrect1": "",
         "incorrect2": "",

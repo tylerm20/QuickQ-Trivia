@@ -1349,7 +1349,7 @@
         "answers": [
             "Texas"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "US History",
@@ -1358,7 +1358,7 @@
         "answers": [
             "Booker T(aliaferro) Washington [prompt on \"Washington\"]"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "US History",
@@ -1367,7 +1367,7 @@
         "answers": [
             "1944"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "US History",
@@ -1376,7 +1376,7 @@
         "answers": [
             "American Civil War [prompt on the Battle of Shiloh before it is read]"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "US History",
@@ -1385,7 +1385,7 @@
         "answers": [
             "American Revolutionary War (or Revolutionary War)"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "US History",
@@ -1394,7 +1394,7 @@
         "answers": [
             "witches [accept anything indicating people who perform magic or sorcery or witchcraft or demonic possession or similarly bad supernatural stuff]"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "US History",
@@ -1403,7 +1403,7 @@
         "answers": [
             "Cuba (prompt on Caribbean before \"island\")"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "US History",
@@ -1412,7 +1412,7 @@
         "answers": [
             "California"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "US History",
@@ -1421,7 +1421,7 @@
         "answers": [
             "Navajo"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "US History",
@@ -1430,7 +1430,7 @@
         "answers": [
             "New York City (or NYC)"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "US History",
@@ -1439,7 +1439,7 @@
         "answers": [
             "Battle of the Bulge (accept Operation Watch on the Rhine; accept Battle of the Ardennes or Ardennes Counteroffensive; accept Unternehmen Wacht am Rhein or Bataille des Ardennes)"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "US History",
@@ -1448,7 +1448,7 @@
         "answers": [
             "the Confederate States of America [accept the Confederacy]"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "US History",
@@ -1457,7 +1457,7 @@
         "answers": [
             "Jay('s) Treaty or Treaty of London, 1794"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "US History",
@@ -1466,7 +1466,7 @@
         "answers": [
             "women's suffrage [accept descriptive answers mentioning women's right to vote; prompt on partial answer]"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "US History",
@@ -1475,7 +1475,7 @@
         "answers": [
             "Battle of Shiloh [or Battle of Pittsburg Landing]"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "US History",
@@ -1484,7 +1484,7 @@
         "answers": [
             "Ku Klux Klan [or KKK]"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "US History",
@@ -1493,7 +1493,7 @@
         "answers": [
             "The State of Tennessee vs. John Thomas Scopes or Scopes Trial or Scopes Monkey Trial"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "US History",
@@ -1502,7 +1502,7 @@
         "answers": [
             "Boston Massacre [accept reasonable equivalents]"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "US History",
@@ -1511,7 +1511,7 @@
         "answers": [
             "Andrew Johnson (prompt on \"Johnson\")"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "US History",
@@ -1520,7 +1520,7 @@
         "answers": [
             "Rhode Island (and Providence Plantations)"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "US History",
@@ -1529,7 +1529,7 @@
         "answers": [
             "Mayflower"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "US History",
@@ -1538,7 +1538,7 @@
         "answers": [
             "Speaker of the United States House of Representatives"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "US History",
@@ -1547,7 +1547,7 @@
         "answers": [
             "Sherman Antitrust Act"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "US History",
@@ -1556,7 +1556,7 @@
         "answers": [
             "Dr. Martin Luther King, Jr."
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "US History",
@@ -1565,7 +1565,7 @@
         "answers": [
             "Ford Motor Company"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "US History",
@@ -1574,7 +1574,7 @@
         "answers": [
             "Colony of Virginia (do not accept or prompt on \"Jamestown\")"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "US History",
@@ -1583,7 +1583,7 @@
         "answers": [
             "Woodstock Music Festival (accept Aquarian Music Festival; accept Bethel Rock Festival)"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "US History",
@@ -1592,7 +1592,7 @@
         "answers": [
             "Red River"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "US History",
