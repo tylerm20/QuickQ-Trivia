@@ -1,11 +1,10 @@
 [
     {
         "category": "Current Events",
-        "question": "A holiday celebrating this man was observed on January 20, 2025. This civil rights leader was assassinated in 1968 in Memphis, Tennessee, where he had traveled to support a sanitation workers' strike. He was awarded the Nobel Peace Prize in 1964 for his nonviolent resistance to racial segregation. His iconic \"I Have a Dream\" speech, delivered during the 1963 March on Washington, called for an end to racism and envisioned a future of equality. Who was this influential figure in the American civil rights movement?",
+        "question": "This event was recently won by a Giant Schnauzer named \u201cMonty\u201d. First held in 1877, it is the second-longest continuously held sporting event in the United States, surpassed only by the Kentucky Derby. It features over 3,000 dogs representing over 200 breeds and varieties competing for the coveted title of Best in Show. The competition includes agility, obedience, and breed conformation events, showcasing the dogs' skills and training. It is held annually at Madison Square Garden in New York City. What is the name of this prestigious dog show?",
         "answers": [
-            "Martin Luther King Jr.",
-            "MLK",
-            "Martin Luther King"
+            "Westminster Kennel Club Dog Show",
+            "Westminster Dog Show"
         ],
         "incorrect1": "",
         "incorrect2": "",
@@ -15,9 +14,9 @@
     },
     {
         "category": "Current Events",
-        "question": "The leader of this country, recently cruised to re-election in a contest some have described as rigged. The leader, Aleksandr Lukashenko, is Europe\u2019s longest-serving leader. His Eastern European country, often referred to as \"Europe's last dictatorship,\" maintains close ties with Russia. Its capital, Minsk, is home to the imposing Independence Square, one of the largest public squares in Europe. It is known for its vast forests, which cover over 40% of its land area, and its production of potash, a key ingredient in fertilizers. What is this landlocked nation, bordered by Russia, Ukraine, Poland, Lithuania, and Latvia?",
+        "question": "This holiday was observed on February 17, 2025 in the United States. The holiday was initially established in 1879 to celebrate George Washington's birthday, which falls on February 22nd. It is observed on the third Monday of February, coinciding with Abraham Lincoln's birthday on February 12th. It is often celebrated with sales and special promotions by retailers, making it a popular shopping weekend. Name this federal holiday that honors all U.S. presidents.",
         "answers": [
-            "Belarus"
+            "Presidents' Day"
         ],
         "incorrect1": "",
         "incorrect2": "",
@@ -27,9 +26,9 @@
     },
     {
         "category": "Current Events",
-        "question": "Trump signed an executive order declaring an end to birthright citizenship, an apparent contradiction to this amendment of the U.S. Constitution. The amendment, ratified in 1868, also guaranteed all citizens \"equal protection of the laws.\"  It was one of three amendments passed during the Reconstruction era to abolish slavery and establish civil and legal rights for black Americans.  It has been invoked in landmark Supreme Court cases, such as Brown v. Board of Education, which declared state-sponsored segregation in public schools unconstitutional.  What is this amendment, which has played a pivotal role in the fight for civil rights in the United States?",
+        "question": "President Donald Trump talked to this foreign leader on the phone with the aim of starting peace negociations over a war in eastern Europe. His grandfather was a personal cook to Vladimir Lenin and Joseph Stalin.This man worked as a KGB foreign intelligence officer for 16 years. He was president from 2000-2008 and 2012-present. Name this leader of Russia.",
         "answers": [
-            "14th amendment"
+            "Vladimir Putin"
         ],
         "incorrect1": "",
         "incorrect2": "",
@@ -39,9 +38,9 @@
     },
     {
         "category": "Current Events",
-        "question": "Violence between rebel groups vying for the cocaine trade in this country's Catatumbo region recently left at least 60 dead. This South American country, known for its vibrant coffee culture and its production of emeralds, is a world leading exporter of both.  Its capital city, Bogot\u00e1, is a bustling metropolis located high in the Andes Mountains. It is home to part of the Amazon rainforest, a vast and biodiverse ecosystem that plays a crucial role in global climate regulation.  What is this country, known for its rich cultural heritage, including its vallenato music and its colorful festivals?",
+        "question": "Linda McMahon, a former professional wrestling performer and President Donald Trump's pick to lead this US Department recently finished her Senate confirmation hearing. This US Cabinet department's roots trace back to 1867 when a department with the same name was founded, but only lasted a year. President Jimmy Carter signed the bill creating this department in 1979. It oversees federal student aid programs, including grants and loans, and collects data on America's schools to guide policy and funding decisions. Name this department that is which was recently led by Miguel Cardona, and is often in the news regarding student loan forgiveness.",
         "answers": [
-            "Colombia gang killings"
+            "Department of Education"
         ],
         "incorrect1": "",
         "incorrect2": "",
@@ -51,9 +50,9 @@
     },
     {
         "category": "Current Events",
-        "question": "Citizens of this country recently celebrated a new law allowing same-sex marriage with a mass wedding at one of the capital's malls. This Southeast Asian country, known for its ornate temples and vibrant markets, is home to the Grand Palace, a sprawling complex that served as the official residence of the Kings of Siam. Its capital city, Bangkok, is a bustling metropolis with a rich history and a vibrant nightlife. It is one of the world's largest exporters of rice and a major producer of rubber and textiles. What is this country, famous for its friendly people, delicious cuisine, and iconic tuk-tuk taxis?",
+        "question": "The US Justice Department filed to have this politician's corruption case dropped. Multiple federal attorneys and Justice Department officials resigned after they were asked to help file for the charges to be dropped. Multiple of this man's top aides also resigned due to his re-alignment on immigration policy to align with President Trump. Name this former Brooklyn Borough President and current mayor of New York.",
         "answers": [
-            "Thailand"
+            "Eric Adams"
         ],
         "incorrect1": "",
         "incorrect2": "",
@@ -63,10 +62,9 @@
     },
     {
         "category": "Current Events",
-        "question": "President Donald Trump recently withdrew the United States from this global organization. The organization's emblem, a Rod of Asclepius with a serpent entwined around it, symbolizes healing and medicine. Its constitution, which came into force on April 7, 1948, aims to promote health, keep the world safe, and serve the vulnerable. It is headquartered in Geneva, Switzerland, and has six regional offices around the world. It played a crucial role in eradicating smallpox, a deadly infectious disease, and continues to work on global health initiatives such as polio eradication and HIV/AIDS prevention. What is this specialized agency of the United Nations responsible for international public health?",
+        "question": "This film recently took home the top award from the BAFTAs. This film, directed by Edward Berger, is based on the novel of the same name by Robert Harris. It features a fictional behind-the-scenes look at the election of a new pope, a process shrouded in secrecy and tradition. The film's ensemble cast includes Jonathan Pryce, Anthony Hopkins, and Ralph Fiennes. What is the title of this 2024 historical drama?",
         "answers": [
-            "World Health Organization",
-            "WHO"
+            "Conclave"
         ],
         "incorrect1": "",
         "incorrect2": "",
@@ -76,10 +74,10 @@
     },
     {
         "category": "Current Events",
-        "question": "This film led the pack with 13 nominations for the 97th Academy Awards. This musical features a unique storyline about a Mexican drug lord who undergoes a sex change to escape the authorities and becomes a glamorous woman named Emilia.  Its music is composed by Cl\u00e9ment Ducol, who also wrote the score for the 2019 film \"The Sisters Brothers.\"  Its world premiere will take place at the Th\u00e9\u00e2tre du Ch\u00e2telet in Paris, a renowned venue for opera and musical productions.  What is this musical, based on the upcoming film of the same name directed by Jacques Audiard?",
+        "question": "This app was recently added back to the App and Google Play Stores after being removed. This social media platform, known for its short-form videos and viral trends, has faced scrutiny over data privacy and security concerns, particularly regarding its ownership by a Chinese company. Its algorithm, which personalizes content based on user interactions, has been praised for its effectiveness in keeping users engaged. It has launched the careers of numerous influencers and creators, who have amassed millions of followers. What is the name of this app, which has become a cultural phenomenon, especially among younger generations?",
         "answers": [
-            "Emilia P\u00e9rez",
-            "Emilia Perez"
+            "TikTok",
+            "Tik Tok"
         ],
         "incorrect1": "",
         "incorrect2": "",

@@ -1583,7 +1583,7 @@
         "answers": [
             "Lake Michigan"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Geography",
@@ -1592,7 +1592,7 @@
         "answers": [
             "equator"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Geography",
@@ -1601,7 +1601,7 @@
         "answers": [
             "Republic of Poland (accept Rzeczpospolita Polska)"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Geography",
@@ -1610,7 +1610,7 @@
         "answers": [
             "The Panama Canal"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Geography",
@@ -1619,7 +1619,7 @@
         "answers": [
             "Dubai"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Geography",
@@ -1628,7 +1628,7 @@
         "answers": [
             "Oregon"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Geography",
@@ -1637,7 +1637,7 @@
         "answers": [
             "Danube River"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Geography",
@@ -1646,7 +1646,7 @@
         "answers": [
             "Federative Republic of Brazil"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Geography",
@@ -1655,7 +1655,7 @@
         "answers": [
             "Machu Picchu"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Geography",
@@ -1664,7 +1664,7 @@
         "answers": [
             "Bolivarian Republic of Venezuela"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Geography",
@@ -1673,7 +1673,7 @@
         "answers": [
             "Area 51 (prompt on \"Homey Airport,\" \"Groom Lake,\" or \"Nellis Air Force Range (or Base)\" before they are read)"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Geography",
@@ -1682,7 +1682,7 @@
         "answers": [
             "Mount Kenya [or Kirinyaga; accept \"Mountain of Whiteness\" before mentioned]"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Geography",
@@ -1691,7 +1691,7 @@
         "answers": [
             "Florida"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Geography",
@@ -1700,7 +1700,7 @@
         "answers": [
             "Paris"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Geography",
@@ -1709,7 +1709,7 @@
         "answers": [
             "Colorado River"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Geography",
@@ -1718,7 +1718,7 @@
         "answers": [
             "Philadelphia, Pennsylvania"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Geography",
@@ -1727,7 +1727,7 @@
         "answers": [
             "Mississippi River"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Geography",
@@ -1736,7 +1736,7 @@
         "answers": [
             "the Alps (accept Swiss Alps; accept Julian Alps after \"Slovenia\" is read; accept French Alps or Italian Alps after those countries are read)"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Geography",
@@ -1745,7 +1745,7 @@
         "answers": [
             "the Nile River"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Geography",
@@ -1754,7 +1754,7 @@
         "answers": [
             "Utah"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Geography",
@@ -1763,7 +1763,7 @@
         "answers": [
             "Alps (accept Southern Alps)"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Geography",

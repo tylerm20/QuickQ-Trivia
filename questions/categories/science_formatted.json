@@ -1609,7 +1609,7 @@
         "answers": [
             "combustion (accept word forms; accept ignition before it is read; accept burning before it is read; prompt on \"fire\")"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",
@@ -1618,7 +1618,7 @@
         "answers": [
             "carbon (accept C before it is read)"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",
@@ -1627,7 +1627,7 @@
         "answers": [
             "electrical resistance (prompt on \"R\")"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",
@@ -1636,7 +1636,7 @@
         "answers": [
             "titration (accept volumetric analysis)"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",
@@ -1645,7 +1645,7 @@
         "answers": [
             "iodine (accept I before it is read)"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",
@@ -1654,7 +1654,7 @@
         "answers": [
             "Deserts"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",
@@ -1663,7 +1663,7 @@
         "answers": [
             "red blood cell(s) [accept erythrocytes before mentioned; accept haematids; prompt on RBC]"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",
@@ -1672,7 +1672,7 @@
         "answers": [
             "airplanes [or aircraft; accept specific types of airplanes; accept airfoils or airplane wings or airplane propellors]"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",
@@ -1681,7 +1681,7 @@
         "answers": [
             "Philip Zimbardo"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",
@@ -1690,7 +1690,7 @@
         "answers": [
             "the mantle"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",
@@ -1699,7 +1699,7 @@
         "answers": [
             "X chromosome"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",
@@ -1708,7 +1708,7 @@
         "answers": [
             "Doppler effect"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",
@@ -1717,7 +1717,7 @@
         "answers": [
             "parabola"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",
@@ -1726,7 +1726,7 @@
         "answers": [
             "relative humidity"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",
@@ -1735,7 +1735,7 @@
         "answers": [
             "linear momentum [prompt on p; do NOT accept or prompt on \"angular momentum\"]"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",
@@ -1744,7 +1744,7 @@
         "answers": [
             "gravity [or gravitation]"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",
@@ -1753,7 +1753,7 @@
         "answers": [
             "sheep"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",
@@ -1762,7 +1762,7 @@
         "answers": [
             "Hydrogen"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",
@@ -1771,7 +1771,7 @@
         "answers": [
             "sponges [or porifera before mentioned]"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",
@@ -1780,7 +1780,7 @@
         "answers": [
             "commutative property or commutativity"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",
@@ -1789,7 +1789,7 @@
         "answers": [
             "Doppler Effect"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",
