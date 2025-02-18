@@ -1593,7 +1593,7 @@
         "answers": [
             "Gaius Julius Caesar [do not accept anything including \"Caesar\" and another name, like \"Caesar Augustus\"]"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "World History",
@@ -1602,7 +1602,7 @@
         "answers": [
             "Genghis Khan"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "World History",
@@ -1611,7 +1611,7 @@
         "answers": [
             "Iran [or Islamic Republic of Iran or Jomhuri-ye Eslami-ye Iran]"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "World History",
@@ -1620,7 +1620,7 @@
         "answers": [
             "Republic of Ireland [or Poblacht na hEireann; prompt on Northern Ireland or Tuaisceart Eireann until \"independence\" is read and do not accept or prompt afterwards]"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "World History",
@@ -1629,7 +1629,7 @@
         "answers": [
             "Republic of Madagascar"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "World History",
@@ -1638,7 +1638,7 @@
         "answers": [
             "Sir Francis Bacon"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "World History",
@@ -1647,7 +1647,7 @@
         "answers": [
             "(First) Persian Gulf War (prompt on Operation Desert Storm before mentioned; prompt on \"Iraq-Kuwait War\" before mentioned; do not accept or prompt \"Iraq War\")"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "World History",
@@ -1656,7 +1656,7 @@
         "answers": [
             "People's Republic of China (accept Middle Kingdom; accept Zhongguo)"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "World History",
@@ -1665,7 +1665,7 @@
         "answers": [
             "Carthage"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "World History",
@@ -1674,7 +1674,7 @@
         "answers": [
             "French and Indian War (prompt on Seven Years' War before mentioned)"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "World History",
@@ -1683,7 +1683,7 @@
         "answers": [
             "Constantine I [or Constantine the Great; or Flavius Valerius Aurelius Constantinus; or Saint Constantine]"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "World History",
@@ -1692,7 +1692,7 @@
         "answers": [
             "War of Austrian Succession"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "World History",
@@ -1701,7 +1701,7 @@
         "answers": [
             "State of Japan (accept Nihon-koku or Nippon-koku)"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "World History",
@@ -1710,7 +1710,7 @@
         "answers": [
             "samurai [accept ronin before mentioned]"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "World History",
@@ -1719,7 +1719,7 @@
         "answers": [
             "Francis Bacon, 1st Vicount St. Alban [accept either \"F Bacon\" or \"St. Alban\"; prompt on just \"Bacon\"; do not accept \"Roger Bacon\" or \"R Bacon\"]"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "World History",
@@ -1728,7 +1728,7 @@
         "answers": [
             "Kingdom of Hawaii (or Republic of Hawaii; do not accept or prompt on \"United States of America\")"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "World History",
@@ -1737,7 +1737,7 @@
         "answers": [
             "Vietnam War (accept Second Indochina War; accept Resistance War Against America) "
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "World History",
@@ -1746,7 +1746,7 @@
         "answers": [
             "Cleopatra VII Philopator"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "World History",
@@ -1755,7 +1755,7 @@
         "answers": [
             "Canada"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "World History",
@@ -1764,7 +1764,7 @@
         "answers": [
             "Brazil [or Brasil or Federative Republic of Brazil or Republica Federativa do Brasil or Empire of Brazil or Imperio do Brasil]"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "World History",
@@ -1773,7 +1773,7 @@
         "answers": [
             "China [or Zhongguo; prompt on Qin dynasty before mention]"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "World History",

@@ -1601,7 +1601,7 @@
         "answers": [
             "Martin Luther King , Jr."
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "US History",
@@ -1610,7 +1610,7 @@
         "answers": [
             "Amelia Earhart (accept Amelia Mary Earhart)"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "US History",
@@ -1619,7 +1619,7 @@
         "answers": [
             "income tax (prompt on \"tax\")"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "US History",
@@ -1628,7 +1628,7 @@
         "answers": [
             "Virginia Colony (accept Commonwealth of Virginia) Half Time"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "US History",
@@ -1637,7 +1637,7 @@
         "answers": [
             "Dwight David Eisenhower"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "US History",
@@ -1646,7 +1646,7 @@
         "answers": [
             "assassination (or murder, shooting, etc.) of John Fitzgerald Kennedy (accept assassination of JFK; prompt on partial answers; prompt on \"assassination of Kennedy\")"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "US History",
@@ -1655,7 +1655,7 @@
         "answers": [
             "George Washington"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "US History",
@@ -1664,7 +1664,7 @@
         "answers": [
             "Jay('s) Treaty or Treaty of London, 1794"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "US History",
@@ -1673,7 +1673,7 @@
         "answers": [
             "amplitude modulation or AM radio [prompt on \"radio\" or similar answers]"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "US History",
@@ -1682,7 +1682,7 @@
         "answers": [
             "the attack on Pearl Harbor [accept logical equivalents]"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "US History",
@@ -1691,7 +1691,7 @@
         "answers": [
             "John Brown"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "US History",
@@ -1700,7 +1700,7 @@
         "answers": [
             "Jamestown, Virginia"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "US History",
@@ -1709,7 +1709,7 @@
         "answers": [
             "The Alamo"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "US History",
@@ -1718,7 +1718,7 @@
         "answers": [
             "abolition of slavery [accept equivalents or descriptions like ending slavery; accept answers mentioning the passage of the 13th Amendment until \"13th\"; prompt on slavery; do not accept or prompt on \"civil rights for African Americans\"]"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "US History",
@@ -1727,7 +1727,7 @@
         "answers": [
             "War of 1812"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "US History",
@@ -1736,7 +1736,7 @@
         "answers": [
             "William Jefferson \"Bill\" Clinton"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "US History",
@@ -1745,7 +1745,7 @@
         "answers": [
             "Roman Catholicism [prompt on Christianity]"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "US History",
@@ -1754,7 +1754,7 @@
         "answers": [
             "Herbert Hoover"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "US History",
@@ -1763,7 +1763,7 @@
         "answers": [
             "Alexander Hamilton"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "US History",
@@ -1772,7 +1772,7 @@
         "answers": [
             "Battle of Bunker Hill (accept Battle of Breed's Hill before it is read)"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "US History",
@@ -1781,7 +1781,7 @@
         "answers": [
             "aviator [or pilot]"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "US History",

@@ -1,9 +1,9 @@
 [
     {
         "category": "Entertainment",
-        "question": "This reality competition show features a signature phrase, \"It's a ten from Len!\", exclaimed by former judge Len Goodman.  The show's judging panel, including Carrie Ann Inaba, Bruno Tonioli, and Derek Hough, provides feedback and scores on the contestants' performances.  Its mirrorball trophy, awarded to the winning couple, has become a coveted prize in the world of celebrity dance competitions.  What is the name of this long-running ABC series, which has featured a diverse cast of celebrities, from athletes and actors to singers and politicians?",
+        "question": "This musician's deep, resonant voice and somber stage presence earned him the nickname \"The Man in Black.\" His rebellious attitude and outlaw image were solidified by his live recordings at Folsom Prison and San Quentin State Prison. His hit songs, including \"A Boy Named Sue,\" \"Ring of Fire,\" and \"I Walk the Line,\" have become country music classics. Name this influential figure who helped shape the sound of country and folk music.",
         "answers": [
-            "Dancing with the Stars"
+            "Johnny Cash"
         ],
         "incorrect1": "",
         "incorrect2": "",
@@ -13,9 +13,9 @@
     },
     {
         "category": "Entertainment",
-        "question": "This reality dating show, where singles get engaged before ever meeting in person, features a unique format where participants communicate through \"pods,\" isolated rooms where they can talk but not see each other. The show's social experiment explores whether love can truly be blind, as couples navigate the challenges of building relationships based on emotional connection rather than physical attraction. Its dramatic weddings, where couples decide at the altar whether to say \"I do\" or \"I don't,\" have become a signature element of the show. What is the name of this Netflix series, which has sparked conversations about modern dating and the nature of love?",
+        "question": "This actor appeared as Uncle Sam in Kendrick Lamar's Super Bowl halftime show. This actor's distinctive voice and commanding presence have made him a sought-after figure in Hollywood, with a career spanning over four decades. He has appeared in numerous iconic films, from Quentin Tarantino's \"Pulp Fiction\" to the Marvel Cinematic Universe, where he portrays Nick Fury. Who is this versatile and celebrated actor?",
         "answers": [
-            "Love Is Blind"
+            "Samuel L. Jackson"
         ],
         "incorrect1": "",
         "incorrect2": "",
@@ -25,10 +25,10 @@
     },
     {
         "category": "Entertainment",
-        "question": "This talent show competition, known for its diverse range of acts, from singers and dancers to magicians and comedians, features a panel of celebrity judges who offer critiques and decide which contestants advance in the competition. Its iconic golden buzzer, which sends a contestant directly to the live shows, has become a symbol of the show's ability to discover and showcase extraordinary talent. The show's host, Terry Crews, is known for his enthusiastic reactions and his catchphrase, \"You got the golden buzzer!\" What is the name of this NBC series, which has launched the careers of successful performers like Jackie Evancho and Grace VanderWaal?",
+        "question": "This show is celebrating its 50th anniversary this year. This show's first episode, hosted by George Carlin, aired on October 11, 1975, with a cast that included Chevy Chase, John Belushi, and Gilda Radner. Its original opening sketch featured Chase introducing himself as the show's first \"Weekend Update\\ anchor. The show's catchphrase, \"Live from New York, it's Saturday Night!\", has become synonymous with its late-night comedy format. The show's musical performances have featured iconic artists like the Rolling Stones, Prince, and Taylor Swift. What is the name of this long-running show that has launched the careers of numerous comedians and actors?",
         "answers": [
-            "America's Got Talent",
-            "agt"
+            "Saturday Night Live",
+            "SNL"
         ],
         "incorrect1": "",
         "incorrect2": "",
@@ -38,9 +38,9 @@
     },
     {
         "category": "Entertainment",
-        "question": "This action-adventure sandbox game, with its retro 2D graphics and procedurally generated worlds, allows players to explore vast landscapes, build structures, craft items, and battle a variety of creatures.  Its Eye of Cthulhu boss, a menacing flying eye with tentacles, is a challenging early-game encounter for players.  Its crafting system allows players to combine resources to create powerful weapons, armor, and tools.  What is the name of this popular indie game, often compared to Minecraft for its open-world exploration and creative building elements?",
+        "question": "This folk singer and activist's performance of \"We Shall Overcome\" at the 1963 March on Washington became an anthem of the civil rights movement. Her a cappella rendition of \"Swing Low, Sweet Chariot\" at the 1969 Woodstock festival showcased her powerful voice and social activism. Her close friendship with Bob Dylan introduced her to a wider audience and led to collaborations on songs like \"Blowin' in the Wind.\" Name this influential figure in folk music and social activism, known for her distinctive voice and commitment to peace and justice.",
         "answers": [
-            "Terraria"
+            "Joan Baez"
         ],
         "incorrect1": "",
         "incorrect2": "",
@@ -50,9 +50,9 @@
     },
     {
         "category": "Entertainment",
-        "question": "This reality singing competition features a panel of judges who try to guess who is behind the mask based on their voices and clues provided throughout the show.  The show's host, Nick Cannon, often adds his own comedic commentary and flamboyant style to the proceedings.  The Golden Mask trophy, awarded to the winner of each season, has become a coveted prize for celebrities seeking to showcase their hidden talents.  What is the name of this popular Fox series, which has spawned international versions and featured a diverse range of celebrity contestants?",
+        "question": "This cult classic comedy, filmed in Aurora, Illinois, features a memorable scene where the protagonists, Wayne and Garth, headbang to Queen's \"Bohemian Rhapsody\" in their iconic \"Mirthmobile.\" The film's catchphrases, like \"Party on!\" and \"Excellent!\" have become ingrained in popular culture. The film's low-budget aesthetic and self-referential humor contributed to its surprise success, grossing over $183 million worldwide. Name this 1992 film that spawned a sequel and solidified Mike Myers and Dana Carvey as comedy stars.",
         "answers": [
-            "The Masked Singer"
+            "Wayne's World"
         ],
         "incorrect1": "",
         "incorrect2": "",
@@ -62,9 +62,10 @@
     },
     {
         "category": "Entertainment",
-        "question": "This gaming console's iconic controller, with its distinctive shape and button layout, has become a symbol of gaming culture. Its online service revolutionized online multiplayer gaming, connecting players worldwide. Its latest console, the Series X, boasts powerful hardware and features like ray tracing and Quick Resume. What is the name of this Microsoft gaming console, which competes with Sony's PlayStation and Nintendo's Switch?",
+        "question": "This video game company, founded in 1982, is known for its popular sports franchises, including Madden NFL, FIFA, and NHL. Its headquarters are located in Redwood City, California. The company's Sports division has revolutionized sports gaming with its realistic graphics and immersive gameplay.  Its controversial \"loot box\" monetization strategy, where players can purchase virtual items with real money, has drawn criticism and legal challenges. What is the name of this gaming giant, whose franchises have become synonymous with sports gaming?",
         "answers": [
-            "Xbox"
+            "Electronic Arts",
+            "EA"
         ],
         "incorrect1": "",
         "incorrect2": "",
@@ -74,9 +75,9 @@
     },
     {
         "category": "Entertainment",
-        "question": "This reality show, where entrepreneurs pitch their business ideas to a panel of investors, features a signature catchphrase, \"You're dead to me,\" often uttered by investor Kevin O'Leary when rejecting a deal. The show's investors include Mark Cuban, Barbara Corcoran, and Lori Greiner. Its format, which originated in Japan with the show \"Tigers' Cave,\" has been adapted in numerous countries. What is the name of this ABC series, which has become a platform for aspiring entrepreneurs and a showcase for innovative products and services?",
+        "question": "This 2008 comedy, directed by Adam McKay, features a memorable scene where the two middle-aged protagonists, Brennan Huff and Dale Doback, engage in a destructive drum battle in their family's living room. The film's quotable lines, like \"Did we just become best friends?\", have become ingrained in popular culture. The film's success led to an animated spin-off series and talks of a sequel. Name this buddy comedy starring Will Ferrell and John C. Reilly as two immature stepbrothers forced to live together.",
         "answers": [
-            "Shark Tank"
+            "Step Brothers"
         ],
         "incorrect1": "",
         "incorrect2": "",

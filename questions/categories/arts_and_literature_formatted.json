@@ -1596,7 +1596,7 @@
         "answers": [
             "Gioachino Rossini [accept The Italian Girl in Algiers until \"this man\"]"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Arts & Literature",
@@ -1605,7 +1605,7 @@
         "answers": [
             "Gospel of John [or the Book of John, or the Gospel According to John; prompt on the Fourth Gospel until \"last\" is read; accept Euangelion kata Ioannen; do NOT accept or prompt on First John, Second John, or Third John, or any answers about the first, second, or third Epistles of John]"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Arts & Literature",
@@ -1614,7 +1614,7 @@
         "answers": [
             "Heracles [or Hercules]"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Arts & Literature",
@@ -1623,7 +1623,7 @@
         "answers": [
             "Jane Austen"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Arts & Literature",
@@ -1632,7 +1632,7 @@
         "answers": [
             "\"The Ransom of Red Chief\""
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Arts & Literature",
@@ -1641,7 +1641,7 @@
         "answers": [
             "A Christmas Carol"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Arts & Literature",
@@ -1650,7 +1650,7 @@
         "answers": [
             "Apollo (accept Apollon; or Phoebus Apollo)"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Arts & Literature",
@@ -1659,7 +1659,7 @@
         "answers": [
             "Edward Eastlin Cummings"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Arts & Literature",
@@ -1668,7 +1668,7 @@
         "answers": [
             "J.R.R. Tolkein (accept John Ronald Reuel Tolkein)"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Arts & Literature",
@@ -1677,7 +1677,7 @@
         "answers": [
             "Horus"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Arts & Literature",
@@ -1686,7 +1686,7 @@
         "answers": [
             "Johannes Vermeer"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Arts & Literature",
@@ -1695,7 +1695,7 @@
         "answers": [
             "Ares [or Mars until \"Greek\" is read]"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Arts & Literature",
@@ -1704,7 +1704,7 @@
         "answers": [
             "symphony (accept symphonies; accept New World Symphony or Symphony From the New World; accept Palindrome Symphony; accept Surprise Symphony; accept symphonies by Dvorak before \"Palindrome\"is read)"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Arts & Literature",
@@ -1713,7 +1713,7 @@
         "answers": [
             "The Planets"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Arts & Literature",
@@ -1722,7 +1722,7 @@
         "answers": [
             "Kurt Vonnegut Jr."
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Arts & Literature",
@@ -1731,7 +1731,7 @@
         "answers": [
             "Dragons"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Arts & Literature",
@@ -1740,7 +1740,7 @@
         "answers": [
             "Hera"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Arts & Literature",
@@ -1749,7 +1749,7 @@
         "answers": [
             "Hermann Hesse"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Arts & Literature",
@@ -1758,7 +1758,7 @@
         "answers": [
             "hajj [prompt on \"pilgrimage to Mecca\"]"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Arts & Literature",
@@ -1767,7 +1767,7 @@
         "answers": [
             "The Four Seasons (accept Le quattro stagioni; prompt on \"The Contest Between Harmony and Invention\" or \"Il cimento dell' armonia e dell' inventione\" before \"Contest\" is read; do not accept or prompt on\"The Seasons\" alone) SCOP A  Round 10 Page 2 of 4"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Arts & Literature",
@@ -1776,7 +1776,7 @@
         "answers": [
             "violin [accept fiddle]"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Arts & Literature",
