@@ -13,8 +13,10 @@ import {
     GameModes,
     GAME_MODE_STORAGE_KEY,
     FIRST_GAME_DATE,
+    SEEN_ANNOUNCEMENT_STORAGE_KEY,
 } from "../../constants";
 import "./style.css";
+import AnnouncementScreen from "../AnnouncementScreen";
 
 const StartScreen = ({
     setScreenShowing,
@@ -31,6 +33,7 @@ const StartScreen = ({
 }) => {
     // TODO: this seems to be re-rendered constantly
     const [showSettingsModal, setShowSettingsModal] = useState(false);
+    const [showAnnouncementModel, setShowAnnouncementModel] = useState(false);
     const [categoryScores, setCategoryScores] = useState({});
 
     useEffect(
@@ -58,9 +61,20 @@ const StartScreen = ({
         );
     };
 
+    const hasSeenAnnouncement = () => {
+        console.log(localStorage.getItem(SEEN_ANNOUNCEMENT_STORAGE_KEY));
+        return !!localStorage.getItem(SEEN_ANNOUNCEMENT_STORAGE_KEY);
+    };
+
     useEffect(() => {
         if (doesNotHaveGameResultsStored()) {
             setShowSettingsModal(true);
+        }
+    }, []);
+
+    useEffect(() => {
+        if (!hasSeenAnnouncement()) {
+            setShowAnnouncementModel(true);
         }
     }, []);
 
@@ -75,7 +89,13 @@ const StartScreen = ({
 
     return (
         <div className="StartScreen">
-            {showSettingsModal && (
+            {showAnnouncementModel && (
+                <AnnouncementScreen
+                    showModal={showAnnouncementModel}
+                    setShowModal={setShowAnnouncementModel}
+                />
+            )}
+            {!showAnnouncementModel && showSettingsModal && (
                 <SettingsScreen
                     showModal={showSettingsModal}
                     setShowModal={setShowSettingsModal}

@@ -1,10 +1,9 @@
 [
     {
         "category": "Sports",
-        "question": "This annual American sporting event, known for its festive atmosphere and culinary traditions, features a unique trophy: the Borg-Warner Trophy, which bears the sculpted faces of every past winner. The race's 200 laps around a 2.5-mile oval track, totaling 500 miles, demand both speed and endurance from its drivers. Milk is the traditional victory beverage for the winner of this race. What is the name of this event, held annually at the Indianapolis Motor Speedway?",
+        "question": "This golfer's signature drink, a blend of iced tea and lemonade, became a popular refreshment and a testament to his widespread appeal. He was known for his aggressive playing style and his charismatic personality, which earned him the nickname \"The King\" and a devoted following known as \"Arnie's Army.\" He won seven major championships, including four Masters Tournaments. Who is this legendary golfer, who helped popularize the sport and inspire generations of players?",
         "answers": [
-            "Indianapolis 500",
-            "Indy 500"
+            "Arnold Palmer"
         ],
         "incorrect1": "",
         "incorrect2": "",
@@ -14,10 +13,9 @@
     },
     {
         "category": "Sports",
-        "question": "This sport is hosting an inagural Four Nations tournament between USA, Canada, Sweden, and Finland. The sport's first organized indoor game was played in Montreal, Canada, in 1875. The sport's iconic trophy, the Stanley Cup, is the oldest professional sports trophy in North America. Its origins trace back to Canada in the 19th century, where it was played on frozen lakes and ponds. What is this sport, often referred to as \"the fastest game on ice\"?",
+        "question": "This athlete's remarkable performance at the 1912 Stockholm Olympics, where he won gold medals in both the pentathlon and decathlon, led King Gustav V of Sweden to proclaim him \"the greatest athlete in the world.\" He played professional baseball and football, even playing alongside legendary baseball player Babe Ruth on the same team. His Olympic medals were stripped in 1913 due to a technicality regarding his amateur status, but were posthumously reinstated in 1983.  Who is this legendary athlete, considered one of the most versatile athletes of all time?",
         "answers": [
-            "Ice Hockey",
-            "NHL"
+            "Jim Thorpe"
         ],
         "incorrect1": "",
         "incorrect2": "",
@@ -27,9 +25,9 @@
     },
     {
         "category": "Sports",
-        "question": "This city hosted the 2025 NBA All-Star Game which featured a new mini-tournament format. This city hosted the 1906 Summer Olympics, which were originally scheduled for Chicago but were moved due to the devastating earthquake and fire that struck the city earlier that year. The \"Sneaker Wars\" of the 1980s, fueled by the city's basketball culture and the popularity of Nike shoes, led to a surge in shoe-related crime. The city's iconic Candlestick Park, once home to both the Giants and the 49ers, was demolished in 2015, making way for a new housing development. What is the name of this city, known for its rich sporting history and passionate fans?",
+        "question": "This NFL linebacker's ferocious pass-rushing skills and relentless pursuit of quarterbacks revolutionized the linebacker position, forcing offenses to adapt their blocking schemes. He won three NFL Defensive Player of the Year awards and was named NFL MVP in 1986, a rare feat for a defensive player. He played his entire 13-season career with the New York Giants, leading them to two Super Bowl victories. Who is this Hall of Fame linebacker, known for his explosive speed and his impact on the game?",
         "answers": [
-            "San Francisco"
+            "Lawrence Taylor"
         ],
         "incorrect1": "",
         "incorrect2": "",
@@ -39,9 +37,9 @@
     },
     {
         "category": "Sports",
-        "question": "This annual cycling race, known as the \"Grand Boucle\" (meaning \"the big loop\"), covers over 3,000 kilometers (1,864 miles) across France, incorporating various terrains like mountains, flatlands, and cobbled roads. It is one of the three Grand Tours, alongside the Giro d'Italia and the Vuelta a Espa\\u00f1a. The leader of the race wears a distinctive yellow jersey, symbolizing the overall standings. What is the name of this grueling yet prestigious race, considered the most prestigious in professional cycling?",
+        "question": "This baseball player's record-breaking streak of 2,632 consecutive games played, surpassing Lou Gehrig's long-standing record, earned him the nickname \"Iron Man.\" He was a two-time American League MVP and a 19-time All-Star, playing his entire career with the Baltimore Orioles. He famously hit a home run in his final All-Star Game appearance in 2001, a memorable moment that capped off his illustrious career. Who is this Hall of Fame shortstop and third baseman, known for his durability, consistency, and leadership?",
         "answers": [
-            "Tour de France"
+            "Cal Ripken Jr."
         ],
         "incorrect1": "",
         "incorrect2": "",
@@ -51,10 +49,9 @@
     },
     {
         "category": "Sports",
-        "question": "This organization, founded in 1906, oversees and regulates student athletics at over 1,100 colleges and universities in the United States. Its headquarters are located in Indianapolis, Indiana. The organization hosts over 90 championships in various sports each year, including the popular March Madness basketball tournament.  The organization's \"Power Five\" conferences included the ACC, Big Ten, Big 12, Pac-12, and SEC, but have recently undergone a shake-up. What is the name of this governing body for college athletics?",
+        "question": "This quarterback's iconic \"fake spike\" play, where he pretended to spike the ball to stop the clock but instead threw a game-winning touchdown pass, became a legendary moment in NFL history. He holds the NFL record for most passing yards and touchdowns in a single season, a feat he accomplished in 1984. He played his entire 17-season career with the Miami Dolphins, leading them to the Super Bowl in 1985. Who is this Hall of Fame quarterback, known for his quick release and his accuracy as a passer?",
         "answers": [
-            "NCAA",
-            "National Collegiate Athletic Association"
+            "Dan Marino"
         ],
         "incorrect1": "",
         "incorrect2": "",
@@ -64,9 +61,9 @@
     },
     {
         "category": "Sports",
-        "question": "This NFL team, established in 1919, is the only community-owned franchise in the league. The team's colors are green and gold, and they have won four Super Bowl championships, including the first two Super Bowls. Their passionate fanbase is known as \"Cheeseheads,\" who often wear foam cheese-shaped hats to games. What is the name of this team, whose home stadium is Lambeau Field in Wisconsin?",
+        "question": "This basketball legend's single-game scoring record of 100 points, achieved in 1962, remains one of the most remarkable feats in sports history. He also holds the record for most rebounds in a single game, with 55 rebounds. He led the NBA in scoring seven times and in rebounding eleven times, showcasing his dominance on both ends of the court.  He played for the Philadelphia/San Francisco Warriors, the Philadelphia 76ers, and the Los Angeles Lakers, winning two NBA championships. Who is this Hall of Fame center, known for his incredible athleticism and his larger-than-life personality?",
         "answers": [
-            "Green Bay Packers"
+            "Wilt Chamberlain"
         ],
         "incorrect1": "",
         "incorrect2": "",
@@ -76,9 +73,9 @@
     },
     {
         "category": "Sports",
-        "question": "This NBA team's home arena, Fiserv Forum, opened in 2018 and features a unique zinc-paneled exterior that shimmers in the sunlight.  Their logo, featuring a stylized deer with outstretched antlers, is a nod to the state's wildlife and nickname, \"The Badger State.\"  They have won two NBA championships, the first in 1971 with Kareem Abdul-Jabbar and Oscar Robertson, and the second in 2021 with Giannis Antetokounmpo. What is the name of this team, whose green and cream colors represent the state's lush landscapes?",
+        "question": "This surfer's record of 11 world surfing championships, achieved between 1992 and 2011, solidified his status as the most successful surfer of all time. He is known for his innovative aerial maneuvers and his ability to read waves, adapting his style to different conditions. He founded a company which created a revolutionary artificial wave pool that produces perfect waves for surfing. He also co-founded Outerknown, a sustainable clothing company that focuses on environmentally friendly practices. Who is this surfing legend, who continues to compete at a high level even in his 50s?",
         "answers": [
-            "Milwaukee Bucks"
+            "Kelly Slater"
         ],
         "incorrect1": "",
         "incorrect2": "",

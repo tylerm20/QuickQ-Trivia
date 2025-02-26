@@ -1,0 +1,38 @@
+.Settings {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    flex-grow: 1;
+}
+
+.CloseButton {
+    align-self: flex-end;
+}
+
+.CommunityFooter {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.JoinTheCommunity {
+    align-self: flex-start;
+    margin-bottom: 10px;
+}
+
+.Logos {
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+}
+
+.SocialLogo {
+    height: 20px;
+    color: black;
+}
+
+.CloseIcon {
+    height: 20px;
+    align-self: flex-end;
+    margin: -5px;
+}

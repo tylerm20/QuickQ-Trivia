@@ -1790,7 +1790,7 @@
         "answers": [
             "U.S. Civil War (or American Civil War)"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "US History",
@@ -1799,7 +1799,7 @@
         "answers": [
             "George Washington"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "US History",
@@ -1808,7 +1808,7 @@
         "answers": [
             "Susan B. Anthony"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "US History",
@@ -1817,7 +1817,7 @@
         "answers": [
             "Dust Bowl"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "US History",
@@ -1826,7 +1826,7 @@
         "answers": [
             "Watergate scandal"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "US History",
@@ -1835,7 +1835,7 @@
         "answers": [
             "Virginia"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "US History",
@@ -1844,7 +1844,7 @@
         "answers": [
             "marches on Washington DC (accept descriptions like \"walking to Washington, DC\" or \"protesting by marching on Washington DC;\" prompt on \"marches\" alone or anything that doesn't specify Washington DC)"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "US History",

@@ -1785,7 +1785,7 @@
         "answers": [
             "rivers"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Arts & Literature",
@@ -1794,7 +1794,7 @@
         "answers": [
             "Odin [accept Wodan, Wotan, or Wodinaz]"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Arts & Literature",
@@ -1803,7 +1803,7 @@
         "answers": [
             "Sherlock Holmes [accept either]"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Arts & Literature",
@@ -1812,7 +1812,7 @@
         "answers": [
             "China [or Zhongguo]"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Arts & Literature",
@@ -1821,7 +1821,7 @@
         "answers": [
             "Charles Dickens"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Arts & Literature",
@@ -1830,7 +1830,7 @@
         "answers": [
             "Aeneas [do not accept \"The Aeneid\" or \"Aeneid\" at any point]"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Arts & Literature",
@@ -1839,7 +1839,7 @@
         "answers": [
             "Esther (accept Hadassah)"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Arts & Literature",
