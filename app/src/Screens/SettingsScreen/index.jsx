@@ -70,12 +70,32 @@ const SettingsScreen = ({ showModal, setShowModal }) => {
                     </p>
                 </div>
                 <h3>Community</h3>
-                <div>
-                    Send your feedback or question suggestions to{" "}
+                <p>
+                    📢 <b>Share your feedback:</b>{" "}
+                    <a
+                        href="https://docs.google.com/forms/d/e/1FAIpQLSeYxUIKKQDYX4PSTFuE4d4RvbYDA5ey8znBFy5XeSBRY_qhRw/viewform?usp=dialog"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                    >
+                        Feedback Form
+                    </a>
+                </p>
+                <p>
+                    ❓ <b>Submit trivia questions:</b>{" "}
+                    <a
+                        href="https://docs.google.com/forms/d/e/1FAIpQLSeYznbR5FKYeB_q7ti8qp6JKm7xST5psSHZ0u9OkbP6YXdrfQ/viewform?usp=dialog"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                    >
+                        Question Submission Form
+                    </a>
+                </p>
+                <p>
+                    ✉️ <b>Email me:</b>{" "}
                     <a href="mailto:QuickQTrivia@gmail.com">
                         QuickQTrivia@gmail.com
                     </a>
-                </div>
+                </p>
                 <br />
                 <div className="CommunityFooter">
                     <div className="JoinTheCommunity">Join the Community:</div>

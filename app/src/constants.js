@@ -63,6 +63,8 @@ export const CATEGORY_COLOR_MAP = {
 
 export const GAME_MODE_STORAGE_KEY = "game_mode";
 
+export const SEEN_ANNOUNCEMENT_STORAGE_KEY = "seen_announcement";
+
 export const GameModes = {
     FREE_RESPONSE: "free_response",
     MULTIPLE_CHOICE: "multiple_choice",

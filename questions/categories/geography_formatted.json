@@ -1772,7 +1772,7 @@
         "answers": [
             "Libya"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Geography",
@@ -1781,7 +1781,7 @@
         "answers": [
             "Pittsburgh, Pennsylvania"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Geography",
@@ -1790,7 +1790,7 @@
         "answers": [
             "Malaysia"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Geography",
@@ -1799,7 +1799,7 @@
         "answers": [
             "Japan [accept Nihon-koku; or Nippon-koku]"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Geography",
@@ -1808,7 +1808,7 @@
         "answers": [
             "New Orleans, Louisiana"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Geography",
@@ -1817,7 +1817,7 @@
         "answers": [
             "Sahara Desert"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Geography",
@@ -1826,7 +1826,7 @@
         "answers": [
             "Arizona"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Geography",

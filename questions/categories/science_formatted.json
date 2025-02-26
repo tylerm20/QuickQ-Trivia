@@ -1798,7 +1798,7 @@
         "answers": [
             "sine"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",
@@ -1807,7 +1807,7 @@
         "answers": [
             "lead (accept Pb before it is read)"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",
@@ -1816,7 +1816,7 @@
         "answers": [
             "oxygen (accept O)"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",
@@ -1825,7 +1825,7 @@
         "answers": [
             "Escherichia coli"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",
@@ -1834,7 +1834,7 @@
         "answers": [
             "Gold"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",
@@ -1843,7 +1843,7 @@
         "answers": [
             "area (accept signed area or surface area)"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",
@@ -1852,7 +1852,7 @@
         "answers": [
             "chromosomes (accept specific examples, such as chromosome 22 or X chromosome)"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",
