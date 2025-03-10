@@ -1835,7 +1835,7 @@
         "answers": [
             "Texas"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Geography",
@@ -1844,7 +1844,7 @@
         "answers": [
             "Massachusetts"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Geography",
@@ -1853,7 +1853,7 @@
         "answers": [
             "Brazil"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Geography",
@@ -1862,7 +1862,7 @@
         "answers": [
             "Central Park [prompt on Manhattan Island; prompt on New York City or NYC]"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Geography",
@@ -1871,7 +1871,7 @@
         "answers": [
             "Amazon River"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Geography",
@@ -1880,7 +1880,7 @@
         "answers": [
             "Appalachian Mountains"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Geography",
@@ -1889,7 +1889,7 @@
         "answers": [
             "California"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Geography",

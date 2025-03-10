@@ -1853,7 +1853,7 @@
         "answers": [
             "James Monroe"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "US History",
@@ -1862,7 +1862,7 @@
         "answers": [
             "Federal Bureau of Investigation (accept FBI)"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "US History",
@@ -1871,7 +1871,7 @@
         "answers": [
             "Kennedy family [accept John F. Kennedy or John Fitzgerald Kennedy or Robert Kennedy or Robert Francis Kennedy or Ted Kennedy or Edward Moore Kennedy]"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "US History",
@@ -1880,7 +1880,7 @@
         "answers": [
             "bubonic plague or Black Death"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "US History",
@@ -1889,7 +1889,7 @@
         "answers": [
             "Mexican-American War [or the Mexican War]"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "US History",
@@ -1898,7 +1898,7 @@
         "answers": [
             "George Washington"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "US History",
@@ -1907,7 +1907,7 @@
         "answers": [
             "Jamestown"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "US History",
