@@ -33,6 +33,7 @@ function App() {
     const [gameMode, setGameMode] = useState(GameModes.FREE_RESPONSE);
     const [isFetchingQuestions, setIsFetchingQuestions] = useState(false);
     const [showSettingsModal, setShowSettingsModal] = useState(false);
+    // TODO: set this to correspond to the last day of questions
     const [selectedDate, setSelectedDate] = useState(new Date());
 
     ReactGA.initialize("G-VFCGD245RZ");
@@ -195,24 +196,28 @@ function App() {
     };
 
     useEffect(() => {
-        const fetchQuestionsFromServer = () => {
+        const daysPastApril142024 = (chosenDate) => {
+            // Create a Date object for April 14, 2024
+            const referenceDate = new Date(2024, 3, 14); // Months are zero-indexed (January = 0)
+
+            // Calculate the difference in milliseconds
+            const timeDifference =
+                chosenDate.getTime() - referenceDate.getTime();
+
+            // Convert the difference from milliseconds to days
+            const daysPast = Math.floor(timeDifference / (1000 * 60 * 60 * 24));
+
+            return daysPast;
+        };
+
+        const fetchQuestionsFromFile = () => {
             setIsFetchingQuestions(true);
-            const year = selectedDate.getFullYear();
-            const month = String(selectedDate.getMonth() + 1).padStart(2, "0"); // Months are 0-indexed
-            const day = String(selectedDate.getDate()).padStart(2, "0");
-            const isoDateString = `${year}-${month}-${day}`;
-            fetch(
-                `${process.env.REACT_APP_API_URL}/questions/${isoDateString}`,
-                {
-                    headers: {
-                        Authorization: `Bearer ${process.env.REACT_APP_API_KEY}`,
-                    },
-                }
-            )
+            fetch("quickq_questions.json")
                 .then(async (response) => {
                     const responseJson = await response.json();
+                    const questionSetToUse = daysPastApril142024(selectedDate);
+                    setQuestions(responseJson[questionSetToUse]);
                     setIsFetchingQuestions(false);
-                    return setQuestions(responseJson);
                 })
                 .catch((error) => {
                     console.error("Error fetching or parsing JSON:", error);
@@ -221,9 +226,42 @@ function App() {
         };
 
         if (!isFetchingQuestions) {
-            fetchQuestionsFromServer();
+            fetchQuestionsFromFile();
         }
     }, [hasFinishedTodaysGame, selectedDate]);
+
+    // NOTE: here is how to fetch questions from the server
+
+    // useEffect(() => {
+    //     const fetchQuestionsFromServer = () => {
+    //         setIsFetchingQuestions(true);
+    //         const year = selectedDate.getFullYear();
+    //         const month = String(selectedDate.getMonth() + 1).padStart(2, "0"); // Months are 0-indexed
+    //         const day = String(selectedDate.getDate()).padStart(2, "0");
+    //         const isoDateString = `${year}-${month}-${day}`;
+    //         fetch(
+    //             `${process.env.REACT_APP_API_URL}/questions/${isoDateString}`,
+    //             {
+    //                 headers: {
+    //                     Authorization: `Bearer ${process.env.REACT_APP_API_KEY}`,
+    //                 },
+    //             }
+    //         )
+    //             .then(async (response) => {
+    //                 const responseJson = await response.json();
+    //                 setIsFetchingQuestions(false);
+    //                 return setQuestions(responseJson);
+    //             })
+    //             .catch((error) => {
+    //                 console.error("Error fetching or parsing JSON:", error);
+    //                 setIsFetchingQuestions(false);
+    //             });
+    //     };
+
+    //     if (!isFetchingQuestions) {
+    //         fetchQuestionsFromServer();
+    //     }
+    // }, [hasFinishedTodaysGame, selectedDate]);
 
     useEffect(() => {
         if (hasFinishedTodaysGame) {
