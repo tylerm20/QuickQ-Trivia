@@ -10,6 +10,10 @@ QuickQ was started by Marty Heavey in January 2024. It was created to be a daily
 
 Marty Heavey maintained the project until March 2025, when it was open-sourced.
 
+To reduce hosting costs and simplify deployment, the hosted version of the project has been updated to remove the backend server. Trivia questions are now stored in a JSON file within the frontend application.
+
+**However, the original backend code (Flask) is still included in the repository for reference and historical purposes.**
+
 ## Features
 
 -   90-second timed trivia challenge.
@@ -20,6 +24,8 @@ Marty Heavey maintained the project until March 2025, when it was open-sourced.
 -   Daily quiz with 8 quiz-bowl-style questions.
 -   Streak tracking.
 -   Local browser storage for statistics.
+-   Trivia questions for the hosted version are now stored in a local JSON file (no backend server required).
+-   **Original Flask backend code is included for reference.**
 
 ## Technologies Used
 
@@ -28,19 +34,14 @@ Marty Heavey maintained the project until March 2025, when it was open-sourced.
     -   JavaScript
     -   CSS
     -   HTML
-    -   [Add any specific React libraries used, e.g., React Router, Axios]
--   **Backend (Flask):**
+-   **Original Backend (Flask):**
     -   Flask
     -   Python
-    -   [Add any specific Flask libraries used, e.g., Flask-Cors]
--   **Database:**
-    -   [Specify the database used, e.g., SQLite, PostgreSQL]
 
 ## Getting Started
 
 ### Prerequisites
 
--   Python 3.x
 -   Node.js and npm
 
 ### Installation
@@ -52,20 +53,7 @@ Marty Heavey maintained the project until March 2025, when it was open-sourced.
     cd QuickQ
     ```
 
-2.  **Backend Setup (Flask):**
-
-    ```bash
-    cd backend
-    python3 -m venv venv
-    source venv/bin/activate  # On macOS/Linux
-    venv\Scripts\activate  # On Windows
-    pip install -r requirements.txt
-    # Set up your database. If you have a database that needs to be initialized, add those steps here.
-    export FLASK_APP=app.py #or whatever you named your main python file.
-    flask run
-    ```
-
-3.  **Frontend Setup (React):**
+2.  **Frontend Setup (React):**
 
     ```bash
     cd frontend
@@ -73,18 +61,28 @@ Marty Heavey maintained the project until March 2025, when it was open-sourced.
     npm start
     ```
 
-4.  **Access the application:**
+3.  **Access the application:**
 
     -   The frontend will be available at `http://localhost:3000`.
-    -   The backend API will be available at `http://localhost:5000`.
 
 ## Configuration
 
--   **Backend:**
-    -   Configuration variables (e.g., database connection strings) can be set using environment variables or a configuration file.
-    -   Explain how to configure the database.
--   **Frontend:**
-    -   Explain how to configure the backend URL if it is not the default.
+-   **Trivia Questions:**
+
+    -   Trivia questions for the hosted version are located in `frontend/src/questions.json`. You can modify this file to update the questions.
+    -   The JSON file contains an array of question objects. Each object has the following structure:
+        ```json
+        {
+            "category": "Geography",
+            "source": "2022 MAKEMAKE",
+            "question": "This country's capital city was designed in the shape of an airplane around a \"Monumental Axis\" by architect Oscar Niemeyer. \"Cariocas\" are residents of this country's second most populous city, which was the origin of bossa nova music and hosts massive parades in the Sambodrome during Carnaval. Name this Portuguese-speaking country in South America which contains most of the Amazon rainforest.",
+            "answers": ["Brazil"],
+            "incorrect1": "Argentina",
+            "incorrect2": "Mexico",
+            "incorrect3": "Colombia",
+            "used": "TRUE"
+        }
+        ```
 
 ## Contributing
 
@@ -97,7 +95,7 @@ We welcome contributions! Please follow these steps:
 
 ## License
 
-This project is licensed under the [Your License] License - see the `LICENSE` file for details.
+This project is licensed under the MIT License - see the `LICENSE` file for details.
 
 ## Future Improvements
 
