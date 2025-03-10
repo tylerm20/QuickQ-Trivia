@@ -1845,7 +1845,7 @@
         "answers": [
             "The Communist Manifesto (accept The Manifesto of the Communist Party; accept Manifest der Kommunistischen Partei)"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "World History",
@@ -1854,7 +1854,7 @@
         "answers": [
             "Joan of Arc (accept Jeanne d'Arc; prompt on \"Maid of Orl\u00b4eans\" or \"Pucelle d'Orl\u00b4eans\" before\"Orleans\" is read)"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "World History",
@@ -1863,7 +1863,7 @@
         "answers": [
             "Vikings (accept Norsemen; prompt on \"Danes\")"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "World History",
@@ -1872,7 +1872,7 @@
         "answers": [
             "Republic of Kosovo [or Autonomous Province of Kosovo and Metohija]"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "World History",
@@ -1881,7 +1881,7 @@
         "answers": [
             "John Locke"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "World History",
@@ -1890,7 +1890,7 @@
         "answers": [
             "Benito Mussolini"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "World History",
@@ -1899,7 +1899,7 @@
         "answers": [
             "Republic of the Sudan (do not accept or prompt on \"the Republic of South Sudan\")"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "World History",

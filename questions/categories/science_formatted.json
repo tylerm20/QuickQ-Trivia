@@ -1861,7 +1861,7 @@
         "answers": [
             "perfect numbers"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",
@@ -1870,7 +1870,7 @@
         "answers": [
             "Ohm's law"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",
@@ -1879,7 +1879,7 @@
         "answers": [
             "interphase (accept G1 before \"S subphase\" is read)"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",
@@ -1888,7 +1888,7 @@
         "answers": [
             "interest rate [accept simple interest rate or compound interest rate]"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",
@@ -1897,7 +1897,7 @@
         "answers": [
             "vapor pressure (do not accept or prompt \"pressure\")"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",
@@ -1906,7 +1906,7 @@
         "answers": [
             "Second Law of Thermodynamics [those versions were by Lord Kelvin (William Thompson) and Rudolf Clausius, respectively]"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",
@@ -1915,7 +1915,7 @@
         "answers": [
             "volcanoes [accept more specific answers like cryovolcano or shield volcano]"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",
