@@ -26,56 +26,14 @@ function App() {
     const [questions, setQuestions] = useState(null);
     const [streak, setStreak] = useState(0);
     const [datesAlreadyPlayed, setDatesAlreadyPlayed] = useState([]);
-    // TODO: remove this
-    const [timeUntilNextDay, setTimeUntilNextDay] = useState(
-        calculateTimeUntilNextDay()
-    );
     const [hasStartedTodaysGame, setHasStartedTodaysGame] = useState(false);
     const [hasFinishedTodaysGame, setHasFinishedTodaysGame] = useState(false);
     const [gameMode, setGameMode] = useState(GameModes.FREE_RESPONSE);
     const [isFetchingQuestions, setIsFetchingQuestions] = useState(false);
     const [showSettingsModal, setShowSettingsModal] = useState(false);
-    // TODO: set this to correspond to the last day of questions
     const [selectedDate, setSelectedDate] = useState(LAST_GAME_DATE);
 
     ReactGA.initialize("G-VFCGD245RZ");
-
-    function calculateTimeUntilNextDay() {
-        const now = new Date();
-        const tomorrow = new Date(now);
-        tomorrow.setDate(tomorrow.getDate() + 1);
-        tomorrow.setHours(0, 0, 0, 0); // Start of the next day
-        const difference = tomorrow - now;
-
-        const seconds = Math.max(Math.floor((difference / 1000) % 60), 0);
-        const minutes = Math.max(Math.floor((difference / 1000 / 60) % 60), 0);
-        const hours = Math.max(
-            Math.floor((difference / (1000 * 60 * 60)) % 24),
-            0
-        );
-
-        return { hours, minutes, seconds };
-    }
-
-    useEffect(() => {
-        const timer = setInterval(() => {
-            setTimeUntilNextDay(calculateTimeUntilNextDay());
-        }, 1000); // Update every second
-
-        return () => clearInterval(timer); // Cleanup on unmount
-    }, [calculateTimeUntilNextDay]);
-
-    useEffect(() => {
-        if (
-            timeUntilNextDay.hours < 1 &&
-            timeUntilNextDay.minutes < 1 &&
-            timeUntilNextDay.seconds < 1
-        ) {
-            setHasStartedTodaysGame(false);
-            setHasFinishedTodaysGame(false);
-            // maybe fetch questions for new day here
-        }
-    }, [timeUntilNextDay]);
 
     useEffect(() => {
         setHasStartedTodaysGame(
@@ -96,7 +54,7 @@ function App() {
     }, [hasFinishedTodaysGame]);
 
     const calculateStreak = () => {
-        let dateToCheck = LAST_GAME_DATE;
+        let dateToCheck = new Date(LAST_GAME_DATE);
         let streak = 0;
         let keepChecking = true;
         while (keepChecking) {
@@ -118,11 +76,10 @@ function App() {
 
     const getDatesAlreadyPlayed = () => {
         const datesPlayed = [];
-        const today = LAST_GAME_DATE;
 
         // Iterate backwards from today to the first game date
         for (
-            let date = new Date(today);
+            let date = new Date(LAST_GAME_DATE);
             date >= FIRST_GAME_DATE;
             date.setDate(date.getDate() - 1)
         ) {
@@ -143,7 +100,6 @@ function App() {
                         setScreenShowing={setScreenShowing}
                         hasFinishedTodaysGame={hasFinishedTodaysGame}
                         hasStartedTodaysGame={hasStartedTodaysGame}
-                        timeUntilNextGame={timeUntilNextDay}
                         gameMode={gameMode}
                         setGameMode={setGameMode}
                         isFetchingQuestions={isFetchingQuestions}

@@ -1,6 +1,6 @@
 import React, { useEffect, useRef } from "react";
 import Modal from "../../Components/Modal";
-import { SEEN_ANNOUNCEMENT_STORAGE_KEY } from "../../constants";
+import { SEEN_ANNOUNCEMENT_2_STORAGE_KEY } from "../../constants";
 import "./style.css";
 
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
@@ -27,7 +27,7 @@ const AnnouncementScreen = ({ showModal, setShowModal }) => {
     }, [showModal, setShowModal]);
 
     const handleClose = () => {
-        localStorage.setItem(SEEN_ANNOUNCEMENT_STORAGE_KEY, "true"); // Store that the user has seen it
+        localStorage.setItem(SEEN_ANNOUNCEMENT_2_STORAGE_KEY, "true"); // Store that the user has seen it
         setShowModal(false);
     };
 
@@ -40,47 +40,33 @@ const AnnouncementScreen = ({ showModal, setShowModal }) => {
                     onClick={handleClose}
                 />
                 <div>
-                    <h3>Help Shape the Future of QuickQ!</h3>
+                    <h3>QuickQ Now in Archive Mode</h3>
+                    <h3>It's also been open sourced!</h3>
                     <p>
                         I've loved building and maintaining <b>QuickQ</b>, but I
                         no longer have the time to give it the attention it
-                        deserves. I'm reaching out to gather feedback and invite
-                        contributions from the community.
+                        deserves. So, I've decided to put it in archive mode.
+                        You can play any of the over 300 days of quizzes in the
+                        archive.
                     </p>
                     <p>
-                        Let me know what you love about QuickQ, what you'd like
-                        to see improved, and how you might be willing to help.
-                        I'm especially looking for partners to assist with
-                        maintaining QuickQ, exploring monetization strategies,
-                        and contributing new questions—particularly in the
-                        categories of{" "}
-                        <b>Sports, Entertainment, and Current Events</b>.
-                    </p>
-                    <p>
-                        📢 <b>Share your feedback:</b>{" "}
-                        <a
-                            href="https://docs.google.com/forms/d/e/1FAIpQLSeYxUIKKQDYX4PSTFuE4d4RvbYDA5ey8znBFy5XeSBRY_qhRw/viewform?usp=dialog"
-                            target="_blank"
-                            rel="noopener noreferrer"
-                        >
-                            Feedback Form
+                        If you want to help keep QuickQ alive, you can
+                        contribute to the project! The code is available on
+                        GitHub:{" "}
+                        <a href="https://github.com/mheavey18/QuickQ-Trivia">
+                            QuickQ-Trivia Github Repo
                         </a>
+                        . Feel free to fork the project, make changes, and
+                        submit a pull request.
                     </p>
                     <p>
-                        ❓ <b>Submit trivia questions:</b>{" "}
-                        <a
-                            href="https://docs.google.com/forms/d/e/1FAIpQLSeYznbR5FKYeB_q7ti8qp6JKm7xST5psSHZ0u9OkbP6YXdrfQ/viewform?usp=dialog"
-                            target="_blank"
-                            rel="noopener noreferrer"
-                        >
-                            Question Submission Form
-                        </a>
-                    </p>
-                    <p>
-                        ✉️ <b>Email me:</b>{" "}
-                        <a href="mailto:QuickQTrivia@gmail.com">
-                            QuickQTrivia@gmail.com
-                        </a>
+                        You can send me an email if you have questions about the
+                        QuickQ.
+                        <p>
+                            <a href="mailto:QuickQTrivia@gmail.com">
+                                QuickQTrivia@gmail.com
+                            </a>
+                        </p>
                     </p>
                     <p>
                         Thanks for playing and for being part of this community!

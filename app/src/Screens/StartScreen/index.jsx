@@ -14,7 +14,7 @@ import {
     GAME_MODE_STORAGE_KEY,
     FIRST_GAME_DATE,
     LAST_GAME_DATE,
-    SEEN_ANNOUNCEMENT_STORAGE_KEY,
+    SEEN_ANNOUNCEMENT_2_STORAGE_KEY,
 } from "../../constants";
 import "./style.css";
 import AnnouncementScreen from "../AnnouncementScreen";
@@ -23,7 +23,6 @@ const StartScreen = ({
     setScreenShowing,
     hasFinishedTodaysGame,
     hasStartedTodaysGame,
-    timeUntilNextGame,
     gameMode,
     setGameMode,
     isFetchingQuestions,
@@ -40,10 +39,6 @@ const StartScreen = ({
         () => setCategoryScores(calculateCategoryScores()),
         [calculateCategoryScores]
     );
-
-    function formatTimeComponent(timeComponent) {
-        return timeComponent < 10 ? `0${timeComponent}` : timeComponent;
-    }
 
     const changeGameMode = () => {
         const newGameMode = isMultipleChoiceMode(gameMode)
@@ -62,8 +57,7 @@ const StartScreen = ({
     };
 
     const hasSeenAnnouncement = () => {
-        console.log(localStorage.getItem(SEEN_ANNOUNCEMENT_STORAGE_KEY));
-        return !!localStorage.getItem(SEEN_ANNOUNCEMENT_STORAGE_KEY);
+        return !!localStorage.getItem(SEEN_ANNOUNCEMENT_2_STORAGE_KEY);
     };
 
     useEffect(() => {
@@ -137,16 +131,10 @@ const StartScreen = ({
             )}
             {hasFinishedTodaysGame ? (
                 <div className="AlreadyPlayed">
-                    <div className="ComeBack">Come back for a new Quiz in </div>
-                    <div className="CountdownUntilNextDay">
-                        {formatTimeComponent(timeUntilNextGame.hours)}:
-                        {formatTimeComponent(timeUntilNextGame.minutes)}:
-                        {formatTimeComponent(timeUntilNextGame.seconds)}
-                    </div>
                     <div className="ComeBack">
                         <b>
-                            or play quizzes from the archive by changing the
-                            date above!
+                            Check out another quiz from the archive by changing
+                            the date above!
                         </b>
                     </div>
                     <div className="Buttons">
