@@ -85,7 +85,7 @@ function App() {
         ) {
             const dateKey = date.toDateString();
             if (localStorage.getItem(dateKey)) {
-                datesPlayed.push(new Date(date)); // Add the date to the array
+                datesPlayed.push(new Date(date));
             }
         }
 
