@@ -14,6 +14,7 @@ import {
     GameModes,
     GAME_MODE_STORAGE_KEY,
     FIRST_GAME_DATE,
+    LAST_GAME_DATE,
 } from "./constants";
 import "./App.css";
 
@@ -25,6 +26,7 @@ function App() {
     const [questions, setQuestions] = useState(null);
     const [streak, setStreak] = useState(0);
     const [datesAlreadyPlayed, setDatesAlreadyPlayed] = useState([]);
+    // TODO: remove this
     const [timeUntilNextDay, setTimeUntilNextDay] = useState(
         calculateTimeUntilNextDay()
     );
@@ -34,7 +36,7 @@ function App() {
     const [isFetchingQuestions, setIsFetchingQuestions] = useState(false);
     const [showSettingsModal, setShowSettingsModal] = useState(false);
     // TODO: set this to correspond to the last day of questions
-    const [selectedDate, setSelectedDate] = useState(new Date());
+    const [selectedDate, setSelectedDate] = useState(LAST_GAME_DATE);
 
     ReactGA.initialize("G-VFCGD245RZ");
 
@@ -94,7 +96,7 @@ function App() {
     }, [hasFinishedTodaysGame]);
 
     const calculateStreak = () => {
-        let dateToCheck = new Date();
+        let dateToCheck = LAST_GAME_DATE;
         let streak = 0;
         let keepChecking = true;
         while (keepChecking) {
@@ -116,7 +118,7 @@ function App() {
 
     const getDatesAlreadyPlayed = () => {
         const datesPlayed = [];
-        const today = new Date();
+        const today = LAST_GAME_DATE;
 
         // Iterate backwards from today to the first game date
         for (
@@ -139,7 +141,6 @@ function App() {
                 return (
                     <StartScreen
                         setScreenShowing={setScreenShowing}
-                        today={new Date()}
                         hasFinishedTodaysGame={hasFinishedTodaysGame}
                         hasStartedTodaysGame={hasStartedTodaysGame}
                         timeUntilNextGame={timeUntilNextDay}
@@ -197,12 +198,9 @@ function App() {
 
     useEffect(() => {
         const daysPastApril142024 = (chosenDate) => {
-            // Create a Date object for April 14, 2024
-            const referenceDate = new Date(2024, 3, 14); // Months are zero-indexed (January = 0)
-
             // Calculate the difference in milliseconds
             const timeDifference =
-                chosenDate.getTime() - referenceDate.getTime();
+                chosenDate.getTime() - FIRST_GAME_DATE.getTime();
 
             // Convert the difference from milliseconds to days
             const daysPast = Math.floor(timeDifference / (1000 * 60 * 60 * 24));

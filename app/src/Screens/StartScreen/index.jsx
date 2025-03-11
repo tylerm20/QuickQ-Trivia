@@ -13,6 +13,7 @@ import {
     GameModes,
     GAME_MODE_STORAGE_KEY,
     FIRST_GAME_DATE,
+    LAST_GAME_DATE,
     SEEN_ANNOUNCEMENT_STORAGE_KEY,
 } from "../../constants";
 import "./style.css";
@@ -20,7 +21,6 @@ import AnnouncementScreen from "../AnnouncementScreen";
 
 const StartScreen = ({
     setScreenShowing,
-    today,
     hasFinishedTodaysGame,
     hasStartedTodaysGame,
     timeUntilNextGame,
@@ -102,7 +102,8 @@ const StartScreen = ({
                 />
             )}
             <div className="Header">
-                <div>Rapid Daily Trivia Quiz</div>{" "}
+                <div>Rapid Daily Trivia Quiz</div>
+                <div className="Archive">Archive</div>
                 <DatePicker
                     selected={selectedDate}
                     onChange={(date) => {
@@ -110,7 +111,7 @@ const StartScreen = ({
                             setSelectedDate(date);
                         }
                     }}
-                    maxDate={today}
+                    maxDate={LAST_GAME_DATE}
                     minDate={FIRST_GAME_DATE}
                     highlightDates={datesAlreadyPlayed}
                     dayClassName={(date) => {

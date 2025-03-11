@@ -71,6 +71,7 @@ export const GameModes = {
 };
 
 export const FIRST_GAME_DATE = new Date(2024, 3, 14); // April 14, 2024
+export const LAST_GAME_DATE = new Date(2025, 2, 11); // March 11, 2025
 
 export const ANNOUNCEMENTS = [
     `Hello! Two QuickQ announcements:
