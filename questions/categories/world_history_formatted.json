@@ -1908,7 +1908,7 @@
         "answers": [
             "Hundred Years' War"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "World History",
@@ -1917,7 +1917,7 @@
         "answers": [
             "Cuba [or Republic of Cuba or Republica de Cuba]"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "World History",
@@ -1926,7 +1926,7 @@
         "answers": [
             "Italy [or Italia]"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "World History",

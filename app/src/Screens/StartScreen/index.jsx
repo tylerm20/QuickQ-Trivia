@@ -62,19 +62,12 @@ const StartScreen = ({
     };
 
     const hasSeenAnnouncement = () => {
-        console.log(localStorage.getItem(SEEN_ANNOUNCEMENT_STORAGE_KEY));
         return !!localStorage.getItem(SEEN_ANNOUNCEMENT_STORAGE_KEY);
     };
 
     useEffect(() => {
         if (doesNotHaveGameResultsStored()) {
             setShowSettingsModal(true);
-        }
-    }, []);
-
-    useEffect(() => {
-        if (!hasSeenAnnouncement()) {
-            setShowAnnouncementModel(true);
         }
     }, []);
 

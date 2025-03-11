@@ -1898,7 +1898,7 @@
         "answers": [
             "Mediterranean Sea SCOP B  Round 2 Page 4 of 4"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Geography",
@@ -1907,7 +1907,7 @@
         "answers": [
             "Quebec"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Geography",
@@ -1916,7 +1916,7 @@
         "answers": [
             "Brazil"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Geography",

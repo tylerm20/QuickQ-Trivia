@@ -1916,7 +1916,7 @@
         "answers": [
             "Spanish-American War"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "US History",
@@ -1925,7 +1925,7 @@
         "answers": [
             "Benedict Arnold"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "US History",
@@ -1934,7 +1934,7 @@
         "answers": [
             "Barack Obama (accept Barack Hussein Obama II)"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "US History",

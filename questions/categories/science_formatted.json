@@ -1924,7 +1924,7 @@
         "answers": [
             "Euclid"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",
@@ -1933,7 +1933,7 @@
         "answers": [
             "hydrogen bonds (prompt on \"dipole-dipole interaction\" before mention; prompt on \"bonding\" before mention)"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",
@@ -1942,7 +1942,7 @@
         "answers": [
             "ethers [accept esters before \"THF\"]"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",
