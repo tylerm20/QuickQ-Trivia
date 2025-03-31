@@ -1,10 +1,9 @@
 [
     {
         "category": "Current Events",
-        "question": "This holiday was celebrated with a parade in New Orleans on April 4, 2025. This celebration, known for its elaborate parades, vibrant costumes, and festive atmosphere, culminates on \"Fat Tuesday,\" the day before the start of Lent in the Christian calendar. Its signature colors are purple (justice), green (faith), and gold (power), which are prominently displayed in decorations and costumes. The tradition of throwing beads, doubloons, and other trinkets from parade floats has become a hallmark of the celebration. What is the name of this annual carnival celebration, most famously associated with New Orleans, Louisiana?",
+        "question": "Jair Bolsonaro, this country's former president, will face trial for an attempted coup. This South American country, known for its vibrant Carnival celebrations, is home to the Amazon rainforest, the world's largest tropical rainforest. Its iconic Christ the Redeemer statue overlooks the city of Rio de Janeiro. It is also the birthplace of samba music and the martial art Capoeira. What is the name of this country, the largest in South America?",
         "answers": [
-            "Mardi Gras",
-            "Fat Tuesday"
+            "Brazil"
         ],
         "incorrect1": "",
         "incorrect2": "",
@@ -14,9 +13,9 @@
     },
     {
         "category": "Current Events",
-        "question": "Intuitive Machines, a private company based in Texas, attempted to land their craft Athena on this satellite planet. However, the lander missed its mark toppled over and died 24 hours after touching down. This celestial body became the target of intense space exploration during the Cold War, leading to a historic race to land humans on its surface. The first unmanned spacecraft to achieve a soft landing was Luna 9 in 1966, paving the way for future crewed missions. The Apollo program, launched by the United States, ultimately achieved this goal with the Apollo 11 mission in 1969. What is the name of this celestial body, the Earth's only natural satellite?",
+        "question": "Several U.S. officials, including the vice president and the defense secretary, disclosed plans to attack Houthi rebels in Yemen in a group chat in this app that accidentally including a journalist. This messaging app, known for its strong emphasis on privacy and security, uses end-to-end encryption by default for all messages, ensuring that only the sender and recipient can read them. It was endorsed by Edward Snowden, who highlighted its commitment to user privacy. What is the name of this app?",
         "answers": [
-            "Moon"
+            "Signal"
         ],
         "incorrect1": "",
         "incorrect2": "",
@@ -26,9 +25,46 @@
     },
     {
         "category": "Current Events",
-        "question": "This nation's Liberal Party chose Mark Carney as their new leader making him the next Prime Minister of the nation. Name this country which borders the United States to the North where Justin Trudeau was just replaced. This country's economy, one of the largest in the world, is highly diversified, with significant contributions from natural resources, manufacturing, and services. It is a major exporter of energy, minerals, and agricultural products, and it has a strong automotive industry. What is the name of this country, a member of the G7 and known for its vast natural resources and its advanced industrial economy?",
+        "question": "This chemical was legally banned from being added to drinking water in Utah. This naturally occurring mineral, found in water, soil, and rocks, is added to many public water supplies and dental products due to its effectiveness in preventing tooth decay. It strengthens tooth enamel, making it more resistant to acid attacks from bacteria and sugars in the mouth. While beneficial in small amounts, excessive intake can lead to fluorosis, a condition that affects tooth and bone development. What is the name of this mineral, commonly associated with dental health?",
         "answers": [
-            "Canada"
+            "Fluoride"
+        ],
+        "incorrect1": "",
+        "incorrect2": "",
+        "incorrect3": "",
+        "used": "TRUE",
+        "source": "Marty Heavey"
+    },
+    {
+        "category": "Current Events",
+        "question": "This country was the epicenter of a magnitude 7.7 earthquake leading to over 1000 deaths. This Southeast Asian country, formerly known as Burma, is home to the ancient city of Bagan, a UNESCO World Heritage Site with thousands of Buddhist temples and pagodas. Its Irrawaddy River is a major waterway, vital for transportation and trade. The country is known for its production of jade and teak. What is the name of this country, bordered by India, Bangladesh, China, Laos, and Thailand?",
+        "answers": [
+            "Myanmar"
+        ],
+        "incorrect1": "",
+        "incorrect2": "",
+        "incorrect3": "",
+        "used": "TRUE",
+        "source": "Marty Heavey"
+    },
+    {
+        "category": "Current Events",
+        "question": "This holiday occurred on March 30, 2025. This Islamic holiday, celebrated at the end of Ramadan, the holy month of fasting, is marked by festive gatherings, the sharing of meals, and the giving of gifts. The exact date of the holiday varies each year, as it is determined by the sighting of the new crescent moon. It is a time for Muslims to express gratitude to Allah for the strength and blessings received during Ramadan. What is the name of this joyous celebration, often referred to as the \"Festival of Breaking the Fast\"?",
+        "answers": [
+            "Eid al-Fitr",
+            "Eid"
+        ],
+        "incorrect1": "",
+        "incorrect2": "",
+        "incorrect3": "",
+        "used": "TRUE",
+        "source": "Marty Heavey"
+    },
+    {
+        "category": "Current Events",
+        "question": "This Christian holiday, celebrated in the spring, commemorates the resurrection of Jesus Christ from the dead, described in the New Testament as having occurred on the third day after his crucifixion. Its date varies each year, determined by the lunisolar calendar, falling on the first Sunday after the first full moon following the spring equinox. Traditional symbols associated with the holiday include eggs, representing new life, and rabbits, symbols of fertility. What is the name of this major Christian festival?",
+        "answers": [
+            "Easter"
         ],
         "incorrect1": "",
         "incorrect2": "",

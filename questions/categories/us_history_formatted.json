@@ -1943,7 +1943,7 @@
         "answers": [
             "Brown v. Board of Education of Topeka, Kansas"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "US History",
@@ -1952,7 +1952,7 @@
         "answers": [
             "Franklin Delano Roosevelt (accept FDR; prompt on \"Roosevelt\" alone)"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "US History",
@@ -1961,7 +1961,7 @@
         "answers": [
             "gay marriage [or same-sex marriage or homosexual marriage or other reasonable equivalents; prompt on marriage or equivalents]"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "US History",
@@ -1970,7 +1970,7 @@
         "answers": [
             "Christopher Columbus (or Christoforo Columbo )"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "US History",
@@ -1979,7 +1979,7 @@
         "answers": [
             "John D. Rockefeller"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "US History",
@@ -1988,7 +1988,7 @@
         "answers": [
             "Cuban Missile Crisis [or Caribbean Crisis; or Missile Scare; or October Crisis of 1962; prompt on \"October Crisis\" alone]"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "US History",
@@ -1997,7 +1997,7 @@
         "answers": [
             "marriage [accept word forms such as getting married]"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "US History",
@@ -2006,7 +2006,7 @@
         "answers": [
             "Manhattan Project [accept Manhattan Engineer District or Manhattan District; prompt on equivalents like \"construction of the atomic bomb\"]"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "US History",
@@ -2015,7 +2015,7 @@
         "answers": [
             "assassination (or murder, shooting, etc.) of John Fitzgerald Kennedy (accept assassination of JFK; prompt on partial answers; prompt on \"assassination of Kennedy\")"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "US History",
@@ -2024,7 +2024,7 @@
         "answers": [
             "Panama Canal"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "US History",
@@ -2033,7 +2033,7 @@
         "answers": [
             "Speaker of the House of Representatives"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "US History",
@@ -2042,7 +2042,7 @@
         "answers": [
             "Philadelphia, Pennsylvania"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "US History",
@@ -2051,7 +2051,7 @@
         "answers": [
             "fires (Accept equivalents, such as conflagration, or actions, such as starting a fire)"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "US History",
@@ -2060,7 +2060,7 @@
         "answers": [
             "Mayflower"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "US History",
@@ -2069,7 +2069,7 @@
         "answers": [
             "State/Republic of Texas"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "US History",
@@ -2078,7 +2078,7 @@
         "answers": [
             "Booker T(aliaferro) Washington [prompt on \"Washington\"]"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "US History",
@@ -2087,7 +2087,7 @@
         "answers": [
             "George Washington"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "US History",
@@ -2096,7 +2096,7 @@
         "answers": [
             "Antonio Lopez de Santa Anna [prompt on Napoleon of the West before it is read]"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "US History",
@@ -2105,7 +2105,7 @@
         "answers": [
             "First Battle of Bull Run or First Battle of Manassas [MAN-ih-SAW] (prompt on Bull Run or Manassas)"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "US History",
@@ -2114,7 +2114,7 @@
         "answers": [
             "Australia (accept Commonwealth of Australia)"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "US History",
@@ -2123,7 +2123,7 @@
         "answers": [
             "George Washington"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "US History",
@@ -2132,7 +2132,7 @@
         "answers": [
             "Battle of Yorktown"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "US History",
@@ -2141,7 +2141,7 @@
         "answers": [
             "New York"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "US History",
@@ -2150,7 +2150,7 @@
         "answers": [
             "Donner Party"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "US History",

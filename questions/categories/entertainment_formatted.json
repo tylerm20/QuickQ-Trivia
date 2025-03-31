@@ -1,9 +1,9 @@
 [
     {
         "category": "Entertainment",
-        "question": "This film's iconic dance scene, featuring Uma Thurman and John Travolta in a twist contest, is set to Chuck Berry's \"You Never Can Tell,\" becoming one of the most memorable moments in cinema history. Its nonlinear narrative structure, weaving together multiple storylines, revolutionized storytelling in independent film. Its dialogue, filled with pop culture references and witty banter, has become widely quoted and celebrated. What is the title of this 1994 film, directed by Quentin Tarantino, which won the Palme d'Or at the Cannes Film Festival?",
+        "question": "This science fiction series, set in a future where humanity has colonized the solar system, features a unique and diverse cast of characters, including the crew of the Rocinante and various political factions from Earth, Mars, and the asteroid belt. The show's realistic portrayal of space travel, with its emphasis on physics and the challenges of living in zero gravity, sets it apart from other science fiction series. The discovery of the protomolecule, a mysterious alien substance, drives the central plot and introduces complex moral and philosophical dilemmas. What is the name of this critically acclaimed television series, based on the book series by James S.A. Corey?",
         "answers": [
-            "Pulp Fiction"
+            "The Expanse"
         ],
         "incorrect1": "",
         "incorrect2": "",
@@ -13,9 +13,9 @@
     },
     {
         "category": "Entertainment",
-        "question": "This film's iconic car chase scene, featuring a dangerous game of \"chicken\" with two cars speeding towards a cliff, became a symbol of teenage rebellion and reckless abandon. Its star, James Dean, became a cultural icon and a symbol of youthful angst and alienation, despite his tragically short career. The film explores themes of juvenile delinquency, generational conflict, and the search for identity. What is the title of this 1955 film, directed by Nicholas Ray, which has become a classic of American cinema?",
+        "question": "This film, directed by Wes Anderson, is known for its meticulous and symmetrical set design, its pastel color palette, and its quirky characters. It tells the story of a legendary concierge and his lobby boy at a famous European hotel between the first and second World Wars. The film's ensemble cast includes Ralph Fiennes, Tony Revolori, F. Murray Abraham, and Willem Dafoe. It won four Academy Awards, primarily in technical and design categories, including Best Production Design and Best Costume Design. What is the title of this visually stunning and whimsical 2014 film?",
         "answers": [
-            "Rebel Without a Cause"
+            "The Grand Budapest Hotel"
         ],
         "incorrect1": "",
         "incorrect2": "",
@@ -25,9 +25,45 @@
     },
     {
         "category": "Entertainment",
-        "question": "This actor's piercing blue eyes and charismatic screen presence made him a Hollywood icon, starring in films like \"Cool Hand Luke,\" \"Butch Cassidy and the Sundance Kid,\" and \"The Sting.\" He was also a successful race car driver and team owner winning numerous IndyCar championships. His philanthropic efforts included the founding of a food company whose profits are donated to charity. Who is this actor, known for his talent, his philanthropy, and his striking good looks?",
+        "question": "This dark fantasy film, set in post-Civil War Spain, weaves together a realistic portrayal of the political climate with a fantastical story of a young girl's escape into a magical world. It features creatures designed by Guillermo del Toro, including the Pale Man and the Faun, which are both terrifying and mesmerizing. The film explores themes of innocence, obedience, and the struggle between good and evil, using symbolism and allegory to convey its message. What is the title of this 2006 Spanish-language film, directed by Guillermo del Toro?",
         "answers": [
-            "Paul Newman"
+            "Pan's Labyrinth"
+        ],
+        "incorrect1": "",
+        "incorrect2": "",
+        "incorrect3": "",
+        "used": "TRUE",
+        "source": "Marty Heavey"
+    },
+    {
+        "category": "Entertainment",
+        "question": "This first-person shooter game, set in the underwater city of Rapture, a failed utopia built by Andrew Ryan, explores themes of objectivism, free will, and moral choice. The player character can use plasmids, genetic enhancements that grant superhuman abilities, and various weapons to combat mutated splicers and Big Daddies. The game's narrative is heavily influenced by the philosophies of Ayn Rand and George Orwell. What is the name of this critically acclaimed 2007 game, developed by Irrational Games?",
+        "answers": [
+            "BioShock"
+        ],
+        "incorrect1": "",
+        "incorrect2": "",
+        "incorrect3": "",
+        "used": "TRUE",
+        "source": "Marty Heavey"
+    },
+    {
+        "category": "Entertainment",
+        "question": "This handheld digital pet, created in Japan by Akihiro Yokoi of WiZ and Aki Maita of Bandai, requires users to feed, clean, and play with it to ensure its survival. Its popularity sparked a global craze in the late 1990s, with millions of units sold worldwide. The toy's name is a portmanteau of the Japanese word \"tamago\" (egg) and \"watch.\" What is the name of this virtual pet, known for its pixelated display and its demanding care requirements?",
+        "answers": [
+            "Tamagotchi"
+        ],
+        "incorrect1": "",
+        "incorrect2": "",
+        "incorrect3": "",
+        "used": "TRUE",
+        "source": "Marty Heavey"
+    },
+    {
+        "category": "Entertainment",
+        "question": "This hip-hop duo, from Atlanta, Georgia, is known for their eclectic and experimental sound, blending elements of funk, soul, and psychedelia with their Southern rap roots. Their album Aquemini, released in 1998, is often considered a masterpiece and a landmark in hip-hop history. They won the Grammy Award for Album of the Year in 2004 for their double album Speakerboxxx/The Love Below. Who are this duo, comprised of Andr\u00e9 3000 and Big Boi?",
+        "answers": [
+            "OutKast"
         ],
         "incorrect1": "",
         "incorrect2": "",

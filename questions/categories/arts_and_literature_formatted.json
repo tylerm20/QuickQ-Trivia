@@ -1938,7 +1938,7 @@
         "answers": [
             "E(dwin) E(stlin) Cummings"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Arts & Literature",
@@ -1947,7 +1947,7 @@
         "answers": [
             "baptism (accept word forms like baptise; accept christening before it is read)"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Arts & Literature",
@@ -1956,7 +1956,7 @@
         "answers": [
             "Animal Farm"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Arts & Literature",
@@ -1965,7 +1965,7 @@
         "answers": [
             "Poseidon"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Arts & Literature",
@@ -1974,7 +1974,7 @@
         "answers": [
             "John Steinbeck"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Arts & Literature",
@@ -1983,7 +1983,7 @@
         "answers": [
             "Daniel Defoe"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Arts & Literature",
@@ -1992,7 +1992,7 @@
         "answers": [
             "tempo [accept time; accept speed before last line, prompt after; prompt on any specific tempo marking by asking \"What general musical concept does that term belong to?\"]"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Arts & Literature",
@@ -2001,7 +2001,7 @@
         "answers": [
             "King Midas"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Arts & Literature",
@@ -2010,7 +2010,7 @@
         "answers": [
             "Don Quijote (accept The Ingenious Gentleman Don Quijote of La Mancha; accept El Ingenioso hidalgo Don Quixote de la Mancha)"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Arts & Literature",
@@ -2019,7 +2019,7 @@
         "answers": [
             "string instruments [prompt with \"less specific\" on any specific string instruments, like violin, viola, cello, or string bass]"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Arts & Literature",
@@ -2028,7 +2028,7 @@
         "answers": [
             "Abraham"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Arts & Literature",
@@ -2037,7 +2037,7 @@
         "answers": [
             "The Raven"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Arts & Literature",
@@ -2046,7 +2046,7 @@
         "answers": [
             "Pegasus"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Arts & Literature",
@@ -2055,7 +2055,7 @@
         "answers": [
             "American Gothic"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Arts & Literature",
@@ -2064,7 +2064,7 @@
         "answers": [
             "Madame Butterfly [or Madama Butterfly]"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Arts & Literature",
@@ -2073,7 +2073,7 @@
         "answers": [
             "Emily Dickinson"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Arts & Literature",
@@ -2082,7 +2082,7 @@
         "answers": [
             "George Frideric Handel"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Arts & Literature",
@@ -2091,7 +2091,7 @@
         "answers": [
             "Kurt Vonnegut Jr."
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Arts & Literature",
@@ -2100,7 +2100,7 @@
         "answers": [
             "Bronte sisters (accept the Bronte family or equivalents; accept Anne Bronte, Charlotte Bronte, and/or Emily Bronte; prompt on Acton, Ellis, and/or Currer Bell)"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Arts & Literature",
@@ -2109,7 +2109,7 @@
         "answers": [
             "Uncle Tom's Cabin; or, Life Among the Lowly"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Arts & Literature",
@@ -2118,7 +2118,7 @@
         "answers": [
             "Robert Frost"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Arts & Literature",
@@ -2127,7 +2127,7 @@
         "answers": [
             "Madame Bovary"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Arts & Literature",
@@ -2136,7 +2136,7 @@
         "answers": [
             "Washington Irving"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Arts & Literature",
@@ -2145,7 +2145,7 @@
         "answers": [
             "The Crucible"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Arts & Literature",
@@ -2154,7 +2154,7 @@
         "answers": [
             "Gulliver's Travels"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Arts & Literature",

@@ -1951,7 +1951,7 @@
         "answers": [
             "pi"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",
@@ -1960,7 +1960,7 @@
         "answers": [
             "rockets"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",
@@ -1969,7 +1969,7 @@
         "answers": [
             "ions (accept zwitterions; accept cations and/or anions)"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",
@@ -1978,7 +1978,7 @@
         "answers": [
             "noble gases (accept Group 18 of the Periodic Table before mentioned)"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",
@@ -1987,7 +1987,7 @@
         "answers": [
             "hydrochloric acid (accept HCl before it is read; accept hydrochloric alone after \"acid\" is read)"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",
@@ -1996,7 +1996,7 @@
         "answers": [
             "space stations (accept orbital stations)"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",
@@ -2005,7 +2005,7 @@
         "answers": [
             "Planck's constant [accept reduced Planck's constant, prompt on h or h-bar before mentioned]"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",
@@ -2014,7 +2014,7 @@
         "answers": [
             "functions"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",
@@ -2023,7 +2023,7 @@
         "answers": [
             "superconductivity [accept superconductors]"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",
@@ -2032,7 +2032,7 @@
         "answers": [
             "Second Law of Thermodynamics [those versions were by Lord Kelvin (William Thompson) and Rudolf Clausius, respectively]"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",
@@ -2041,7 +2041,7 @@
         "answers": [
             "(mass) density"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",
@@ -2050,7 +2050,7 @@
         "answers": [
             "red blood cells [or erythrocytes]"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",
@@ -2059,7 +2059,7 @@
         "answers": [
             "owls [or Strigiformes]"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",
@@ -2068,7 +2068,7 @@
         "answers": [
             "Great Barrier Reef"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",
@@ -2077,7 +2077,7 @@
         "answers": [
             "crime (accept equivalent answers, such as breaking the law)"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",
@@ -2086,7 +2086,7 @@
         "answers": [
             "45 snowglobes"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",
@@ -2095,7 +2095,7 @@
         "answers": [
             "black holes"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",
@@ -2104,7 +2104,7 @@
         "answers": [
             "$40.00"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",
@@ -2113,7 +2113,7 @@
         "answers": [
             "fractals (accept Sierpinski triangle before it is read)"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",
@@ -2122,7 +2122,7 @@
         "answers": [
             "Echinodermata or Echinoderms"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",
@@ -2131,7 +2131,7 @@
         "answers": [
             "greenhouse effect (prompt on \"global warming\" before it is read; prompt on \"climate change\")"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",
@@ -2140,7 +2140,7 @@
         "answers": [
             "orbitals"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",
@@ -2149,7 +2149,7 @@
         "answers": [
             "Gregor Johann Mendel"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",
@@ -2158,7 +2158,7 @@
         "answers": [
             "squirrels"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",
@@ -2167,7 +2167,7 @@
         "answers": [
             "infinity (accept word forms, like infinite)"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",
@@ -2176,7 +2176,7 @@
         "answers": [
             "pi"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",

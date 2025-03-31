@@ -1935,7 +1935,7 @@
         "answers": [
             "Napoleon Bonaparte (accept either or both names; accept Napoleon I)"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "World History",
@@ -1944,7 +1944,7 @@
         "answers": [
             "Because of Winn-Dixie"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "World History",
@@ -1953,7 +1953,7 @@
         "answers": [
             "Battle of Waterloo"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "World History",
@@ -1962,7 +1962,7 @@
         "answers": [
             "Japan (or Nippon )"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "World History",
@@ -1971,7 +1971,7 @@
         "answers": [
             "World War II [or Second World War]"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "World History",
@@ -1980,7 +1980,7 @@
         "answers": [
             "Holy Roman Empire [accept HRE]"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "World History",
@@ -1989,7 +1989,7 @@
         "answers": [
             "Peter the Great [accept Peter I or Pyotr Alexeyevich Romanov]"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "World History",
@@ -1998,7 +1998,7 @@
         "answers": [
             "Egyptian pharaohs"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "World History",
@@ -2007,7 +2007,7 @@
         "answers": [
             "Genghis Khan (accept Temujin until read)"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "World History",
@@ -2016,7 +2016,7 @@
         "answers": [
             "Peter the Great [or Peter I; prompt on Peter]"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "World History",
@@ -2025,7 +2025,7 @@
         "answers": [
             "Douglas MacArthur"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "World History",
@@ -2034,7 +2034,7 @@
         "answers": [
             "Tennis Court Oath"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "World History",
@@ -2043,7 +2043,7 @@
         "answers": [
             "People's Republic of China"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "World History",
@@ -2052,7 +2052,7 @@
         "answers": [
             "Philip II of Macedon"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "World History",
@@ -2061,7 +2061,7 @@
         "answers": [
             "Jamaica"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "World History",
@@ -2070,7 +2070,7 @@
         "answers": [
             "Mohandas [Karamchand] Gandhi [or Mahatma Gandhi; accept Gandhiji]"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "World History",
@@ -2079,7 +2079,7 @@
         "answers": [
             "William the Conqueror [or William I or William the Norman or William the Bastard]"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "World History",
@@ -2088,7 +2088,7 @@
         "answers": [
             "Sir Winston Leonard Spencer\u00ad Churchill"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "World History",
@@ -2097,7 +2097,7 @@
         "answers": [
             "Elizabeth [accept Elizabeth I or Elizabeth Tudor or Elizabeth II]"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "World History",
@@ -2106,7 +2106,7 @@
         "answers": [
             "Islamic Republic of Afghanistan"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "World History",
@@ -2115,7 +2115,7 @@
         "answers": [
             "the South Pole [prompt on Antarctica]"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "World History",
@@ -2124,7 +2124,7 @@
         "answers": [
             "Mexico [or the United Mexican States, or Estados Unidos Mexicanos; do not accept or prompt on just \"Estados Unidos\"]"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "World History",
@@ -2133,7 +2133,7 @@
         "answers": [
             "Blitzkrieg [accept lightning war before mention; prompt on things like \"combined arms tactics\"]"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "World History",
@@ -2142,7 +2142,7 @@
         "answers": [
             "Victoria of the United Kingdom"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "World History",
@@ -2151,7 +2151,7 @@
         "answers": [
             "Saddam Hussein [accept either underlined name]"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "World History",

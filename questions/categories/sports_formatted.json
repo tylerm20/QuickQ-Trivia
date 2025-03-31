@@ -1,9 +1,9 @@
 [
     {
         "category": "Sports",
-        "question": "This team sport, popular in Commonwealth countries, is played on a rectangular court divided into three sections, with a goal ring at each end. It features seven players on each team, each assigned to specific positions with defined areas of the court where they can operate. The objective is to score goals by passing a ball and shooting it through the opponent's goal ring. What is the name of this sport, similar to basketball but with restrictions on player movement with the ball?",
+        "question": "This Formula One driver, known for his intense rivalry with James Hunt in the 1970s, made a remarkable comeback after a horrific crash at the 1976 German Grand Prix, suffering severe burns and inhaling toxic fumes. He won three Formula One World Championships, driving for Ferrari and McLaren. He later became an airline entrepreneur, founding Lauda Air. Who is this Austrian racing legend?",
         "answers": [
-            "netball"
+            "Niki Lauda"
         ],
         "incorrect1": "",
         "incorrect2": "",
@@ -13,9 +13,9 @@
     },
     {
         "category": "Sports",
-        "question": "This NFL player recently signed a 3-year $100 million contract with the Seattle Seahawks after playing one year with the Minnesota Vikings. This quarterback, known for his strong arm and his ability to make throws from various arm angles, was drafted third overall by the New York Jets in the 2018 NFL Draft. He played college football at the University of Southern California (USC), where he won the Pac-12 South Division title in 2017. Name this player who has also played for the Carolina Panthers and the San Francisco 49ers.",
+        "question": "This Formula One driver, known for his charismatic personality and his playboy lifestyle, won the 1976 Formula One World Championship in a dramatic season-long battle with Niki Lauda. He drove for teams like Hesketh and McLaren, and his rivalry with Lauda was famously portrayed in the 2013 film \"Rush.\" He retired from racing in 1979 and became a commentator for BBC television. Who is this British racing driver?",
         "answers": [
-            "Sam Darnold"
+            "James Hunt"
         ],
         "incorrect1": "",
         "incorrect2": "",
@@ -25,9 +25,45 @@
     },
     {
         "category": "Sports",
-        "question": "This NFL player was recently traded from the Seattle Seahawks to the Las Vegas Raiders where he signed a contract extension. This quarterback, once considered a journeyman, experienced a career resurgence with the Seattle Seahawks, earning NFL Comeback Player of the Year honors in 2022. He was drafted by the New York Jets in the second round of the 2013 NFL Draft and has also played for the New York Giants and the Los Angeles Chargers. He played college football at West Virginia University, where he set numerous school records. Who is this quarterback, known for his resilience and his impressive performance in recent seasons?",
+        "question": "This baseball player, whose rare T206 baseball card is one of the most valuable and sought-after collectibles in the world, was nicknamed \"The Flying Dutchman\" for his speed and agility on the basepaths. He was one of the first five players inducted into the Baseball Hall of Fame in 1936. He played shortstop for the Pittsburgh Pirates for most of his career, winning eight batting titles. Who is this baseball legend, considered one of the greatest shortstops of all time?",
         "answers": [
-            "Geno Smith"
+            "Honus Wagner"
+        ],
+        "incorrect1": "",
+        "incorrect2": "",
+        "incorrect3": "",
+        "used": "TRUE",
+        "source": "Marty Heavey"
+    },
+    {
+        "category": "Sports",
+        "question": "This baseball player, a legend of the Negro Leagues, was known for his flamboyant personality and his colorful nicknames, including \"Satchelfoot\" and \"The Midnight Rider.\" He claimed to have invented the \"hesitation pitch,\" a changeup delivery that disrupted batters' timing. He finally made his Major League Baseball debut at the age of 42, pitching for the Cleveland Indians. Who is this Hall of Fame pitcher, whose career spanned several decades and whose talent and showmanship captivated audiences?",
+        "answers": [
+            "Satchel Paige"
+        ],
+        "incorrect1": "",
+        "incorrect2": "",
+        "incorrect3": "",
+        "used": "TRUE",
+        "source": "Marty Heavey"
+    },
+    {
+        "category": "Sports",
+        "question": "This basketball player, nicknamed \"The Big O,\" is the first player in NBA history to average a triple-double (at least 10 points, 10 rebounds, and 10 assists) for an entire season, a feat he accomplished in 1961-62. He was a member of the 1960 U.S. Olympic gold medal-winning team and won an NBA championship with the Milwaukee Bucks in 1971. He is known for his all-around skills, excelling in scoring, rebounding, and passing. Who is this Hall of Fame guard?",
+        "answers": [
+            "Oscar Robertson"
+        ],
+        "incorrect1": "",
+        "incorrect2": "",
+        "incorrect3": "",
+        "used": "TRUE",
+        "source": "Marty Heavey"
+    },
+    {
+        "category": "Sports",
+        "question": "This basketball player, known for his explosive athleticism and powerful dunks, was the first overall pick in the 2019 NBA draft by the New Orleans Pelicans. He gained national attention for his highlight-reel plays during his college career at Duke University. Despite facing early career challenges with injuries, he has showcased his potential as a dominant force in the league. Who is this forward/center, whose high-flying style and impressive physicality have made him a captivating player?",
+        "answers": [
+            "Zion Williamson"
         ],
         "incorrect1": "",
         "incorrect2": "",

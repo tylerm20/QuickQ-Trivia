@@ -1925,7 +1925,7 @@
         "answers": [
             "Ukraine"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Geography",
@@ -1934,7 +1934,7 @@
         "answers": [
             "Colorado"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Geography",
@@ -1943,7 +1943,7 @@
         "answers": [
             "Antarctica"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Geography",
@@ -1952,7 +1952,7 @@
         "answers": [
             "Kingdom of Morocco [or Al Mamlakah al Maghribiyah]"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Geography",
@@ -1961,7 +1961,7 @@
         "answers": [
             "Sahara Desert"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Geography",
@@ -1970,7 +1970,7 @@
         "answers": [
             "Saskatchewan"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Geography",
@@ -1979,7 +1979,7 @@
         "answers": [
             "Republic of Cuba [or Republica de Cuba]"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Geography",
@@ -1988,7 +1988,7 @@
         "answers": [
             "Atlas Mountains"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Geography",
@@ -1997,7 +1997,7 @@
         "answers": [
             "Madagascar"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Geography",
@@ -2006,7 +2006,7 @@
         "answers": [
             "Rio Grande (prompt on Rio Bravo)"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Geography",
@@ -2015,7 +2015,7 @@
         "answers": [
             "Antarctica \u00ad\u00ad\u00ad\u00ad"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Geography",
@@ -2024,7 +2024,7 @@
         "answers": [
             "Turkey"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Geography",
@@ -2033,7 +2033,7 @@
         "answers": [
             "Lake Baikal"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Geography",
@@ -2042,7 +2042,7 @@
         "answers": [
             "skyscrapers [prompt on buildings or towers]"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Geography",
@@ -2051,7 +2051,7 @@
         "answers": [
             "Antartica"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Geography",
@@ -2060,7 +2060,7 @@
         "answers": [
             "Maine"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Geography",
@@ -2069,7 +2069,7 @@
         "answers": [
             "London [accept City of London]"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Geography",
@@ -2078,7 +2078,7 @@
         "answers": [
             "France [accept Fifth French Republic or Republique francaise]"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Geography",
@@ -2087,7 +2087,7 @@
         "answers": [
             "Quebec"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Geography",
@@ -2096,7 +2096,7 @@
         "answers": [
             "Australia"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Geography",
@@ -2105,7 +2105,7 @@
         "answers": [
             "Argentina"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Geography",
@@ -2114,7 +2114,7 @@
         "answers": [
             "Lake Titicaca"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Geography",
@@ -2123,7 +2123,7 @@
         "answers": [
             "Gulf of Mexico"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Geography",
@@ -2132,7 +2132,7 @@
         "answers": [
             "Alaska"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Geography",
