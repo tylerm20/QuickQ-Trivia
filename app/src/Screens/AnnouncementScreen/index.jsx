@@ -46,7 +46,7 @@ const AnnouncementScreen = ({ showModal, setShowModal }) => {
                         I've loved building and maintaining <b>QuickQ</b>, but I
                         no longer have the time to give it the attention it
                         deserves. So, I've decided to put it in archive mode.
-                        You can play any of the over 300 days of quizzes in the
+                        You can play any of the one year of daily quizzes in the
                         archive.
                     </p>
                     <p>
