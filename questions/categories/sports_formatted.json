@@ -1,9 +1,10 @@
 [
     {
         "category": "Sports",
-        "question": "This Formula One driver, known for his intense rivalry with James Hunt in the 1970s, made a remarkable comeback after a horrific crash at the 1976 German Grand Prix, suffering severe burns and inhaling toxic fumes. He won three Formula One World Championships, driving for Ferrari and McLaren. He later became an airline entrepreneur, founding Lauda Air. Who is this Austrian racing legend?",
+        "question": "This team won the 2025 Ligue 1 title. This French football club, plays its home games at the Parc des Princes. The club is owned by a company controlled by the Emir of Qatar. The club is known for attracting high-profile players like Neymar, Kylian Mbapp\u00e9, and Lionel Messi. What is the name of this club, based in the capital of France?",
         "answers": [
-            "Niki Lauda"
+            "Paris Saint-Germain",
+            "PSG"
         ],
         "incorrect1": "",
         "incorrect2": "",
@@ -13,9 +14,10 @@
     },
     {
         "category": "Sports",
-        "question": "This Formula One driver, known for his charismatic personality and his playboy lifestyle, won the 1976 Formula One World Championship in a dramatic season-long battle with Niki Lauda. He drove for teams like Hesketh and McLaren, and his rivalry with Lauda was famously portrayed in the 2013 film \"Rush.\" He retired from racing in 1979 and became a commentator for BBC television. Who is this British racing driver?",
+        "question": "This hockey player recently set the all time NHL scoring record, passing Wayne Gretsky. This hockey player, known for his powerful shot and his exuberant goal celebrations, generally plays as a left-winger. He has spent his entire NHL career with the Washington Capitals, leading them to their first Stanley Cup championship in 2018. His signature move, a one-timer from the left faceoff circle, has become a feared weapon in the league. Who is this Russian-born forward, nicknamed \"The Great Eight\"?",
         "answers": [
-            "James Hunt"
+            "Alexander Ovechkin",
+            "Alex Ovechkin"
         ],
         "incorrect1": "",
         "incorrect2": "",
@@ -25,9 +27,10 @@
     },
     {
         "category": "Sports",
-        "question": "This baseball player, whose rare T206 baseball card is one of the most valuable and sought-after collectibles in the world, was nicknamed \"The Flying Dutchman\" for his speed and agility on the basepaths. He was one of the first five players inducted into the Baseball Hall of Fame in 1936. He played shortstop for the Pittsburgh Pirates for most of his career, winning eight batting titles. Who is this baseball legend, considered one of the greatest shortstops of all time?",
+        "question": "A player from this university's college basketball team won the AP and Naismith player of the year awards. This university's men's basketball program, led by legendary coach Mike Krzyzewski (\"Coach K\") for over four decades, has produced numerous NBA stars, including Grant Hill, Christian Laettner, and Kyrie Irving. They have won five NCAA championships, solidifying their place as one of the most successful programs in college basketball history. Name this team that was led by Cooper Flagg in 2025.",
         "answers": [
-            "Honus Wagner"
+            "Duke University",
+            "Duke"
         ],
         "incorrect1": "",
         "incorrect2": "",
@@ -37,9 +40,10 @@
     },
     {
         "category": "Sports",
-        "question": "This baseball player, a legend of the Negro Leagues, was known for his flamboyant personality and his colorful nicknames, including \"Satchelfoot\" and \"The Midnight Rider.\" He claimed to have invented the \"hesitation pitch,\" a changeup delivery that disrupted batters' timing. He finally made his Major League Baseball debut at the age of 42, pitching for the Cleveland Indians. Who is this Hall of Fame pitcher, whose career spanned several decades and whose talent and showmanship captivated audiences?",
+        "question": "This university's women's basketball team recently won their record 12th national championship. This university's women's basketball program is led by coach Geno Auriemma. They hold the record for the longest winning streak in NCAA history, with 111 consecutive victories. Their alums have gone on to become some of the biggest stars in the WNBA, including Diana Taurasi, Sue Bird, and Maya Moore. What is the name of this university, whose women's basketball team is often considered the most dominant dynasty in the history of the sport?",
         "answers": [
-            "Satchel Paige"
+            "UConn",
+            "University of Connectcut"
         ],
         "incorrect1": "",
         "incorrect2": "",
@@ -49,21 +53,11 @@
     },
     {
         "category": "Sports",
-        "question": "This basketball player, nicknamed \"The Big O,\" is the first player in NBA history to average a triple-double (at least 10 points, 10 rebounds, and 10 assists) for an entire season, a feat he accomplished in 1961-62. He was a member of the 1960 U.S. Olympic gold medal-winning team and won an NBA championship with the Milwaukee Bucks in 1971. He is known for his all-around skills, excelling in scoring, rebounding, and passing. Who is this Hall of Fame guard?",
+        "question": "This university's men's basketball team recently won the NCAA title. They achieved back-to-back NCAA championships in 2006 and 2007, a feat accomplished by only a few teams in NCAA history. They are known for their \"Gator Chomp\" hand gesture, a symbol of school spirit and pride. They have produced NBA stars such as Joakim Noah, Al Horford, and Bradley Beal. What is the name of this university, whose men's basketball team has experienced significant success in the 21st century?",
         "answers": [
-            "Oscar Robertson"
-        ],
-        "incorrect1": "",
-        "incorrect2": "",
-        "incorrect3": "",
-        "used": "TRUE",
-        "source": "Marty Heavey"
-    },
-    {
-        "category": "Sports",
-        "question": "This basketball player, known for his explosive athleticism and powerful dunks, was the first overall pick in the 2019 NBA draft by the New Orleans Pelicans. He gained national attention for his highlight-reel plays during his college career at Duke University. Despite facing early career challenges with injuries, he has showcased his potential as a dominant force in the league. Who is this forward/center, whose high-flying style and impressive physicality have made him a captivating player?",
-        "answers": [
-            "Zion Williamson"
+            "University of Florida",
+            "Florida",
+            "UF"
         ],
         "incorrect1": "",
         "incorrect2": "",

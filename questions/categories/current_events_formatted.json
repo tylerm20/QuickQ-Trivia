@@ -1,9 +1,9 @@
 [
     {
         "category": "Current Events",
-        "question": "Jair Bolsonaro, this country's former president, will face trial for an attempted coup. This South American country, known for its vibrant Carnival celebrations, is home to the Amazon rainforest, the world's largest tropical rainforest. Its iconic Christ the Redeemer statue overlooks the city of Rio de Janeiro. It is also the birthplace of samba music and the martial art Capoeira. What is the name of this country, the largest in South America?",
+        "question": "This man gave a record 25 hour speech in the US Senate criticizing the Trump administration. This politician, known for his advocacy for social justice and criminal justice reform, served as the 38th Mayor of Newark, New Jersey, from 2006 to 2013. He gained national attention for his innovative use of social media to connect with constituents and address community issues. He is a Rhodes Scholar and a graduate of Yale Law School. Who is this current U.S. Senator from New Jersey?",
         "answers": [
-            "Brazil"
+            "Cory Booker"
         ],
         "incorrect1": "",
         "incorrect2": "",
@@ -13,9 +13,9 @@
     },
     {
         "category": "Current Events",
-        "question": "Several U.S. officials, including the vice president and the defense secretary, disclosed plans to attack Houthi rebels in Yemen in a group chat in this app that accidentally including a journalist. This messaging app, known for its strong emphasis on privacy and security, uses end-to-end encryption by default for all messages, ensuring that only the sender and recipient can read them. It was endorsed by Edward Snowden, who highlighted its commitment to user privacy. What is the name of this app?",
+        "question": "President Donald Trump announced a 46% tariff on goods from this nation, a manufacturing hub for US companies including Nike. This Southeast Asian country, known for its vibrant street food and its bustling cities, is home to Ha Long Bay, a UNESCO World Heritage Site featuring thousands of limestone islands and islets. Its capital, Hanoi, boasts a rich history and French colonial architecture. It is a major exporter of rice, coffee, and seafood. What is the name of this country, bordered by China, Laos, and Cambodia?",
         "answers": [
-            "Signal"
+            "Vietnam"
         ],
         "incorrect1": "",
         "incorrect2": "",
@@ -25,9 +25,9 @@
     },
     {
         "category": "Current Events",
-        "question": "This chemical was legally banned from being added to drinking water in Utah. This naturally occurring mineral, found in water, soil, and rocks, is added to many public water supplies and dental products due to its effectiveness in preventing tooth decay. It strengthens tooth enamel, making it more resistant to acid attacks from bacteria and sugars in the mouth. While beneficial in small amounts, excessive intake can lead to fluorosis, a condition that affects tooth and bone development. What is the name of this mineral, commonly associated with dental health?",
+        "question": "Susan Crawford defeated Brad Schimel who was backed by more than $20 million in donations from Elon Musk in a judicial election in this US state. The state, known as \"America's Dairyland,\" is a leading producer of cheese and other dairy products. It's also home to the iconic Harley-Davidson motorcycle company, headquartered in Milwaukee. Its largest city, Milwaukee, is famous for its brewing history. What is the name of this state, bordered by two Great Lakes and known for its cheeseheads?",
         "answers": [
-            "Fluoride"
+            "Wisconsin"
         ],
         "incorrect1": "",
         "incorrect2": "",
@@ -37,9 +37,11 @@
     },
     {
         "category": "Current Events",
-        "question": "This country was the epicenter of a magnitude 7.7 earthquake leading to over 1000 deaths. This Southeast Asian country, formerly known as Burma, is home to the ancient city of Bagan, a UNESCO World Heritage Site with thousands of Buddhist temples and pagodas. Its Irrawaddy River is a major waterway, vital for transportation and trade. The country is known for its production of jade and teak. What is the name of this country, bordered by India, Bangladesh, China, Laos, and Thailand?",
+        "question": "This stock index dropped more than 10% on April 3 and 4, 2025 after President Trump announced tariffs on what he called \"Liberation Day\". This stock market index, widely regarded as a benchmark for the overall health of the U.S. economy, tracks the performance of 500 large-cap companies listed on the stock exchanges in the United States. Its components are selected by a committee that aims to represent the leading companies in leading industries of the U.S. economy. It is a market-capitalization-weighted index, meaning that companies with larger market caps have a greater influence on its value. What is the name of this stock market index?",
         "answers": [
-            "Myanmar"
+            "S&P 500",
+            "Standard and Poor's 500",
+            "S and P 500"
         ],
         "incorrect1": "",
         "incorrect2": "",
@@ -49,22 +51,9 @@
     },
     {
         "category": "Current Events",
-        "question": "This holiday occurred on March 30, 2025. This Islamic holiday, celebrated at the end of Ramadan, the holy month of fasting, is marked by festive gatherings, the sharing of meals, and the giving of gifts. The exact date of the holiday varies each year, as it is determined by the sighting of the new crescent moon. It is a time for Muslims to express gratitude to Allah for the strength and blessings received during Ramadan. What is the name of this joyous celebration, often referred to as the \"Festival of Breaking the Fast\"?",
+        "question": "Marine Le Pen was recently convicted of embezzlement in this nation where she was leading in presidential polls. This European country, known for its haute cuisine and its rich artistic heritage, is home to the Louvre Museum, one of the world's largest and most visited art museums. Its capital city, Paris, is renowned for its iconic Eiffel Tower and its romantic atmosphere. It is also famous for its fashion industry and its influence on global trends. What is the name of this country, where the French language is spoken?",
         "answers": [
-            "Eid al-Fitr",
-            "Eid"
-        ],
-        "incorrect1": "",
-        "incorrect2": "",
-        "incorrect3": "",
-        "used": "TRUE",
-        "source": "Marty Heavey"
-    },
-    {
-        "category": "Current Events",
-        "question": "This Christian holiday, celebrated in the spring, commemorates the resurrection of Jesus Christ from the dead, described in the New Testament as having occurred on the third day after his crucifixion. Its date varies each year, determined by the lunisolar calendar, falling on the first Sunday after the first full moon following the spring equinox. Traditional symbols associated with the holiday include eggs, representing new life, and rabbits, symbols of fertility. What is the name of this major Christian festival?",
-        "answers": [
-            "Easter"
+            "France"
         ],
         "incorrect1": "",
         "incorrect2": "",

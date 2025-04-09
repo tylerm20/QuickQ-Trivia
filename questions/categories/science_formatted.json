@@ -2185,7 +2185,7 @@
         "answers": [
             "mitochondrion or mitochondria"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",
@@ -2194,7 +2194,7 @@
         "answers": [
             "parallelogram [do not accept or prompt on more specific answers such as \"rhombus,\" \"square,\" or \"rectangle;\" do not accept or prompt on less specific answers such as \"quadrilateral\"]"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",
@@ -2203,7 +2203,7 @@
         "answers": [
             "three"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",
@@ -2212,7 +2212,7 @@
         "answers": [
             "black holes"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",
@@ -2221,7 +2221,7 @@
         "answers": [
             "Louis Pasteur [accept pasteurization or word forms after \"process\"]"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Science",

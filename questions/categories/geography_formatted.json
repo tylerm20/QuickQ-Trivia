@@ -2141,7 +2141,7 @@
         "answers": [
             "Sydney"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Geography",
@@ -2150,7 +2150,7 @@
         "answers": [
             "Minnesota"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Geography",
@@ -2159,7 +2159,7 @@
         "answers": [
             "Washington, DC [or Washington, District of Columbia; accept District of Columbia]"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Geography",
@@ -2168,7 +2168,7 @@
         "answers": [
             "Caspian Sea"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Geography",
@@ -2177,7 +2177,7 @@
         "answers": [
             "Congo River"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Geography",

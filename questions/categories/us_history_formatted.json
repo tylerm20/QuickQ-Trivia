@@ -2159,7 +2159,7 @@
         "answers": [
             "Planned Parenthood Federation of America [accept PPFA]"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "US History",
@@ -2168,7 +2168,7 @@
         "answers": [
             "William Howard Taft"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "US History",
@@ -2177,7 +2177,7 @@
         "answers": [
             "John Calvin Coolidge"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "US History",
@@ -2186,7 +2186,7 @@
         "answers": [
             "Aaron Burr"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "US History",
@@ -2195,7 +2195,7 @@
         "answers": [
             "Barack Hussein Obama II"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "US History",

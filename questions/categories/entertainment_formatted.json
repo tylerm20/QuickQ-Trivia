@@ -1,9 +1,9 @@
 [
     {
         "category": "Entertainment",
-        "question": "This science fiction series, set in a future where humanity has colonized the solar system, features a unique and diverse cast of characters, including the crew of the Rocinante and various political factions from Earth, Mars, and the asteroid belt. The show's realistic portrayal of space travel, with its emphasis on physics and the challenges of living in zero gravity, sets it apart from other science fiction series. The discovery of the protomolecule, a mysterious alien substance, drives the central plot and introduces complex moral and philosophical dilemmas. What is the name of this critically acclaimed television series, based on the book series by James S.A. Corey?",
+        "question": "This actor recently passed away at the age of 65. This actor, known for his intense and transformative performances, famously lost a significant amount of weight to portray Doc Holliday in the 1993 Western \"Tombstone.\" He gained early recognition for his role as Iceman in the 1986 action film \"Top Gun.\" He also portrayed Jim Morrison in the 1991 biopic \"The Doors,\" immersing himself in the role by singing all of Morrison's songs. Who is this actor, whose career spans stage and screen, with notable roles in films like \"Heat\" and \"Kiss Kiss Bang Bang\"?",
         "answers": [
-            "The Expanse"
+            "Val Kilmer"
         ],
         "incorrect1": "",
         "incorrect2": "",
@@ -13,9 +13,10 @@
     },
     {
         "category": "Entertainment",
-        "question": "This film, directed by Wes Anderson, is known for its meticulous and symmetrical set design, its pastel color palette, and its quirky characters. It tells the story of a legendary concierge and his lobby boy at a famous European hotel between the first and second World Wars. The film's ensemble cast includes Ralph Fiennes, Tony Revolori, F. Murray Abraham, and Willem Dafoe. It won four Academy Awards, primarily in technical and design categories, including Best Production Design and Best Costume Design. What is the title of this visually stunning and whimsical 2014 film?",
+        "question": "A sequel was recently announced for this gaming console. This video game console, released in 2017, is known for its hybrid design, allowing it to be used both as a handheld device and a home console connected to a TV. Its detachable controllers, called Joy-Cons, can be used in various configurations, enabling different gameplay styles. The console has become Nintendo's fastest-selling home console of all time, driven by popular games like The Legend of Zelda: Breath of the Wild and Super Mario Odyssey. What is the name of this console?",
         "answers": [
-            "The Grand Budapest Hotel"
+            "Nintendo Switch",
+            "Switch"
         ],
         "incorrect1": "",
         "incorrect2": "",
@@ -25,9 +26,9 @@
     },
     {
         "category": "Entertainment",
-        "question": "This dark fantasy film, set in post-Civil War Spain, weaves together a realistic portrayal of the political climate with a fantastical story of a young girl's escape into a magical world. It features creatures designed by Guillermo del Toro, including the Pale Man and the Faun, which are both terrifying and mesmerizing. The film explores themes of innocence, obedience, and the struggle between good and evil, using symbolism and allegory to convey its message. What is the title of this 2006 Spanish-language film, directed by Guillermo del Toro?",
+        "question": "This animated film features a memorable song, \"A Whole New World,\" which won an Academy Award for Best Original Song. The protagonist, a street urchin, discovers a magic lamp containing a genie who grants him three wishes. The film's antagonist, Jafar, is a powerful sorcerer who seeks to overthrow",
         "answers": [
-            "Pan's Labyrinth"
+            "Aladdin"
         ],
         "incorrect1": "",
         "incorrect2": "",
@@ -37,9 +38,9 @@
     },
     {
         "category": "Entertainment",
-        "question": "This first-person shooter game, set in the underwater city of Rapture, a failed utopia built by Andrew Ryan, explores themes of objectivism, free will, and moral choice. The player character can use plasmids, genetic enhancements that grant superhuman abilities, and various weapons to combat mutated splicers and Big Daddies. The game's narrative is heavily influenced by the philosophies of Ayn Rand and George Orwell. What is the name of this critically acclaimed 2007 game, developed by Irrational Games?",
+        "question": "This animated film features a memorable scene where the protagonist's animal friends help her prepare for the ball, creating a beautiful gown. The protagonist's fairy godmother uses magic to transform her appearance and provide transportation to the royal ball. The film's antagonist is the protagonist's cruel stepmother, Lady Tremaine, and her two stepsisters, Drizella and Anastasia. What is the name of this Disney classic, based on a French fairy tale?",
         "answers": [
-            "BioShock"
+            "Cinderella"
         ],
         "incorrect1": "",
         "incorrect2": "",
@@ -49,21 +50,10 @@
     },
     {
         "category": "Entertainment",
-        "question": "This handheld digital pet, created in Japan by Akihiro Yokoi of WiZ and Aki Maita of Bandai, requires users to feed, clean, and play with it to ensure its survival. Its popularity sparked a global craze in the late 1990s, with millions of units sold worldwide. The toy's name is a portmanteau of the Japanese word \"tamago\" (egg) and \"watch.\" What is the name of this virtual pet, known for its pixelated display and its demanding care requirements?",
+        "question": "This show's creator, Stephen Hillenburg, was a marine science educator who drew inspiration from the ocean and its creatures. The animated series, set in the underwater city of Bikini Bottom, features a protagonist who works as a fry cook at the Krusty Krab restaurant. The show's creator, Stephen Hillenburg, was a marine science educator who drew inspiration from the ocean and its creatures. The show's main characters include a starfish named Patrick, a squid named Squidward, and a tiny plankton named Plankton who constantly tries to steal the Krusty Krab's secret formula. What is the name of this popular Nickelodeon series?",
         "answers": [
-            "Tamagotchi"
-        ],
-        "incorrect1": "",
-        "incorrect2": "",
-        "incorrect3": "",
-        "used": "TRUE",
-        "source": "Marty Heavey"
-    },
-    {
-        "category": "Entertainment",
-        "question": "This hip-hop duo, from Atlanta, Georgia, is known for their eclectic and experimental sound, blending elements of funk, soul, and psychedelia with their Southern rap roots. Their album Aquemini, released in 1998, is often considered a masterpiece and a landmark in hip-hop history. They won the Grammy Award for Album of the Year in 2004 for their double album Speakerboxxx/The Love Below. Who are this duo, comprised of Andr\u00e9 3000 and Big Boi?",
-        "answers": [
-            "OutKast"
+            "SpongeBob SquarePants",
+            "Spongebob"
         ],
         "incorrect1": "",
         "incorrect2": "",

@@ -2163,7 +2163,7 @@
         "answers": [
             "Japan [accept Nippon-koku; or Nihon-koku]"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Arts & Literature",
@@ -2172,7 +2172,7 @@
         "answers": [
             "Aaron Copland"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Arts & Literature",
@@ -2181,7 +2181,7 @@
         "answers": [
             "Cerberus (accept Kerberos)"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Arts & Literature",
@@ -2190,7 +2190,7 @@
         "answers": [
             "comedy [or New Comedy; prompt on drama]"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Arts & Literature",
@@ -2199,7 +2199,7 @@
         "answers": [
             "Gulliver's Travels"
         ],
-        "used": "FALSE"
+        "used": "TRUE"
     },
     {
         "category": "Arts & Literature",
