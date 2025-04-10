@@ -153,7 +153,7 @@ function App() {
     };
 
     useEffect(() => {
-        const daysPastApril142024 = (chosenDate) => {
+        const daysPastApril132024 = (chosenDate) => {
             // Calculate the difference in milliseconds
             const timeDifference =
                 chosenDate.getTime() - FIRST_GAME_DATE.getTime();
@@ -169,7 +169,7 @@ function App() {
             fetch("quickq_questions.json")
                 .then(async (response) => {
                     const responseJson = await response.json();
-                    const questionSetToUse = daysPastApril142024(selectedDate);
+                    const questionSetToUse = daysPastApril132024(selectedDate);
                     setQuestions(responseJson[questionSetToUse]);
                     setIsFetchingQuestions(false);
                 })
