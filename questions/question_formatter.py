@@ -115,7 +115,7 @@ def update_answers_3(input_filename):
         json.dump(data_lines, output_file, indent=4)
 
 # Example usage
-input_filename = "/Users/mheavey/personal/minquiz/app/public/written_chunked_questions.json"
-output_filename = "/Users/mheavey/personal/minquiz/app/public/written_chunked_questions.json"
+input_filename = "/app/public/written_chunked_questions.json"
+output_filename = "/app/public/written_chunked_questions.json"
 update_answers_3(input_filename)
 

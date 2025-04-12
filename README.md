@@ -8,7 +8,7 @@ It is currently hosted at [QuickQTrivia.com](https://quickqtrivia.com).
 
 QuickQ was started by Marty Heavey in January 2024. It was created to be a daily game in the tradition of Wordle. Each day there was a quiz of 8 questions and a 90 second time limit. Each quiz would have one quiz-bowl-style question from each of the following categories: Current Events, U.S. History, Sports, World History, Science, Geography, Arts & Literature, and Entertainment.
 
-Marty Heavey maintained the project until March 2025, when it was open-sourced.
+Marty Heavey maintained the project until April 2025, when it was open-sourced.
 
 To reduce hosting costs and simplify deployment, the hosted version of the project has been updated to remove the backend server. Trivia questions are now stored in a JSON file within the frontend application.
 

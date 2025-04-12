@@ -34,6 +34,6 @@ def shuffle_json(json_filepath, output_filepath, chunk_size):
         json.dump(chunks, file, indent=4)
 
 # Example usage
-json_filepath = '/Users/mheavey/personal/minquiz/app/public/written_chunked_questions.json'
-output_filepath = '/Users/mheavey/personal/minquiz/shuffled_questions.json'
+json_filepath = '/app/public/written_chunked_questions.json'
+output_filepath = '/shuffled_questions.json'
 shuffle_json(json_filepath, output_filepath, 8)

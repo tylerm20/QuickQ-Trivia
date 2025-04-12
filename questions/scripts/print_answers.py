@@ -9,7 +9,7 @@ def extract_first_answers(data):
 
 # Load the JSON file (replace with your actual file path)
 today_str = date.today().strftime("%m_%d_%Y")
-json_filepath = '/Users/mheavey/personal/minquiz/questions/categories/output/qq_qs_{}.json'.format(today_str)
+json_filepath = '/questions/categories/output/qq_qs_{}.json'.format(today_str)
 with open(json_filepath, 'r') as f:
     data = json.load(f)
 

@@ -45,9 +45,9 @@ def number_questions(file_path):
 
 # Example Usage
 if __name__ == '__main__':
-    file_path = '/Users/mheavey/personal/minquiz/app/public/written_chunked_questions.json'  # Replace with your JSON file's name
+    file_path = '/app/public/written_chunked_questions.json'  # Replace with your JSON file's name
     result = number_questions(file_path)
-    with open('/Users/mheavey/personal/minquiz/app/public/written_chunked_questions.json', 'w') as f:
+    with open('/app/public/written_chunked_questions.json', 'w') as f:
         json.dump(result, f, indent=4)  # Write the result to the file
 
     max_chunk_size = 10

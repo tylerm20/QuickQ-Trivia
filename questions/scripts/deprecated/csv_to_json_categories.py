@@ -13,14 +13,14 @@ def csv_to_json(json_filepath, array_column):
         array_column (str): The name of the column to be output as an array.
     """
     csv_filepaths = [
-        '/Users/mheavey/personal/minquiz/questions/categories/arts_and_literature.csv',
-        '/Users/mheavey/personal/minquiz/questions/categories/current_events.csv',
-        '/Users/mheavey/personal/minquiz/questions/categories/entertainment.csv',
-        '/Users/mheavey/personal/minquiz/questions/categories/geography.csv',
-        '/Users/mheavey/personal/minquiz/questions/categories/science.csv',
-        '/Users/mheavey/personal/minquiz/questions/categories/sports.csv',
-        '/Users/mheavey/personal/minquiz/questions/categories/us_history.csv',
-        '/Users/mheavey/personal/minquiz/questions/categories/world_history.csv',
+        '/questions/categories/arts_and_literature.csv',
+        '/questions/categories/current_events.csv',
+        '/questions/categories/entertainment.csv',
+        '/questions/categories/geography.csv',
+        '/questions/categories/science.csv',
+        '/questions/categories/sports.csv',
+        '/questions/categories/us_history.csv',
+        '/questions/categories/world_history.csv',
     ]
     category_to_questions = {}
 
@@ -49,5 +49,5 @@ def csv_to_json(json_filepath, array_column):
         json.dump(multiple_days_qs, json_file, indent=4)
 
 # Example usage
-json_filepath = '/Users/mheavey/personal/minquiz/questions/categories/ordered_qs/qq_qs_4_14_24.json'
+json_filepath = '/questions/categories/ordered_qs/qq_qs_4_14_24.json'
 csv_to_json(json_filepath, "answers")

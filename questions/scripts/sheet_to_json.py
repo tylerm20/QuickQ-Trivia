@@ -26,7 +26,7 @@ def sheet_to_json():
                 
                 category_to_questions_unused[category].append(row)
 
-        file_name = '/Users/mheavey/personal/minquiz/questions/categories/{}_formatted.json'.format(category.replace(" ", "_").lower())
+        file_name = '/questions/categories/{}_formatted.json'.format(category.replace(" ", "_").lower())
 
         with open(file_name, 'w', encoding='utf-8') as json_file:
             json.dump(category_to_questions_unused[category], json_file, indent=4)

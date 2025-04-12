@@ -28,6 +28,6 @@ def csv_to_json(csv_filepath, json_filepath, array_column):
         json.dump(data, json_file, indent=4)
 
 # Example usage
-csv_filepath = '/Users/mheavey/personal/minquiz/questions/qq_qs_3.csv'
-json_filepath = '/Users/mheavey/personal/minquiz/questions/qq_qs_3.json'
+csv_filepath = '/questions/qq_qs_3.csv'
+json_filepath = '/questions/qq_qs_3.json'
 csv_to_json(csv_filepath, json_filepath, "answers")

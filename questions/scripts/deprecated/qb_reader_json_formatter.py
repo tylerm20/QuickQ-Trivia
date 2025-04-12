@@ -18,12 +18,12 @@ def transform_json(input_json):
     return output_data
 
 # Load the input JSON (replace with your actual file reading)
-with open("/Users/mheavey/Documents/quizbowl packets/qb_reader_arts_and_literature.json", "r") as f:
+with open("~/Documents/quizbowl packets/qb_reader_arts_and_literature.json", "r") as f:
     input_data = json.load(f)
 
 # Transform the data
 output_data = transform_json(input_data)
 
 # Write the output JSON (replace with your actual file writing)
-with open("/Users/mheavey/personal/minquiz/questions/categories/ordered_qs/arts_and_literature_formatted.json", "w") as f:
+with open("/questions/categories/ordered_qs/arts_and_literature_formatted.json", "w") as f:
     json.dump(output_data, f, indent=4)

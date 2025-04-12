@@ -6,7 +6,7 @@ def compile_daily_questions():
     # Load category-specific JSON files
     category_questions = {}
     for category_name in ["arts_and_literature", "current_events", "entertainment", "geography", "science", "sports", "us_history", "world_history"]:
-        with open(f"/Users/mheavey/personal/minquiz/questions/categories/{category_name}_formatted.json", "r") as f:
+        with open(f"/questions/categories/{category_name}_formatted.json", "r") as f:
             category_questions[category_name] = json.load(f)
 
     # Determine the minimum number of unused questions across categories
@@ -34,13 +34,13 @@ def compile_daily_questions():
 
     # Write the daily questions JSON
     today_str = date.today().strftime("%m_%d_%Y")
-    json_filepath = '/Users/mheavey/personal/minquiz/questions/categories/output/qq_qs_{}.json'.format(today_str)
+    json_filepath = '/questions/categories/output/qq_qs_{}.json'.format(today_str)
     with open(json_filepath, "w") as f:
         json.dump(daily_sets, f, indent=4)
 
     # Update the category JSON files
     for category_name, questions in category_questions.items():
-        with open(f"/Users/mheavey/personal/minquiz/questions/categories/{category_name}_formatted.json", "w") as f:
+        with open(f"/questions/categories/{category_name}_formatted.json", "w") as f:
             json.dump(questions, f, indent=4)
 
 # Call the function to compile and update questions
