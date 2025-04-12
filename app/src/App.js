@@ -15,6 +15,7 @@ import {
     GAME_MODE_STORAGE_KEY,
     FIRST_GAME_DATE,
     LAST_GAME_DATE,
+    LAST_QUESTIONS_INDEX,
 } from "./constants";
 import "./App.css";
 
@@ -153,24 +154,12 @@ function App() {
     };
 
     useEffect(() => {
-        const daysPastApril132024 = (chosenDate) => {
-            // Calculate the difference in milliseconds
-            const timeDifference =
-                chosenDate.getTime() - FIRST_GAME_DATE.getTime();
-
-            // Convert the difference from milliseconds to days
-            const daysPast = Math.floor(timeDifference / (1000 * 60 * 60 * 24));
-
-            return daysPast;
-        };
-
         const fetchQuestionsFromFile = () => {
             setIsFetchingQuestions(true);
             fetch("quickq_questions.json")
                 .then(async (response) => {
                     const responseJson = await response.json();
-                    const questionSetToUse = daysPastApril132024(selectedDate);
-                    setQuestions(responseJson[questionSetToUse]);
+                    setQuestions(responseJson[LAST_QUESTIONS_INDEX]);
                     setIsFetchingQuestions(false);
                 })
                 .catch((error) => {

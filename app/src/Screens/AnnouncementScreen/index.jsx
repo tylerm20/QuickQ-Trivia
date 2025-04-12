@@ -62,12 +62,13 @@ const AnnouncementScreen = ({ showModal, setShowModal }) => {
                     <p>
                         You can send me an email if you have questions about the
                         QuickQ.
-                        <p>
-                            <a href="mailto:QuickQTrivia@gmail.com">
-                                QuickQTrivia@gmail.com
-                            </a>
-                        </p>
                     </p>
+                    <p>
+                        <a href="mailto:QuickQTrivia@gmail.com">
+                            QuickQTrivia@gmail.com
+                        </a>
+                    </p>
+
                     <p>
                         Thanks for playing and for being part of this community!
                     </p>
