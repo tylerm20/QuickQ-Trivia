@@ -87,3 +87,10 @@
 .Bold {
     font-weight: bold;
 }
+
+.Archive {
+    margin: 6px;
+    font-family: "Bebas Neue", sans-serif; /* Or your chosen font */
+    font-weight: bold;
+    color: rgb(137, 2, 2); /* Gray color for a muted, archived feel */
+}

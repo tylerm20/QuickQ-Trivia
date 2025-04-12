@@ -1,10 +1,8 @@
 [
     {
         "category": "Entertainment",
-        "question": "This actor recently passed away at the age of 65. This actor, known for his intense and transformative performances, famously lost a significant amount of weight to portray Doc Holliday in the 1993 Western \"Tombstone.\" He gained early recognition for his role as Iceman in the 1986 action film \"Top Gun.\" He also portrayed Jim Morrison in the 1991 biopic \"The Doors,\" immersing himself in the role by singing all of Morrison's songs. Who is this actor, whose career spans stage and screen, with notable roles in films like \"Heat\" and \"Kiss Kiss Bang Bang\"?",
-        "answers": [
-            "Val Kilmer"
-        ],
+        "question": "This actor died in February 2025. This actor's portrayal of the tough and determined Popeye Doyle in the 1971 film \"The French Connection\" earned him an Academy Award for Best Actor and became one of his most iconic roles. He also starred in the 1992 Western \"Unforgiven,\" which won the Academy Award for Best Picture and earned him a second Oscar, this time for Best Supporting Actor. He served in the United States Marine Corps for four and a half years before pursuing his acting career. Who is this actor, known for his versatile performances in films like \"The Conversation,\" \"Hoosiers,\" and \"The Royal Tenenbaums\"?",
+        "answers": ["Gene Hackman"],
         "incorrect1": "",
         "incorrect2": "",
         "incorrect3": "",
@@ -13,11 +11,8 @@
     },
     {
         "category": "Entertainment",
-        "question": "A sequel was recently announced for this gaming console. This video game console, released in 2017, is known for its hybrid design, allowing it to be used both as a handheld device and a home console connected to a TV. Its detachable controllers, called Joy-Cons, can be used in various configurations, enabling different gameplay styles. The console has become Nintendo's fastest-selling home console of all time, driven by popular games like The Legend of Zelda: Breath of the Wild and Super Mario Odyssey. What is the name of this console?",
-        "answers": [
-            "Nintendo Switch",
-            "Switch"
-        ],
+        "question": "This man hosted the 97rd Annual Academy Awards.This comedian's late-night talk show, which followed \"The Tonight Show with Jay Leno,\" was known for its quirky humor, offbeat sketches, and his self-deprecating style. He began his career as a writer for \"Saturday Night Live\" and \"The Simpsons,\" showcasing his talent for comedy writing before transitioning to hosting. His signature hairstyle, a tall and voluminous pompadour, has become a recognizable part of his persona. Who is this comedian, known for his talk show appearances and his \"Clueless Gamer\" segments?",
+        "answers": ["Conan O'Brien"],
         "incorrect1": "",
         "incorrect2": "",
         "incorrect3": "",
@@ -26,10 +21,8 @@
     },
     {
         "category": "Entertainment",
-        "question": "This animated film features a memorable song, \"A Whole New World,\" which won an Academy Award for Best Original Song. The protagonist, a street urchin, discovers a magic lamp containing a genie who grants him three wishes. The film's antagonist, Jafar, is a powerful sorcerer who seeks to overthrow",
-        "answers": [
-            "Aladdin"
-        ],
+        "question": "This flim won the Best Picture award at the Academy Awards. This film, which premiered at the 2024 Cannes Film Festival, is directed by Sean Baker, known for his previous films that explore marginalized communities. Its narrative delves into the world of sex work and the complexities of relationships and power dynamics. The film's protagonist is played by Mikey Madison, who previously collaborated with the director on the film \"Red Rocket.\" What is the title of this film, which won the prestigious Palme d'Or at Cannes?",
+        "answers": ["Anora"],
         "incorrect1": "",
         "incorrect2": "",
         "incorrect3": "",
@@ -38,10 +31,8 @@
     },
     {
         "category": "Entertainment",
-        "question": "This animated film features a memorable scene where the protagonist's animal friends help her prepare for the ball, creating a beautiful gown. The protagonist's fairy godmother uses magic to transform her appearance and provide transportation to the royal ball. The film's antagonist is the protagonist's cruel stepmother, Lady Tremaine, and her two stepsisters, Drizella and Anastasia. What is the name of this Disney classic, based on a French fairy tale?",
-        "answers": [
-            "Cinderella"
-        ],
+        "question": "This summer this musical group is setting off on a tour that they say will be their last. This hip-hop group's iconic logo, a stylized \"W\" with a sword, has become a symbol of their influence and their impact on music and culture. Their debut album, released in 1993, revolutionized hip-hop with its raw energy, innovative production, and intricate lyrical style. The group is composed of nine members, each with a distinct persona and rapping style, including RZA, GZA, Method Man, and Raekwon. Their music often draws inspiration from martial arts films, philosophy, and comic books. What is the name of this influential hip-hop group from Staten Island, New York?",
+        "answers": ["Wu-Tang Clan"],
         "incorrect1": "",
         "incorrect2": "",
         "incorrect3": "",
@@ -50,11 +41,28 @@
     },
     {
         "category": "Entertainment",
-        "question": "This show's creator, Stephen Hillenburg, was a marine science educator who drew inspiration from the ocean and its creatures. The animated series, set in the underwater city of Bikini Bottom, features a protagonist who works as a fry cook at the Krusty Krab restaurant. The show's creator, Stephen Hillenburg, was a marine science educator who drew inspiration from the ocean and its creatures. The show's main characters include a starfish named Patrick, a squid named Squidward, and a tiny plankton named Plankton who constantly tries to steal the Krusty Krab's secret formula. What is the name of this popular Nickelodeon series?",
-        "answers": [
-            "SpongeBob SquarePants",
-            "Spongebob"
-        ],
+        "question": "Adrien Brody won the Best Actor Oscar for his role in this film. This film, directed by Brady Corbet, explores the life and work of a visionary architect whose career spans decades. It features Adrien Brody, who also starred in Corbet's previous film, \"Vox Lux,\" alongside Felicity Jones and Guy Pearce. The film's title refers to a style of architecture characterized by its raw concrete aesthetic and monumental forms, a style that reflects the architect's artistic vision. What is the name of this film, which delves into themes of ambition, legacy, and the artistic process?",
+        "answers": ["The Brutalist"],
+        "incorrect1": "",
+        "incorrect2": "",
+        "incorrect3": "",
+        "used": "TRUE",
+        "source": "Marty Heavey"
+    },
+    {
+        "category": "Entertainment",
+        "question": "This show is currently airing its long-awaited second season. This science fiction thriller series, set in a mysterious corporate environment, explores the concept a surgical procedure that divides an employee's memories between their work life (\"innie\") and personal life (\"outie\"). The series' unique visual style, with its sterile office spaces and unsettling atmosphere, creates a sense of unease and intrigue. The show's central mystery revolves around the employees of Lumon Industries and their quest to uncover the truth about their work. What is the name of this critically acclaimed Apple TV+ series?",
+        "answers": ["Severance"],
+        "incorrect1": "",
+        "incorrect2": "",
+        "incorrect3": "",
+        "used": "TRUE",
+        "source": "Marty Heavey"
+    },
+    {
+        "category": "Entertainment",
+        "question": "This show is currently airing its third season. This anthology series, created by Mike White, explores themes of wealth, privilege, and social dynamics against the backdrop of luxurious resort locations. Each season features a new cast of characters and a different setting, with the first season taking place in Hawaii and the second in Sicily. The series is known for its dark humor, its satirical portrayal of the upper class, and its exploration of complex relationships and moral dilemmas. What is the name of this critically acclaimed HBO series, which has garnered numerous awards and nominations?",
+        "answers": ["The White Lotus"],
         "incorrect1": "",
         "incorrect2": "",
         "incorrect3": "",

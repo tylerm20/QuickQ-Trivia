@@ -64,20 +64,14 @@ export const CATEGORY_COLOR_MAP = {
 export const GAME_MODE_STORAGE_KEY = "game_mode";
 
 export const SEEN_ANNOUNCEMENT_STORAGE_KEY = "seen_announcement";
+export const SEEN_ANNOUNCEMENT_2_STORAGE_KEY = "seen_announcement_2";
 
 export const GameModes = {
     FREE_RESPONSE: "free_response",
     MULTIPLE_CHOICE: "multiple_choice",
 };
 
-export const FIRST_GAME_DATE = new Date(2024, 3, 14); // April 14, 2024
-
-export const ANNOUNCEMENTS = [
-    `Hello! Two QuickQ announcements:
-    \n1. The QuickQ Archive is now live! You can change the date (in orange at the top of the home page) to any date in the past with a QuickQ quiz. Changing the date let's you play the QuickQ from that past date!
-    \n2. In order to focus on other projects, I am planning to stop adding new QuickQ quizzes towards of the beginning of 2025. If you're interested in contributing to QuickQ please email me at QuickQTrivia@gmail.com.
-    \nThanks for playing QuickQ!
-    \nCheers, Marty`,
-];
+export const FIRST_GAME_DATE = new Date(2024, 3, 13); // April 13, 2024
+export const LAST_GAME_DATE = new Date(2025, 3, 12); // April 12, 2025
 
 export default screens;

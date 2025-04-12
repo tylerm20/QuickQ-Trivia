@@ -1,10 +1,8 @@
 [
     {
         "category": "Current Events",
-        "question": "This man gave a record 25 hour speech in the US Senate criticizing the Trump administration. This politician, known for his advocacy for social justice and criminal justice reform, served as the 38th Mayor of Newark, New Jersey, from 2006 to 2013. He gained national attention for his innovative use of social media to connect with constituents and address community issues. He is a Rhodes Scholar and a graduate of Yale Law School. Who is this current U.S. Senator from New Jersey?",
-        "answers": [
-            "Cory Booker"
-        ],
+        "question": "This religious event began evening on February 28, 2025. This holy month in the Islamic calendar, observed by Muslims worldwide as a month of fasting, prayer, reflection, and community, concludes with the joyous festival of Eid al-Fitr. During this month, Muslims abstain from food and drink from dawn until sunset, a practice known as Sawm. The Quran, Islam's holy book, is believed to have been first revealed to the Prophet Muhammad during this month, a night known as Laylat al-Qadr, or the \"Night of Power.\" What is the name of this month, the ninth month of the Islamic calendar?",
+        "answers": ["Ramadan"],
         "incorrect1": "",
         "incorrect2": "",
         "incorrect3": "",
@@ -13,10 +11,8 @@
     },
     {
         "category": "Current Events",
-        "question": "President Donald Trump announced a 46% tariff on goods from this nation, a manufacturing hub for US companies including Nike. This Southeast Asian country, known for its vibrant street food and its bustling cities, is home to Ha Long Bay, a UNESCO World Heritage Site featuring thousands of limestone islands and islets. Its capital, Hanoi, boasts a rich history and French colonial architecture. It is a major exporter of rice, coffee, and seafood. What is the name of this country, bordered by China, Laos, and Cambodia?",
-        "answers": [
-            "Vietnam"
-        ],
+        "question": "This man announced a run for New York City mayor in an attempt to return to politics. This politician, who served as the 56th Governor of New York, comes from a prominent political family, following in the footsteps of his father, Mario, who also served as governor of New York. He gained national attention for his daily briefings during the COVID-19 pandemic. His governorship ended in 2021 after multiple allegations of sexual harassment surfaced. Who is this former governor, known for his assertive leadership style and his role in New York politics?",
+        "answers": ["Andrew Cuomo"],
         "incorrect1": "",
         "incorrect2": "",
         "incorrect3": "",
@@ -25,10 +21,8 @@
     },
     {
         "category": "Current Events",
-        "question": "Susan Crawford defeated Brad Schimel who was backed by more than $20 million in donations from Elon Musk in a judicial election in this US state. The state, known as \"America's Dairyland,\" is a leading producer of cheese and other dairy products. It's also home to the iconic Harley-Davidson motorcycle company, headquartered in Milwaukee. Its largest city, Milwaukee, is famous for its brewing history. What is the name of this state, bordered by two Great Lakes and known for its cheeseheads?",
-        "answers": [
-            "Wisconsin"
-        ],
+        "question": "The Christian Democratic party (CDU/CSU) led by Friedrich Merz, won the most seats in the Bundestag after recent elections in this nation. This European country is home to the world-famous Oktoberfest, a 16-day festival celebrating Bavarian culture with beer, food, and traditional costumes. Its capital city, Berlin, is a vibrant metropolis that was once divided by the Berlin Wall, a symbol of the Cold War. It is the birthplace of classical music composers like Johann Sebastian Bach, Ludwig van Beethoven, and Wolfgang Amadeus Mozart. What is this country, the most populous member state of the European Union?",
+        "answers": ["Germany"],
         "incorrect1": "",
         "incorrect2": "",
         "incorrect3": "",
@@ -37,12 +31,8 @@
     },
     {
         "category": "Current Events",
-        "question": "This stock index dropped more than 10% on April 3 and 4, 2025 after President Trump announced tariffs on what he called \"Liberation Day\". This stock market index, widely regarded as a benchmark for the overall health of the U.S. economy, tracks the performance of 500 large-cap companies listed on the stock exchanges in the United States. Its components are selected by a committee that aims to represent the leading companies in leading industries of the U.S. economy. It is a market-capitalization-weighted index, meaning that companies with larger market caps have a greater influence on its value. What is the name of this stock market index?",
-        "answers": [
-            "S&P 500",
-            "Standard and Poor's 500",
-            "S and P 500"
-        ],
+        "question": "Recent outbreaks of this diseas have sickened over 100 people in the U.S. causing at least one death. This highly contagious disease, characterized by a distinctive rash that starts on the face and spreads down the body, is caused by a virus in the paramyxovirus family. It was once a common childhood illness, but widespread vaccination efforts have significantly reduced its prevalence. Its symptoms include fever, cough, runny nose, and conjunctivitis (pink eye). What is the name of this disease, which is preventable through the MMR vaccine?",
+        "answers": ["Measles"],
         "incorrect1": "",
         "incorrect2": "",
         "incorrect3": "",
@@ -51,10 +41,28 @@
     },
     {
         "category": "Current Events",
-        "question": "Marine Le Pen was recently convicted of embezzlement in this nation where she was leading in presidential polls. This European country, known for its haute cuisine and its rich artistic heritage, is home to the Louvre Museum, one of the world's largest and most visited art museums. Its capital city, Paris, is renowned for its iconic Eiffel Tower and its romantic atmosphere. It is also famous for its fashion industry and its influence on global trends. What is the name of this country, where the French language is spoken?",
-        "answers": [
-            "France"
-        ],
+        "question": "This official had a heated discussion with President Donald Trump in the Oval Office which led to him leaving without signing a propose deal mineral deal in exchange for defense. This political figure, a former actor and comedian, gained international prominence for his leadership of Ukraine during the Russian invasion that began in 2022. He was elected President of Ukraine in 2019, winning by a landslide. Who is this president, whose defiance and resolve have made him a symbol of resistance?",
+        "answers": ["Volodymyr Zelenskyy", "Zelensky"],
+        "incorrect1": "",
+        "incorrect2": "",
+        "incorrect3": "",
+        "used": "TRUE",
+        "source": "Marty Heavey"
+    },
+    {
+        "category": "Current Events",
+        "question": "This ceremony occurred on March 2, 2025 in Los Angeles, California. These awards, presented annually by the Academy of Motion Picture Arts and Sciences (AMPAS), are considered the most prestigious awards in the film industry, recognizing excellence in cinematic achievements. The ceremony is known for its iconic golden statuette, often referred to as \"Oscar.\" The first ceremony was held in 1929 at the Hollywood Roosevelt Hotel, and it has since become a global event, broadcast live in over 200 countries. What is the name of these awards, with categories including Best Picture, Best Director, and Best Actor/Actress?",
+        "answers": ["Academy Awards", "Oscars"],
+        "incorrect1": "",
+        "incorrect2": "",
+        "incorrect3": "",
+        "used": "TRUE",
+        "source": "Marty Heavey"
+    },
+    {
+        "category": "Current Events",
+        "question": "Wildfires broke out in this US state leading Governor Henry McMaster to declare a state of emergency. This U.S. state, known for its beautiful coastline and historic cities, is home to Fort Sumter, where the first shots of the American Civil War were fired. Its city of Charleston is famous for its colorful Rainbow Row, a series of historic houses painted in pastel hues. It is also a major producer of peaches, earning it the nickname \"The Peach State,\" though the official nickname is \"The Palmetto State.\" What is this state, one of the original thirteen colonies, located in the southeastern United States?",
+        "answers": ["South Carolina"],
         "incorrect1": "",
         "incorrect2": "",
         "incorrect3": "",

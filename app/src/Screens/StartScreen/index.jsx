@@ -13,17 +13,16 @@ import {
     GameModes,
     GAME_MODE_STORAGE_KEY,
     FIRST_GAME_DATE,
-    SEEN_ANNOUNCEMENT_STORAGE_KEY,
+    LAST_GAME_DATE,
+    SEEN_ANNOUNCEMENT_2_STORAGE_KEY,
 } from "../../constants";
 import "./style.css";
 import AnnouncementScreen from "../AnnouncementScreen";
 
 const StartScreen = ({
     setScreenShowing,
-    today,
     hasFinishedTodaysGame,
     hasStartedTodaysGame,
-    timeUntilNextGame,
     gameMode,
     setGameMode,
     isFetchingQuestions,
@@ -40,10 +39,6 @@ const StartScreen = ({
         () => setCategoryScores(calculateCategoryScores()),
         [calculateCategoryScores]
     );
-
-    function formatTimeComponent(timeComponent) {
-        return timeComponent < 10 ? `0${timeComponent}` : timeComponent;
-    }
 
     const changeGameMode = () => {
         const newGameMode = isMultipleChoiceMode(gameMode)
@@ -62,12 +57,18 @@ const StartScreen = ({
     };
 
     const hasSeenAnnouncement = () => {
-        return !!localStorage.getItem(SEEN_ANNOUNCEMENT_STORAGE_KEY);
+        return !!localStorage.getItem(SEEN_ANNOUNCEMENT_2_STORAGE_KEY);
     };
 
     useEffect(() => {
         if (doesNotHaveGameResultsStored()) {
             setShowSettingsModal(true);
+        }
+    }, []);
+
+    useEffect(() => {
+        if (!hasSeenAnnouncement()) {
+            setShowAnnouncementModel(true);
         }
     }, []);
 
@@ -95,7 +96,8 @@ const StartScreen = ({
                 />
             )}
             <div className="Header">
-                <div>Rapid Daily Trivia Quiz</div>{" "}
+                <div>Rapid Daily Trivia Quiz</div>
+                <div className="Archive">Archive</div>
                 <DatePicker
                     selected={selectedDate}
                     onChange={(date) => {
@@ -103,7 +105,7 @@ const StartScreen = ({
                             setSelectedDate(date);
                         }
                     }}
-                    maxDate={today}
+                    maxDate={LAST_GAME_DATE}
                     minDate={FIRST_GAME_DATE}
                     highlightDates={datesAlreadyPlayed}
                     dayClassName={(date) => {
@@ -129,16 +131,10 @@ const StartScreen = ({
             )}
             {hasFinishedTodaysGame ? (
                 <div className="AlreadyPlayed">
-                    <div className="ComeBack">Come back for a new Quiz in </div>
-                    <div className="CountdownUntilNextDay">
-                        {formatTimeComponent(timeUntilNextGame.hours)}:
-                        {formatTimeComponent(timeUntilNextGame.minutes)}:
-                        {formatTimeComponent(timeUntilNextGame.seconds)}
-                    </div>
                     <div className="ComeBack">
                         <b>
-                            or play quizzes from the archive by changing the
-                            date above!
+                            Check out another quiz from the archive by changing
+                            the date above!
                         </b>
                     </div>
                     <div className="Buttons">

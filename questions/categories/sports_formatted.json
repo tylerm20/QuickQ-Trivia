@@ -1,11 +1,8 @@
 [
     {
         "category": "Sports",
-        "question": "This team won the 2025 Ligue 1 title. This French football club, plays its home games at the Parc des Princes. The club is owned by a company controlled by the Emir of Qatar. The club is known for attracting high-profile players like Neymar, Kylian Mbapp\u00e9, and Lionel Messi. What is the name of this club, based in the capital of France?",
-        "answers": [
-            "Paris Saint-Germain",
-            "PSG"
-        ],
+        "question": "This basketball legend recently announced her retirement. This player, known for her clutch performances and her fiery competitiveness, is the WNBA's all-time leading scorer, showcasing her longevity and scoring prowess. She has won three WNBA championships with the Phoenix Mercury and a record six Olympic gold medals with the U.S. national team. She played college basketball at the University of Connecticut, where she won three national championships under legendary coach Geno Auriemma. Who is this basketball legend, often considered one of the greatest female basketball players of all time?",
+        "answers": ["Diana Taurasi"],
         "incorrect1": "",
         "incorrect2": "",
         "incorrect3": "",
@@ -14,11 +11,8 @@
     },
     {
         "category": "Sports",
-        "question": "This hockey player recently set the all time NHL scoring record, passing Wayne Gretsky. This hockey player, known for his powerful shot and his exuberant goal celebrations, generally plays as a left-winger. He has spent his entire NHL career with the Washington Capitals, leading them to their first Stanley Cup championship in 2018. His signature move, a one-timer from the left faceoff circle, has become a feared weapon in the league. Who is this Russian-born forward, nicknamed \"The Great Eight\"?",
-        "answers": [
-            "Alexander Ovechkin",
-            "Alex Ovechkin"
-        ],
+        "question": "This sport's highest governing body, the FIVB, organizes major international competitions, including the Olympic Games and the World Championships. The sport was invented in 1895 by William G. Morgan, a YMCA physical education director, who originally called it \"Mintonette.\" The libero player, a defensive specialist introduced in 1998, wears a contrasting jersey color to easily identify them on the court. What is the name of this team sport played by two teams of six players on a court divided by a net?",
+        "answers": ["Volleyball"],
         "incorrect1": "",
         "incorrect2": "",
         "incorrect3": "",
@@ -27,11 +21,8 @@
     },
     {
         "category": "Sports",
-        "question": "A player from this university's college basketball team won the AP and Naismith player of the year awards. This university's men's basketball program, led by legendary coach Mike Krzyzewski (\"Coach K\") for over four decades, has produced numerous NBA stars, including Grant Hill, Christian Laettner, and Kyrie Irving. They have won five NCAA championships, solidifying their place as one of the most successful programs in college basketball history. Name this team that was led by Cooper Flagg in 2025.",
-        "answers": [
-            "Duke University",
-            "Duke"
-        ],
+        "question": "This sport features a variety of disciplines, including artistic, rhythmic, and trampoline variations, each requiring a unique blend of strength, flexibility, and coordination. The perfect score in artistic gymnastics was traditionally a 10.0, but the scoring system has evolved to emphasize difficulty and execution. The Olympic Games have been a major showcase for this sport, with legendary gymnasts like Nadia Com\u0103neci and Simone Biles captivating audiences with their incredible feats. What is the name of this sport, which involves performing sequences of movements on apparatus or the floor?",
+        "answers": ["Gymnastics"],
         "incorrect1": "",
         "incorrect2": "",
         "incorrect3": "",
@@ -40,11 +31,8 @@
     },
     {
         "category": "Sports",
-        "question": "This university's women's basketball team recently won their record 12th national championship. This university's women's basketball program is led by coach Geno Auriemma. They hold the record for the longest winning streak in NCAA history, with 111 consecutive victories. Their alums have gone on to become some of the biggest stars in the WNBA, including Diana Taurasi, Sue Bird, and Maya Moore. What is the name of this university, whose women's basketball team is often considered the most dominant dynasty in the history of the sport?",
-        "answers": [
-            "UConn",
-            "University of Connectcut"
-        ],
+        "question": "This racquet sport, played with a shuttlecock, which is a high-drag projectile, requires players to hit the shuttlecock over a net and land it within the boundaries of their opponent's court. The shuttlecock's feathers create significant air resistance, making it decelerate rapidly, which distinguishes it from other racquet sports. The sport is governed internationally by the BWF. What is the name of this sport, which originated in ancient Greece and Egypt, but gained popularity in its current form in England in the 19th century?",
+        "answers": ["Badminton"],
         "incorrect1": "",
         "incorrect2": "",
         "incorrect3": "",
@@ -53,12 +41,28 @@
     },
     {
         "category": "Sports",
-        "question": "This university's men's basketball team recently won the NCAA title. They achieved back-to-back NCAA championships in 2006 and 2007, a feat accomplished by only a few teams in NCAA history. They are known for their \"Gator Chomp\" hand gesture, a symbol of school spirit and pride. They have produced NBA stars such as Joakim Noah, Al Horford, and Bradley Beal. What is the name of this university, whose men's basketball team has experienced significant success in the 21st century?",
-        "answers": [
-            "University of Florida",
-            "Florida",
-            "UF"
-        ],
+        "question": "This sport's perfect game, achieved by throwing twelve consecutive strikes, results in a score of 300. The pins, arranged in a triangular formation, are knocked down by a ball with finger holes, allowing for a variety of throwing styles. The sport has its roots in ancient Egypt, with evidence of a similar game dating back to 3200 BC, but the modern version evolved in Germany. What is the name of this sport, played indoors on a long, narrow lane?",
+        "answers": ["Bowling"],
+        "incorrect1": "",
+        "incorrect2": "",
+        "incorrect3": "",
+        "used": "TRUE",
+        "source": "Marty Heavey"
+    },
+    {
+        "category": "Sports",
+        "question": "This event's Main Event, the No-Limit Texas Hold'em World Championship, is the most prestigious tournament in poker, attracting thousands of players from around the world. The winner of the Main Event receives a multimillion-dollar prize and the coveted bracelet, a symbol of poker excellence. The event originated in 1970 at Binion's Horseshoe Casino in Las Vegas, Nevada, and has since grown into a global phenomenon. What is the name of this series of poker tournaments, held annually in Las Vegas?",
+        "answers": ["World Series of Poker", "WSOP"],
+        "incorrect1": "",
+        "incorrect2": "",
+        "incorrect3": "",
+        "used": "TRUE",
+        "source": "Marty Heavey"
+    },
+    {
+        "category": "Sports",
+        "question": "This sport, considered one of the oldest field games in the world, is often described as a cross between lacrosse, hockey, and baseball. Players use a stick called a hurley (or cam\u00e1n) to hit a small ball called a sliotar, with the aim of scoring by driving the sliotar between the opponent's goalposts. A goal, worth 3 points, is scored by hitting the sliotar under the crossbar into a net guarded by a goalkeeper. What is the name of this fast-paced and physical team sport, a national game of Ireland?",
+        "answers": ["Hurling"],
         "incorrect1": "",
         "incorrect2": "",
         "incorrect3": "",
