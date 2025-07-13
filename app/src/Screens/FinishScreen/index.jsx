@@ -144,9 +144,9 @@ const FinishScreen = ({
                     ? "You ran out of time"
                     : "You answered all of today's questions"}
             </h3>
-            {/* {isMultipleChoiceMode(gameMode) && (
+            {isMultipleChoiceMode(gameMode) && (
                 <h3 className="MultipleChoiceMode">Multiple Choice Mode</h3>
-            )} */}
+            )}
             <h3>
                 Score: <span className="FinalScore">{finalScore}</span>
             </h3>

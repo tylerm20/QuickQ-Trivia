@@ -153,7 +153,35 @@ const StartScreen = ({
                 </div>
             ) : (
                 <div>
-                    {!hasStartedTodaysGame}
+                    {!hasStartedTodaysGame && (
+                        <div className="GameMode">
+                            <div className="GameModeTitle">Game Mode:</div>
+                            <div className="ModeSelector">
+                                <span
+                                    className={
+                                        isMultipleChoiceMode(gameMode)
+                                            ? ""
+                                            : "Bold"
+                                    }
+                                >
+                                    Free Response
+                                </span>
+                                <Switch
+                                    isEnabled={isMultipleChoiceMode(gameMode)}
+                                    onIsEnabledChanged={(e) => changeGameMode()}
+                                />
+                                <span
+                                    className={
+                                        isMultipleChoiceMode(gameMode)
+                                            ? "Bold"
+                                            : ""
+                                    }
+                                >
+                                    Multiple Choice
+                                </span>
+                            </div>
+                        </div>
+                    )}
                     <div className="Buttons">
                         <BasicButton
                             className="OtherButton"

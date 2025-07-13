@@ -16,6 +16,7 @@ import { isMultipleChoiceMode, shuffleArray } from "../../utils";
 import "./style.css";
 import CountdownBar from "../../Components/CountdownBar";
 
+// TODO: start saving game mode in results
 let playerResults = {};
 let questionResults = [];
 

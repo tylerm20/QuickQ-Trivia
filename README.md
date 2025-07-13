@@ -1,6 +1,6 @@
 # QuickQ - Daily Trivia Quiz
 
-QuickQ is a 90-second daily trivia challenge where questions appear one character at a time. Buzz in when you know the answer, but you only have 15 seconds to respond! Test your knowledge across eight categories: Current Events, World History, Sports, US History, Entertainment, Geography, Science, and Arts & Literature. Track your daily streak.
+QuickQ is a 90-second daily trivia challenge where questions appear one character at a time. Buzz in when you know the answer, but you only have 15 seconds to respond! Test your knowledge across eight categories: Current Events, World History, Sports, US History, Entertainment, Geography, Science, and Arts & Literature. Play in Multiple Choice or Free Response mode and track your daily streak.
 
 It is currently hosted at [QuickQTrivia.com](https://quickqtrivia.com).
 
@@ -20,7 +20,7 @@ To reduce hosting costs and simplify deployment, the hosted version of the proje
 -   Character-by-character question reveal.
 -   "Buzz" and "Skip" functionality.
 -   15-second answer submission window.
--   Free Response mode
+-   Multiple Choice and Free Response modes.
 -   Daily quiz with 8 quiz-bowl-style questions.
 -   Streak tracking.
 -   Local browser storage for statistics.
