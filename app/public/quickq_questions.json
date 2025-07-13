@@ -30317,9 +30317,21 @@
     ],
     [
         {
+            "category": "Tennis",
+            "question": "At age 20, this tennis player, partly of Haitian ancestry, beat Serena Williams in the 2018 U.S. Open. As of 2020, she is the highest paid female athlete in the world. She is the first Japanese-born tennis player to ever win a Grand Slam.",
+            "answers": ["Naomi Osaka"],
+            "source": "NAQT You Gotta Know"
+        },
+        {
             "category": "Geography",
             "question": "This country, located on the Adriatic and Ionian Seas, gained independence from the Ottoman Empire in 1912. Upon which, this country adopted the national flag they use today, which consists of a red background and a black double-headed eagle. Name this country whose capital is Tirana.",
             "answers": ["Albania"]
+        },
+        {
+            "category": "Tennis",
+            "question": "This Grand Slam tennis tournament has the largest attendance of the four. It was played by Bjorn Borg only once, as he preferred to sit out during the winter. Margaret Smith Court has the record for the most singles wins at this tournament, with 11. Name this major, which is the only of the four Grand Slam events to take place in the Southern Hemisphere.",
+            "answers": ["Australian Open"],
+            "source": "NAQT You Gotta Know"
         },
         {
             "category": "Literature",
@@ -30328,10 +30340,28 @@
             "answers": ["The Illiad", "Illiad"]
         },
         {
+            "category": "Tennis",
+            "question": "From 1993 to 2000, this tennis player's only loss at Wimbledon was in 1996 to unranked player Mark Philippoussis. At the age of 19, this tennis player became the youngest man to ever win the U.S. Open, which he did in 1990.",
+            "answers": ["Pete Sampras", "Peter Sampras", "Pistol Pete"],
+            "source": "NAQT You Gotta Know"
+        },
+        {
             "category": "Sports",
             "source": "Wikipedia",
             "question": "This state capital is schedule to be home to the A's from 2025-2027 during the team's transition from Oakland to Las Vegas. This state capital is home to the NBA team the Kings. Name this capital of California.",
             "answers": ["Sacramento"]
+        },
+        {
+            "category": "Tennis",
+            "question": "From 1993 to 2000, this tennis player's only loss at Wimbledon was in 1996 to unranked player Mark Philippoussis. At the age of 19, this tennis player became the youngest man to ever win the U.S. Open, which he did in 1990.",
+            "answers": ["Pete Sampras", "Peter Sampras", "Pistol Pete"],
+            "source": "NAQT You Gotta Know"
+        },
+        {
+            "category": "Tennis",
+            "question": "This is the country where Martina Navratilova was born.",
+            "answers": ["Czech Republic"],
+            "source": "NAQT You Gotta Know"
         }
     ]
 ]
