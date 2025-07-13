@@ -153,7 +153,7 @@ const StartScreen = ({
                 </div>
             ) : (
                 <div>
-                    {/* {!hasStartedTodaysGame && (
+                    {!hasStartedTodaysGame && (
                         <div className="GameMode">
                             <div className="GameModeTitle">Game Mode:</div>
                             <div className="ModeSelector">
@@ -181,7 +181,7 @@ const StartScreen = ({
                                 </span>
                             </div>
                         </div>
-                    )} */}
+                    )}
                     <div className="Buttons">
                         <BasicButton
                             className="OtherButton"

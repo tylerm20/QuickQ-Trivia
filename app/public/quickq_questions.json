@@ -76,6 +76,7 @@
     ],
     [
         {
+<<<<<<< HEAD
             "category": "Tennis",
             "question": "At age 20, this tennis player, partly of Haitian ancestry, beat Serena Williams in the 2018 U.S. Open. As of 2020, she is the highest paid female athlete in the world. She is the first Japanese-born tennis player to ever win a Grand Slam.",
             "answers": ["Naomi Osaka", "Osaka"],
@@ -110,6 +111,90 @@
             "question": "In 1984, this player went 82-3. He was an adept singles and doubles player, winning 77 titles, often with Peter Fleming. At age 17, he made it to the semifinals of Wimbledon. Years later, he started a 3-year win streak of the U.S. Open, establishing him as a dominant player of the early 1980s. Name this player known for yelling at the referees and unsportsmanlike conduct.",
             "answers": ["John McEnroe", "McEnroe"],
             "source": "NAQT You Gotta Know These Tennis Players"
+=======
+            "category": "Science",
+            "source": "2011 Collaborative Middle School Tournament #2",
+            "question": "This man found that nothing would grow in nutrient broth unless it was exposed to the air, thereby rejecting the theory of spontaneous generation and providing evidence for germ theory. He generalized Edward Jenner's work with smallpox immunity to develop vaccines for anthrax and rabies. Name this French scientist who engineered a namesake process to destroy microorganisms in milk and other food products.",
+            "answers": ["Louis Pasteur", "pasteurization"],
+            "incorrect1": "Marie Curie",
+            "incorrect2": "Albert Einstein",
+            "incorrect3": "Isaac Newton",
+            "used": "TRUE"
+        },
+        {
+            "category": "US History",
+            "source": "2017 HIGS",
+            "question": "The first bill passed by this president was the Lilly Ledbetter Fair Pay Act, and Shepard Fairey designed his \"Hope\" poster. This man, who appointed Elena Kagan and Sonia Sotomayor to the Supreme Court, passed the Affordable Care Act, and ran with the slogan \"Yes We Can\" to defeat John McCain in the 2008 presidential election. Name this first African-American president of the United States.",
+            "answers": ["Barack Obama", "Barack Hussein Obama II"],
+            "incorrect1": "Bill Clinton",
+            "incorrect2": "George W. Bush",
+            "incorrect3": "Donald Trump",
+            "used": "TRUE"
+        },
+        {
+            "category": "Current Events",
+            "question": "Marine Le Pen was recently convicted of embezzlement in this nation where she was leading in presidential polls. This European country, known for its haute cuisine and its rich artistic heritage, is home to the Louvre Museum, one of the world's largest and most visited art museums. Its capital city, Paris, is renowned for its iconic Eiffel Tower and its romantic atmosphere. It is also famous for its fashion industry and its influence on global trends. What is the name of this country, where the French language is spoken?",
+            "answers": ["France"],
+            "incorrect1": "Germany",
+            "incorrect2": "Italy",
+            "incorrect3": "Spain",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "World History",
+            "source": "2009 Fall Kickoff Tournament (FKT)",
+            "question": "This leader signed a peace treaty with Khosrau I in 532 to end his empire's Iberian War with the Sassanid Empire. The partisans of the chariot racing factions in his capital rose up against him in the Nika riots, and he appointed Tribonian to review and draft new laws. He waged wars against the Visigoths and the Vandals and gained Italy and parts of North Africa, with much thanks to the ability of his general, Belisarius. Rebuilding the Hagia Sophia and rewriting Roman laws identify this 483 to 565 ruler of the Byzantine Empire.",
+            "answers": [
+                "Justinian I",
+                "Justinian the Great",
+                "Flavius Petrus Sabbatius Iustinianus"
+            ],
+            "incorrect1": "Constantine I",
+            "incorrect2": "Charlemagne",
+            "incorrect3": "Julius Caesar",
+            "used": "TRUE"
+        },
+        {
+            "category": "Sports",
+            "question": "This university's men's basketball team recently won the NCAA title. They achieved back-to-back NCAA championships in 2006 and 2007, a feat accomplished by only a few teams in NCAA history. They are known for their \"Gator Chomp\" hand gesture, a symbol of school spirit and pride. They have produced NBA stars such as Joakim Noah, Al Horford, and Bradley Beal. What is the name of this university, whose men's basketball team has experienced significant success in the 21st century?",
+            "answers": ["University of Florida", "Florida", "UF"],
+            "incorrect1": "Florida State University",
+            "incorrect2": "University of Miami",
+            "incorrect3": "University of Central Florida",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Entertainment",
+            "question": "This show's creator, Stephen Hillenburg, was a marine science educator who drew inspiration from the ocean and its creatures. The animated series, set in the underwater city of Bikini Bottom, features a protagonist who works as a fry cook at the Krusty Krab restaurant. The show's main characters include a starfish named Patrick, a squid named Squidward, and a tiny plankton named Plankton who constantly tries to steal the Krusty Krab's secret formula. What is the name of this popular Nickelodeon series?",
+            "answers": ["SpongeBob SquarePants", "Spongebob"],
+            "incorrect1": "The Simpsons",
+            "incorrect2": "Family Guy",
+            "incorrect3": "Adventure Time",
+            "used": "TRUE",
+            "source": "Marty Heavey"
+        },
+        {
+            "category": "Arts & Literature",
+            "source": "2020 SCOP MS 10",
+            "question": "This novel satirizes minor religious arguments with Big- and Little-Endians, who disagree over how to break a boiled egg. This novel's protagonist visits Laputa, Luggnag, and Japan, and meets six-inch-tall humans who inhabit Liliput. The title doctor is sold to the giant queen of Brobdingnag in what satirical novel by Jonathan Swift?",
+            "answers": ["Gulliver's Travels"],
+            "incorrect1": "Robinson Crusoe",
+            "incorrect2": "Treasure Island",
+            "incorrect3": "Moby-Dick",
+            "used": "TRUE"
+        },
+        {
+            "category": "Geography",
+            "source": "2018 SCOP Novice 9",
+            "question": "This river empties into the Atlantic Ocean from Banana after traveling in a counterclockwise arc. A series of 32 cataracts, including Inga Falls, makes much of this river unnavigable. The Lualaba and Chambeshi Rivers are two major tributaries of this second-longest river on its continent. The capital cities of Brazzaville and Kinshasa are on what African river that shares its name with both those cities' home countries, a Republic and a Democratic Republic?",
+            "answers": ["Congo River"],
+            "incorrect1": "Nile River",
+            "incorrect2": "Amazon River",
+            "incorrect3": "Mississippi River",
+            "used": "TRUE"
+>>>>>>> parent of cdf830e (Added tests for question json, commented multiple choice version)
         }
     ]
 ]

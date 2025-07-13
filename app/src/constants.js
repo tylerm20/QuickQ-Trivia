@@ -74,8 +74,14 @@ export const GameModes = {
     MULTIPLE_CHOICE: "multiple_choice",
 };
 
+<<<<<<< HEAD
 export const FIRST_GAME_DATE = new Date(2024, 4, 14); // (year,month,day)
 export const LAST_GAME_DATE = new Date(2025, 4, 13);
 export const LAST_QUESTIONS_INDEX = 364;
+=======
+export const FIRST_GAME_DATE = new Date(2024, 3, 14); // April 14, 2024
+export const LAST_GAME_DATE = new Date(2025, 3, 12); // April 12, 2025
+export const LAST_QUESTIONS_INDEX = 363;
+>>>>>>> parent of cdf830e (Added tests for question json, commented multiple choice version)
 
 export default screens;
