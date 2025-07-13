@@ -30232,28 +30232,26 @@
     [
         {
             "category": "Science",
-            "source": "2011 Collaborative Middle School Tournament #2",
-            "question": "This man found that nothing would grow in nutrient broth unless it was exposed to the air, thereby rejecting the theory of spontaneous generation and providing evidence for germ theory. He generalized Edward Jenner's work with smallpox immunity to develop vaccines for anthrax and rabies. Name this French scientist who engineered a namesake process to destroy microorganisms in milk and other food products.",
-            "answers": ["Louis Pasteur", "pasteurization"],
+            "question": "This is the powerhouse of the cell.",
+            "answers": ["mitochondria"],
             "incorrect1": "Marie Curie",
             "incorrect2": "Albert Einstein",
             "incorrect3": "Isaac Newton",
             "used": "TRUE"
         },
         {
-            "category": "US History",
-            "source": "2017 HIGS",
-            "question": "The first bill passed by this president was the Lilly Ledbetter Fair Pay Act, and Shepard Fairey designed his \"Hope\" poster. This man, who appointed Elena Kagan and Sonia Sotomayor to the Supreme Court, passed the Affordable Care Act, and ran with the slogan \"Yes We Can\" to defeat John McCain in the 2008 presidential election. Name this first African-American president of the United States.",
-            "answers": ["Barack Obama", "Barack Hussein Obama II"],
+            "category": "World History",
+            "question": "This is a question with a different category name. Does it still work?",
+            "answers": ["Medici"],
             "incorrect1": "Bill Clinton",
             "incorrect2": "George W. Bush",
             "incorrect3": "Donald Trump",
             "used": "TRUE"
         },
         {
-            "category": "Current Events",
-            "question": "Marine Le Pen was recently convicted of embezzlement in this nation where she was leading in presidential polls. This European country, known for its haute cuisine and its rich artistic heritage, is home to the Louvre Museum, one of the world's largest and most visited art museums. Its capital city, Paris, is renowned for its iconic Eiffel Tower and its romantic atmosphere. It is also famous for its fashion industry and its influence on global trends. What is the name of this country, where the French language is spoken?",
-            "answers": ["France"],
+            "category": "Way back",
+            "question": "This is a totally different category name. Does it still work? Volcano.",
+            "answers": ["Pompeii"],
             "incorrect1": "Germany",
             "incorrect2": "Italy",
             "incorrect3": "Spain",
@@ -30313,6 +30311,49 @@
             "incorrect2": "Amazon River",
             "incorrect3": "Mississippi River",
             "used": "TRUE"
+        }
+    ],
+    [
+        {
+            "category": "Different number",
+            "question": "This is the powerhouse of the cell.",
+            "answers": ["mitochondria"],
+            "incorrect1": "Marie Curie",
+            "incorrect2": "Albert Einstein",
+            "incorrect3": "Isaac Newton",
+            "used": "TRUE"
+        },
+        {
+            "category": "Getting rid of one incorrect",
+            "question": "This is a question with a different category name. Does it still work?",
+            "answers": ["Medici"],
+            "incorrect1": "Bill Clinton",
+            "incorrect2": "George W. Bush"
+        },
+        {
+            "category": "Way back",
+            "question": "Getting rid of all incorrect",
+            "answers": ["Pompeii"]
+        },
+        {
+            "category": "World History",
+            "source": "Removing used",
+            "question": "This leader signed a peace treaty with Khosrau I in 532 to end his empire's Iberian War with the Sassanid Empire. The partisans of the chariot racing factions in his capital rose up against him in the Nika riots, and he appointed Tribonian to review and draft new laws. He waged wars against the Visigoths and the Vandals and gained Italy and parts of North Africa, with much thanks to the ability of his general, Belisarius. Rebuilding the Hagia Sophia and rewriting Roman laws identify this 483 to 565 ruler of the Byzantine Empire.",
+            "answers": [
+                "Justinian I",
+                "Justinian the Great",
+                "Flavius Petrus Sabbatius Iustinianus"
+            ]
+        },
+        {
+            "category": "Sports",
+            "question": "This university's men's basketball team recently won the NCAA title. They achieved back-to-back NCAA championships in 2006 and 2007, a feat accomplished by only a few teams in NCAA history. They are known for their \"Gator Chomp\" hand gesture, a symbol of school spirit and pride. They have produced NBA stars such as Joakim Noah, Al Horford, and Bradley Beal. What is the name of this university, whose men's basketball team has experienced significant success in the 21st century?",
+            "answers": ["University of Florida", "Florida", "UF"],
+            "incorrect1": "Florida State University",
+            "incorrect2": "University of Miami",
+            "incorrect3": "University of Central Florida",
+            "used": "TRUE",
+            "source": "Marty Heavey"
         }
     ]
 ]
