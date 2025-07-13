@@ -26,6 +26,12 @@
         },
         {
             "category": "Tennis",
+            "question": "She is part of a tennis power couple, where she and her husband combined have 30 majors single titles. This tennis player is the only one to win all 4 Grand Slams and the Olympic gold in one year, which she did in 1988. One of her particularly skilled shots is referred to as the 'Fraulein Forehand.' Name this German tennis player who turned pro at 13.",
+            "answers": ["Steffi Graf", "Graf"],
+            "source": "NAQT You Gotta Know These Tennis Players"
+        }
+        {
+            "category": "Tennis",
             "question": "In 1984, this player went 82-3. He was an adept singles and doubles player, winning 77 titles, often with Peter Fleming. At age 17, he made it to the semifinals of Wimbledon. Years later, he started a 3-year win streak of the U.S. Open, establishing him as a dominant player of the early 1980s. Name this player known for yelling at the referees and unsportsmanlike conduct.",
             "answers": ["John McEnroe", "McEnroe"],
             "source": "NAQT You Gotta Know These Tennis Players"
