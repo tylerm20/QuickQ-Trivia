@@ -49,10 +49,6 @@ const SettingsScreen = ({ showModal, setShowModal }) => {
                     have 15 seconds to submit it. You can also skip any question
                     by pressing the <b>"Skip"</b> button.
                     <p>
-                        Try <b>Multiple Choice</b> mode to get started or
-                        challenge yourself with <b>Free Response</b> mode!
-                    </p>
-                    <p>
                         Each quiz has one question from each of the{" "}
                         <b>8 categories</b>: Current Events 🗞️, World History
                         🏺, Sports 🏆, US History 🇺🇸, Entertainment 🎬,
