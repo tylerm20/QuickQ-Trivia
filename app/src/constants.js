@@ -37,28 +37,31 @@ export const CATEGORIES_NAME_AND_EMOJIS_LIST = [
     "Geography 🌏",
     "Science 🔬",
     "Arts & Literature 🎭",
+    "Tennis 🎾"
 ];
 
 export const CATEGORY_EMOJI_MAP = {
     "Current Events": "🗞️",
     "US History": "🇺🇸",
-    Sports: "🏆",
+    "Sports": "🏆",
     "World History": "🏺",
-    Science: "🔬",
-    Geography: "🌏",
+    "Science": "🔬",
+    "Geography": "🌏",
     "Arts & Literature": "🎭",
-    Entertainment: "🎬",
+    "Entertainment": "🎬",
+    "Tennis": "🎾"
 };
 
 export const CATEGORY_COLOR_MAP = {
     "Current Events": "#9D5603", // brown
     "US History": "#FF3131", // red
-    Sports: "#FF914D", // orange
+    "Sports": "#FF914D", // orange
     "World History": "#FFCC00", // yellow
-    Science: "#00BF63", // green
-    Geography: "#5271FF", // blue
+    "Science": "#00BF63", // green
+    "Geography": "#5271FF", // blue
     "Arts & Literature": "#8C52FF", // purple
-    Entertainment: "#FF66C4", // pink
+    "Entertainment": "#FF66C4", // pink
+    "Tennis": "#00BF63", // green
 };
 
 export const GAME_MODE_STORAGE_KEY = "game_mode";
@@ -72,7 +75,7 @@ export const GameModes = {
 };
 
 export const FIRST_GAME_DATE = new Date(2024, 3, 14); // April 14, 2024
-export const LAST_GAME_DATE = new Date(2025, 3, 13); // April 12, 2025
+export const LAST_GAME_DATE = new Date(2025, 3, 13); // April 13, 2025
 export const LAST_QUESTIONS_INDEX = 364;
 
 export default screens;
