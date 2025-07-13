@@ -2,36 +2,20 @@
     [
         {
             "category": "Tennis",
-            "question": "At the age of 19, this tennis player became the youngest man to ever win the U.S. Open, which he did in 1990. Three years later, he began a steak of winning Wimbledon seven out of the following eight times.",
+            "question": "At age 20, this tennis player, partly of Haitian ancestry, beat Serena Williams in the 2018 U.S. Open. As of 2020, she is the highest paid female athlete in the world. She is the first Japanese-born tennis player to ever win a Grand Slam.",
+            "answers": ["Naomi Osaka"],
+            "source": "NAQT You Gotta Know These Tennis Players"
+        },
+        {
+            "category": "Tennis",
+            "question": "From 1993 to 2000, this tennis player's only loss at Wimbledon was in 1996 to unranked player Mark Philippoussis. At the age of 19, this tennis player became the youngest man to ever win the U.S. Open, which he did in 1990.",
             "answers": ["Pete Sampras", "Peter Sampras", "Pistol Pete"],
             "source": "NAQT You Gotta Know These Tennis Players"
         },
         {
             "category": "Tennis",
-            "question": "As of 2020, she is the highest paid female athlete in the world. She is partly of Haitain descent.",
-            "answers": ["Naomi Osaka"],
-            "source": "NAQT You Gotta Know These Tennis Players"
-        },
-        {
-            "category": "Way back",
-            "question": "Getting rid of all incorrect",
-            "answers": ["Pompeii"],
-            "source": "NAQT You Gotta Know These Tennis Players"
-        },
-        {
-            "category": "World History",
-            "question": "This leader signed a peace treaty with Khosrau I in 532 to end his empire's Iberian War with the Sassanid Empire. The partisans of the chariot racing factions in his capital rose up against him in the Nika riots, and he appointed Tribonian to review and draft new laws. He waged wars against the Visigoths and the Vandals and gained Italy and parts of North Africa, with much thanks to the ability of his general, Belisarius. Rebuilding the Hagia Sophia and rewriting Roman laws identify this 483 to 565 ruler of the Byzantine Empire.",
-            "answers": [
-                "Justinian I",
-                "Justinian the Great",
-                "Flavius Petrus Sabbatius Iustinianus"
-            ],
-            "source": "NAQT You Gotta Know These Tennis Players"
-        },
-        {
-            "category": "Tennis",
-            "question": "What grand slam did Pete Sampras win 7 out of 8 times starting in 2002?",
-            "answers": ["Wimbledon"],
+            "question": "From 1993 to 2000, this tennis player's only loss at Wimbledon was in 1996 to unranked player Mark Philippoussis. At the age of 19, this tennis player became the youngest man to ever win the U.S. Open, which he did in 1990.",
+            "answers": ["Pete Sampras", "Peter Sampras", "Pistol Pete"],
             "source": "NAQT You Gotta Know These Tennis Players"
         }
     ]
