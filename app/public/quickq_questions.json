@@ -29,7 +29,82 @@
             "question": "She is part of a tennis power couple, where she and her husband combined have 30 majors single titles. This tennis player is the only one to win all 4 Grand Slams and the Olympic gold in one year, which she did in 1988. One of her particularly skilled shots is referred to as the 'Fraulein Forehand.' Name this German tennis player who turned pro at 13.",
             "answers": ["Steffi Graf", "Graf"],
             "source": "NAQT You Gotta Know These Tennis Players"
+        },
+        {
+            "category": "Tennis",
+            "question": "In 1984, this player went 82-3. He was an adept singles and doubles player, winning 77 titles, often with Peter Fleming. At age 17, he made it to the semifinals of Wimbledon. Years later, he started a 3-year win streak of the U.S. Open, establishing him as a dominant player of the early 1980s. Name this player known for yelling at the referees and unsportsmanlike conduct.",
+            "answers": ["John McEnroe", "McEnroe"],
+            "source": "NAQT You Gotta Know These Tennis Players"
         }
+    ],[
+        {
+            "category": "Tennis",
+            "question": "At age 20, this tennis player, partly of Haitian ancestry, beat Serena Williams in the 2018 U.S. Open. As of 2020, she is the highest paid female athlete in the world. She is the first Japanese-born tennis player to ever win a Grand Slam.",
+            "answers": ["Naomi Osaka", "Osaka"],
+            "source": "NAQT You Gotta Know These Tennis Players"
+        },
+        {
+            "category": "Tennis",
+            "question": "Of the Big Four male tennis players of the 21st century, he's the only left-handed one. He is one of only three male players to win each of the four Grand Slam tournaments and the Olympic gold medal. A skilled clay-court player, thirteen of his twenty major wins were at the French Open. Name this longtime rival of Roger Federer who was born on an island in Spain.",
+            "answers": ["Rafael Nadal","Nadal"],
+            "source": "NAQT You Gotta Know These Tennis Players"
+        },
+        {
+            "category": "Tennis",
+            "question": "Bjorn Borg competed in this tennis major only once, as he preferred sitting out during the winter. Margaret Smith Court won this major eleven times, the most of any player for this major. It is the major with the largest attendance. Up until 1987, it was played on grass courts, but now it uses hard courts. Name this major, the only Grand Slam event competed in the Southern Hemisphere.",
+            "answers": ["Australian Open","Australian"],
+            "source": "NAQT You Gotta Know These Tennis Players"
+        },
+        {
+            "category": "Tennis",
+            "question": "From 1993 to 2000, this tennis player's only loss at Wimbledon was in 1996 to unranked player Mark Philippoussis. At the age of 19, this tennis player became the youngest man to ever win the U.S. Open, which he did in 1990.",
+            "answers": ["Pete Sampras", "Peter Sampras", "Pistol Pete", "Sampras"],
+            "source": "NAQT You Gotta Know These Tennis Players"
+        },
+        {
+            "category": "Tennis",
+            "question": "She is part of a tennis power couple, where she and her husband combined have 30 majors single titles. This tennis player is the only one to win all 4 Grand Slams and the Olympic gold in one year, which she did in 1988. One of her particularly skilled shots is referred to as the 'Fraulein Forehand.' Name this German tennis player who turned pro at 13.",
+            "answers": ["Steffi Graf", "Graf"],
+            "source": "NAQT You Gotta Know These Tennis Players"
+        },
+        {
+            "category": "Tennis",
+            "question": "In 1984, this player went 82-3. He was an adept singles and doubles player, winning 77 titles, often with Peter Fleming. At age 17, he made it to the semifinals of Wimbledon. Years later, he started a 3-year win streak of the U.S. Open, establishing him as a dominant player of the early 1980s. Name this player known for yelling at the referees and unsportsmanlike conduct.",
+            "answers": ["John McEnroe", "McEnroe"],
+            "source": "NAQT You Gotta Know These Tennis Players"
+        }
+    ],
+    [
+        {
+            "category": "Tennis",
+            "question": "At age 20, this tennis player, partly of Haitian ancestry, beat Serena Williams in the 2018 U.S. Open. As of 2020, she is the highest paid female athlete in the world. She is the first Japanese-born tennis player to ever win a Grand Slam.",
+            "answers": ["Naomi Osaka", "Osaka"],
+            "source": "NAQT You Gotta Know These Tennis Players"
+        },
+        {
+            "category": "Tennis",
+            "question": "Of the Big Four male tennis players of the 21st century, he's the only left-handed one. He is one of only three male players to win each of the four Grand Slam tournaments and the Olympic gold medal. A skilled clay-court player, thirteen of his twenty major wins were at the French Open. Name this longtime rival of Roger Federer who was born on an island in Spain.",
+            "answers": ["Rafael Nadal","Nadal"],
+            "source": "NAQT You Gotta Know These Tennis Players"
+        },
+        {
+            "category": "Tennis",
+            "question": "Bjorn Borg competed in this tennis major only once, as he preferred sitting out during the winter. Margaret Smith Court won this major eleven times, the most of any player for this major. It is the major with the largest attendance. Up until 1987, it was played on grass courts, but now it uses hard courts. Name this major, the only Grand Slam event competed in the Southern Hemisphere.",
+            "answers": ["Australian Open","Australian"],
+            "source": "NAQT You Gotta Know These Tennis Players"
+        },
+        {
+            "category": "Tennis",
+            "question": "From 1993 to 2000, this tennis player's only loss at Wimbledon was in 1996 to unranked player Mark Philippoussis. At the age of 19, this tennis player became the youngest man to ever win the U.S. Open, which he did in 1990.",
+            "answers": ["Pete Sampras", "Peter Sampras", "Pistol Pete", "Sampras"],
+            "source": "NAQT You Gotta Know These Tennis Players"
+        },
+        {
+            "category": "Tennis",
+            "question": "She is part of a tennis power couple, where she and her husband combined have 30 majors single titles. This tennis player is the only one to win all 4 Grand Slams and the Olympic gold in one year, which she did in 1988. One of her particularly skilled shots is referred to as the 'Fraulein Forehand.' Name this German tennis player who turned pro at 13.",
+            "answers": ["Steffi Graf", "Graf"],
+            "source": "NAQT You Gotta Know These Tennis Players"
+        },
         {
             "category": "Tennis",
             "question": "In 1984, this player went 82-3. He was an adept singles and doubles player, winning 77 titles, often with Peter Fleming. At age 17, he made it to the semifinals of Wimbledon. Years later, he started a 3-year win streak of the U.S. Open, establishing him as a dominant player of the early 1980s. Name this player known for yelling at the referees and unsportsmanlike conduct.",
