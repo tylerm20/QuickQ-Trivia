@@ -30318,53 +30318,20 @@
     [
         {
             "category": "Geography",
-            "question": "This country gained independence from The Ottoman Empire in 1912. REd flag with a black double-headed eagle. Capital is Tirana.",
+            "question": "This country, located on the Adriatic and Ionian Seas, gained independence from the Ottoman Empire in 1912. Upon which, this country adopted the national flag they use today, which consists of a red background and a black double-headed eagle. Name this country whose capital is Tirana.",
             "answers": ["Albania"]
         },
         {
             "category": "Literature",
             "source": "Wikipedia",
-            "question": "This epic poem preceded the Odyssey.",
-            "answers": ["The Illiad"]
-        }
-    ],
-    [
-        {
-            "category": "Geography",
-            "question": "This country gained independence from The Ottoman Empire in 1912. REd flag with a black double-headed eagle. Capital is Tirana.",
-            "answers": ["Albania"]
+            "question": "This epic poem is estimated to have been written in the late 8th century but wasn't published in English until 1598. The story for this poem is set during the end of the Trojan War. Name this epic by Homer that preceded The Odyssey.",
+            "answers": ["The Illiad", "Illiad"]
         },
         {
-            "category": "Literature",
+            "category": "Sports",
             "source": "Wikipedia",
-            "question": "This epic poem preceded the Odyssey.",
-            "answers": ["The Illiad"]
-        }
-    ],
-    [
-        {
-            "category": "Geography",
-            "question": "This country gained independence from The Ottoman Empire in 1912. REd flag with a black double-headed eagle. Capital is Tirana.",
-            "answers": ["Albania"]
-        },
-        {
-            "category": "Literature",
-            "source": "Wikipedia",
-            "question": "This epic poem preceded the Odyssey.",
-            "answers": ["The Illiad"]
-        }
-    ],
-    [
-        {
-            "category": "Geography",
-            "question": "This country gained independence from The Ottoman Empire in 1912. REd flag with a black double-headed eagle. Capital is Tirana.",
-            "answers": ["Albania"]
-        },
-        {
-            "category": "Literature",
-            "source": "Wikipedia",
-            "question": "This epic poem preceded the Odyssey.",
-            "answers": ["The Illiad"]
+            "question": "This state capital is schedule to be home to the A's from 2025-2027 during the team's transition from Oakland to Las Vegas. This state capital is home to the NBA team the Kings. Name this capital of California.",
+            "answers": ["Sacramento"]
         }
     ]
 ]
