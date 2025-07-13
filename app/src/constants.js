@@ -74,8 +74,8 @@ export const GameModes = {
     MULTIPLE_CHOICE: "multiple_choice",
 };
 
-export const FIRST_GAME_DATE = new Date(2024, 3, 13); // April 14, 2025
-export const LAST_GAME_DATE = new Date(2025, 3, 13); // April 13, 2025
+export const FIRST_GAME_DATE = new Date(2025, 3, 13); // (year,month,day)
+export const LAST_GAME_DATE = new Date(2025, 3, 13);
 export const LAST_QUESTIONS_INDEX = 0;
 
 export default screens;
