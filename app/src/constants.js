@@ -49,19 +49,21 @@ export const CATEGORY_EMOJI_MAP = {
     "Geography": "🌏",
     "Arts & Literature": "🎭",
     "Entertainment": "🎬",
-    "Tennis": "🎾"
+    "Tennis": "🎾",
+    "Golf": "⛳️"
 };
 
 export const CATEGORY_COLOR_MAP = {
     "Current Events": "#9D5603", // brown
     "US History": "#FF3131", // red
-    "Sports": "#FF914D", // orange
+    "Sports": "#FF914D",
+    "Tennis": "#FF914D",
+    "Golf": "#FF914D",
     "World History": "#FFCC00", // yellow
     "Science": "#00BF63", // green
     "Geography": "#5271FF", // blue
     "Arts & Literature": "#8C52FF", // purple
     "Entertainment": "#FF66C4", // pink
-    "Tennis": "#00BF63", // green
 };
 
 export const GAME_MODE_STORAGE_KEY = "game_mode";

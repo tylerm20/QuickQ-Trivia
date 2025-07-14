@@ -64,8 +64,8 @@ const AnnouncementScreen = ({ showModal, setShowModal }) => {
                         QuickQ.
                     </p>
                     <p>
-                        <a href="mailto:QuickQTrivia@gmail.com">
-                            QuickQTrivia@gmail.com
+                        <a href="mailto:tmaxey20@gmail.com">
+                            tmaxey20@gmail.com
                         </a>
                     </p>
 

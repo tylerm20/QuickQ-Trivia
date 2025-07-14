@@ -32,29 +32,42 @@ export const getEmojiForCategory = (category) => {
     }
 };
 
+
 export const calculateCategoryScores = () => {
-    const categoryScores = {};
-    Object.keys(CATEGORY_EMOJI_MAP).forEach(
-        (category) => (categoryScores[category] = 0)
-    );
+    const categoryCounters = {};
+
+    // Initialize counters for all categories
+    Object.keys(CATEGORY_EMOJI_MAP).forEach((category) => {
+        categoryCounters[category] = { correct: 0, total: 0 };
+    });
+
+    // Read localStorage without modifying it
     Object.keys(localStorage).forEach((key) => {
-        const results = localStorage.getItem(key);
+        const value = localStorage.getItem(key);
         try {
-            const jsonResults = JSON.parse(results);
-            const questionResults = jsonResults.questionResults;
-            questionResults.forEach((questionResult) => {
-                if (
-                    CATEGORIES_SET.has(questionResult.category) &&
-                    questionResult.isCorrect
-                ) {
-                    categoryScores[questionResult.category]++;
+            const parsed = JSON.parse(value);
+            const questionResults = parsed.questionResults;
+
+            questionResults.forEach(({ category, isCorrect }) => {
+                if (CATEGORIES_SET.has(category)) {
+                    categoryCounters[category].total += 1;
+                    if (isCorrect) {
+                        categoryCounters[category].correct += 1;
+                    }
                 }
             });
         } catch (e) {
-            // continue
+            // Ignore non-JSON or malformed entries
         }
     });
-    return categoryScores;
+
+    // Calculate accuracy as a percentage
+    const accuracyByCategory = {};
+    Object.entries(categoryCounters).forEach(([category, { correct, total }]) => {
+        accuracyByCategory[category] = total === 0 ? 0 : Math.round((correct / total) * 100);
+    });
+
+    return accuracyByCategory;
 };
 
 export const shuffleArray = (array) => {

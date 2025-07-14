@@ -2,7 +2,7 @@
     [
         {
             "category": "Tennis",
-            "question": "At age 20, this tennis player, partly of Haitian ancestry, beat Serena Williams in the 2018 U.S. Open. As of 2020, she is the highest paid female athlete in the world. She is the first Japanese-born tennis player to ever win a Grand Slam.",
+            "question": "As of 2020, she was the highest paid female athlete in the world. At age 20, this tennis player, partly of Haitian ancestry, beat Serena Williams in the 2018 U.S. Open. Name this tennis player, who is the first Japanese-born player to ever win a Grand Slam.",
             "answers": ["Naomi Osaka"],
             "source": "NAQT You Gotta Know"
         },
@@ -38,7 +38,7 @@
         },
         {
             "category": "Sports",
-            "question": "This state capital is schedule to be home to the A's from 2025-2027 during the team's transition from Oakland to Las Vegas. This state capital is home to the NBA team the Kings. Name this capital of California.",
+            "question": "This state capital is scheduled to be home to the A's from 2025-2027 during the team's transition from Oakland to Las Vegas. This state capital is home to the NBA team the Kings. Name this capital of California.",
             "answers": ["Sacramento"],
             "source": "Tyler Maxey"
         },
