@@ -55,7 +55,7 @@ export const CategoriesChart = ({ categoryScores }) => {
             },
             title: {
                 display: true,
-                text: "Points by Category",
+                text: "Category Accuracy",
                 font: { size: 16 },
             },
         },
