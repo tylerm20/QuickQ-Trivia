@@ -15,59 +15,34 @@ export const NEXT_TRACK_EMOJI_HTML = <span>&#9197;&#65039;</span>;
 export const RED_X_EMOJI_HTML = <span>&#10060;</span>;
 export const CLOCK_EMOJI_HTML = <span>&#128337;</span>;
 
-export const CATEGORIES_NAME_LIST = [
-    "Current Events",
-    "US History",
-    "Sports",
-    "World History",
-    "Science",
-    "Geography",
-    "Arts & Literature",
-    "Entertainment",
-    "Tennis",
-    "Golf"
-];
+export const CATEGORIES_DICT = {
+    "Current Events": {"emoji": "🗞️", "color": "#9D5603"},
+    "US History": {"emoji": "🇺🇸", "color": "#FF3131"},
+    "Sports": {"emoji": "🏆", "color": "#FF914D"},
+    "World History": {"emoji": "🏺", "color": "#FFCC00"},
+    "Science": {"emoji": "🔬", "color": "#00BF63"},
+    "Geography": {"emoji": "🌏", "color": "#5271FF"},
+    "Arts & Literature": {"emoji": "🎭", "color": "#9D5603"},
+    "Entertainment": {"emoji": "🎬", "color": "#FF66C4"},
+    "Tennis": {"emoji": "🎾", "color": "#FF914D"},
+    "Golf": {"emoji": "⛳️", "color": "#FF914D"},
+}
+
+export const CATEGORIES_NAME_LIST = Object.keys(CATEGORIES_DICT);
+
+export const CATEGORY_EMOJI_MAP = Object.fromEntries(
+  Object.entries(CATEGORIES_DICT).map(([key, value]) => [key, value.emoji])
+);
+
+export const CATEGORY_COLOR_MAP = Object.fromEntries(
+  Object.entries(CATEGORIES_DICT).map(([key, value]) => [key, value.color])
+);
+
+export const CATEGORIES_NAME_AND_EMOJIS_LIST = Object.entries(CATEGORIES_DICT).map(
+  ([key, value]) => `${key} ${value.emoji}`
+);
 
 export const CATEGORIES_SET = new Set(CATEGORIES_NAME_LIST);
-
-export const CATEGORIES_NAME_AND_EMOJIS_LIST = [
-    "Current Events 🗞️",
-    "World History 🏺",
-    "Sports 🏆",
-    "US History 🇺🇸",
-    "Entertainment 🎬",
-    "Geography 🌏",
-    "Science 🔬",
-    "Arts & Literature 🎭",
-    "Tennis 🎾",
-    "Golf ⛳️"
-];
-
-export const CATEGORY_EMOJI_MAP = {
-    "Current Events": "🗞️",
-    "US History": "🇺🇸",
-    "Sports": "🏆",
-    "World History": "🏺",
-    "Science": "🔬",
-    "Geography": "🌏",
-    "Arts & Literature": "🎭",
-    "Entertainment": "🎬",
-    "Tennis": "🎾",
-    "Golf": "⛳️"
-};
-
-export const CATEGORY_COLOR_MAP = {
-    "Current Events": "#9D5603", // brown
-    "US History": "#FF3131", // red
-    "Sports": "#FF914D",
-    "Tennis": "#FF914D",
-    "Golf": "#FF914D",
-    "World History": "#FFCC00", // yellow
-    "Science": "#00BF63", // green
-    "Geography": "#5271FF", // blue
-    "Arts & Literature": "#8C52FF", // purple
-    "Entertainment": "#FF66C4", // pink
-};
 
 export const GAME_MODE_STORAGE_KEY = "game_mode";
 
