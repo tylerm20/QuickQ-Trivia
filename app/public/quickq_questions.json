@@ -32,7 +32,7 @@
         },
         {
             "category": "Tennis",
-            "question": "From 1993 to 2000, this tennis player's only loss at Wimbledon was in 1996 to unranked player Mark Philippoussis. At the age of 19, this tennis player became the youngest man to ever win the U.S. Open, which he did in 1990.",
+            "question": "From 1993 to 2000, this tennis player's only loss at Wimbledon was in 1996 to unranked player Mark Philippoussis. At the age of 19, this tennis player became the youngest man to ever win the U.S. Open, which he did in 1990. Name this tennis player with 'Pistol' in his nickname.",
             "answers": ["Pete Sampras", "Peter Sampras", "Pistol Pete"],
             "source": "NAQT You Gotta Know"
         },
@@ -44,7 +44,7 @@
         },
         {
             "category": "Tennis",
-            "question": "This is the country where Martina Navratilova was born. Name this country, whose capital is Prague.",
+            "question": "This is the country where Martina Navratilova was born. It's a landlocked country bordered by Germany, Poland, Slovakia, and Austria. Name this country, whose capital is Prague.",
             "answers": ["Czech Republic"],
             "source": "NAQT You Gotta Know"
         }
@@ -52,9 +52,51 @@
     [
         {
             "category": "Tennis",
-            "question": "From 1993 to 2000, this tennis player's only loss at Wimbledon was in 1996 to unranked player Mark Philippoussis. At the age of 19, this tennis player became the youngest man to ever win the U.S. Open, which he did in 1990.",
-            "answers": ["Pete Sampras", "Peter Sampras", "Pistol Pete"],
+            "question": "In 1970, this tennis player founded the Virginia Slims Tour. She was the first female athlete to earn $100,000 in one year. Name this tennis player known for advancing women athletics and beating Bobby Riggs in the 'Battle of the Sexes.'",
+            "answers": ["Billie Jean King", "King"],
             "source": "NAQT You Gotta Know"
+        },
+        {
+            "category": "Golf",
+            "question": "In 2015, this golfer won the Masters, maintaining the lead every single day, including on the first day where he shot 8 under par. He's won 3 of the 4 majors. Name this Dallas-born golder who was the youngest U.S. Open champion since Bobby Jones in 1923.",
+            "answers": ["Jordan Spieth", "Spieth"],
+            "source": "NAQT You Gotta Know"
+        },
+        {
+            "category": "Geography",
+            "question": "This city is the eighth-largest metropolitan area in the United States and has the densest urban tree coverage of any major city in the United States. In the board game Pandemic, players start in this city, which is the headquarters of the Centers for Disease Control. This city has two medical schools: Morehouse and Emory. Name this capital of Georgia.",
+            "answers": ["Atlanta"],
+            "source": "NAQT You Gotta Know"
+        },
+        {
+            "category": "Literature",
+            "question": "This diarist was born in 1929 and died at age 15, both in Germany. She and her sister, Margot, both likely died of typhus in the Bergen-Belsen concentration camp. Name this girl who gained worldwide fame posthumously for keeping a diary while she and her family hid in an Amsterdam attic from 1942 until their arrest in 1944.",
+            "answers": ["Anne Frank", "Frank"],
+            "source": "NAQT You Gotta Know"
+        },
+        {
+            "category": "Literature",
+            "question": "This diarist was born in 1929 and died at age 15, both in Germany. She and her sister, Margot, both likely died of typhus in the Bergen-Belsen concentration camp. Name this girl who gained worldwide fame posthumously for keeping a diary while she and her family hid in an Amsterdam attic from 1942 until their arrest in 1944.",
+            "answers": ["Anne Frank", "Frank"],
+            "source": "NAQT You Gotta Know"
+        },
+        {
+            "category": "Golf",
+            "question": "This creature in legend is a large type of ursus arctos. This animal can be used as a term to refer to both Collin Morikawa and Jack Nicklaus, though for completely unrelated reasons. Name this mascot of UC Berkeley.",
+            "answers": ["Golden bear"],
+            "source": "NAQT You Gotta Know"
+        },
+        {
+            "category": "Art",
+            "question": "This artist has several landmark monumental structures, including outside of the Centre Georges Pompidou in Paris, JFK airport, and Sears Tower. He was born and died in New York City but during his life studied and lived in France. Name this artist, known for his innovative mobiles in bright primary colors.",
+            "answers": ["Alexander Calder", "Calder"],
+            "source": "NAQT You Gotta Know"
+        },
+        {
+            "category": "History",
+            "question": "This country promised to curtail interference in its client states in the 'Sinatra Doctrine.' Congressman Larry McDonald died when this country mistook Korean Air Lines Flight 007 [“oh-oh-seven”] for a spy plane and shot it down. A general secretary of this country enacted policies of 'reconstruction' and 'openness' in the 1980s. Name this country that the nuclear meltdown at Chernobyl hastened the collapse of and was led by Mikhail Gorbachev.",
+            "answers": ["Soviet Union", "USSR"],
+            "source": "NAQT Sample Questions"
         }
     ]
 ]

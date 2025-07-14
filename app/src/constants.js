@@ -55,7 +55,7 @@ export const GameModes = {
 };
 
 export const FIRST_GAME_DATE = new Date(2025, 6, 14);
-export const LAST_GAME_DATE = new Date(2025, 6, 14);
+export const LAST_GAME_DATE = new Date(2025, 6, 15);
 //export const LAST_QUESTIONS_INDEX = 0;
 
 export default screens;
