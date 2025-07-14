@@ -16,7 +16,7 @@ To reduce hosting costs and simplify deployment, the hosted version of the proje
 
 ## Features
 
--   90-second timed trivia challenge.
+-   Timed trivia challenge.
 -   Character-by-character question reveal.
 -   "Buzz" and "Skip" functionality.
 -   15-second answer submission window.

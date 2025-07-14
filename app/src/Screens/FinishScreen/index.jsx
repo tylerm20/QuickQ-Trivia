@@ -110,7 +110,6 @@ const FinishScreen = ({
             `${selectedDate.toLocaleDateString()}`,
             `Score: ${finalScore}${isMultipleChoiceMode(gameMode) ? "*" : ""}`,
             `Time: ${finalTime}s`,
-            "Play at QuickQTrivia.com",
         ];
         if (isMultipleChoiceMode(gameMode)) {
             sharableResultsArr.splice(3, 0, "*Mode: 🔠");

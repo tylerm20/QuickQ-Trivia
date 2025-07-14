@@ -8,7 +8,7 @@ export const screens = {
 };
 
 export const BUZZ_SECONDS = 15;
-export const GAME_SECONDS = 90;
+export const GAME_SECONDS = 70;
 
 export const GREEN_CHECK_EMOJI_HTML = <span>&#9989;</span>;
 export const NEXT_TRACK_EMOJI_HTML = <span>&#9197;&#65039;</span>;
