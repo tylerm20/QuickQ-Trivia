@@ -24,6 +24,8 @@ export const CATEGORIES_NAME_LIST = [
     "Geography",
     "Arts & Literature",
     "Entertainment",
+    "Tennis",
+    "Golf"
 ];
 
 export const CATEGORIES_SET = new Set(CATEGORIES_NAME_LIST);
@@ -37,7 +39,8 @@ export const CATEGORIES_NAME_AND_EMOJIS_LIST = [
     "Geography 🌏",
     "Science 🔬",
     "Arts & Literature 🎭",
-    "Tennis 🎾"
+    "Tennis 🎾",
+    "Golf ⛳️"
 ];
 
 export const CATEGORY_EMOJI_MAP = {
@@ -75,7 +78,6 @@ export const GameModes = {
     FREE_RESPONSE: "free_response"//,
     // MULTIPLE_CHOICE: "multiple_choice",
 };
-
 
 export const FIRST_GAME_DATE = new Date(2025, 6, 14);
 export const LAST_GAME_DATE = new Date(2025, 6, 14);

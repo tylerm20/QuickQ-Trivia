@@ -40,39 +40,18 @@ const AnnouncementScreen = ({ showModal, setShowModal }) => {
                     onClick={handleClose}
                 />
                 <div>
-                    <h3>QuickQ Now in Archive Mode</h3>
-                    <h3>It's also been open sourced!</h3>
+                    <h3>QuickQ Trainer</h3>
                     <p>
-                        I've loved building and maintaining <b>QuickQ</b>, but I
-                        no longer have the time to give it the attention it
-                        deserves. So, I've decided to put it in archive mode.
-                        You can play any of the one year of daily quizzes in the
-                        archive.
+                        Thank you to Marty Heavey for making QuickQ open source, from which this game has been heavily borrowed from.
                     </p>
                     <p>
-                        If you want to help keep QuickQ alive, you can
-                        contribute to the project! The code is available on
-                        GitHub:{" "}
-                        <a href="https://github.com/mheavey18/QuickQ-Trivia">
-                            QuickQ-Trivia Github Repo
-                        </a>
-                        . Feel free to fork the project, make changes, and
-                        submit a pull request.
-                    </p>
-                    <p>
-                        You can send me an email if you have questions about the
-                        QuickQ.
+                        You can send me an email if you have questions.
                     </p>
                     <p>
                         <a href="mailto:tmaxey20@gmail.com">
                             tmaxey20@gmail.com
                         </a>
                     </p>
-
-                    <p>
-                        Thanks for playing and for being part of this community!
-                    </p>
-                    <p>- Marty</p>
                 </div>
                 <br />
                 <button className="CloseButton" onClick={handleClose}>
