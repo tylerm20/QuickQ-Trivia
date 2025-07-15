@@ -69,9 +69,9 @@
             "source": "NAQT You Gotta Know"
         },
         {
-            "category": "Literature",
-            "question": "This diarist was born in 1929 and died at age 15, both in Germany. She and her sister, Margot, both likely died of typhus in the Bergen-Belsen concentration camp. Name this girl who gained worldwide fame posthumously for keeping a diary while she and her family hid in an Amsterdam attic from 1942 until their arrest in 1944.",
-            "answers": ["Anne Frank", "Frank"],
+            "category": "Science",
+            "question": "This mathematician is credited for discovering the five regular solids. He also developed the system of musical tuning in which the frequency ratios of all intervals are determined by choosing a sequence of perfect fifths. Name this mathematician whose namesake theorem pertains to right triangles, specifically, that a^2 + b^2 = c^2.",
+            "answers": ["Pythagoras"],
             "source": "NAQT You Gotta Know"
         },
         {
